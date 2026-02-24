@@ -1,24 +1,26 @@
 # Charlie_Kirk_175_Critical_To_Expose
 
-My name is Bryan Starbuck. The following are what I think are critical parts of the Charlie Kirk investigation to be made public.
+My name is Bryan Starbuck. I think my life is at risk. Either to be setup to go to the grave early, or legally setup. I will not commit suicide. I also worry I will be taken-out, in the legal system.
 
-I think my life is at risk. Either to be setup to go to the grave early, or legally setup.
+I'm getting out the things that put me at Risk.
+- [Charlie Kirk: Investigation (Critical disclosures)](https://github.com/BryanStarbuck/Charlie_Kirk_Dangerous_Investigation)
+- [~175 Critical things in a "Charlie Kirk: LAW to force disclosure"](https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose)
 
 Below are ~175 Critical Things to get a LAW passed to get these files brought out of the government to document wrt Charlie Kirk's Death.
 
 I ask Thomas Massie, who created the Epstein Files Forced Disclosure law... to create a parallel law "Charlie Kirk FILES Forced Disclosure Law".
 
-I have been working on WHAT is critical for that law to require disclosure on.
+I have been working on WHAT is critical for that law to require disclosure on. Below is that list that should be covered in that law.
 
-Below is that list that should be covered in that law.
+Much is posted on my Twitter accounts:
+* [https://x.com/BryanStarbuck](https://x.com/BryanStarbuck)
+* [https://x.com/HolonCitizen](https://x.com/HolonCitizen)
 
-I will not commit suicide. I also worry I will be taken-out, in the legal system.
+More of my critical disclosures are here:
+* [https://www.youtube.com/@HolonCitizen](https://www.youtube.com/@HolonCitizen).
+* My slides are on [https://speakerdeck.com/bryanstarbuck](https://speakerdeck.com/bryanstarbuck)
 
-Follow these Twitter accounts: [https://x.com/BryanStarbuck](https://x.com/BryanStarbuck), [https://x.com/HolonCitizen](https://x.com/HolonCitizen)
 
-More of my critical disclosures are here: [https://www.youtube.com/@HolonCitizen](https://www.youtube.com/@HolonCitizen) My slides are on [https://speakerdeck.com/bryanstarbuck](https://speakerdeck.com/bryanstarbuck)
-
-- [Charlie Kirk: Investigation (Critical disclosures)](https://github.com/BryanStarbuck/Charlie_Kirk_Dangerous_Investigation)
 
 ---
 
