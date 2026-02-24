@@ -18,6 +18,7 @@ Follow these Twitter accounts: [https://x.com/BryanStarbuck](https://x.com/Bryan
 
 More of my critical disclosures are here: [https://www.youtube.com/@HolonCitizen](https://www.youtube.com/@HolonCitizen) My slides are on [https://speakerdeck.com/bryanstarbuck](https://speakerdeck.com/bryanstarbuck)
 
+- [Charlie Kirk: Investigation (Critical disclosures)](https://github.com/BryanStarbuck/Charlie_Kirk_Dangerous_Investigation)
 
 ---
 
