@@ -25,7 +25,8 @@ More of my critical disclosures are here:
 
 
 
-# LEGAL DISCOVERY LIST
+# LAW for CHARLIE KIRK FILE DISCLOSURE
+# List to Disclose
 ## State of Utah v. Tyler Alexander Robinson
 ## Case No. 251403576 | Fourth Judicial District Court, Utah County
 ## Judge Derek P. Pullan
