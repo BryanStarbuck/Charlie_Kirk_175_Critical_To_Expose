@@ -1,5 +1,5 @@
 {
-  "PERSON_1 (UNREDACTED)": "Candace Owens — restored to plaintext",
+  "PERSON_1 (UNREDACTED)": "Candace Owens \u2014 restored to plaintext",
   "PERSON_2_REDACTED": "Dan Flood",
   "PERSON_3_REDACTED": "Andrew Kolvet",
   "PERSON_4_REDACTED": "Frank Turek",
@@ -29,7 +29,6 @@
   "PERSON_28_REDACTED": "Steve Kozak",
   "PERSON_29_REDACTED": "Beau Mason",
   "PERSON_30_REDACTED": "Jeffrey S. Gray",
-  "PERSON_31_REDACTED": "George Hodgson Zinn",
   "PERSON_PRIME_MINISTER_32_REDACTED": "Emmanuel Macron",
   "PERSON_33_REDACTED": "Jaxson Thomas Fox",
   "PERSON_34_REDACTED": "Tony F. Graf Jr.",
@@ -153,9 +152,9 @@
   "PERSON_152_REDACTED": "Pierce Beck",
   "PERSON_153_REDACTED": "Brandon D. Fugal",
   "PERSON_154_REDACTED": "Alexandre Benalla",
-  "PERSON_155_REDACTED": "Bernard Émié",
+  "PERSON_155_REDACTED": "Bernard \u00c9mi\u00e9",
   "PERSON_156_REDACTED": "Patrick Strzoda",
-  "PERSON_157_REDACTED": "Laurent Nuñez",
+  "PERSON_157_REDACTED": "Laurent Nu\u00f1ez",
   "PERSON_158_REDACTED": "Rob Hild",
   "PERSON_159_REDACTED": "Brian Gill",
   "PERSON_160_REDACTED": "Steven Neilman",
@@ -176,5 +175,7 @@
   "PERSON_175_REDACTED": "Mario Nawfal",
   "PERSON_176_REDACTED": "Blake Bednarz",
   "PERSON_177_REDACTED": "@TJPHager",
-  "PERSON_178_REDACTED": "Jonathan Schmidt"
+  "PERSON_178_REDACTED": "Jonathan Schmidt",
+  "PERSON_179_REDACTED": "Russell Kennington",
+  "PERSON_184_REDACTED": "Ian Miles Cheong"
 }

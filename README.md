@@ -99,7 +99,7 @@ bring facts from the government possession into the court case and history books
 
 
 (Possible) Linkage #5: The "distraction people" not being charged exposes coordination. Multiple armed
-    individuals appeared at UVU that day - Russell Kennington with a gun, a pellet
+    individuals appeared at UVU that day - PERSON_179_REDACTED with a gun, a pellet
     gun man at Joe Vera's, and others. In any normal investigation, these people
     would be charged. The decision NOT to charge them, combined with blocked FOIAs
     about them, suggests they were assets serving a purpose. Discovery of payments
@@ -107,8 +107,8 @@ bring facts from the government possession into the court case and history books
 
 
 (Possible) Linkage #6: Fort Huachuca meetings September 1-11 could expose pre-planning at the highest
-    levels. Fort Huachuca is the Army's intelligence center. If Brian Harpole (Kirk's
-    security chief) or Erika Kirk attended meetings there days before the assassination,
+    levels. Fort Huachuca is the Army's intelligence center. If PERSON_10_REDACTED (Kirk's
+    security chief) or PERSON_7_REDACTED attended meetings there days before the assassination,
     it raises questions about foreknowledge. U.S. Air Force VIP transport jets (SAM
     callsign) flying between Andrews, Tucson, and Colorado Springs during this window
     could identify which officials were coordinating what.
@@ -170,7 +170,7 @@ The first section is on a possible exploding Mic theory
 * John Tune Airport is closest airport to AES facility (~60km)
 * Heber City population ~17,000; private flights to Nashville are rare
 * No return flight logged
-* Butch Hibbs (brother of pastor Jack Hibbs) resides in Heber City
+* PERSON_25_REDACTED (brother of pastor PERSON_26_REDACTED) resides in Heber City
 
 ### The Manufacturer - AES Capabilities
 * AES operated since 1980 (43 years without major incident)
@@ -181,10 +181,10 @@ The first section is on a possible exploding Mic theory
 
 ### The Event - September 10, 2025
 * Charlie Kirk killed at Utah Valley University
-* Butch Hibbs present with Kirk before event
-* Photos show square object (~2x2") in Hibbs's front right pocket matching Rode Wireless GO II mic dimensions
-* Hibbs photographed standing with sound crew and person who miked up Kirk
-* Post-killing photos show Hibbs's pocket empty
+* PERSON_25_REDACTED present with Kirk before event
+* Photos show square object (~2x2") in PERSON_25_REDACTED's front right pocket matching Rode Wireless GO II mic dimensions
+* PERSON_25_REDACTED photographed standing with sound crew and person who miked up Kirk
+* Post-killing photos show PERSON_25_REDACTED's pocket empty
 * Potential involvement of Israeli secret service or Mossad in orchestrating an inside hit, drawing parallels to 2024 pager bombs in Lebanon
 
 ### The Microphone Type
@@ -224,7 +224,7 @@ The first section is on a possible exploding Mic theory
 * Glass fragments and explosive traces reported on grass before paving
 
 ### Factory Destruction - October 10, 2025
-* October 3-8: Researcher Jon Bray publicly discussed exploding mic theory online
+* October 3-8: Researcher PERSON_58_REDACTED publicly discussed exploding mic theory online
 * October 10: AES factory exploded catastrophically
 * 16 people killed
 * Deadliest above-ground US industrial accident in 34 years
@@ -268,7 +268,7 @@ The first section is on a possible exploding Mic theory
 * Audio/video equipment inventory for UVU event
 * Sound crew personnel list and statements
 
-### From Butch Hibbs
+### From PERSON_25_REDACTED
 * Whereabouts on August 25, 2025
 * Connection to August 25 flight
 * Identity of object in his pocket at UVU event
@@ -311,7 +311,7 @@ The first section is on a possible exploding Mic theory
 ### From Video/Photo Evidence
 * All video footage showing moment of Kirk's death
 * Frame-by-frame analysis of shirt movement and pressure wave direction
-* All photos of Hibbs before and after event (pocket contents)
+* All photos of PERSON_25_REDACTED before and after event (pocket contents)
 * Photos of sound crew setup
 * Security camera footage from venue
 * Spectator video/photos not yet released
@@ -383,14 +383,14 @@ The investigation shows that an intelligence service is very highly likely invol
 #7: Have any forensic acoustic  the FBI or any law enforcement has entered into discovery.
 #8: Have any military drones flying? Any info the FBI or any law enforcement has entered into discovery.
 #9: Have any civilian drones flying? Any info the FBI or any law enforcement has entered into discovery.
-#10: Discovery on the Brian Harpole security firm on the lack of planning in the Charlie Kirk
+#10: Discovery on the PERSON_10_REDACTED security firm on the lack of planning in the Charlie Kirk
   event Sept 11th, 2025 (Woodland Park, CO). Get discovery on the planning window before an event for
   the last 30 events where Charlie had a university events (either indoor or outdoor) with 300 or more people.
   It included UVU 9/10/2025 and the 30 events before that meeting this criteria.
   What are the times when the planning window started at each of the 30 events.
   Include the earlier date when any communication occurred with local police or the campus. But their
   internal planning period is often before that. But also include the earliest dates of any
-  communication with Brian Harpole's company.
+  communication with PERSON_10_REDACTED's company.
 #11: Electronic means appears to may have been used to cut internet access (cell based or otherwise) in
   the seconds before, during and after it occurred. Does the FBI / DoJ or US Intel have any files or information on this.
 #12: Any information Drones were having video feeds go back to anyone?  Who? Which Drones?
@@ -404,19 +404,19 @@ The investigation shows that an intelligence service is very highly likely invol
   in FBI files.
   Does the FBI / DoJ or US Intel have any files or information on this.
   These may be possible examples:
-  * Frank Turek (Kirk mentor) says Charlie Kirk TEXTED him in the weeks leading up to his assassination "I KNOW THEY WANT ME D3AD" 👀
-  * Message to Dan Flood: Erika said this said "The Left will kill me" (???)
-  * Frank Turek: Charlie texted me and said "I know they want me dead. I'm under the gun right now please pray for me"
+  * PERSON_4_REDACTED (Kirk mentor) says Charlie Kirk TEXTED him in the weeks leading up to his assassination "I KNOW THEY WANT ME D3AD" 👀
+  * Message to PERSON_2_REDACTED: PERSON_7_REDACTED said this said "The Left will kill me" (???)
+  * PERSON_4_REDACTED: Charlie texted me and said "I know they want me dead. I'm under the gun right now please pray for me"
   * Message to Andrew: "They will kill me".
-  * Harrison Smith (Infowars) – went public: Charlie told him days before he feared Israel would be taken out.
-  * Andrew Kolvet (TPUSA insider) – confirmed Charlie's texts about threats.
-  * Frank Turek – went on record: The day before the event Charlie told him directly "they're going to take me out."
+  * PERSON_20_REDACTED (Infowars) – went public: Charlie told him days before he feared Israel would be taken out.
+  * PERSON_3_REDACTED (TPUSA insider) – confirmed Charlie's texts about threats.
+  * PERSON_4_REDACTED – went on record: The day before the event Charlie told him directly "they're going to take me out."
   * Charlie texted "During this combative meeting, Kirk reportedly texted others saying, "THEY ARE GOING TO KILL ME
   * Quote: "They will kill me if I break away from being pro-Israel"
 
 
 #15: Is there anything linking Charlie Kirk 9/10 with U.S. Army ISR drone. They were flying, or launched by
-  plane N1098L, or tech traded to anyone or country for favor linked (Egypt, Israel, Mahmoud Abdel Nasser), approval
+  plane N1098L, or tech traded to anyone or country for favor linked (Egypt, Israel, PERSON_60_REDACTED), approval
   by plane SU-BTT (Egyptian military Falcon 7X jet) that landed at Minot airbase, retrofitted on any plane
   staying in a Utah Airport over a month to "possibly" have tech installed.
 #16: Did the FBI or anyone instruct any employee or anyone at the local airport to lie?
@@ -431,7 +431,7 @@ The investigation shows that an intelligence service is very highly likely invol
   any possible $20,000 transfer? Or multiple transfers?
 
 
-#20: Any information about the possible "distraction people". See list below. List: a) Russell Kennington = "Fake Doctor w/Gun" (middle name may be "Kim"), b) Pellet gun guy detailed by Provo PD in front of Joe Vera's Mexican Restaurant. 201 W Center St, Provo, UT 84601 with a "Ruger Yukon Magnum .177 Pellet Break Barrel Air Rifle", c) George Zinn, d) Zachariah Ahmed Qureshi, e) Curly hair "David" (Owner of X account @RtothepowerofX) (his name may be "Matt Taber"), or f) any person the police were called on at Urban Pioneer Cafe or Sorenson Molecular Biotechnology Building (35 S Wasatch Dr, Salt Lake City, UT 84112, USA) on that day, g) Skyler Baird (May not be his real name): (he may have also used the name "Robbie Parker") who was interviewed on TV news , or h) any others.   Any communication
+#20: Any information about the possible "distraction people". See list below. List: a) PERSON_179_REDACTED = "Fake Doctor w/Gun" (middle name may be "Kim"), b) Pellet gun guy detailed by Provo PD in front of Joe Vera's Mexican Restaurant. 201 W Center St, Provo, UT 84601 with a "Ruger Yukon Magnum .177 Pellet Break Barrel Air Rifle", c) George Zinn, d) PERSON_53_REDACTED, e) Curly hair "David" (Owner of X account @RtothepowerofX) (his name may be "PERSON_139_REDACTED"), or f) any person the police were called on at Urban Pioneer Cafe or Sorenson Molecular Biotechnology Building (35 S Wasatch Dr, Salt Lake City, UT 84112, USA) on that day, g) PERSON_42_REDACTED (May not be his real name): (he may have also used the name "PERSON_42_REDACTED") who was interviewed on TV news , or h) any others.   Any communication
     they had (or claimed) with any individual or gov coordinating / communicating / discussion of or payments / or any other interaction. Any claims they made. Any communication / coordination or meetings they had
     with any US or non-US intelligence or governments or anyone that may have communicated to
     them to be there, do anything or possibly talk about being paid. Anything about any of these
@@ -447,11 +447,11 @@ The investigation shows that an intelligence service is very highly likely invol
   Any communications inside of FBI / DoJ / US Intel /local law enforcement or between them?
   Anyone instruct any other to not charge them?
 
-#23: What were the reasons Joe Kent from National Counterterrorism Center and any others in NCC desiring
+#23: What were the reasons PERSON_15_REDACTED from National Counterterrorism Center and any others in NCC desiring
   to have US intel investigate the Charlie Kirk assassination. Have entered into discovery
   the factors that they found.
 
-#24: Bring into discovery the documents on anything Joe Kent (NCC) reviewed of files or anything
+#24: Bring into discovery the documents on anything PERSON_15_REDACTED (NCC) reviewed of files or anything
   that came from the FBI related to the Charlie Kirk investigation.
 
 #25: The rooftop (possible shooter) vs Tyler are reported to have different clothes. Have all
@@ -495,8 +495,8 @@ The investigation shows that an intelligence service is very highly likely invol
 
 #30: Who were any of these people in any meeting that happened in Fort Huachuca AZ
   on these days: Sept 1st thru Sept 11th 2025. Especially Sept 9th.
-  * Brian Harpole. Did he attend on any of these days?
-  * Erika Kirk. Did she attend on any of these days?
+  * PERSON_10_REDACTED. Did he attend on any of these days?
+  * PERSON_7_REDACTED. Did she attend on any of these days?
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
 
@@ -525,7 +525,7 @@ The investigation shows that an intelligence service is very highly likely invol
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
 
-#34: Any information, files or investigation information on Laine Schoneberger having any
+#34: Any information, files or investigation information on PERSON_45_REDACTED having any
   communication / coordination or any other interaction with any US or foreign
   intelligence service, at any point in the time window: 4/1/2025 to 11/1/2026.
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
@@ -584,8 +584,8 @@ The investigation shows that an intelligence service is very highly likely invol
 
 
 #41: Any information, files or investigation information on any interactions (meetings,
-  communication, coordination, or anything else) with either a) Hunter Kozak or
-  b) Steve Kozak, with FBI or US or foreign intelligence.
+  communication, coordination, or anything else) with either a) PERSON_27_REDACTED or
+  b) PERSON_28_REDACTED, with FBI or US or foreign intelligence.
   During the time window: 8/1/2024 to 9/10/2025.
   Where any government (Law enforcement or non-law enforcement) have any information
   on that related that.
@@ -600,8 +600,8 @@ The investigation shows that an intelligence service is very highly likely invol
   2025 Toyota 4Runner, Utah license plate Z923DA
   Grey/Silver 2025 Toyota 4Runner, plate Z349AA
   Include any information on these cars possibly being linked to Duncan Aviation.
-  Include anything about cars being rented to anything similar to "A. Khalil Consulting"
-  or Maj. Ahmed Khalil or "Eng. Omar Nassar"
+  Include anything about cars being rented to anything similar to "PERSON_132_REDACTED Consulting"
+  or PERSON_132_REDACTED or "Eng. PERSON_133_REDACTED"
   Where any government (Law enforcement or non-law enforcement) have any information
   on that related that.
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
@@ -691,8 +691,8 @@ The investigation shows that an intelligence service is very highly likely invol
 
 #51: Any information, files or investigation information on any business opportunity
   discussed with Charlie within 9/1/2025 to 9/10/2025 where Charlie could have made
-  a lot of money.  There were allegations that Andrew Kolvet or someone claimed
-  that Andrew Kolvet lost out on $2m (or so) since Charlie turned the deal down.
+  a lot of money.  There were allegations that PERSON_3_REDACTED or someone claimed
+  that PERSON_3_REDACTED lost out on $2m (or so) since Charlie turned the deal down.
   What was the business deal? Who offered it?  What were the factors of the business
   deal (so we can understand why Charlie may have found it a problem). Did Charlie
   say he thinks he will be killed (or "they will kill me tomorrow") related to or
@@ -720,7 +720,7 @@ The investigation shows that an intelligence service is very highly likely invol
     One or more eyewitnesses describe a man who looks nothing like Tyler Robinson.
     Dressed head to toe in all black, long greasy black hair, trench coat, black mask,
     black cargo pants, backpack.
-    * Eyewitness Account: Dylan Hope, an electrician, says his colleague operating an
+    * Eyewitness Account: PERSON_104_REDACTED, an electrician, says his colleague operating an
     excavator at a UVU construction site spoke with this man immediately after the
     shooting. The suspect asked if he could walk through the site, claiming he was
     "just trying to get home safe after a shooting."
@@ -739,7 +739,7 @@ The investigation shows that an intelligence service is very highly likely invol
     man through the site to an adjacent property. No unusual cars were spotted
       nearby — was he on foot the whole time?
     * The FBI Problem: Workers on site say the photo shown to them by sheriffs
-    DID NOT MATCH the image the FBI released publicly. Dylan Hope himself says it didn't line up.
+    DID NOT MATCH the image the FBI released publicly. PERSON_104_REDACTED himself says it didn't line up.
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
 
@@ -909,7 +909,7 @@ Chain_of_Custody: Rifle evidence handling and potential gun planting
 Threat_Assessments: FBI reports on threats to other commentators
 #113: FBI threat assessment for Tucker Carlson (post-assassination): FBI Protective Intelligence. Threats made after Charlie Kirk's death.
   * Shows coordinated targeting of anti-Israel commentators
-#114: FBI threat assessment for Ian Miles Cheong (post-assassination): FBI Protective Intelligence. Threats made after assassination.
+#114: FBI threat assessment for PERSON_184_REDACTED (post-assassination): FBI Protective Intelligence. Threats made after assassination.
   * Proves pattern of threats against similar figures
 #115: FBI threat assessment for Candace Owens (post-assassination): FBI Protective Intelligence. Threats made after assassination.
   * Establishes broader foreign intelligence campaign
