@@ -1,8 +1,8 @@
 # Charlie_Kirk_175_Critical_To_Expose
 
-My name is Bryan Starbuck. I think my life is at risk. Either to be setup to go to the grave early, or legally setup. I will not commit suicide. I also worry I will be taken-out, in the legal system. ([Here is why I worry](https://github.com/BryanStarbuck/Bryan_Starbuck_Lawfare))
+My name is Bryan Starbuck. I think my life is at risk. Either to be set up to go to the grave early, or legally set up. I will not commit suicide. I also worry I will be taken out in the legal system. ([Here is why I worry](https://github.com/BryanStarbuck/Bryan_Starbuck_Lawfare))
 
-I'm getting out the things that put me at Risk.
+I'm getting out the things that put me at risk.
 - [Charlie Kirk: Investigation (Critical disclosures)](https://github.com/BryanStarbuck/Charlie_Kirk_Dangerous_Investigation)
 - [~175 Critical things in a "Charlie Kirk: LAW to force disclosure"](https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose)
 
@@ -30,41 +30,41 @@ More of my critical disclosures are here:
 ## Case No. 251403576 | Fourth Judicial District Court, Utah County
 ## Judge Derek P. Pullan
 
-Everything in this document are about possible scenarios. The goal of include the discovery is
-in order to establish which of these may be a problem.  This document does not make any claim that any
+Everything in this document is about possible scenarios. The goal of the discovery is
+to establish which of these may be a problem.  This document does not make any claim that any
 individual or organization did anything criminal, illegal or immoral. Any references
 are made for the purpose of discovery towards getting information that will get the truth out
 and can help the case of Tyler Robinson be determined NOT guilty.
 
-WHY are the goals of discovery are towards establishing one or more of the WHY
+The goals of discovery are towards establishing one or more of the WHY
 which will give the best defense to Tyler Robinson. They can lead to a court finding of
-"NOT GUILTY" on most or all of the most important charges. Or to showing probable doubt
-in the prosecutors case, leading to not guilty on charges.
+"NOT GUILTY" on most or all of the most important charges. Or to showing reasonable doubt
+in the prosecutor's case, leading to not guilty on charges.
 
 
-WHY #1: In case an explosion that happened with any mic or electronics on Charlie
-    Kirk, that that would establish another possible cause of death. It also
-    can establish other people involved. Even if to indicate that people with
+WHY #1: If an explosion happened with any mic or electronics on Charlie
+    Kirk, that would establish another possible cause of death. It also
+    can establish other people involved, even indicating that people with
     power beyond what Tyler Robinson was capable of, were involved. The timing
     matching can also show that they controlled Tyler Robinson, all of the way down
     to the timing. It can also cast doubt that he caused the death of Charlie Kirk.
-    It can also show possibly that the FBI is doing a cover up because this information
+    It can also possibly show that the FBI is doing a cover-up because this information
     wasn't presented by them from the beginning.
 
 
 WHY #2: Intelligence Service / Military / Gov were present, involved, knew about it, or possibly assisted.
 
-WHY #3: FBI Possibly did cover up.
+WHY #3: FBI possibly did a cover-up.
 
 WHY #4: Death was not caused by Tyler Robinson.
 
-WHY #5: Death was not caused by The .30-06 Rifle couldn't have caused Tyler's Death.
+WHY #5: The .30-06 rifle couldn't have caused Charlie Kirk's death.
 
 WHY #6: The FBI / DoJ / other possibly carried out obstruction of justice.
 
 
-Below are "Possible" Linkages. Discovery is to see if evidence can be happening to
-bring facts from the government possession into the court case and history books.
+Below are "Possible" Linkages. Discovery is to see if evidence can be brought
+from government possession into the court case and history books.
 
 (Possible) Linkage #1: Chain of custody for the rifle shows allegedly potential evidence planting. The K-9 unit
     initially failed to find the gun. Then FBI agents arrived and directed a
@@ -84,7 +84,7 @@ bring facts from the government possession into the court case and history books
 
 (Possible) Linkage #3: Military planes (SU-BTT, SU-BND, and more) arriving days before the assassination
     with military contractors who stayed in Utah proves foreign government involvement.
-    These weren't tourists - they had Defense Attache badges and received "no-scan
+    These weren't tourists - they had Defense Attaché badges and received "no-scan
     priority clearance." Discovery of passenger manifests, where they went, and
     whether they visited locations connected to Tyler Robinson would prove state-level
     coordination that Tyler could never have organized himself.
@@ -238,7 +238,7 @@ The first section is on a possible exploding Mic theory
 * NSWC Crane, officially known as the Naval Surface Warfare Center, Crane Division, is a major U.S. Navy research, development, test, and evaluation facility located in Crane, Indiana
 * NSWC Crane is the U.S. Navy's awarding agency that issued the sole DoD contract (N0016425PJ538) for "MINIATURIZED-XS DEMOLITION CHARGES, ANTI PERSONNEL-XS" to
   Accurate Energetic Systems (AES), delivered on August 25, 2025—just weeks before the assassination—and this is the only such miniaturized anti-personnel
-  explosive contract in federal records since 2008.  including the full contract file, technical specifications, drawings, communications with AES, and details
+  explosive contract in federal records since 2008. Including the full contract file, technical specifications, drawings, communications with AES, and details
   on the "SPM" program—is essential to determine if the device matches the physical evidence (e.g., pressure wave, fragments, wound characteristics), who authorized
   it, and whether it supports an alternative cause of death or third-party involvement.
 * Complete contract file for N0016425PJ538 including technical specifications and drawings
@@ -338,13 +338,13 @@ The first section is on a possible exploding Mic theory
 
 ================= END OF MIC part of Request for Discovery  ==========================
 
-The investigation shows that an intelligence service is very highly likely involved with the Charlie Kirk event UVU
-  9/10/2025. Even if foreign intelligence was heavily involved, there is a high likelihood that US intelligence community
+The investigation shows that an intelligence service is very likely involved with the Charlie Kirk event at UVU
+  on 9/10/2025. Even if foreign intelligence was heavily involved, there is a high likelihood that the US intelligence community
   or US military was involved. Below are solid leads that will lead to discovery that will bring hard
   evidence of that.
 
 
-#1: Any information on the planes below the FBI has. Location. Anyone who flew on them within 2 weeks of the assassination before or on that day.
+#1: Any information the FBI has on the planes below. Location. Anyone who flew on them within 2 weeks of the assassination before or on that day.
   * Include every plane below.
   * Any information the FBI has related to investigating the assassination or anything peripheral, or any connection to anyone
     in the CK investigation.
@@ -372,28 +372,28 @@ The investigation shows that an intelligence service is very highly likely invol
   or actions by any foreign intelligence service or country towards assassination of Charlie Kirk?
   Or considering if they may want to do that. Or making threats or possible plans towards that?
   This includes if a foreign country hired "contractors" to do the work.
-#3: Did TPUSA have any foreigners or anyone that has a citizenship besides a USA citizenship
+#3: Did TPUSA have any foreigners or anyone who has a citizenship besides USA citizenship?
 #4: For the list of TPUSA donors, did any of them have any communication, interaction or meetings with
   any foreign intelligence service within the 3 months before the assassination?
-    Does the FBI, DoJ or US intelligence any documents, investigation information,
+    Does the FBI, DoJ or US intelligence have any documents, investigation information,
     cell data or any other data to see any of these connections or communications?
 
 #5: Clothing of Tyler Robinson. What other possible perpetrators does the investigation show this may be?
-#6: Have any ballistics the FBI or any law enforcement has entered into discovery.
-#7: Have any forensic acoustic  the FBI or any law enforcement has entered into discovery.
-#8: Have any military drones flying? Any info the FBI or any law enforcement has entered into discovery.
-#9: Have any civilian drones flying? Any info the FBI or any law enforcement has entered into discovery.
+#6: Enter into discovery any ballistics the FBI or any law enforcement has.
+#7: Enter into discovery any forensic acoustic analysis the FBI or any law enforcement has.
+#8: Were any military drones flying? Enter into discovery any info the FBI or any law enforcement has.
+#9: Were any civilian drones flying? Enter into discovery any info the FBI or any law enforcement has.
 #10: Discovery on the PERSON_10_REDACTED security firm on the lack of planning in the Charlie Kirk
   event Sept 11th, 2025 (Woodland Park, CO). Get discovery on the planning window before an event for
-  the last 30 events where Charlie had a university events (either indoor or outdoor) with 300 or more people.
+  the last 30 events where Charlie had university events (either indoor or outdoor) with 300 or more people.
   It included UVU 9/10/2025 and the 30 events before that meeting this criteria.
   What are the times when the planning window started at each of the 30 events.
-  Include the earlier date when any communication occurred with local police or the campus. But their
+  Include the earliest date when any communication occurred with local police or the campus. But their
   internal planning period is often before that. But also include the earliest dates of any
   communication with PERSON_10_REDACTED's company.
-#11: Electronic means appears to may have been used to cut internet access (cell based or otherwise) in
+#11: Electronic means appear to have been used to cut internet access (cell based or otherwise) in
   the seconds before, during and after it occurred. Does the FBI / DoJ or US Intel have any files or information on this.
-#12: Any information Drones were having video feeds go back to anyone?  Who? Which Drones?
+#12: Any information on drones having video feeds sent back to anyone?  Who? Which Drones?
   Does the FBI / DoJ or US Intel have any files or information on this.
 #13: Any communication / meetings / discussions in the FBI or US Intel where anything was communicated that
   they didn't want it to get to the defense team or in trial. This can include information, parts of the
@@ -405,13 +405,13 @@ The investigation shows that an intelligence service is very highly likely invol
   Does the FBI / DoJ or US Intel have any files or information on this.
   These may be possible examples:
   * PERSON_4_REDACTED (Kirk mentor) says Charlie Kirk TEXTED him in the weeks leading up to his assassination "I KNOW THEY WANT ME D3AD" 👀
-  * Message to PERSON_2_REDACTED: PERSON_7_REDACTED said this said "The Left will kill me" (???)
+  * Message to PERSON_2_REDACTED: PERSON_7_REDACTED said "The Left will kill me" (???)
   * PERSON_4_REDACTED: Charlie texted me and said "I know they want me dead. I'm under the gun right now please pray for me"
   * Message to Andrew: "They will kill me".
   * PERSON_20_REDACTED (Infowars) – went public: Charlie told him days before he feared Israel would be taken out.
   * PERSON_3_REDACTED (TPUSA insider) – confirmed Charlie's texts about threats.
   * PERSON_4_REDACTED – went on record: The day before the event Charlie told him directly "they're going to take me out."
-  * Charlie texted "During this combative meeting, Kirk reportedly texted others saying, "THEY ARE GOING TO KILL ME
+  * Charlie texted "During this combative meeting, Kirk reportedly texted others saying, "THEY ARE GOING TO KILL ME"
   * Quote: "They will kill me if I break away from being pro-Israel"
 
 
@@ -425,13 +425,13 @@ The investigation shows that an intelligence service is very highly likely invol
   wasn't a .30-06 caliber, or that it was another caliber. Did part of the mic hit Charlie's neck
   and cause the opening on the front right? What path did the bullet take?
 #18: Any money transfer to Tyler Robinson? Includes (but not limited to) any possible $50,000 in
-  wire transfers flowed through DSA-linked accounts in the months leading to the killing.
+  wire transfers that flowed through DSA-linked accounts in the months leading to the killing.
   Any knowledge of what it was for? Logistics, travel, and even weapon acquisition.
 #19: Any money transfer to Lance Twiggs? Includes (but not limited to)
   any possible $20,000 transfer? Or multiple transfers?
 
 
-#20: Any information about the possible "distraction people". See list below. List: a) PERSON_179_REDACTED = "Fake Doctor w/Gun" (middle name may be "Kim"), b) Pellet gun guy detailed by Provo PD in front of Joe Vera's Mexican Restaurant. 201 W Center St, Provo, UT 84601 with a "Ruger Yukon Magnum .177 Pellet Break Barrel Air Rifle", c) George Zinn, d) PERSON_53_REDACTED, e) Curly hair "David" (Owner of X account @RtothepowerofX) (his name may be "PERSON_139_REDACTED"), or f) any person the police were called on at Urban Pioneer Cafe or Sorenson Molecular Biotechnology Building (35 S Wasatch Dr, Salt Lake City, UT 84112, USA) on that day, g) PERSON_42_REDACTED (May not be his real name): (he may have also used the name "PERSON_42_REDACTED") who was interviewed on TV news , or h) any others.   Any communication
+#20: Any information about the possible "distraction people". See list below. List: a) PERSON_179_REDACTED = "Fake Doctor w/Gun" (middle name may be "Kim"), b) Pellet gun guy detailed by Provo PD in front of Joe Vera's Mexican Restaurant. 201 W Center St, Provo, UT 84601 with a "Ruger Yukon Magnum .177 Pellet Break Barrel Air Rifle", c) George Zinn, d) PERSON_53_REDACTED, e) Curly hair "David" (Owner of X account @RtothepowerofX) (his name may be "PERSON_139_REDACTED"), or f) any person the police were called on at Urban Pioneer Cafe or Sorenson Molecular Biotechnology Building (35 S Wasatch Dr, Salt Lake City, UT 84112, USA) on that day, g) PERSON_42_REDACTED (May not be his real name): (he may have also used the name "PERSON_42_REDACTED") who was interviewed on TV news, or h) any others.   Any communication
     they had (or claimed) with any individual or gov coordinating / communicating / discussion of or payments / or any other interaction. Any claims they made. Any communication / coordination or meetings they had
     with any US or non-US intelligence or governments or anyone that may have communicated to
     them to be there, do anything or possibly talk about being paid. Anything about any of these
@@ -440,16 +440,16 @@ The investigation shows that an intelligence service is very highly likely invol
 #21: Distraction people and them not being charged. People find it strange they weren't charged.
   Any communication or actions or any other information about decisions to not charge them?  By whom?
   Any communications inside of FBI / DoJ / US Intel /local law enforcement or between them?
-  Anyone instruct any other to not charge them?
+  Did anyone instruct anyone else not to charge them?
 
 #22: Distraction people and FOIAs, GAMMA and equivalent requests. These were strangely blocked.
   Any communication or actions or any other information about decisions to reject or block?  By whom?
   Any communications inside of FBI / DoJ / US Intel /local law enforcement or between them?
-  Anyone instruct any other to not charge them?
+  Did anyone instruct anyone else to block them?
 
-#23: What were the reasons PERSON_15_REDACTED from National Counterterrorism Center and any others in NCC desiring
-  to have US intel investigate the Charlie Kirk assassination. Have entered into discovery
-  the factors that they found.
+#23: What were the reasons PERSON_15_REDACTED from the National Counterterrorism Center and others at NCC desired
+  to have US intel investigate the Charlie Kirk assassination? Enter into discovery
+  the factors they found.
 
 #24: Bring into discovery the documents on anything PERSON_15_REDACTED (NCC) reviewed of files or anything
   that came from the FBI related to the Charlie Kirk investigation.
@@ -462,7 +462,7 @@ The investigation shows that an intelligence service is very highly likely invol
 #26: Any information NSA, FBI, DoJ or US Intel has on (around) 12 Israeli registered
     cellphones at the site of the shooting last Wednesday.
     Who were these people. Any connections to US or non-US intelligence. Include photos
-    of them. What did they do at UVU.  How long were they in Utah? Did they visit Any
+    of them. What did they do at UVU? How long were they in Utah? Did they visit any
     locations related to this investigation (airport, Tyler apartment, location across town
     where Tyler was within 300 feet of them, they were in any of the rental cars listed above,
     did they fly on any of the planes listed to this investigation or listed in this document,
@@ -479,7 +479,7 @@ The investigation shows that an intelligence service is very highly likely invol
 
 #28: Who and what was covered in any meeting that happened in "One Rodney Square building" at
   920 North King St, Wilmington DE on these days: Sept 1st thru Sept 11th 2025.
-  Include anything where it was a meeting included discussing Charlie Kirk or UVU
+  Include anything from any meeting that included discussing Charlie Kirk or UVU
   or someone being killed (in the future).
   It could have been in Suite 404 or any other place in the building.
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
@@ -487,7 +487,7 @@ The investigation shows that an intelligence service is very highly likely invol
 
 #29: Who and what was covered in any meeting that happened in Fort Huachuca AZ
   on these days: Sept 1st thru Sept 11th 2025. Especially Sept 9th.
-  Include anything where it was a meeting included discussing Charlie Kirk or UVU
+  Include anything from any meeting that included discussing Charlie Kirk or UVU
   or someone being killed (in the future).
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
@@ -501,7 +501,7 @@ The investigation shows that an intelligence service is very highly likely invol
   US Military, FBI or DoJ.
 
 
-#31: Who were the people on the plane flight on  U.S. Air Force VIP transport jet.
+#31: Who were the people on the plane flight on a U.S. Air Force VIP transport jet.
   On any of these days Sept 8th or 9th.
   callsign RCH 702 (a military transport designation) or SAM (Special Air Mission) callsign.
   The flight originated from or passed through either of these: Joint Base Andrews /
@@ -517,10 +517,10 @@ The investigation shows that an intelligence service is very highly likely invol
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
 
-#33: Any information, files or investigation information if anyone that had non-US Citizenship or
-  was a foreigner that was in the security zone at UVU. Charlie Kirk's contract security team
+#33: Any information, files or investigation information if anyone who had non-US citizenship or
+  was a foreigner was in the security zone at UVU. Charlie Kirk's contract security team
   had control and allow lists for their security zones where the general public wasn't allowed
-  to go. Where anyone with a citizenship that was something besides only USA citizenship
+  to go. Whether anyone with citizenship other than solely USA citizenship was
   in that security zone area between 11am to 12:23pm MT time 9/10/2025.
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
@@ -543,7 +543,7 @@ The investigation shows that an intelligence service is very highly likely invol
   or US or foreign intelligence service people visiting the apartment or townhome of
   Lance Twiggs at any time during the window 3/1/2025 to 9/11/2025.
   Where any government (Law enforcement or non-law enforcement) have any information
-  on that related that.
+  related to that.
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
 
@@ -551,7 +551,7 @@ The investigation shows that an intelligence service is very highly likely invol
   being installed or operated by foreigners in, directed at or near
   the apartment or townhome of Lance Twiggs at any time during the window 3/1/2025 to 9/10/2025.
   Where any government (Law enforcement or non-law enforcement) have any information
-  on that related that.
+  related to that.
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
 
@@ -559,7 +559,7 @@ The investigation shows that an intelligence service is very highly likely invol
   or any psychological manipulation carried out on either Tyler Robinson or
   Lance Twiggs.
   Where any government (Law enforcement or non-law enforcement) have any information
-  on that related that.
+  related to that.
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
 
@@ -568,7 +568,7 @@ The investigation shows that an intelligence service is very highly likely invol
   communication, coordination, or anything else) with Lance Twiggs with any
   FBI or US or foreign intelligence. During the time window: 4/1/2025 to 9/10/2025.
   Where any government (Law enforcement or non-law enforcement) have any information
-  on that related that.
+  related to that.
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
 
@@ -578,7 +578,7 @@ The investigation shows that an intelligence service is very highly likely invol
   a) Discord, b) Steam, c) in-game voice chat, d) Text message.
   During the time window: 8/1/2024 to 9/10/2025.
   Where any government (Law enforcement or non-law enforcement) have any information
-  on that related that.
+  related to that.
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
 
@@ -588,7 +588,7 @@ The investigation shows that an intelligence service is very highly likely invol
   b) PERSON_28_REDACTED, with FBI or US or foreign intelligence.
   During the time window: 8/1/2024 to 9/10/2025.
   Where any government (Law enforcement or non-law enforcement) have any information
-  on that related that.
+  related to that.
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
 
@@ -603,13 +603,13 @@ The investigation shows that an intelligence service is very highly likely invol
   Include anything about cars being rented to anything similar to "PERSON_132_REDACTED Consulting"
   or PERSON_132_REDACTED or "Eng. PERSON_133_REDACTED"
   Where any government (Law enforcement or non-law enforcement) have any information
-  on that related that.
+  related to that.
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
 
 
 #43: Any information, files or investigation information on the people, organization
-  or government who either Rented or contracted the PLANE  MARC Inc.'s Piper N59906
+  or government who either Rented or contracted MARC Inc.'s Piper N59906
   for the flight on 9/10/2025. Who paid for it? Who interacted with the company?
   The company collected information. How was it provided to the buyer (customer)?
   Real time? How delivered? Include who the customer of Marc Inc., both organization
@@ -617,7 +617,7 @@ The investigation shows that an intelligence service is very highly likely invol
   hired or contracted to them.
   Piper PA-31 Navajo Chieftain (registration N59906).
   Where any government (Law enforcement or non-law enforcement) have any information
-  on that related that.
+  related to that.
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
 
@@ -631,17 +631,17 @@ The investigation shows that an intelligence service is very highly likely invol
   c) They tested "Counter-UAS" (Unmanned aerial systems) gear at the airport. (Especially) Sept 4th - 10th, or
   d) Used anything similar to "No-scan priority clearance" via federal override so
     no passenger manifests recorded, or
-  e) Where the Tower insiders mentioned anything in the category of "smells like black ops,"
+  e) When tower insiders mentioned anything in the category of "smells like black ops,"
   In any time during the time window 8/1/2025 and 9/11/2025.
   Where any government (Law enforcement or non-law enforcement) have any information
-  on that related that.
+  related to that.
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
 
 
-#45: Was any caliber of gunfire besides a .30-06 on 9/10/2025 between 12:20 and 12:30 MT at UVU.
+#45: Was any caliber of gunfire besides .30-06 fired on 9/10/2025 between 12:20 and 12:30 MT at UVU.
   Where any government (Law enforcement or non-law enforcement) have any information
-  on that related that.
+  related to that.
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
 
@@ -649,7 +649,7 @@ The investigation shows that an intelligence service is very highly likely invol
 #46: Any information, files or investigation information on laser targeting that occurred
   on 9/10/2025 at UVU anywhere within 2,000 feet of Charlie Kirk.
   Where any government (Law enforcement or non-law enforcement) have any information
-  on that related that.
+  related to that.
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
 
@@ -659,18 +659,18 @@ The investigation shows that an intelligence service is very highly likely invol
   List the FBI employees who did this, the witness, and the dates, and how
   many calls.
   Where any government (Law enforcement or non-law enforcement) have any information
-  on that related that.
+  related to that.
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
 
 
 #48: Any information, files or investigation information on the videos witnesses said that
-  they took at UVU on 9/10/2025 and they report it was deleted off of their phone
+  they took at UVU on 9/10/2025 and they report it was deleted from their phone
   or device without their permission. List witnesses and all details and information about
   occurrences and information about this happening. Include how they got deleted and
   who did the deleting, what tools and how. Whatever information is available.
   Where any government (Law enforcement or non-law enforcement) have any information
-  on that related that.
+  related to that.
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
 
@@ -683,7 +683,7 @@ The investigation shows that an intelligence service is very highly likely invol
 
 
 #50: Any information, files or investigation information on any military or
-  US or foreign intelligence people present at the August 3-6th 2025 window
+  US or foreign intelligence people present at the August 3-6, 2025
   meeting at the Hamptons.  Who were they? Names and who did they work for.
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
@@ -701,8 +701,8 @@ The investigation shows that an intelligence service is very highly likely invol
   US Military, FBI or DoJ.
 
 
-#52: Any information, files or investigation information on Charlie's request for the DOGE
-  audit in (equivalent) inside of TPUSA is in the FBI investigation files.
+#52: Any information, files or investigation information on Charlie's request for a DOGE-equivalent
+  audit inside TPUSA, as found in FBI investigation files.
   What financial irregularities were found in TPUSA.
   Include anything from Law enforcement (Federal and non-federal), US Intelligence,
   US Military, FBI or DoJ.
@@ -731,7 +731,7 @@ The investigation shows that an intelligence service is very highly likely invol
     - Long greasy black hair
     - Small backpack
     He went through the construction site that the FBI claim the shooter did as
-    they were fleeing and was the ONLY  person to do so. The guy was already
+    they were fleeing and was the ONLY person to do so. The guy was already
     trying to leave. And so, he -- we were then shown a picture by the sheriff
       at the time, and the excavator said that it matched. The man admitted
       someone had been shot before sirens even started wailing.
@@ -747,10 +747,8 @@ The investigation shows that an intelligence service is very highly likely invol
 #55: Does US Intel have any information about any individuals or governments or gov organizations that either
   wanted Charlie's life ended, wanted / talked about getting him killed, or threatening him.
 #56: Does US Intel or the FBI or DoJ have any information about any threats (or communication about harm, plans
-  or consideration)  to similar people
-  individuals?  Specifically any in this list: Marjorie Taylor Greene (including threats to murder her son),
+  or consideration) to similar individuals? Specifically any in this list: Marjorie Taylor Greene (including threats to murder her son),
   Matt Gaetz, Andrew Breitbart, Candace Owens, Tucker Carlson, Thomas Massie.
-  wanted Charlie's life ended, wanted / talked about getting him killed, or threatening him.
 
 
 
