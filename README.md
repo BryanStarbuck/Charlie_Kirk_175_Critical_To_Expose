@@ -15,6 +15,8 @@ Below are ~175 Critical Things to get a LAW passed to get these files brought ou
 Much is posted on my Twitter accounts:
 * [https://x.com/BryanStarbuck](https://x.com/BryanStarbuck)
 * [https://x.com/HolonCitizen](https://x.com/HolonCitizen)
+* You can email me at HolonCitizen AT gmail.com
+
 
 More of my critical disclosures are here:
 * [https://www.youtube.com/@HolonCitizen](https://www.youtube.com/@HolonCitizen).
