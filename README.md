@@ -1,6 +1,6 @@
 # Charlie_Kirk_175_Critical_To_Expose
 
-My name is Bryan Starbuck. I think my life is at risk. Either to be setup to go to the grave early, or legally setup. I will not commit suicide. I also worry I will be taken-out, in the legal system.
+My name is Bryan Starbuck. I think my life is at risk. Either to be setup to go to the grave early, or legally setup. I will not commit suicide. I also worry I will be taken-out, in the legal system. ([Here is why I worry](https://github.com/BryanStarbuck/Bryan_Starbuck_Lawfare))
 
 I'm getting out the things that put me at Risk.
 - [Charlie Kirk: Investigation (Critical disclosures)](https://github.com/BryanStarbuck/Charlie_Kirk_Dangerous_Investigation)
@@ -22,6100 +22,1134 @@ More of my critical disclosures are here:
 
 
 
----
-
-Charlie Kirk
-
-Fans of Bryan
-PERSON_52_REDACTED
-@CumbyWilliam,@PnutGalaree, @haruhuaniMD, @lars_hamilton, 
-@alleytopfiles
-
- @nurse4mercy,
-
-
-Possible:
-Lauren Wilson
-Abs Fefe
-
-
-
-
-https://sauce.cafe/home
-moretips@candaceowens.com
-info@buyr.com <== PERSON_50_REDACTED ?
-
-
-=============== SUPER Strange events ==================
-1) WHen gun found. First pass arm-to-arm local law enforcement. No gun found. Then dogs. No gun found. Then arrived. Then 3 feds told 3 junior law enforcement new hires to search the area again. THen gun found.
-2) FBI in Rav4 that drove by TylerR when it just happened. FBI flashed badge when pulled over.
-3) Glass or plastic fragments on the ground in the car Charlie was taken to the hospital.
-4) Surgen blocked from going back into the room with Charlie, by FBI.
- appeared to be allowed to continue.
-5) Fort Huachuca.  "JTF".  Rich woman who dressed down was likely the top administration visitor. Striking Blue Eyes.  PERSON_70_REDACTED???.  GSA: Gov Services Administration.  A secret service person was there (Woman, hispanic). They cared very much about the next 24 hours. They walked out with a congress person. PERSON_23_REDACTED (R) Las Vegas (PERSON_23_REDACTED). Nevada’s 2nd Congressional District.
-6) At the "Donor meeting" in Aug-2025 (Hampton??), a donor (or someone asked), "What would happy to TPUSA if you DIED!"  Within 40 days of him being assassinated.  PERSON_7_REDACTED said this in interview with Mygan Kelly. /TPUSA/.
-
-=============== Strange events ==================
-1) FBI told local law enforcement to not talk to witnesses
-2) Were Live Streams cut?  One appeared to be allowed to continue.
-3) His girlfriend
-4) His parents. Didn't want high end attorneys
-5) How he was captured. Were his parents told he would be assassinated. So turning him in, to save him.
-6) Google started deleting the Google Search evidence
-7) Charlie Kirk's replacement goes on FOX news interview that he is the replacement within 1 to 4 hours of death.
-8) Provo Airport: The Provo airport badge access list was updated 9/11/25. Modified the day after?
-9) Who owns the house the gun was left at? Someone said the university owned it. Someone said Palentire owned it.
-10) Doge in TPUSA
-11) Map out dates. A critical podcast happened before the June 2025 planning of his.
-12) Threats came into Ian & Tucker & Candace Owens immediately after the assassination.
-13) Something is strange about Utah govoneror PERSON_19_REDACTED.  And his son.
-14) No death certificate
-15) Why paved over Tent area?
-16) Why body flone out of airforce 2?
-17) Why no burrial area?
-18) Palentire owns the land the gun was left at?
-19) List pressure events. To stay Pro-I.
-20) Charlie making statements to friends about being killed by I.
-21) Claim that the Leftist group (of the question asker) was able to block University security from getting in. (Is that true).  Another said that white shirts were University people
-22) Ask yourself why of all the houses in Washington Utah is 894 W Cimarron Dr blurred in all google images & map images? Because it belongs to the Robinson family & they want you to buy the weirdo lone gunman story.
-23) Candace Owens Owen reveals Charlie Kirk’s messages.  Charlie Kirk: "just lost another huge Jewish donor" over not cancelling Tucker Carlson:"Jewish donors play into all the stereotypes" “Leaving me no choice but to leave the pro Israel cause.”.  48 hours later he was publicly executed
-24) FBI Connecticut building and ADL on the same floor.
-25) Jail Snitch PERSON_33_REDACTED. Went to this trial's court Oct 2025.
-26) Kent investigated (from PERSON_18_REDACTED's DNI) if foreign governments were behind the Charlie Kirk killing.  "PERSON_16_REDACTED snuffed out efforts by the Counterterrorism Center to see if foreign powers were involved in Charlie Kirk's murder " - Ruiters / DailyMail UK
-  * https://www.dailymail.co.uk/news/article-15238181/Charlie-Kirk-White-House-PERSON_16_REDACTED.html
-   "Trump administration officials were worried that Kent's probe into foreign interference could provide ammunition to Robinson's defense lawyers, who could then argue more than one suspect was involved in Kirk's murder."
-27) PERSON_11_REDACTED publicly calls for Tucker Carlson to be Neuturalized
-28) Candace Owens had a great video on the Egyption plane. They dropped off MILITARY CONTRACTORs in a highly secret way. And then flew off.
-      https://www.youtube.com/watch?v=iHav0PPzUz8
-29) Charlie Kirk to friend, "I do NOT appreciate being emotionally black mailed."
-30) "Peace 2025". The Egyption plane was here.
-31) Egyptian FLight: Gov clearance to skip security in Provo. 4 to 6 "Contractors". The contractors did NOT fly away. It was not a flight for maintanence. All other flights of that plane went to army bases. This is the only(?) that place in the USA not at an army based (or place with an amry airport). Someone said they had badges of "US Department of Defense Liaison". They tested "Counter-UAS" (Unmanned aerial systmes) gear at Provo airport Sept 4th - 10th.
-32) 12 Israeli cell phones (signed up for their cell plan in Israel). Gov keeping secret. Candace Owens disclosed.
-33) FBI / Court Gag Order blocks from talking publicly. But Charlie Kirk Show allows them to talk without a GAG order.
-34) LIFE INSURANCE police. Taken out right after he questions Israel Oct 7th.  TPUSA paid $350,000 loan.  Pay about, Estiamted payout at $20m to $50m. GGLF 2023 LLC. Taken out in "2023".  TPUSA's fiscal year ending June 30, 2024.
-35) Bowyer would have been fired/moved-aside.  8 days before CK assassinated. Because of DOGE audit.
-36) Egyption Planes had 73 overlaps with PERSON_7_REDACTED. Only ~23 with Charlie.
-37) Yellow Plane left in the morning SU-BTT. SU-BND Blue Plane did not take off but transponder was turned ON.
-38) PERSON_3_REDACTED: was told Candace Owens that she and Tucker "were on a list". When Andrew arroved in the hospital.
-39) Another critical flight by Candace Owens.  N560TW.  Sept-10th from Scotsdale to Provo. Then turned around to go to Santa Barbara then returned to Scotsdale AZ.
-40) The executive who took the video SD card out after the shooting, had never been to a University event before or after.
-41) Best video for the TOP of the page.
-    https://x.com/RedPillSayian/status/1990849181989167408?s=20
-
-
-
-@ProjectConstitu, PERSON_51_REDACTED, @I_am_C Cullen, @RealGeorge..., @?Project?, Candace Owens, Ian, @paramounttactcl, @DiligentDenizen,
-
-=============== Accoustics shows direction of bulllet ==================
-This shows it comes from South. Above Teachers balcony. This is an sound / accustics engineer expert. Walks thru the 3D mode. Amazing video
-https://x.com/ProjectConstitu/status/1981085808699338766
-
-=============== Timeline ==================
-2019-Nov to 2020: Gropyer wars
-* Dec 2024: Google Searches for the location
-* May 27th: SU-BTU flies into Provo. PERSON_60_REDACTED is aboard.
-* June 2nd: Egyptian "Walid" departs Provo
-* June 13th: Iran and Israel's 12 day war commences
-* June 25th: PERSON_82_REDACTED takes a trip to France for a Howmet "Aerospace" Engineering investment in Tennessee. This is only the 4th time since assuming office that he has made an international trip. This will lead to an investment in Tennessee from France.
-* July 2nd: PERSON_13_REDACTED formally resigns as the lead pastor of Calvary Church in Thousand Oaks (pre-planned retirement reported in January).
-* July 7th-July 9th: PERSON_PRIME_MINISTER_8_REDACTED PERSON_PRIME_MINISTER_8_REDACTED visits
-* July 11th: Charlie freaked out by allowing Anti-Israel speakers. Pro-zio freaked out.
-* July 13th: TPUSA Florida. PERSON_118_REDACTED PERSON_11_REDACTED debate in Florida
-* July 14th: TPUSA Florida. Tucker Carlson speaks “go all the way”
-* July 18th: it looks like a decision to murder Charlie Kirk in Utah was made around July 18th
-* Charlie Kirk went to the White House on the 18th June 2025 specifically to advise against regime change in Iran.
-* July 20th: Plane Tail#: SU-BTT. It’s first trip to America EVER was made on July 20t—to an army base in Nebraska.
-* July 20th: A military meeting with foreign leaders took place on July 20th on U.S soil.
-* Aug 2nd: French legionnaires arrives in America for a 3 week training in Califorina. Will end Aug 25th.
-* Aug 4th (or 5th-6th): Hamptons	Infamous Hamptons meeting takes place
-* Aug ~4th? Or Sept 9th: described as an "intervention" where Charlie Kirk was confronted by pro-Israel figures (including PERSON_75_REDACTED, PERSON_11_REDACTED, PERSON_44_REDACTED, PERSON_22_REDACTED, and PERSON_74_REDACTED)
-* Aug 4th (or 5th-6th): PERSON_PRIME_MINISTER_8_REDACTED PERSON_PRIME_MINISTER_8_REDACTED calls Charie offers the money. Charlie says not to trip to Israel.
-* Aug 6th: Online Charlie on PERSON_9_REDACTED- “lashes out about donors pressuring him”
-* Sept 1-5th: Charlie in group chats says “no choice but to leave pro Israel cause”
-
-* Sept 4th: Plane Tail#: SU-BTT.  From France to Provo, UH USA.
-* Sept 8th: Charlie tweets "post about leaving the pro-Israel movement"
-* Sept 8th: ~12 Liutenant Colonels @ Fort Huachuca. AZ. SAM702. Leave Sept 9th @ 0:49
-* Sept 9th: Charlie goes on PERSON_17_REDACTED's show and criticizes Israel to Ben's face
-* Sept 9th: Google trends: n888kg (tail number of plane) searched in Utah
-* Sept 9th: Candace Owens alleges three sources say Charlie says he’s worried ‘they’ will kill him
-* Sept 9th: PERSON_11_REDACTED retweets Trump 12 year old execution tweet “Based”
-
-* Sept 9th: Charlie. High pressure meeting.
-* Sept 9th: Charlie texted "During this combative meeting, Kirk reportedly texted others saying, "THEY ARE GOING TO KILL ME
-* Sept 10th @ 7:08MT  Plane Tail#: SU-BTT. Just before the assassination,  Leaves the Utah to Wilmington.
-* Sept 10th @ 12:23MT  Charlie Assassinated
-* Sept 11th: Plane Tail#: SU-BTT.  Leaves the US to go to Egypt. flying out to Wilmington.
 
 
-10:45am MT: French President calls Donald Trump.
 
-START 12:23:30 PM Utah Time 00:00 Charlie Shot
-00:18 Security begins to move Charlie
-00:27 PERSON_5_REDACTED already in position on the rock pile filming
-00:31 Charlie loaded into SUV
-00:33 PERSON_12_REDACTED is well past the SUV, without PERSON_67_REDACTED
-00:42 PERSON_4_REDACTED gets in SUV
-00:52 "They just shot Charlie" - PERSON_5_REDACTED
-00:43-01:05 SUV departs for hospital
-01:06 "He's dead" - PERSON_5_REDACTED
-END 12:24:36 PM Utah Time
+# LEGAL DISCOVERY LIST
+## State of Utah v. Tyler Alexander Robinson
+## Case No. 251403576 | Fourth Judicial District Court, Utah County
+## Judge Derek P. Pullan
 
+Everything in this document are about possible scenarios. The goal of include the discovery is
+in order to establish which of these may be a problem.  This document does not make any claim that any
+individual or organization did anything criminal, illegal or immoral. Any references
+are made for the purpose of discovery towards getting information that will get the truth out
+and can help the case of Tyler Robinson be determined NOT guilty.
 
-TIMELINE START: 12:23 PM Utah Time
-1) 1 minute to leave for hospital
-2) 7-10 minutes to drive to hospital
-3) 5-10 minutes MINIMUM to Lea unload Charlie, get him into hospital & into the OR
-4) 20-30 minutes in OR before the surgeon came out & pronounced him deceased. (1:03:30 MT)
+WHY are the goals of discovery are towards establishing one or more of the WHY
+which will give the best defense to Tyler Robinson. They can lead to a court finding of
+"NOT GUILTY" on most or all of the most important charges. Or to showing probable doubt
+in the prosecutors case, leading to not guilty on charges.
 
-TOTALS: 33-50 minutes
 
-END TIME: 12:56 PM-1:13 PM Utah Time—AFTER the Jerusalem Post had already announced his death.
+WHY #1: In case an explosion that happened with any mic or electronics on Charlie
+    Kirk, that that would establish another possible cause of death. It also
+    can establish other people involved. Even if to indicate that people with
+    power beyond what Tyler Robinson was capable of, were involved. The timing
+    matching can also show that they controlled Tyler Robinson, all of the way down
+    to the timing. It can also cast doubt that he caused the death of Charlie Kirk.
+    It can also show possibly that the FBI is doing a cover up because this information
+    wasn't presented by them from the beginning.
 
 
-Issues:
-PERSON_7_REDACTED says Mikey called her at 12:23 PM Utah time/11:23 AM Arizona time, and PERSON_67_REDACTED says he witnessed this call to PERSON_7_REDACTED and the subsequent call to PERSON_13_REDACTED — but at 12:24:02 Mikey is seen by himself and PERSON_67_REDACTED is nowhere in frame. How did he witness these calls? Something isn't adding up. I don't know what it means, and I make no accusations. I'm just trying to reconstruct the timeline.
+WHY #2: Intelligence Service / Military / Gov were present, involved, knew about it, or possibly assisted.
 
+WHY #3: FBI Possibly did cover up.
 
-=============== Court Case ==================
-Judge:  Tony F. PERSON_34_REDACTED, Jr
+WHY #4: Death was not caused by Tyler Robinson.
 
-Defense Attorneys:
-* PERSON_35_REDACTED (appointed lead defense counsel in the capital case)
-   PERSON_35_REDACTED Lewis PLLC
-   40 S 600 E, Salt Lake City, UT 84102
-   kathy@nesterlewis.com
-* PERSON_37_REDACTED (defense attorney appearing in hearings)
-   PERSON_37_REDACTED, APLC
-   65 North Raymond Avenue, Suite 320, Pasadena, CA 91103
-   Richard@rgnlaw.com
+WHY #5: Death was not caused by The .30-06 Rifle couldn't have caused Tyler's Death.
 
-* PERSON_36_REDACTED (reported as part of the defense team)
-   Law Office of Michael Burt
-   1000 Brannan Street, Suite 400, San Francisco, CA 94103
-   mb@michaelburtlaw.com
-* PERSON_38_REDACTED (reported as an attorney for Robinson)
-   Brown, Bradshaw & Moffat
-   422 N 300 W, Salt Lake City, UT 84103
-   staci@brownbradshaw.com
+WHY #6: The FBI / DoJ / other possibly carried out obstruction of justice.
 
-Prosecutors:
-* PERSON_30_REDACTED — Utah County Attorney
-* PERSON_92_REDACTED — Deputy Utah County Attorney (also identified as Chief Deputy in the County Attorney’s press release)  Utah County Attorney
-* PERSON_94_REDACTED — Deputy Utah County Attorney
-* PERSON_93_REDACTED — Deputy Utah County Attorney
-* PERSON_95_REDACTED — Deputy Utah County Attorney
-* Christopher D. PERSON_72_REDACTED — Deputy Utah County Attorney (also listed as General Counsel / PIO in the
 
-* 1/21/2026: My FedEx Discovery List arrived at the attorneys.
-* 1/21/2026: I emailed them Discovery List.
+Below are "Possible" Linkages. Discovery is to see if evidence can be happening to
+bring facts from the government possession into the court case and history books.
 
+(Possible) Linkage #1: Chain of custody for the rifle shows allegedly potential evidence planting. The K-9 unit
+    initially failed to find the gun. Then FBI agents arrived and directed a
+    "re-search" that suddenly located the weapon. This pattern matches known
+    intelligence tradecraft for planting evidence on a patsy. If discovery shows
+    gaps in custody, foreign handler DNA, or FBI agents who had access before
+    the "discovery," it proves Tyler was framed by sophisticated actors.
 
- Tyler Robinson
-  Booking # 460956
-  Utah County Jail
-  3075 N Main St
-  Spanish Fork, UT 84660
 
-=============== WhiteHouse ==================
+(Possible) Linkage #2: The 12 Israeli-registered cellphones at UVU prove foreign intelligence presence.
+    NSA reportedly tracked these phones. If discovery confirms Israeli intelligence
+    officers were physically present at the assassination scene, it establishes
+    that a foreign state actor had operatives in position. Combined with cell
+    tower data showing these phones also pinged near Tyler's residence, it proves
+    a coordinated foreign intelligence operation, not a lone gunman.
 
-July 31, 2025: An off-the-record White House meeting organized by the Faith & Freedom Coalition, Latino Coalition for Israel, and Philos Project (funded by PERSON_80_REDACTED) to discuss "confronting the woke-right defamation of Israel and the Jewish people" and combat "growing antisemitism in the MAGA movement."
-*  Attendees included PERSON_77_REDACTED, PERSON_78_REDACTED, Apostle Mario Bramnick, PERSON_79_REDACTED, and PERSON_PRIME_MINISTER_8_REDACTED's son Yair. Notably, Charlie Kirk and Turning Point USA representatives were absent from this high-level strategy session, despite Kirk's prior pro-Israel alignment.
-* This meeting preceded the Hamptons intervention by about four days (early August 2025), though Kirk's public shift on Israel came later.
 
+(Possible) Linkage #3: Military planes (SU-BTT, SU-BND, and more) arriving days before the assassination
+    with military contractors who stayed in Utah proves foreign government involvement.
+    These weren't tourists - they had Defense Attache badges and received "no-scan
+    priority clearance." Discovery of passenger manifests, where they went, and
+    whether they visited locations connected to Tyler Robinson would prove state-level
+    coordination that Tyler could never have organized himself.
 
-=============== Israel ==================
 
-https://x.com/aldamu_jo/status/1982513036498968661
+(Possible) Linkage #4: FBI asking witnesses to delete videos is evidence tampering and obstruction.
+    Multiple witnesses report FBI agents calling them and requesting they delete
+    footage from the event. If discovery confirms this pattern, it proves the FBI
+    is actively destroying exculpatory evidence. This suggests the FBI knows the
+    official narrative is false and is protecting the actual perpetrators, likely
+    foreign intelligence assets the U.S. has relationships with.
 
-=============== Day of Shooting ==================
 
+(Possible) Linkage #5: The "distraction people" not being charged exposes coordination. Multiple armed
+    individuals appeared at UVU that day - Russell Kennington with a gun, a pellet
+    gun man at Joe Vera's, and others. In any normal investigation, these people
+    would be charged. The decision NOT to charge them, combined with blocked FOIAs
+    about them, suggests they were assets serving a purpose. Discovery of payments
+    to them or communications with intelligence services proves a coordinated operation.
 
-Came back across this video this morning and I realized this isn’t the same video from TMZ like I thought, so I updated my timeline map.
 
-According to the info we’ve been given by law enforcement and the doorbell cameras that have been released, on the morning of September 10 Tyler Robinson (wearing a maroon shirt and light colored shorts) is spotted:
+(Possible) Linkage #6: Fort Huachuca meetings September 1-11 could expose pre-planning at the highest
+    levels. Fort Huachuca is the Army's intelligence center. If Brian Harpole (Kirk's
+    security chief) or Erika Kirk attended meetings there days before the assassination,
+    it raises questions about foreknowledge. U.S. Air Force VIP transport jets (SAM
+    callsign) flying between Andrews, Tucson, and Colorado Springs during this window
+    could identify which officials were coordinating what.
 
-8:07- on Ring camera walking on S 800 W towards campus
-8:23- on WYZE camera driving on W 880 S
-8:29- on UVU surveillance driving on campus
-9:57- on WYZE camera walking on W 880 S
-—Outfit Change to jeans & long sleeve shirt—
-11:44- on Ring camera walking on W 800 S
-11:49- on Ring camera walking on S 800 W towards campus again
 
-* Killed: 12:23 (12:27) MT noon.  Another report says he was shot 12:23 MT.  Which is correct?
-* Jumping off roof: He was already jumping off roof before 12:27.  He was jumping off roof 12:23.
+(Possible) Linkage #7: The surveillance plane N1098L (HADES spy plane) circling 35 minutes before the
+    shooting proves advance knowledge and coordination. Someone hired this plane.
+    Someone received its surveillance feed. Discovery of who contracted it, who they
+    work for, and where the data went would reveal whether U.S. or foreign intelligence
+    had real-time eyes on the assassination. A lone gunman doesn't have a spy plane
+    providing overwatch - a sophisticated operation does.
 
 
-12:23 p.m. MDT → 18:23:00 UTC
-The shot was fired at 12:23 p.m. MDT, when Charlie Kirk was speaking at an event at Utah Valley University.
-
-According to police audio, the first report of the shooting came in at 12:26 p.m.
-
-
-* Questions: How did he get on the roof?
-* Who was Brown shirt (Arm Puller) Sunglasses guy: Setup mechanical issue on the left before the shooting. He took down the camera behind Charlie.  They think his name may be "PERSON_6_REDACTEDy" or PERSON_6_REDACTED.
-* PERSON_6_REDACTED IS the arm puller.
-* PERSON_6_REDACTED: https://www.youtube.com/watch?v=Tx84ViFZkaA
-   * Retired police officer 29 years of service.  Irving PD (TX?)
-   * After retiring in 2019 he moved to Guatemala to aid in training and equipping first responders there.
-* Where did the camera behind Charlie go? Who took it?
-
-
-============== Mossad Quotes World Stage Puppet Master ===================
-https://x.com/aldamu_jo/status/1997001395287753114?s=20
-Mossad admitted last year: (On 60 Minutes)
-
-“We create a pretend world. We are a global production company. We write the screenplay. We’re the directors. We’re the producers. We’re the main actors.
-
-The world is our stage.”
-
-
-============== Gun Mauser Model 98 ===================
-
-Mauser Model 98, .30-06 Springfield, bolt-action, with a mounted scope
-
-This model can be disassembled into two primary parts: the stock and the barreled action (which includes the receiver, bolt, barrel, and trigger assembly). Disassembly typically requires a screwdriver to remove the two action screws that secure the trigger guard/magazine floorplate assembly (which holds the barreled action in the stock). Once the screws are removed, the barreled action lifts out of the stock. This is a standard field stripping process for maintenance or cleaning and does not require specialized tools beyond a basic screwdriver. Note that this is not a "takedown" rifle designed for tool-free breakdown
-
-* an overall assembled length of approximately 44 inches and a barrel length of 22–24 inches. When disassembled:The barreled action is approximately 30–32 inches long (barrel length plus the receiver/action length of about 8.75 inches, minus minor overlap from threading).
-* The stock is approximately 31–32 inches long (from buttplate to forend tip).
-
-Component	               Approximate Length
-Total Assembled Length    ~43–49 inches (110–125 cm)
-Barreled Action           ~28–32 inches (71–81 cm)
-Stock                     ~30–34 inches (76–86 cm)
-
-
-============== Tylers Backpack ===================
-
-Inside 17 inches max something can be internally.
-31
-
-============== Tylers Timeline that day and clothes ===================
-
-* 8:29 a.m. MT: Tyler Robinson arrived on UVU campus in Orem, Utah, driving a gray Dodge Challenger. He was wearing a plain maroon T-shirt, light-colored shorts, light-colored shoes, and a black hat with a white logo. No backpack mentioned.
-
-* 11:49 a.m. MT: Seen on surveillance footage in a nearby neighborhood resembling the suspect.
-
-Clothing Change: He is now wearing a black long-sleeve shirt with an American flag and eagle on the center, dark-colored jeans, a dark hat, and large sunglasses. He is carrying a dark-colored backpack.
-
-* 11:50 a.m. MT: Reappeared walking in a grassy area north of Campus Drive, near 800 West on UVU campus. He was walking with a limp (stiff right leg, slow pace, limited bending). Now wearing a black shirt with a United States flag at the center, a dark baseball cap, and large sunglasses. Walked south through a parking lot and approached a pedestrian tunnel. No backpack mentioned.
-
-* 11:52 a.m. MT: Movements tracked through stairwells and up to the roof of the Losee Center building (about 150 yards from the courtyard). Wearing dark clothing at this point.
-
-* 11:53 a.m. MT: Paused at the top of stairs, pulled out a cell phone, put it back, then proceeded down into the pedestrian tunnel. Ascended a stairwell in a parking garage adjacent to the tunnel. Still wearing the black shirt with US flag, dark baseball cap, and large sunglasses. No backpack mentioned.
-
-* 12:02 p.m. MT: Seen walking on the north side of the Losee Center, still limping, and entered the building through the southeast corner doors.
-
-* 12:15 p.m. MT: Walked up the stairs toward the roof, entered the Losee Center from the southeast side, ascended stairs next to the building, crossed a railing from a public walkway onto the roof, ran across the roof, and crawled into a shooting position.
-
-* 12:17 p.m. MT: Climbed over a short wall and crouched down on the north side of the roof.
-
-* 12:22 p.m. MT: Stood up and ran across the roof toward the west side, scooting near the edge (limp no longer noticeable). Laid down facing the courtyard area in a position ready to fire, approximately 430 feet (130 m) away.
-
-* 12:23 p.m. MT: Fired a single shot from the roof of the Losee Center, fatally shooting Charlie Kirk. Then stood up suddenly and ran north to the edge of the roof.
-
-* 12:23:30 p.m. MT: Exact moment of the shot to Kirk's neck.
-
-* 12:24 p.m. MT: Placed a dark-colored item (rifle wrapped in a dark towel) on the rooftop, lowered himself onto the grass below, and ran north toward the parking lot east of the Losee Center. Seen running north across Campus Drive, appearing to carry an item, and crossed over a grassy area with trees on the edge of campus. Fled into a nearby wooded area north of the campus. Shoe impression consistent with Converse/Chuck Taylor sneakers. A Mauser Model 98 .30-06 caliber bolt-action rifle with scope was later found in the wooded area.
-
-Clothing: He appears to have changed back into his morning attire: the maroon t-shirt and cap.
-
-* 6:38 p.m. MT: Seen on CCTV at a Dairy Queen restaurant in Orem, Utah (approximately six hours after the shooting). Clothing details not specified in available sources.
-
-
-
-
-
-PROMPT:
-Give an exacting timeline of Tyler Robinson (of UVU shooting) on 9/10/2025.
-* Output as a bullet list
-* Give exact times down to the minute on where he was. (Only if this information is available:  Include what clothing they saw in. What color backpack? Long pants or not? Color of shirt (dark blue or maroon or another color)?) Where was he seen. Any URL to any image
-* Also Include as many times (down to the minute).
-* Also Include as many in a neighborhood talking to uVU. Or before getting to UVU
-* These should all be on the day of 9/10/2025, from the start of the day to the end of the day.
-* Also Include as many walking onto UVU or across UVU before the shooting.
-* Also Include as many walking across UVU or leaving UVU after the shooting.
-* Also Include as many walking near or away from UVU (that are off  UVU campus) after the shooting.
-* Also include any later in the day. Dairy Queen. Restaurant in the evening. Anything later.
-
-Include it all
-
-
-============== Tylers Clothing ===================
-
-IN STAIR WELL:
-SHOES: Converse Tennis Shoes <-- said by law enforcement day of.
-HAT: Base ball hat. Blue mesh.
-BACKPACK: Dark blue. Full.
-
-Seen running north across Campus Drive, appearing to carry an item, and crossed over a grassy area with trees on the edge of campus. Fled into a nearby wooded area north of the campus. Shoe impression consistent with Converse/Chuck Taylor sneakers.
-
-
-
-
-
-============== Quotes OTHER ===================
-
-https://x.com/ProjectConstitu/status/1997721318607732929?s=20
-MIKE HUCKABEE'S CHILLING 2024 WARNING TO CANDACE OWENS: He Smiled and Said “They’ll Make You Disappear” –Now He’s Trump’s Ambassador to Israel😱
-
-PERSON_21_REDACTED (now Trump’s U.S. Ambassador to Israel) sits down with Candace Owens and casually asks her on camera:
-“Are you worried… that because you’re pushing back so hard, they will do everything possible with their billions and billions of dollars to totally shut you down… and make you disappear?”
-
-He says it with a smile. She laughs it off: “It doesn’t worry me, it excites me. I’m a front-line soldier… God put me in this position with this platform to make noise.”
-
-Fast-forward to December 2025:
-Charlie Kirk is assassinated after rejecting PERSON_PRIME_MINISTER_8_REDACTED’s money.
-
-There is an multinational "hit" taken out on Candace Owens involving Israel, Egypt and France.
-
-Israel is caught harvesting Christian/MAGA phones at TPUSA events and Churches through geofencing.
-Candace Owens is the ONLY major voice exposing the Dupont-Israel-TPUSA ratline.
-
-The same PERSON_21_REDACTED is now the official U.S. Ambassador to Israel, sitting in Jerusalem with the people she’s naming.
-
-This isn’t an interview anymore. This is a veiled threat from the regime, on record, delivered by the man who now literally represents “our greatest ally” in the Middle East.
-
-They told her they could make her “disappear.” She told them “Try it.”
-And here we are.
-
-
-=============== Quotes Charlies / Verified  ==================
-
-Charlie sent the messages, including in Signal to PERSON_3_REDACTED & PERSON_2_REDACTED (Text Message).  Not in iMessages.  But Charlie sent them in Telegram and Signal.
-
-Message to Andrew: "They will kill me".
-Message to PERSON_2_REDACTED: PERSON_7_REDACTED said this said "The Left will kill me" (???)
-
-
-PERSON_4_REDACTED (Kirk mentor) says Charlie Kirk TEXTED him in the weeks leading up to his assassination "I KNOW THEY WANT ME D3AD" 👀
-
-PERSON_4_REDACTED: Charlie texted me and said "I know they want me dead. I'm under the gun right now please pray for me"
-PERSON_3_REDACTED per Candace Owens: Same story.
-
-PERSON_7_REDACTED: I have Charlie's cell phone and that didn't happen.
-   PERSON_7_REDACTED is lying. This matters.
-
-Candace Owens said that "PERSON_2_REDACTED" received the same message.
-
-----
-EXPOSED: PERSON_7_REDACTED Just Got CAUGHT LYING On National TV About Charlie’s FINAL TEXT – And We Have the RECEIPTS🧾
-
-Today on
-PERSON_129_REDACTED
-'s show  PERSON_7_REDACTED looked America in the eye and said:
-“He was NOT messaging people the day before saying ‘they’re going to kill me.’ I have his cell phone. It never happened.”
-That’s not a memory lapse. That’s not grief talking. That is a provable, documented, receipt-filled LIE.
-
-Here are the receipts she’s praying you never see:
-
-🔘PERSON_20_REDACTED (Infowars) – went public: Charlie told him days before he feared Israel would be taken out.
-
-🔘PERSON_3_REDACTED (TPUSA insider) – confirmed Charlie’s texts about threats.
-
-🔘PERSON_4_REDACTED – went on record: The day before the event Charlie told him directly “they’re going to take me out.”
-
-🔘Frank also read the email Charlie sent him weeks prior saying the exact same thing.
-
-🔘Candace Owens showed the actual texts on her phone – Charlie saying his life was in danger.
-
-🔘Multiple other witnesses (still off-record for safety) have told the same story privately.
-
-So PERSON_7_REDACTED…
-Are Harrison, Andrew, Frank, Candace Owens, and half of TPUSA leadership, and Charlie’s own phone all lying… or are you?
-
-You don’t “misspeak” when you’re holding the dead man’s phone and claiming you’ve read every message.
-You lie when you’re protecting the people who sent those threats.
-
-You lie when you’re running cover for the machine that killed him.
-
-You lie when you’re scared of what the truth would do to your $140 million grift.
-
-You don’t get to play grieving widow on Monday and professional liar on Tuesday.
-
-The mask is off. The receipts are in. And the Holy Spirit doesn’t bless bald-faced lies — even from widows.
-Repent, PERSON_7_REDACTED. Because we’re not stopping.
-------------
-Remember when Charlie Kirk said AIPAC was committing treason?
-https://x.com/AdameMedia/status/1999306381623709957?s=20
-Israel didn’t like that.
-
-PERSON_7_REDACTED will now support it.
-
-=============== They were going to kill him TOMORROW  ==================
-
-This is BIGGER than we could have EVER IMAGINED, with multiple countries involved and even possible weapons TRAFFICKING as well.
-
-Charlie Kirk also messaged his security detail the night before he died, named "DAN," after he got off the phone with one of his donors and texted Dan telling him that "THEY" were going to kill him TOMORROW.
-
-Why hasn't Dan come forward about this and who is "THEY" exactly? I think we already know the answer to that question.
-
-Candace Owens lays out the ARMS TRAFFICKING connections and how when you have a company as big and connected as Charli, especially in all 50 states and you get approached to "do" certain things and turn it down, the complications and things that come with going against the powers that be.
-
-----------------
-Candace Owens says Charlie told donors, TPUSA members and Head Of Security PERSON_2_REDACTED he thought he was going to be "executed tomorrow" the night before he was.
-
-Flood was standing next to Charlie when he was killed and took a brief step to the right away from Kirk to center himself a split second before he was taken out.
-
-Flood was previously a member of PERSON_PRIME_MINISTER_8_REDACTED's security team.
-
-
-============== Quotes from Charlie ===================
-“I’m worried that Israel is going to kill me.”
-Charlie Kirk, one day before he was assassinated
--------
-
-Quote: "hey, if I go against Israel, I think they will kill me."
-* Allegedly told to a friend on August 13, 2025, who was instructed to post it online.
-
-Video with PERSON_9_REDACTED. Open Borders.  30 minutes of his various clips.
-https://x.com/zebboykin/status/1986806479718871495?s=43
-
-Screenshot. Probably to Candace Owens.
-* "Since the beginning of TPUSA, I knew in my gut that I might get wiped out at any time... I cannot explain it... But I dream about it all the time... Like all the time..." – Charlie Kirk
-
-Epstein is Mossad:
-https://x.com/LetsGoBrando45/status/1985896546706342049
-
-* Sept 9th: Charlie texted "During this combative meeting, Kirk reportedly texted others saying, "THEY ARE GOING TO KILL ME
-Sources:
-      Sources:Instagram reel: https://www.instagram.com/reel/DOi5cVFkalo/
-      Instagram reel: https://www.instagram.com/reel/DOfAV0kDHS5/
-      Instagram reel: https://www.instagram.com/cheekycraigm/reel/DOhVqNPD-91/
-      Instagram reel: https://www.instagram.com/reel/DOgOpHkjU2o/?hl=en
-      Instagram reel: https://www.instagram.com/reel/DOe52r6j0nL/
-      X post by @BalochRamzan2
-       (ID: 1965901874974044386): https://x.com/BalochRamzan2/status/1965901874974044386
-      @BalochRamzan2
-      X post by @Partisangirl
-       (ID: 1965873642547589214): https://x.com/Partisangirl/status/1965873642547589214
-      @Partisangirl
-      X post by @BK4HOF
-       (ID: 1965960077313257584): https://x.com/BK4HOF/status/1965960077313257584
-      @BK4HOF
-      X post by @jakeshieldsajj
-       (ID: 1975815285199544692): https://x.com/jakeshieldsajj/status/1975815285199544692
-      @jakeshieldsajj (via PERSON_20_REDACTED report)
-      X post by @Rahul_EIWF
-       (ID: 1983573879650988408): https://x.com/Rahul_EIWF/status/1983573879650988408
-      @Rahul_EIWF  (via PERSON_20_REDACTED, August 14 report)
-      X post by @Rahul_EIWF
-       (ID: 1983573455069987221): https://x.com/Rahul_EIWF/status/1983573455069987221
-      @Rahul_EIWF
-       (via PERSON_20_REDACTED, August 14 report)
-      X post by @FactsVsZee
-       (ID: 1983150291185709204): https://x.com/FactsVsZee/status/1983150291185709204
-      @FactsVsZee
-
-Quote: "They will kill me if I break away from being pro-Israel"
-Sources:
-      X post by @hodgetwins (ID: 1975564275457589371): https://x.com/hodgetwins/status/1975564275457589371
-      X post by @FactsVsZee (ID: 1983150291185709204): https://x.com/FactsVsZee/status/1983150291185709204
-      X post by @BalochRamzan2 (ID: 1965901874974044386): https://x.com/BalochRamzan2/status/1965901874974044386
-
-Quote: "they will kill me"
-Sources:
-      YouTube video: https://www.youtube.com/watch?v=H0oLzJXK9f4
-      X post by @hippyygoat (ID: 1967483125040054284): https://x.com/hippyygoat/status/1967483125040054284
-      X post by @jakeshieldsajj (ID: 1975815285199544692): https://x.com/jakeshieldsajj/status/1975815285199544692
-
-Quote: "Jewish donors play into all the sterotypes. I cannot and will not be bullied like this. Leaving me no choice but to leave the Pro Israel cause"
-Sources:
-      X post by @Jeannin55385803 (ID: 1983227989308649546): https://x.com/Jeannin55385803/status/1983227989308649546
-      X post by @Jeannin55385803 (ID: 1983227896102572346): https://x.com/Jeannin55385803/status/1983227896102572346
-      X post by @Rahul_EIWF (ID: 1984001761104081260): https://x.com/Rahul_EIWF/status/1984001761104081260
-      X post by @Rahul_EIWF (ID: 1984002508344430627): https://x.com/Rahul_EIWF/status/1984002508344430627
-      X post by @Rahul_EIWF (ID: 1984000745189118174): https://x.com/Rahul_EIWF/status/1984000745189118174
-      X post by @Rahul_EIWF (ID: 1983701221199532239): https://x.com/Rahul_EIWF/status/1983701221199532239
-      X post by @JustTheTweets17 (ID: 1983947359186038839): https://x.com/JustTheTweets17/status/1983947359186038839
-      X post by @ImBreckWorsham (ID: 1976263670721048925): https://x.com/ImBreckWorsham/status/1976263670721048925
-
-Quote: "Im going to have to stop supporting israel..."
-Sources:
-      X post by @MaxtheCrowhouse (ID: 1983641464253903025): https://x.com/MaxtheCrowhouse/status/1983641464253903025
-
-Quote: "You’ve left me no choice but to leave the pro-Israel cause"
-Sources:
-      X post by @Wades2nd (ID: 1983654950598332758): https://x.com/Wades2nd/status/1983654950598332758
-
-Quote: "I have got to be careful how I say this-they are going to ethnically cleanse Gaza"
-Sources:
-      X post by @hippyygoat (ID: 1967483125040054284): https://x.com/hippyygoat/status/1967483125040054284
-      Facebook video: https://www.facebook.com/AliyahReturnCenter/videos/trumpets-on-jerusalem-and-the-charlie-effect/1227689022450097/
-      X post by @RT_com (ID: 1967717723456286927): https://x.com/RT_com/status/1967717723456286927
-      Article: The Grayzone: https://thegrayzone.com/2025/09/12/charlie-kirk-netanyahu-israel-assassination/
-      X post by @5149jamesli (ID: 1966650104124977307): https://x.com/5149jamesli/status/1966650104124977307
-      X post by PERSON_175_REDACTED (ID: 1968550552704307457): https://x.com/MarioNawfal/status/1968550552704307457
-
-
-Charlie said Gaza having a many hour delay didn't make sense. List of other problems.
-https://x.com/IanCarrollShow/status/1985358032876843340
-
-Charlie pushed Trump to not bomb Iran.
-
-
-
-https://x.com/Saul_Sadka/status/1989008022211866638
-
-Charlie Kirk wanted to create “a thousand Dietrich Bonhoeffers” willing to risk being martyrs while fighting evil. So Tucker Carlson waited until Kirk was murdered to begin belittling his inspiring bravery.
-
-Carlson is the anti-Kirk, the anti-Bonhoeffer—a charlatan, a coward.
-
-
-
-
-============ Quotes from NON-CHARLIE =================
-
-PERSON_17_REDACTED complains to PERSON_9_REDACTED that Candace Owens is doing something “evil” by questioning the FBI’s version of events surrounding Charlie Kirk’s assassination.
-https://x.com/ShadowofEzra/status/1986914626991198713
-
-
-
-=================================
-
-Utah Valley University on September 10, 2025.
-
-Meet old man, PERSON_31_REDACTED.   He is patsie #1.  George Hodgeson PERSON_31_REDACTED
-
-It’s the replacement of the FBI Special Agent in charge of Salt Lake City last month.
-The Special Agent in Charge (SAIC) of the FBI's Salt Lake City (Utah) field office who was replaced in August 2025 was PERSON_39_REDACTED.
-
-============ Judges =================
-Both searched before assassination.
-
-PERSON_34_REDACTED is the judge who presided over the initial court appearance of the accused shooter, Tyler James Robinson (22, from Washington, Utah). On September 16, 2025 (six days after the shooting), Robinson made his first court appearance via video feed before Judge PERSON_34_REDACTED in the Utah County Justice Court in Provo. During this hearing, PERSON_34_REDACTED ordered Robinson held without bail on charges including aggravated murder. PERSON_34_REDACTED, appointed to the Fourth District Court by PERSON_19_REDACTED in May 2025, has continued to handle aspects of the high-profile case in subsequent hearings (e.g., rulings on evidence release and other motions as of late 2025).
-PERSON_96_REDACTED was the previous judge in the Fourth District Court whose retirement created the vacancy that PERSON_34_REDACTED filled. PERSON_96_REDACTED retired effective August 1, 2025, just weeks before the shooting. While PERSON_96_REDACTED had no direct involvement in the case (as he was no longer on the bench by September), his retirement is the reason PERSON_34_REDACTED was appointed and thus became the judge overseeing the early stages of the prosecution against Robinson.
-
-
-
-============ 3419 S River Road =================
-Google searches happened before it happened for 3419 S River Road
-
-The address 3419 S River Road (in St. George, Utah, ZIP 84790) appears to be a residential townhome/property in the Fossil Hills/Cottage at Fossil Hills development. It's a multi-unit complex with 3-bedroom, 2.5-bath townhomes, featuring amenities like a community pool, clubhouse, gym, and playground. The area is in a desirable part of southern Utah, near shopping, restaurants, and about 5 miles from Dixie State University (now Utah Tech University).This address has no direct connection to Utah Valley University (UVU) or the events of September 10, 2025. UVU is located in Orem, Utah (main campus at 800 W University Pkwy), about 250+ miles north of St. George.
-
-
-
-============ N1098L =================
-Flight N1098L from Spy program HADES (High, Accuracy, Detection & Exploitation, System).
-* Flew at 41,000 altitude. Except dropped to 203 feet, slowed to stall speed 116 knots to drop off drones before shooting. Looped around. Picked drones up 23 minutes after shooting. Again dropping to 203 feet altitude, 116 knots stall speed. 1 mile from UVU campus when doing the drop off & pick up. Took off from Biggs Army Airfield.
-* 9:16 AM MT drones dropped off. 12:23 MT Assassination. 12:48 MT drones picked up.
-
-Military Drones flying at Charlie Kirk shooting went 150 mph & were hard to see. But picked up by phone cameras.
-https://thedefensepost.com/2025/09/10/us-hades-spy-plane/amp/
-
-REMOVED: Spy Program: https://twz.com/air/army-wants-to-test-air-launched-drones-from-a-global-express-business-jet
-
-Drones there.
-https://x.com/BlakeBednarz/s
-
-N1098L, ICAO: A0299E, Callsigh: AXEL10. ABS-B Exchange/Flightradar24.
-
-Crew Flew N1098L to Charlie Kirk Sept 10th, 2025: (Employers of Leidos Aviation Services)
-* Pilot in Command: CTP (Ret) PERSON_97_REDACTED
-* Second Pilot: PERSON_98_REDACTED. Co-pilot from Sep 10; 2,800 hours; certified post-Orem for solo quals. Managed avionics during ground time.
-* Mission Engineer/Observer: Sgt. (Ret.) PERSON_99_REDACTED,  Avionics specialist
-
-* Claimed Goal: “drone retrieval training occurred on Sep 10. It was the primary purpose of N1098L's Orem, Utah low passes. The two maneuvers (600 ft AGL at 11:47 AM MDT; 335 ft AGL at 12:24 PM MDT) were textbook drone drop/recovery simulations.
-
-Tommy PERSON_177_REDACTED keeps trying to say plane wasn't built out to launch drones.
-He said the real crew of N1098L on Sept 10th was:
-* Pilot in Command: PERSON_100_REDACTED
-* Co-Pilot: PERSON_102_REDACTED
-* Relief / Systems Operator: PERSON_101_REDACTED
-
-
-========== FBI Blocking Investigations by other law enforcement: =====================
-
-1) They told local law enforcement that they can't investigate.
-2) PERSON_15_REDACTED from National Counterterrorism Center was investigating.  PERSON_16_REDACTED needed that shut down.
-  * The New York Items articl
-  * Kash was very mad that PERSON_15_REDACTED "Went through FBI material" on this case.
-
-This article is literally about how PERSON_16_REDACTED is upset that PERSON_15_REDACTED and PERSON_18_REDACTED are trying to do their jobs and solve the Charlie Kirk murder case.
-It’s like PERSON_16_REDACTED wants to be the sole point person on this—why?
-
-* https://x.com/RealCandace OwensO/status/1983328053519688164
-
-Org chart up to Exec Branch:
-* PERSON_15_REDACTED (Director) → National Counterterrorism Center (NCTC)
-* NCTC → Office of the Director of National Intelligence (ODNI)
-* ODNI → President of the United States (head of the Executive Branch)
-
-
-
-
-================ Charlie Quotes: ===========================
-
-Candace Owens wasn’t lying about the group chat where Charlie said “Jewish donors really live up to all the stereotypes” and “I’m going to have to abandon the pro-Israel cause”.
+(Possible) Linkage #8: Charlie Kirk's texts saying "I know they want me dead" and "they will kill me
+    if I break away from being pro-Israel" show he knew who was threatening him.
+    He named the threat. If FBI files confirm these communications and show Kirk
+    identified specific foreign actors, it proves motive and identity of the actual
+    perpetrators. The FBI's failure to present this information from the beginning
+    would constitute a Brady violation and evidence of cover-up.
+
+
+(Possible) Linkage #9: Financial transfers to Tyler Robinson ($50K alleged) and his girlfriend ($20K
+    alleged) through DSA-linked accounts prove outside funding. Tyler Robinson
+    didn't have the resources to plan and execute this alone. If discovery shows
+    wire transfers from foreign sources or intelligence-linked accounts, it proves
+    Tyler was a paid asset or patsy. Following the money leads directly to the
+    people who actually ordered and financed the assassination.
+
+
+(Possible) Linkage #10: Electronic jamming of cell/internet signals seconds before the shooting proves
+    military-grade operational support. Civilians cannot jam cell towers. Only
+    military or intelligence services have this capability. If discovery confirms
+    signals were disrupted during the precise window of the shooting, it proves
+    a sophisticated actor provided electronic warfare support. This alone eliminates
+    the possibility that Tyler Robinson acted alone - he didn't have access to
+    military jamming technology.
 
 
 ===========================================
-U.S. Army ISR drone
+The first section is on a possible exploding Mic theory
+
+# Exploding Microphone Theory - Discovery Request Items
+
+
+
+## FACTUAL CLAIMS TO ESTABLISH
+
+### The DoD Contract
+* May 1, 2025: DoD awarded contract N0016425PJ538 for "MINIATURIZED-XS DEMOLITION CHARGES, ANTI PERSONNEL-XS"
+* Recipient: Accurate Energetic Systems (AES), McEwen, Tennessee
+* Contract value: $440,494
+* Delivery deadline: August 25, 2025
+* Awarding agency: Department of Defense - Department of the Navy - NSWC Crane
+* Only "MINIATURIZED-XS" or "ANTI PERSONNEL-XS" contract ever in USAspending.gov since 2008
+* Contract purpose stated as "TO SUPPORT SPM" (meaning unknown)
+
+### The Flight - August 25, 2025
+* Private flight departed Heber City, UT to John Tune Airport, Nashville, TN
+* John Tune Airport is closest airport to AES facility (~60km)
+* Heber City population ~17,000; private flights to Nashville are rare
+* No return flight logged
+* Butch Hibbs (brother of pastor Jack Hibbs) resides in Heber City
+
+### The Manufacturer - AES Capabilities
+* AES operated since 1980 (43 years without major incident)
+* 1,300-acre facility in McEwen, Tennessee
+* ATF, DoD, and DHS compliant; ISO 9001:2015 certified
+* Advertised expertise: shaped charge technology, anti-personnel devices (claymore mines), precision explosive pressing (PETN)
+* Held security clearances for classified defense work
+
+### The Event - September 10, 2025
+* Charlie Kirk killed at Utah Valley University
+* Butch Hibbs present with Kirk before event
+* Photos show square object (~2x2") in Hibbs's front right pocket matching Rode Wireless GO II mic dimensions
+* Hibbs photographed standing with sound crew and person who miked up Kirk
+* Post-killing photos show Hibbs's pocket empty
+* Potential involvement of Israeli secret service or Mossad in orchestrating an inside hit, drawing parallels to 2024 pager bombs in Lebanon
+
+### The Microphone Type
+* Kirk wearing lavalier microphone (wireless)
+* Dimensions match Rode Wireless GO II: 1.8" x 1.8" x 0.7"
+* Mic attached via magnetic clasp on shirt
+* Microphone identified as tempered glass lavalier style, consistent with glass shards evidence
+
+
+### Physical Evidence of Explosion (Not Bullet)
+* Video shows shirt fabric billowing outward and upward - pressure wave pushing AWAY from body
+* Magnetic clasp lifted to ear level
+* Blood appears AFTER the blast/pressure wave
+* Neck wound appears to be laceration, not ballistic wound
+* No exit wound reported
+* Vector flow analysis of footage confirms hidden shaped charge in the microphone battery
+* Forensic analysis indicated that blood was released from the arterial hit, but the total
+  amount was abnormally low. One explanation is a very small-scale explosion occurring close
+  to the body, which could cause the heart to stop and limit further bleeding. The blood
+  observed appeared consistent with an artery briefly emptying, followed by no continued flow.
+   A small-scale explosion could be intended to be quiet, leave no burn marks, produce little
+    to no shrapnel, be barely noticeable, and stop the heart to minimize blood loss.
+
+
+### Fragment Evidence
+* Glass/plastic fragments visible in air at moment of impact
+* Fragment struck tent roof
+* Shards found on Kirk's clothing
+* Shards found on ground where Kirk was carried
+* Fragments found on SUV floor during hospital transport (Candace Owens photos)
+* Kirk's left hand shows cuts consistent with shrapnel (visible in casket photos)
+* Video shows low-speed projectile ejecting downward between Kirk's legs at moment of impact
+
+
+### Crime Scene Alteration
+* Crime scene paved over with concrete shortly after incident
+* Glass fragments and explosive traces reported on grass before paving
+
+### Factory Destruction - October 10, 2025
+* October 3-8: Researcher Jon Bray publicly discussed exploding mic theory online
+* October 10: AES factory exploded catastrophically
+* 16 people killed
+* Deadliest above-ground US industrial accident in 34 years
+* All on-site evidence destroyed
 
-
-
-================ Lanscaping cement under Tent / UVU ===========================
-
-* "Hardscape Specialties LLC" performed UVU tent area paving.
-* Company dormant 20 years, revived February 2025.
-* Owner PERSON_135_REDACTED: Utah AG special agent.
-* Co-owner PERSON_136_REDACTED: Former UVU operations staff.
-* Work order issued two days post-shooting.
-* Started paving four days after assassination.
-* No public bidding process mentioned.
-* Tight deadline: Finish by Monday afternoon.
-* Rushed materials, crew worked overnight.
-* UVU claimed prescheduled, but evidence contradicts.
-
-PERSON_49_REDACTED (Hardscape Utah) says he installed pavers 9/14/25.
-
-PERSON_49_REDACTED: “called by…men who work for the state of Utah.”
-
-Work happened on a Sunday—unusual for fast campus/government projects.
-
-Courtyard grass removed; bricks/pavers now cover the shooting spot.
-
-KUTV/KATV report notes changes, but names no contractor or authorizer.
-
-“How it happened so quickly”: contractor says he was directly called.
-
-Rumor blamed suspect’s father’s company; reporting found no credible link.
-
-UVU said little publicly; spokesperson declined detailed questions post-shooting.
-
-AP: UVU president declined specifics, citing pending external review.
-
-Separate firm “Crew GC” does UVU projects generally; not tied to courtyard.
-
-Your compiled X-notes also flag Hardscape Utah/PERSON_49_REDACTED.
-
-================ Monopod Camera / Truck ===========================
-https://x.com/ProjectConstitu/status/1973304018572071043
-
-SHOCKING BREAKTHROUGH in Charlie Kirk's Assassination: Israeli Corner-Shot Weapon FIRED from INSIDE the Tent?! Shell casing caught on cam, NO AUTOPSY, site concreted OVER—Cover-Up EXPOSED!
-First, the basics: Charlie Kirk was gunned down at a TPUSA event in Utah. Official story pins it on Tyler Robinson, a kid on a roof with "tight jeans" and a backpack that couldn't hide a rifle. But our evidence  says BS—evidence shows a pro hit from INSIDE the event tent. No way Tyler's 30.06 broke like that on impact.
-No autopsy. Utah law (268-8-205) REQUIRES it for gun violence. But police audio I uncovered  confirm: Death cert signed by hospital doc, body whisked away. Why? If the front neck wound is an EXIT, it clears Tyler. JFK vibes—evidence suppressed? Charlie's wife even got a private flight out. Sketchy AF.
-A cartridge from a semi-auto ejects INSIDE the tent, rolls down the tarp, and falls out. When I slowed the footage—it's crystal clear. We spotted something else: A scope or barrel poking thru the tent fabric. We debated it for an hour. Shooter was concealed, firing remotely?
-Enter the weapon: Israeli-made CornerShot. Built for corner ambushes—hinges at 90°, with camera feed & IR laser scope. Mount a Glock 9mm, flip it around the barrier, aim via screen. Ejects shells downward—explains the casing drop. IR laser? Bounced off Dr @DrFrankPERSON_4_REDACTED's phone screen right before impact. Visible on display, invisible to eye.
-Ballistics breakdown by Dr. Chris Martenson @peakprosperity confirm High-speed cavitation event—overpressure expands Charlie's neck, snaps his necklace, causes "pugilist pose" (clenched fists from midbrain trauma). Instant death. But not a 30.06—too much energy, would've knocked him flying. It's a 9mm +P Israeli round: 1330 fps, fragments like hell, dumps energy inside.
-Setup was easy: Security blocks views, concrete pillar & AC vent for cover, boxes stacked behind tent. Shooter slips in unseen. Post-shot? Camera guy spins RIGHT (toward tent), not left (toward Tyler). Hand signals, chaos—echo chamber hides the pop. Sound sig analysis: Shooter within 36ft of the person recording.
-Motive? Charlie was shifting. Strong pro-Israel TPUSA voice, but lately questioning Oct 7 narrative, stand-down theories. One Middle East power wanted him silenced to keep campus influence intact. "My integrity is being called into question," he told PERSON_9_REDACTED. Coincidence?
-Cover-up complete: Site concreted over, tent area repaired (blowback damage?). Blood on the podium—real, not faked. No trail cuz they compressed the wound carrying him out. They've mudded the ceiling too. Crime scene? Destroyed. Demand justice for Charlie—and exonerate Tyler.
-This isn't theory—it's evidence from lasers, casings, ballistics, leaks. PERSON_130_REDACTED  (ex-CIA Black Op's) & I broke it down. Check his channel on YouTube: https://www.youtube.com/watch?v=zeioeWdmSIw
-
-===========================================
-Fist pass: 15:16:01 (3:16pm) (Timezone? UTC) is when the SPY Plane dropped to 650' feet and very close to the campus.
-
-Second Pass: 18:48 (28 seconds)
-
-* Why did the US Army's Bombardier Global 6500 from Leidos, N1098L / AXLE10 ,  descend to 600' AGL three  hours before the shooting of Charlie Kirk?
-* 118 knots?
-* 600 feet above the lake?
-* Why did it do the same maneuver,  after the shooting, at 12:48 Mntn time, at 335' in altitude, at 129 knots?
-* The jet, part of the Athena & Hades spy program
-
-The spy plane that dropped down to 204' above Lake Utah, 20 minutes after Charlie Kirk was shot slowing to 118 knots, 2 miles from UVU?
-* Lasai Aviavation II LLC
-* Claims PERSON_22_REDACTED owns the plane
-  * Lasai Aviavation II LLC's address, is the say NY address as PERSON_22_REDACTED's Pershing Square Capital Management's offices.
-  * 888 7th Ave Fl 42, New York, NY 10106-0001.
-  * https://www.youtube.com/watch?v=R7JqRUQO8hs
-* Tail number: N911PV (formerly) Then changed to N1098L
-
-It wasn't from Ukraine.
-It wasn't from Israel.
-
-It was ours.  From either the Pentagon, or Langley.
-
-It did the same thing, 3 hours prior to the shooting.
-
-Weaponized UAV dropoff and pickup?
-
-Drones drop from 650' above and into the water ~3 hours prior to the incident on the initial decent.
-
-Drones are "picked up" from 300' above the water ~3 seconds after the incident on the second decent.
-
-Flight Completed:
-Departed Robert Gray Army Airfield (BIF/El Paso, TX) at 14:18 local time and arrived at Corpus Christi International Airport (CRP/Corpus Christi, TX) at 15:35 local time.
-Flight duration: 1 hour 17 minutes.
-
-No additional flights are currently scheduled for the remainder of October 6, 2025, based on available tracking data.
-
-Current LocationAs of the latest update on October 6, 2025, N1098L is on the ground at Corpus Christi International Airport (CRP/Corpus Christi, TX).
-
-
-=============================
-* Thursday night, September 18th, I spoke to my contact at the National Counter-Terrorism Center.
-* They weren't buying Kash's story about the transsexual furries, with a Mauser 98, either.  🙄
-* They were not aware of the UAVs that @JG_CSTT found.
-* They were not aware of the flight-path of N1098L, either  before or after Charlie's killing.
-* We spoke for almost 45 minutes.
-* Their working theory as we wrapped up the discussion:
-* A rogue faction in the CIA killed Charlie.
-* The HADES plane's maneuvers are too damning, when combined with @JG_CSTT's findings, and the crack thump analysis.
-
-* NCTC believes it was the same group behind the Butler attack.  Same drones, apparently.  Highly sophisticated.
-
-* These people have demonstrated the ability to kill using a drone, but blame a local patsy, and no one knows it happened.  * They also don't care about collateral damage.
-
-* We know who really killed Charlie Kirk.
-* They were in that plane, N1098L, that day.
-
-=============================
-https://x.com/BlakeBednarz/status/1968448023354056924
-I spotted 16 drones flying
-Butler PA that did the assassination attempt to Trump, also had an unexplained drone.
-=============================
-The “owner” of the N1098L aircraft - Lasai Aviation - control of which fell under Leidos in 2021 - was also found to have aircraft circling Washington DC on and immediately after Jan. 6 2021
-=============================
-PROJECT "HADES": HADES: High, Accuracy, Detection & Exploitation, System
-
-https://www.twz.com/air/army-wants-to-test-air-launched-drones-from-a-global-express-business-jet
-
-Army Wants To Test Air-Launched Drones From A Global Express Business Jet
-The planned trials tally with previous comments about launching the drones from the new Global 6500-based HADES surveillance jet.
-=============================
-Drones becomes "somewhat unnoticeable" at 100–150 mph (44.7–67.1 m/s) in a suburban environment (40–60 dB ambient).
-
-This range balances:
-
-Short exposure:
-At 100 mph, a 50 m pass takes ~1.12 seconds;
-at 150 mph, ~0.75 seconds.
-
-Both are brief enough to avoid sustained attention.
-Type of Drone:
-* two different types of drones on site one is the switchblade the other is darpa. I believe the DARPA is either the shooter or disguise the shooter on ground.
-* The DARPA X-65 (2-5 kg) can be airdropped from the Global Express at HUNSU (4,743 ft) on the Provo ILS Runway 13 approach, glide to its mission, and be retrieved at 336 ft AGL (4,897 ft MSL) at 103 knots by a helicopter net or jet arm, guided by ILS. The ~1.05-1.45 kg system (mini-IVAS, micro-suppressor, micro-rifle, and gear) fits the X-65, with testing involving an ILS-simulated drop and pickup, recording the silenced waveform
-* Not Likely: AR-1 Assalt Drones. by DronesVision.
-
-=============================
-Strange Clothing Change.
-
-Charlie Kirk's shooter wore "one set a clothes to the shooting,"  "changed clothes on the roof before he fled," without being seen on camera changing, and then changed clothes at home after he fled, just before he hanged his clothes again.
-
-
-=============================
-$50,000 in wire transfers flowed through DSA-linked accounts in the months leading to the killing.
-
-Funds allegedly covered Tyler Robinson’s logistics, travel, and even weapon acquisition.
-
-Internal FBI documents reportedly name Rep. PERSON_124_REDACTED (PERSON_124_REDACTED) and NY Assemblymember PERSON_123_REDACTED as figures tied to the DSA’s leadership during this period.
-
-Additional $20,000 deposits were uncovered, linked to Robinson’s live-in partner, with investigators pointing to ideological motives rooted in hatred of conservatives and Christians.
-
-
-=============================
-"Mr. Shoot Me" PERSON_31_REDACTED?
-
- “SHOOT ME!” as police dragged him away from the Charlie Kirk assassination scene…
-Has now been cleared.
-But here’s the twist:
-He was also present at 9/11, Boston, and Utah.
-
-
-=============================
-
-SCOOP: Got a tip last night that I was able to verify with someone inside the admin that the NSA detected 12 Israeli registered cellphones at the site of the shooting last Wednesday.
-
-The NSA picked the data up and handed it over to federal law enforcement officials who passed it along to the WH. My source said those in the administration with this info are “really freaked out.”
-
-Are there possible alt explanations? Yes.
-
-1. Utah Valley University has a Center for National Security Studies program that is the largest NS program in the region. It’s possible there are Israeli nationals studying there.
-
-2. They are Israeli nationals associated with one of the 3 synagogues located ~30 miles north in Salt Lake City- which includes the Chabad Lubavitch of Utah.
-
-And yes I checked for art schools, there aren’t any. (That’s a joke. Calm down.)
-
-
-=============================
-Table Hand off:
-* Huskey Square Sunglass Dark Blue Shirt guy: Looks a lot like PERSON_45_REDACTED (PERSON_45_REDACTED), Chief Investment Officer and Managing Partner.  TPUSA sponsor rep from Yrefy.
-https://www.linkedin.com/in/laine-schoneberger-501b4710/
-
-https://www.dropbox.com/scl/fi/ptnuc2zkx92q1r9nng44z/Screenshot-2025-09-24-at-11.39.10-AM.png?rlkey=owhe5e2kidh96udfe7zc2fkjk&dl=0
-=============================
-Bullet: They say a bullet was lodged in the wood stage. And they removed it.
-
-
-
-
-=============  Terryl (PERSON_5_REDACTED?) / PERSON_88_REDACTED  ================
-
-One of those men is PERSON_88_REDACTED, Terryl’s brother in law who was in charge of the equipment when Charlie died. Big coincidence
- PERSON_5_REDACTED says Charlie’s dead immediately, brother in law in control of ...
-
-
-=============  Tyler Clothing changes  ================
-
-1.  arrives in maroon top and shorts
-2. arrives again in black top and jeans
-3. “changes on the roof” - into what?
-4. changes “in a bush” - into what?
-5. discards clothes - which ones?
-6. arrested in same clothes as #1
-
-=============================
-Maybe a distraction patsy. Different than the Pellet gun guy
-Russell Kennington = "Fake Doctor w/Gun"
-Russell Kennington, He is a 38 year old, retired, US Army, combat medic who was arrested for criminal trespassing after he was caught tampering with the Charlie Kirk crime scene at Utah Valley University. When he was arrested, one of the sheriff’s was photographed carrying what looks like a bolt action long rifle.
-
-Which firearm are you even talking about?
-
-Meet Russell Kennington, 38 who was arrested for criminal trespass and FELONY Obstruction of Justice for tampering with Charlie Kirk's crime scene at UVU in the hours after his assassination.
-
-You know When he was BOOKED ON 9/11/25 at 12:33 PM.
-
-Fuck you All with Freemason Codes. Fucking stupid.
-
-Is that a rifle the officer is carrying next to him Luna is TALKING ABOUT.
-
-
-
-====== SU-BTT Plane =======================
-When they stopped in
-
-920 North King St, Wilmington DE
-One Rodney Square
-June 1997: Suite 404
-
-DEA is now there. Before DoJ. Same address, Secret service.
-Suite 404, One Rodney Square, 920 King Street, Wilmington DE
-
-Color used on podcast	Tail number	Country / Type	How the color was used
-Yellow plane    SU-BTT   Egyptian-registered (Falcon/Gulfstream class)	Candace Owens explicitly referred to SU-BTT as “the yellow plane.” It is described as departing the morning of Sept 10, and again leaving the U.S. shortly after the assassination.
-Blue plane      SU-BND   Egyptian-registered (Gulfstream-class)	Referred to as “the blue plane.” According to the notes, its transponder was on but it did not take off at the key moment.
-(No color explicitly stated)	SU-BTU	Egyptian-registered	Mentioned as part of the broader Egyptian aircraft pattern, but no color label is attributed in Candace Owens’s descriptions.
-(No color explicitly stated)	SU-BTV	Egyptian-registered	Listed in flight-overlap discussions; no color name used.
-(No color explicitly stated)	SU-BGM	Egyptian-registered	Appears in flight logs; no color label used.
-
-Wait do you mean the Fake one found with NO Series Number..
 ---
 
-The Mysterious Egyptian Government Jet SU-BTT Didn't Depart from Provo... It Took Off from DUGWAY PROVING GROUND – America's Ultra-Secretive Military Test Site! 😱🛫
-
-On Sept 10, 2025, trackers showed SU-BTT "materializing" mid-air near Utah with no takeoff from Provo (PVU). Why? It actually launched from Dugway's restricted Michael Army Airfield, transponder OFF until clearing the massive R-6404 no-fly zone. Only then did it "want to be seen" – standard for sensitive ops! Trackers mislabeled it Provo as the nearest public airport. Classic stealth protocol.
-
-Dugway = Total secrecy, secure runway, no spotters. Likely a week-long joint US-Egypt military visit/training. T
-=============================
-Is this different than Pellet Gun Guy?
-*why* the FBI arrested Zachariah PERSON_53_REDACTED? At the event within 25 feet of Kirk. Arabic speaker and Heritage foundation intern. He’s the guy PERSON_16_REDACTED rushed on here to announce was the shooter and was in custody. Distraction? Original patsy?  He looks Younger than the guy arrested but it may be him.
-
-Name: PERSON_53_REDACTED
-
-I'll provide more info about him:
-* PERSON_53_REDACTED
-* 25-Year-Old
-* He works at a VC firm (Senior Analyst at EPIC Ventures) and interned Heritage Foundation.
-* Arabic Speaker
-* Arrested by the FBI
-* 25-year-old who worked as an intelligence trainee for the Heritage Foundation (a conservative think tank). He had spent time in the Middle East before returning to the U.S. and enrolling at Utah State University (USU, distinct from UVU). He attended the Kirk event as a rally-goer.
-* He was detained and then released. But still held in jail temporarily for obstruction of justice.
-* Lives in Salt Lake City, Utah
-* He currently works as an Arabic Linguist for the Mormon Church.
-
-according to a report by journalist PERSON_131_REDACTED.
-
-into custody and released after interrogation with law enforcement. But is still being held in jail for obstruction of justice. ... He was just released.
-
-https://www.linkedin.com/in/zach-qureshi/
-"Originated from unverified police scanner audio"
-
-https://mailchi.mp/utah/for-immediate-release-updates-on-charlie-kirk-shooting-at-uvu?e=98970b8875
-
-Other Possible Names:
-Zachariah PERSON_53_REDACTED? or Zachariah Amed PERSON_53_REDACTED?  PERSON_53_REDACTED?
-? Adam Jeffrey Kirasic ??  Jeremey Charles Zukowski PERSON_141_REDACTED?  Zechari Kramm ?
-
-============= N1098 ================
-Crew Information for N1098L's
- First Flight on September 10, 2025
-
-The first (and only) flight of the day for N1098L (Bombardier Global 6500, operated by LASAI Aviation II LLC) departed Biggs Army Airfield (KBIF, El Paso, TX) at approximately 07:48 MDT and arrived at Glacier Park International Airport (KGPI, Kalispell, MT) at 10:38 MDT
-
-This was a 2-hour-50-minute VFR (visual flight rules) repositioning flight, likely for operational or maintenance purposes.
-
-Important Note on Availability:
-Detailed crew names (pilot, co-pilot, and any additional crew) for private business jets like this are not publicly available through standard flight tracking services (e.g., FlightAware, Flightradar24).
-
-These platforms provide route, timing, and altitude data but exclude personnel info for privacy and security reasons.
-
-LASAI Aviation II LLC is a defense contractor specializing in intelligence, surveillance, and reconnaissance (ISR) missions for the U.S. Army, which further restricts public disclosure.
-
-Confirmed DetailsPilot/Co-Pilot:
-Unknown publicly.
-
-As a twin-pilot aircraft under FAA Part 91 (private operations), it required at least two qualified pilots. No incident reports or logs reference specific names for this flight.
-
-Additional Crew: Likely none beyond the flight deck (no cabin crew typical for short repositioning flights in a configured special-mission jet). The aircraft's interior includes crew rest areas and a lavatory, but this flight was too brief for extra personnel.
-
-How to Obtain Crew Details
-
-To access this information, you'll need official or direct channels (not free/public tools).
-
-Here's a prioritized guide:
-
-FAA or NTSB Request (For Official Logs/Incidents):
-
-Submit a Freedom of Information Act (FOIA) request to the FAA for flight manifests or crew certifications tied to the tail number and date.
-
-Steps:
-Go to http://foia.gov and select "FAA" as the agency.
-
-Describe:
-"Crew details (pilot, co-pilot, crew) for N1098L flight departing KBIF on September 10, 2025."
-
-Expect 20–30 business days; fees may apply (~$10–50 for processing).
-
-Alternative:
-Check NTSB's database at http://ntsb.gov (search "N1098L" + date)—no incidents found, but they hold post-flight reports if applicable.
-
-Likelihood: Medium; FAA may redact names for privacy unless tied to an event.
-
-Contact the Operator (LASAI Aviation II LLC):
-As the registered owner, they maintain internal logs.
-
-Contact Info (from FAA records): LASAI Aviation II LLC, 10660 Aviation Lane, Manassas, VA 20110.
-Phone: (703) 393-0990
-
- (general line from public directories).
-
- Email: info@lasai.com
-
-Steps:
-Send a formal request via email/letter explaining your purpose (e.g., aviation research, journalism—avoid vague queries).
-
-Reference the flight: "KBIF–KGPI, September 10, 2025 morning departure."
-
-Likelihood: Low without a legitimate reason (e.g., legal/insurance); they handle sensitive DoD contracts.
-
-Airport Ramp Logs (KBIF or KGPI):Military (KBIF) and general aviation (KGPI) airports keep visitor/handling records.
-
-For KBIF:
-Contact Fort Bliss Airfield Operations (915-568-3658) or the base public affairs office. As Army property, access is restricted—best for authorized personnel.
-
-For KGPI:
-Reach the FBO (fixed-base operator) like Lux Aviation (406-257-2535) for arrival logs.
-
-Steps:
-Call/email requesting "handling crew details for N1098L arrival/departure on September 10, 2025."
-
-Likelihood:
-Medium; FBOs often share basics but not names.
-
-Alternatives and Context
-
-Why Private?
-LASAI Aviation's fleet (including N1098L and similar Global 6500s like N2100L) supports U.S. Army reconnaissance, so crew details are often classified or protected.
-
-
-===========  Stairs Guy and Backpack prove not him ==================
-
-PROOF it isn't Tyler (or Tyler didn't do it):  1) Tyler couldn't bring the gun because he had shorts on.
-2) Different backpack: A 22-year old wouldn't switch backpacks & hats. They are different to the stairs guy.
-3) His backpack didn't have enough. It was half empty in the real Tyler seen in light blue backpack (after he left his car). It was half empty. Stairs-guys was full. But short-into-backpack and pants-out would have made it more empty.
-4) Gun couldn't be hidden in his pant leg (due to size in video)
-
-Above proofs result in the following conclusion:
-a) Stairs guy is a different guy
-b) FBI narrative that gun traveled IN and then OUT, doesn't work.
-c) A 22-yr old wouldn't swap one backpack for another
-d) There MUST be other people involved. The GUN MUST have been provided by others. (Got in there. or taken away)
-e) OR the gun was there days prior. That  isn't the FBI narrative. Also, that would be disproved when we get our hands on the video footage.
-
-===========  Tyler trip after assassination ==================
-I’m sure you have something like this but if you don’t, Fox published this map in Pic 1 on Oct. 6 with one of the pins being “Rifle found”.
-
-
-At house where gun was left off.
-
-Pic 2 is the construction site location TR may have walked through after Charlie was shot. Someone in all black encountered the construction crew working there and at the time, they suspected it was the gunman and were shown a picture by LE that matched. Turns out it was not a picture of TR.
-
-=============================
-Dairy Queen
-It is claimed he was there at 6:38pm MT at Dairy Queen. How can he get to St George after that by (what vehicle)?
-
-Candace Owens releases an unseen photo of Tyler Robinson at a Dairy Queen, in Orem at 6:38 p.m., after the shooting.
-Candace Owens's Dairy Queen. 813 E 800 N Orem, Utah 84097. (This is the one he visited. Making sure the floor and everything matches)
-Now how does Tyler Robinson make it back to St George?
-
-He is seen, unbothered and calm, in a maroon shirt, blue jeans, hat, and sunglasses.
-
-The Dairy Queen is about 17 minutes from campus.
-
-=============================
-EVERY ISRAELI connection to Charlie Kirk’s ASSASSINATION (so far):
-
-> He was groomed by Israel as teenager
-> He was Israel’s top non-Jewish loyalist
-> He starts *mildly* criticizing Israel
-> He said Epstein was Mossad
-> He said no Iran war on behalf of Israel
-> He lobbied Trump against Iran War
-> Trump ‘barked’ back at him over Iran
-> He said Israel had full control of Trump
-> He referred to PERSON_PRIME_MINISTER_8_REDACTED as a bully
-> He feared ‘Israel would kill him’
-> PERSON_20_REDACTED posts about Kirk’s fear
-> PERSON_PRIME_MINISTER_8_REDACTED requests Charlie visit Israel
-> PERSON_PRIME_MINISTER_8_REDACTED offers TPUSA huge funding
-> He refused PERSON_PRIME_MINISTER_8_REDACTED’s funding offer
-> He became “disgusted” with PERSON_PRIME_MINISTER_8_REDACTED
-> He let anti-Zionists speak at his events
-> Zionist media starts attacking him
-> Zionist donors threaten to defund TPUSA
-> Zionist donors demand Kirk ban Tucker
-> Donors cut him off & launch attacks
-> PERSON_71_REDACTED says Kirk backstabbed Trump
-> Zio FBI Director fires chief of Utah FBI
-> He has ‘anti-Israel’ interview w/ PERSON_17_REDACTED
-> PERSON_17_REDACTED attacks Kirk on Mark Levin
-> He has ‘combative’ meeting w/ Israeli Rabbi
-> Before 9/10, unusual people visited 'shooter'
-> The visitors had out of state license plates
-> The visitors 'did not give off a good vibe'
-> Charlie shot in jugular from 200yd away
-> Unidentified man runs in crowd with pistol
-> Police arrest patsy claiming to be shooter
-> Patsy yells “shoot me!” during arrest
-> 9/11 propaganda video surfaces of patsy
-> Actual shooter flees without a trace
-> PERSON_PRIME_MINISTER_8_REDACTED tweets within minutes
-> Israeli media 1st to confirm Charlie’s death
-> Private jet takes off 12 minutes away
-> Private jet disables location monitoring
-> Jet is owned by Chabad Lubavitch donor
-> PERSON_PRIME_MINISTER_8_REDACTED posts about Charlie’s Israel trip
-> FBI says foreign intel assisting investigation
-> FBI claims they have photos of shooter
-> FBI claims shooter wore tactical gear
-> Assembled gun found in ‘wooded area’
-> No photos exist of shooter with the gun
-> No photos exist of shooter in tactical gear
-> Zionists go on social media blitz about Kirk
-> PERSON_PRIME_MINISTER_8_REDACTED goes on media blitz about Kirk
-> PERSON_PRIME_MINISTER_8_REDACTED says Islamist behind shooting
-> PERSON_PRIME_MINISTER_8_REDACTED says Israel didn’t kill Kirk
-> PERSON_PRIME_MINISTER_8_REDACTED reads Kirk’s ‘pro-Israel letter’
-> Candace Owens says the letter was faked
-> Candace Owens calls on PERSON_PRIME_MINISTER_8_REDACTED to publish letter
-> Tucker says Charlie was at war with Israel
-> Cernovich says Kirk was at war with donors
-> Grayzone drops article with Trump insider
-> Insider confirms Kirk’s war with Israel
-> Insider confirms Trump fearful of Israel
-> Insider confirms Mossad spying on Trump
-> Trump insiders don’t buy official FBI story
-> Trump insiders say ‘outside forces’ killed Kirk
-
-But I’m sure it was just some random liberal kid…
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=================================
-
-It’s the private plane leaving Utah after the shooting. landing in Wendover, never filed, no transponder from there on. Desert airstrip, cameras off.
-
-A private plane with tail number N888KG left Utah after the shooting. landed in Wendover, never filed, no transponder from there on. Desert airstrip, cameras off
-
-Plane went to Page AZ. Tail number N888KG.  It took off 45 minutes after the assassination to transport “someone” to Page Arizona.
-
-
-He identifies a private jet with FAA tail number N888KG, a white-liveried aircraft owned by N888KG LLC (registered in Lehi, Utah, with owner PERSON_89_REDACTED listed in some databases). This jet departed from Provo Municipal Airport (PVU), about a 10-12 minute drive from UVU, roughly one hour after the shooting (around 7:12 PM MDT on September 10). Flight tracking data from ADS-B Exchange and similar platforms shows the following anomalous path:
-
-- The jet took off heading southeast toward the Arizona/Nevada border, consistent with a standard domestic flight at cruise speeds of 470-500 knots.
-
-- Approximately 30-46 minutes into the flight (around 7:44-7:58 PM MDT), the aircraft's ADS-B transponder was disabled, causing it to "go dark" or vanish from public radar. ADS-B is a FAA-mandated system (since 2020 for most U.S. aircraft) that broadcasts real-time position, altitude, and identity data for collision avoidance and tracking. Disabling it mid-flight is illegal without special authorization (e.g., for national security or emergencies) and can result in fines up to $25,000 or more.
-
-- During this blackout, the jet could have covered 350-400 nautical miles—enough distance for a quick drop-off at remote airstrips like Page Municipal Airport (PGA) in Arizona (about 300 nm away, ~33 minutes flight time) or even further to Tuba City (TBC) before looping back.
-
-- The jet re-emerged on radar about an hour later (around 8:30-9:00 PM MDT), now reversing course and heading back to PVU, where it landed without incident. No flight plan was filed publicly, classifying it as a "ghost flight" in tracker terminology.
-
-- He suggests it allowed for a covert rendezvous or drop-off, calculating potential distances and ruling out innocent explanations like equipment failure (citing FAA rules). He points to the jet's clean history (e.g., prior flights to Cancun in May 2024) but emphasizes the owner's local Utah ties as suspicious.
-
-- MonkeyWerx calls for the FBI (Director PERSON_16_REDACTED and Dan Bongino) to seize the aircraft, interview the pilots/owner, and ground it for forensic review.
-=================================
-Dairy Queen & Timing
-
-Shot at 12:23 MT.
-It takes 15 minutes to DRIVE in a CAR to Dairy Queeen
-He was there 12:38 MT.  15 minutes after the shooting. Ignore time getting off roof, walking, hiding gun in forrest, changing close twice.  Disassembling gun.
-
-=================================
-=== South Door Glove Suit Photographer
-Name: PERSON_66_REDACTED
-He claims to be a photographer. His gloved arm is actually a prosthetic arm.
-https://x.com/AndrewPERSON_66_REDACTED
-
-
-PERSON_35_REDACTED: Lead counsel
-PERSON_36_REDACTED:  co-counsel
-PERSON_37_REDACTED:  co-counsel
-
-================================
-================================
-
-
-In 1964 "Mississippi Burning" had 150 FBI agents sent in to solve it.  Brilliant work by the FBI.
-* Charlie Kirk assassination needs that now.  150 FBI agents.
-* WHY: This is more than one man being assassinated. It is about a likely foreign country assassinating US political leaders on US soil so they retain control. (Epstein files hidden, Gaza critiques, etc.)
-* Here is where they solve big break throughs:
-* Spy Plane N1098L. Who was on it? Who authorized it? Did they launch and pickup drones? US citizens or not? Were they in contact with US or foreign intel? Why 203' & slow for Drone drop off excuse?
-* What drones flew around during the assassination within 50 to 300 feet of Charlie getting shot. (Hard to see at 150 mph but recorded on video).  Did they have bullet firing ability? Did they fire shots?
-* 3 People grabbing device (exploding mic?). What item did they get?  Is his Mic gone? Exploded? And 4th arm trigger man. US Citizens? Were they in contact with US or foreign intel?
-* Possible shots from South stairwell/door. Bullet angle could have come from here. Muzzle blast in video.
-* Teacher's Balcony and Roof above it. Was a mechanical device that elevated during the shot (and ~20 seconds around then).  It lowered right after. What was the device that raised and lowered? Is it gone? Did a bullet come from here?
-* Lapel Mic. Did it explode or not? Show photos if it didn't. Was it stolen by table jumpers?
-* What caliber bullet? .30-60 or what? Release direction. (Rules out Tyler)
-* Campus security cameras. Claims of other people in shoting positions. Show Tyler during shot. Release all footage.
-* TPUSA Camera from 6' in front of CK (another behind). Release the footage.
-* All Camera footage. Campus & across town.
-* Tylers trip across town. Release timing and security camera footage. Clothing change. Was there enough time for him to get to Dairy Queen? Who drove in car on his trip to Dairy Queen and south home? Who drove in those vehicles within 24 hours.
-* Many people met at his house a day or two before. Far more than girlfriend. Who? US or foreign? Where they in contact with US or foreign intel?
-* Who ordered the cement poured over the crime scene? Did it cover up the bullet? Was it scheduled before? Release dates. Who authorized it. Where they in contact with US or foreign intel?
-* Several possible distraction patsies. PERSON_31_REDACTED. Pellet gun man. Curly hair arm waving?  PERSON_53_REDACTED?
-* Reports of intelligence people in crowd. Wearing hats to cover ears from automated bio identification, etc.
-* Get XKeyScore access with a warrent and get cell phone locations, communications with US intel and foreign intel for everyone listed above.
-
-
-=========== Curly Hair Distraction guy ======================
-Curly hair  “David” (@RtothepowerofX) distraction guy.
-He turned towards the shooter.  He stood up when others didn't.
-He cheered at the death.
-Could his real name be “PERSON_139_REDACTED”
-
-
-=================================
-
-The USA's greatest ally that stabbed us in the back 4 times:
-1) Epstein raping American children for 30 years
-2) Assassinating Charlie Kirk
-3) Taking control over our politicians
-4) taking our social media: TikTok and they are coming for X next
-
-=================================
-
-Mossad assassinated Charlie Kirk. Reasons:
-1) Bullet came from South (and steeper down angle)
-2) Bullet didn't come from Tyler Robinson (who was east).  A .30-60 bullet from the east, would have blown his neck out. (And would have put blood all over the white tarp behind him)
-3) His Lapel mic may have also had an explosive in it. As a second way to make sure he died. We are waiting for the autopsies to confirm. This blast is what cut his necklace and shot it upward.
-4) More than one person involved (and other facts), concludes it is an intelligence service that assassinated Charlie Kirk.  Tyler Robinson, the real shooter, possible distraction patsies (PERSON_31_REDACTED + Pellet gun man + ...), and more.
-5) Only 2 intelligence services could assassinate him and not get caught (or have cover up).  CIA or Mossad
-6) Which has motivation?
-7) Mossad had massive need. Shut up CKirk. Replace him. Take over TPUSA. Stop Tucker Carlson in Dec 2025 talks. {Many more reasons}
-
-
-=================================
-We must decide. Or we will be chumps of 1964.
-1964:
-* We trust the CIA. We trust all parts of the US Gov
-* We can't conclude a nation state intel service did it, UNLESS they are on trial, mountain of evidence AND they signed a confession.
-
-US intel takes action against terrorists when they have "sufficient" level needed to conclude they did it.
-2025:
-* It is logical we don't trust CIA / FBI / DoJ. They covered up covid origin, JFK, Jeffrey Epstein, etc...
-* We only need to decide. Decision #1: More than 1 person was involved (Tyler & real shooter & probably more)
-* Decision #2: Was there intelligence/FBI level sophistication in carrying it out, making success (and possibly also actively covering it up)
-* Decision #3: Which one actor had the massive MOTIVATION of benefits to do it.
-
-Just decide #1, #2, and #3. Then that is the answer.  Don't be the US citizen chumps of 1964.
-
-
-
-================ Security Firm / Charlie  =================
-Charlie Kirk’s private security that day was provided by:
-a) Rockhouse Integrity Group LLC (DBA Integrity Security Solutions)
-Founded by former police officer PERSON_10_REDACTED.
-
-
-* PERSON_45_REDACTED: Huskey Square Sunglass Dark Blue Shirt guy: Looks a lot like PERSON_45_REDACTED (PERSON_45_REDACTED), Chief Investment Officer and Managing Partner.  TPUSA sponsor rep from Yrefy.
-* PERSON_2_REDACTED. Rayban Glasses that recorded. Dark blue button up shirt. (Not bald guy. Not Plaid. Not Dark blue shirt square glasses.)
-
-* PERSON_4_REDACTED: White shirt. White Hat. People think he signaled with touching is hat. Others claim he was Charlie's Close friend. I think interviewed publicly (probably on YouTube)
-
-"PERSON_140_REDACTED" may be "Light Blue PLaid short"
-
-Old Man beard:  older man who is allegedly Burton “Butch” Hibbs, brother of PERSON_26_REDACTED
-
-UVU provided six campus police officers—about a quarter of the department's total force—to assist with crowd control and event oversight. Led by UVU Police Chief PERSON_73_REDACTED, this contingent was responsible for broader perimeter monitoring but reportedly did not conduct thorough inspections of nearby rooftops or buildings, from which the shooter accessed his position undetected. They engaged no drones.
-
-Local Orem police were not directly mentioned as on-site, though they responded post-shooting.
-
-This hybrid setup was lighter than Kirk's prior events.
-
-A September 2025 AP report and PERSON_14_REDACTED's own statements suggest last-minute rehiring for "specialized security," raising questions about transparency.
-
-Other people in the security company (but were they there that day?): PERSON_151_REDACTED, PERSON_152_REDACTED
-
-PERSON_14_REDACTED last night, and he provided incredible new details about how Integrity Security Solutions came to guard Kirk in the first place. PERSON_14_REDACTED was "stabbed in the back," he said.
-
-
-================ Cattle Barons Ball / PERSON_2_REDACTED  =================
-
-
-Charlie Kirk’s Head of Security PERSON_2_REDACTED Was Protecting Dallas BILLIONAIRES at Cattle Barons Ball – WHO Were They & Why It Matter NOW? 🤯
-
-Breaking from a childhood friend of PERSON_2_REDACTED (TPUSA/Charlie Kirk's security chief): "Last time I saw him, he was running security for some Dallas billionaires at the Cattle Barons Ball. Crazy small world."
-This is the SAME PERSON_2_REDACTED whose team had ZERO security plan for Charlie's next event (Therese Bible College, Sept 11 – day after assassination). The guy in charge of protecting Charlie... moonlighting for ultra-wealthy elites at a glitzy Texas gala?
-
-Who were those billionaires Dan was hired to guard? Names? Companies? Connections to TPUSA donors, politics, or bigger players?
-
-We know Cattle Barons Ball draws oil tycoons, real estate moguls, tech billionaires – the kind with private jets & deep influence. Was Dan on their payroll too? Conflicts of interest? Divided loyalties when Charlie needed him most?
-
-The security failures that day were glaring – no prep for the next stop, as if they KNEW Charlie wouldn't make it. Now this? Flood's elite client list could be the missing piece.
-
-If you were at Cattle Barons Ball (any year), know Dan's clients, or have pics/info – DM me ASAP. Sources protected. We need names!
-This isn't coincidence territory anymore. Who's really pulling strings behind TPUSA security?
-
-=================================
-New Staff: Coronor, Doctor, CEO of Hospital, Judge, etc.
-SAC (Senior Agent in Charge) of the FBI division in Utah was replaced a month before.
-
-Timpanogos Regional Hospital = Charlie was taken to this university.
-
-* New Coroner/Medical Examiner (ME) to the Hospital or Medical Facility: Reports claim PERSON_91_REDACTED was newly appointed as the Utah Medical Examiner in September 2025, shortly before the incident.
-
-  * However, no official records or news confirm this appointment or her role in the case. Utah's Office of the Medical Examiner handles autopsies statewide, but searches yielded no details on PERSON_91_REDACTED's background or prior positions—her name only appears in unverified X posts alleging recent installations for a potential cover-up.
-* New Doctor to Review/Treat Charlie Kirk: No specific reports identify a "new" doctor assigned to Kirk's case. The surgeon who treated him after the shooting described the wound as an "absolute miracle" (the bullet did not exit, potentially saving bystanders), but no name was provided.
-
-* There are no mentions of a recently appointed physician at Timpanogos Regional Hospital tied to this event.
-New CEO to the Hospital: PERSON_90_REDACTED (PERSON_90_REDACTED) was appointed CEO of Timpanogos Regional Hospital on August 19, 2025, and started on August 25, 2025. PERSON_90_REDACTED was the doctor that treated Charlie.  PERSON_90_REDACTED joined the hospital's Surgical Team Aug 28th, the day after Israel searched his name Aug 27th.
-
-
-*  Previously, PERSON_90_REDACTED began his healthcare career as an administrative intern at the same hospital in 2014 and has held various leadership roles in the industry. He holds a degree from Trinity University and is described as an experienced leader returning to his roots in Orem.
-
-* New Judge for the Tyler Robinson Trial: Judge PERSON_34_REDACTED (PERSON_34_REDACTED) was appointed to Utah's Fourth District Court on May 2, 2025, by PERSON_19_REDACTED, and he is presiding over Robinson's case in Provo.
-    * Prior to his appointment, PERSON_34_REDACTED served as a Deputy Utah County Attorney, prosecuting felony cases.
-
-FBI Utah Lead (Special Agent in Charge): PERSON_40_REDACTED took over the Salt Lake City Field Office in August 2025, after PERSON_39_REDACTED (appointed in February 2025) was forced out amid internal FBI changes under Director PERSON_16_REDACTED.
-
- PERSON_40_REDACTED led the September 11, 2025, press conference on the shooting.
- His prior role is not detailed in sources, but the transition is tied to broader FBI shake-ups.
-
-Hospital: Timpanogas Regional Hospital.
-
-Utah Medical Examiner: PERSON_24_REDACTED.
-
-
-========== Hospital Closer Than =======================
-Security Expert PERSON_72_REDACTED (owner of a security company)
-
-Rick cutler sued PERSON_72_REDACTED in 2023: Rick cutler used to work with PERSON_72_REDACTED in operation Underground Railroad.
-
-PERSON_72_REDACTED makes a statement about Charlie Kirk death and says don't believe the theory it was a lone shooter.
-
-========== Hospital Closer Than =======================
-
-Timpanogos Regional Hospital = 2.6 miles. Charlie was taken to this Hospital.
-Intermountain Health Utah Valley Hospital = 3.4 miles.
-Utah Valley Hospital (located in Provo) = Charlie was NOT taken to this Hospital.
-
-Here are the details:
-* The hospital closer to Utah Valley University (UVU) is Utah Valley Hospital (located in Provo).
-* Intermountain Healthcare
-* The distance from UVU to Timpanogos Regional Hospital (in Orem) is very short—it is essentially on the same corridor as UVU in Orem. The directions listing put Timpanogos also “nearby” UVU.
-* The approximate distance from UVU to Utah Valley Hospital in Provo is about 12.3 miles according to a listing.
-Intermountain Health
-
-
-=================================
-Attorney
-Lead Counsel: PERSON_35_REDACTED (Salt Lake City-based, 33+ years in criminal defense, experience in 9 capital/aggravated murder cases across multiple states).
-Co-Counsel: PERSON_36_REDACTED (California-based, 47+ years, specialized in capital defense for 18 years, lead in 8 capital trials, editor of California's Death Penalty Defense Manual; notably defended the Menendez brothers in their retrial).
-Co-Counsel: PERSON_37_REDACTED (California-based, 30+ years, focused on capital defense for 20 years, involved in 25+ death-eligible cases).
-
-The out-of-state additions (Burt and PERSON_37_REDACTED) were approved to bolster the team, which is allowed and often done in complex cases. Estimated cost to Utah taxpayers: $750,000+ for defense alone, part of a projected $1.3 million total case expense.
-
-
-
-=================================
-Private security that day was provided by WAS NOT PERSON_14_REDACTED Security Group (SSG) or their alumni, founded by twenty year FBI Special Agent PERSON_14_REDACTED and PERSON_10_REDACTED. There were no bodycams.
-
-SSG didn't since 2022 for TPUSA.
-
-General Team Background: SSG recruits exclusively from U.S. Tier 1 operators (e.g., Delta Force, SEALs) and federal agencies. All members undergo FBI-aligned training in de-escalation and evac protocols. No foreign nationals (e.g., Israeli) are documented, countering online claims linking the team to Mossad or "Zionist" motives—such theories often cite Kirk's recent Israel criticisms but lack solid evidence.
-
-Post-Incident Scrutiny: The FBI and Utah AG's probe includes SSG subcontractors for "obstruction" (e.g., scene cleanup, no chain-of-custody logs, what was taken from the crime scene and WHY?).
-
-The hybrid security model—combining a private close-protection detail funded by Turning Point USA (TPUSA) with local law enforcement support for perimeter and crowd control.
-
-
-PERSON_14_REDACTED stated SSG hadn't worked with TPUSA since 2022, yet eyewitness footage shows familiar "white-shirt" agents from prior Kirk events.
-
-https://www.linkedin.com/in/gregoryschaffer/
-
-===============  Buildings  ==================
-Buildings:
-PERSON_153_REDACTED Gateway Building:
-
-
-===============  Accurate Energetic Systems (AES) factory  ==================
-
-
-Accurate Energetic Systems (AES) factory in TN address
-
-5891 TN-230, McEwen, TN 37101
-2/ May 1, 2025: DoD awards ONE contract ever for "MINIATURIZED-XS DEMOLITION CHARGES, ANTI PERSONNEL-XS".
-To AES - to the exact building that was levelled on Oct 10. $440k. Delivery: Aug 25, 2025.
-This remains the only ‘XS' device on https://usaspending.gov/award/CONT_AWD_N0016425PJ538_9700_-NONE-_-NONE- since records began.
-
-Aug 25 (exact delivery day): Rare private flight … Heber City, UT → Nashville, TN (closest airport to AES).
-Heber City = home of PERSON_25_REDACTED (bro of pastor PERSON_26_REDACTED).
-No return flight logged. Who was on that flight, could it have been someone picking up the exploding mic?
-
-Sept 10: Charlie Kirk assassinated at UVU.
-PERSON_25_REDACTED there with Kirk pre-event. Photos show square object in his pocket—dims match Rode Wireless GO II mic (~2x2").
-After killing: pocket empty.
-
-Watch the shirt explode outward: fabric balloons up, clasp flies to ear level. Violent pressure wave pushes AWAY from body.
-Blood starts AFTER blast. Not bullet behavior.
-
- Fragments everywhere: glass/plastic or magnetic clasp shot into the air, hits tent roof. Shards on clothes, ground, SUV floor (Candace Owens pics).
-Kirk's left hand cuts = shrapnel, not just blood. Matches casket photos.
-This cannot be explained by a bullet.
-
-One hypothesis: Mini explosive (shaped charge/EFP style) hidden in Kirk's lavalier mic.
-Detonates inward = rifle-like chest trauma, no exit wound. Emulates .30-06
-Outward blast = shirt wave + clasp shrapnel slices neck.
-Explains strange wound and many other things.
-
- Glass fragments and explosive traces all over the grass. Very difficult to remove. So… just concrete over it. Which is exactly what happened. In highly mysterious circumstances.
-
-
-
-
-
-===============  Autopsy Utah Law  ==================
-NEW 2025 UTAH LAW CRIMINALIZED THE SHARING OF AUTOPSY PHOTOS JUST A FEW MONTHS AGO: GOOGLE TRENDS STRIKES AGAIN?
-
-Utah's SB0082, the Autopsy Photo Amendments bill, was introduced into the legislature on January 9, 2025, and became effective on May 7, 2025.
-
-Its drafting attorney, PERSON_57_REDACTED, was the subject of unique Google Searches From israeli IP addresses: once in August 2024, a few months before the bill was introduced; and again in May 2025, the same week the new autopsy law went into effect.
-
-The law criminalizes the knowing sharing, publication, or distribution of autopsy photographs that are part of a medical examiner's record, classifying it as a class B misdemeanor unless the photo is in the public domain. The legislation establishes strict rules for the release of medical examiner records, including
-autopsy reports and photographs, limiting access to immediate relatives, legal representatives, physicians, law enforcement, and researchers under specific conditions.
-
-Is this just a coincidence?
-
-
-=================================
-Pro bono attorneys
-•	https://x.com/Xglobalhumane said he would get Pro bono attorneys for you.
-=================================
-
-Why was the State Farm Stadium center for Charlie's memorial service rented out by TPUSA in May of 2025, when no other events were planned or on their schedule?
-=================================
-
-Facts Candace Owens owens Says:
-* Which state? Connecticut FBI office. (she mentions the FBI and ADL sharing an office in Connecticut, and the FBI sending the Connecticut bureau to investigate the assassination at Utah Valley University [UVU]).
-
-
-=================================
-• Utah doesn’t use a coroner, they use a state medical examiner.
-• Medical examiner reports are withheld from the public during criminal cases, ESPECIALLY an active capital homicide investigation. This is standard practice.
-• Death certificates are issued, but certified copies are restricted and don’t become public for 50 years. This is normal.
-• He had a huge memorial/funeral service at State Farm Stadium.
-• His grave is his family’s personal information. Can you not think of a million reasons why his resting place would remain private at this moment? Think about it.
-• Ballistics are private during an active investigation in accordance with Utah’s GRAMA, not sure why this surprises anybody.
-
-================Fake Cop=================
-Fake Copy. Had a clip on badge. Then removed it.
-
-
-
-=========  Intermountain Health Utah Valley Regional vs Timpanogas Hospital  ========================
-
-Is this why Charlie Kirk was taken to Timpanogas Hospital? There was a bomb scare at the 
-same time CK was shot at Intermountain Health Utah Valley Regional and everyone had to 
-sign NDAs. Huge shout to my sources. 
-
-This info has confirmed this from 9/11 operators and head of security. Shout to Naomi for 
-finding that. 
-
-
-
-=========  PERSON_56_REDACTED, leader of AQSLC  ========================
-
-PERSON_56_REDACTED, leader of AQSLC, whom was under investigation by the FBI for potential association with the assassination of Charlie Kirk and/or involvement with Tyler Robinson and his associates was exposed by
-@datarepublican
- and myself for being a Utah Global Diplomcay (UGD) 7 for 17 awardee. This award is given for work advancing the totalitarian targets of the United Nations Sustainable Development Goals. Ermiya was awarded for her work advancing U.N. SDG #5 Gender Equality.
-
-Emriya’s recognition by UGD wasn’t a fluke. It exposes a pipeline funded in part by the U.S. State Department through Global Ties U.S. guided by the United Nations that elevates radical activists into positions of leadership and influence.
-
-=========Google Searches========================
-Google SEARCHES from Israel for rare medical factors. In July
-
-Medical Examiner put in place 2 weeks before the July google searches (but confirm).
-* Timpanogas Regional Hospital, Utah Medical Examinier PERSON_24_REDACTED, TR Hospital Surgeons, PERSON_31_REDACTED, PERSON_29_REDACTED, PERSON_27_REDACTED.
-
----- Possible Google searches:
-
-Lance Twiggs' Townhouse (Assassin's Pad): 3419 S River Road, St. George UT – searched NONSTOP from Dec '24 to Sep '25. "Lance Twiggs" + address spikes? They KNEW where he lived.
-
-Tyler's Digital Footprint: "Tyler Robinson Discord/Reddit/FBI/LDS/TPUSA/Israel" – from June '24 to Nov '24. They tracked his EVERY MOVE online. Why? To recruit or silence?
-
-TPUSA Insiders & Allies: "PERSON_100_REDACTED TPUSA," "PERSON_4_REDACTED," "PERSON_55_REDACTED," "Professor Mark Harlin," "PERSON_165_REDACTED," "PERSON_30_REDACTED" – all searched in July-Aug '25. Charlie's team was in the crosshairs.
-
-Utah Valley University (The Kill Site): "UVU Rooftop/Gun/Parking/CCTV/Layout/Losee Center" – May-July '25. They SCOUTED the campus like pros. "Utah Valley University buildings" in Aug '24? PRE-PLANNED.
-
-Political Hits: "PERSON_41_REDACTED," "PERSON_41_REDACTED Tiffany Barker LDS," "PERSON_89_REDACTED," "PERSON_166_REDACTED Utah," "PERSON_6_REDACTED" – July '25 spikes. GOP threats to Israel's grip?
-
-Weird Ties: "PERSON_31_REDACTED 9/11," "Erwin Steele Caldera," "Gernot Ohner," "Dr. PERSON_99_REDACTED," "Rusty Needs," "PERSON_149_REDACTED," "PERSON_2_REDACTED," "PERSON_158_REDACTED" – scattered but timed to the plot. 9/11 echoes? Mossad playbook?
-
-Health & Cover-Ups: "Timpanogos Regional Hospital," "Intermountain Health," "Dixie Technical College" – post-July searches. Planning the "accident" narrative?
-
-=====================
----------------------
-Can someone explain to me why PERSON_27_REDACTED, the guy who was asking Charlie Kirk the last question before he died is seen practicing being surprised before the event started?
-
-I also find it weird Hunter is the son of PERSON_28_REDACTED, a director at the Jimmy Kimmel show.
-
-Another fun fact about PERSON_27_REDACTED, he's an active member and contributor to the Unf#ck America tour, whose organization claims to be The Official Counter Narrative to Turning Point USA.
-His father is PERSON_28_REDACTED, who has worked for Jimmy Kimmel for years.
-
-------------------------
- FBI agent PERSON_29_REDACTED says a "high powered bolt action rifle" was recovered in a wooded area from Charlie Kirk's assassination
- PERSON_29_REDACTED, Commissioner of the Utah Department of Public Safety, shares new, enhanced photos of Charlie Kirk's suspected killer,
-
-
-
-
-=============== Medical ==================
-Medical: They said they didn't use the closest hospital. ANd the google searches were for the strange non-close hospital.
-
-=============== No Grave Site ==================
-They said there would be no grave site
-
-
-
-=============== Trump team claiming Antifa & Charlie Kirk ==================
-Around October 13th, the Trump team had a meeting about Antifa. I think Trump was there. It was in the WH. Tables around. Someone was the person to talk through it. The news as antifa funding was mapped out and they were making it public. This person picked by Trump made a big deal about Antifa & Charlie Kirk. This was reinforcing single-shooter by Leftist narrative. Strange so late when evidence of a nation state intel service doing the assassination has so much evidence by now.
-
-
-
-=============== Black Vehicles ==================
-A lot of black vehicles backing up, were they expecting something to happen. His name is LeonJakeB. YouTube
-Here's a new person's video,he was there.
-
-
-=============== Witnesses's footage was deleted before they got hom ==================
-
-Multiple people who were present for the shooting are claiming that FOOTAGE on their phones was EDITED or deleted before they even got home!!
-
-
-=============== People's Names ==================
-
-PERSON_29_REDACTED, PERSON_27_REDACTED ( "Unfk America Tour")
-
-=============== explosive event originating from the RØDE Wireless PRO lavalier microphone/transmitter ==================
-
-PERSON_58_REDACTED (PERSON_58_REDACTED) argues that Charlie Kirk (CK) did not die from a rifle shot — specifically the claimed .30-06 round fired by Tyler Robinson — but instead from an explosive event originating from the RØDE Wireless PRO lavalier microphone/transmitter clipped to Kirk's shirt near his chest.His core claim is that video footage from the September 10, 2025, event at Utah Valley University shows physical phenomena that are physically incompatible with a high-velocity rifle bullet impact, but consistent with a small, concealed explosive charge (possibly a shaped charge or detonated device) triggered in or around the mic area.Key elements of his "proof" from videosBray repeatedly points to multiple synchronized camera angles (especially two high-quality ones from the side/right, like "Cub's" 60fps and "Mark's" 30fps) that capture the exact sequence of events in the moments leading up to and during the apparent fatal injury.The sequence he highlights (often in slow-motion breakdowns, vector/pixel flow mapping, and frame-by-frame analysis) includes:Shirt deformation and "puff"/blast effect first — an outward omnidirectional expansion of fabric and air from the chest/mic position, with no linear kinetic vector (straight-line energy transfer) that a bullet would produce.
-Necklace/chain violently displaced — the cross pendant or chain flies upward/over the shoulder in a trajectory matching explosive force, not a bullet's piercing path.
-Magnetic clasp (part of the mic setup) becomes a projectile — a black rectangular object (matching the size/shape of the mic's magnetic clasp) ejects from/through the neck area, creating a rectangular wound. In at least two different video angles, this object is seen falling out of the neck wound, followed by the heaviest blood flow observed.
-No matching ballistic signatures — using optical flow/vector mapping on high-res footage, he claims zero evidence of supersonic shockwave, cavitation, yaw, or directional tissue displacement from a ~2,700+ fps rifle round. Instead, everything radiates spherically from the mic location (blast overpressure).
-
-He argues a single high-velocity rifle shot cannot explain:The timing/order (chest/mic event clearly precedes the neck wound appearance).
-The wound shape (rectangular, not round/oval from a bullet).
-The lack of exit wound, massive internal cavitation, or other expected .30-06 damage (especially claims the bullet "stopped under the skin" due to "dense bones," which he calls ballistically absurd).
-Early scrubbed reports of "chest caved in" trauma that later shifted to a "neck-only" narrative.
-
-Why he says "2 videos is all they need for a not guilty"Bray asserts that just these two key angles (the clearest side views showing the full sequence) are sufficient to demonstrate reasonable doubt — or even outright disprove — the prosecution's case that Tyler Robinson's rifle shot caused the death.If defense attorneys present these authentic, early-uploaded videos with proper forensic breakdowns (slow-mo, overlays, vector analysis), they can show the injury mechanics don't match a bullet.
-This creates expert testimony or visual evidence that the fatal trauma came from an internal/explosive source instead — shifting causation away from the defendant's shot.
-In a murder trial, proving cause of death beyond reasonable doubt is essential. If the videos convincingly show the rifle impact (the audible crack/boom) was separate from (and not causally linked to) the lethal injury, acquittal becomes plausible.
-
-He has posted numerous videos, frame comparisons, and lab-style replications attempts to support this, and he plans further dangerous/explosive reenactments (with proper licensing) to demonstrate the mic explosion theory.This is Bray's central thesis across hundreds of posts — the rifle shot was real (possibly as a signal/det-onator or misdirection), but not what killed Kirk. The two critical videos supposedly make that visually undeniable to any jury paying attention.
-
-
-
-=============== Plane SU-BTT: Decision of US/INTEL political leaders to decide on Charlie death ==================
-Plane: SU-BND or SU-BTT
-Country of Registration: Egyption
-Plane Type: Gulfstream 4SP
-Serial Number MSNS: 1332
-
-Salt Lake City International Airport (SLC) was the airport Charlie Kirk flew into on September 10, 2025, arriving that morning for a scheduled interview before heading to his event at Utah Valley University (UVU). Public flight records and reports confirm his plane (tail number N102DZ) landed at SLC around 9:30 a.m. MDT after departing from Scottsdale, Arizona.
-
-In her November 17, 2025, podcast episode ("Operation Mocking-Plane: The Charlie Kirk Plot Thickens"), Candace Owens highlighted it as strange that Kirk was diverted to SLC—about 45 miles north of UVU—instead of the much closer Provo Municipal Airport (PVU) (just 7 miles away and where the Egyptian plane SU-BTT was based).
-
-
-
------
- it looks like a decision to murder Charlie Kirk in Utah was made around July 18th.
-A military meeting with foreign leaders took place on July 20th on U.S soil.
-
-The plane flew into Provo direct from France on September 4th and stayed until just after Charlie was assassinated— flying out to Wilmington on that day.
-
-The plane returned home to Egypt the following day on September 11th.
-
-On September 10th, after Charlie’s assasination, an Egyptian Air Force plane flew out of Provo, Utah.
-Tail number: SU-BTT
-
-It’s first trip to America EVER was made on July 20t—to an army base in Nebraska.
-
-
-
-Duncan Avation: Where the plane transporters. Egyption Military operators: 4 vehicles Plates: T092ZS, CWN9872, T912KM, Z923DA. Rented from airport and drive away. 12 to 14 Egyptions.
-Silver 2025 Toyota Rav4, Utah license plate number T092ZS.
-White 2025 Toyota Camry, Arizona license plate number CWN9872
-2023 Toyota Rav4, Utah license plate number T912KM
-2025 Toyota 4Runner, Utah license plate number Z923DA
-Grey/Silver 2025 Toyta 4 Runner. Z349AA
-
-HADES N1098L is the elephant in the room.
-N55906 is the gorilla in the room.  PERSON_174_REDACTED
-Other interesting flight What about N55906?
-
-
-=============== Who did construction of Tent Area? Tyler Robinson's dad?  ==================
-[Needs Confirming]
-Tyler Robinson's Dad Owns the  Construction Company That Paved Over Charlie Kirk's Blood? RT If You Demand Answers!
-
-Who TF was the construction company that raced to UVU days after Charlie Kirk's assassination? They ripped up the bloody grass where he was shot & slapped down a concrete pad—PLUS re-mudded the tunnel roof behind it. No-one knows who they are. Official silence = sus AF.
-
-GROK says Precision Granite & Marble LLC (owned by suspect Tyler Robinson's dad, PERSON_138_REDACTED). If true? BOMBSHELL cover-up.
-
-=============== Witnesses Report that their cell cam footage was deleted by the time they got home ==================
-
-
-
-
-
-=============== Hospital / Medical Examiner ==================
-
-Timpanogos Surgeons GALORE: In a 2-week frenzy around July 20, Israel IPs hunted SEVEN docs: PERSON_160_REDACTED (July 18), PERSON_161_REDACTED MD (July 23-24), PERSON_164_REDACTED, PERSON_161_REDACTED (July 19), PERSON_159_REDACTED (July 22), PERSON_163_REDACTED (July 14), PERSON_162_REDACTED (July 30). Why ALL the emergency surgeons at Kirk's hospital? Same IP? FBI, check those VPNs!
-
-Dr. PERSON_24_REDACTED started working full-time as Utah's chief medical examiner on July 1
-
-
-
-=============== TPUSA Drones ==================
-
-TPUSA's Tyler Bowyer DOUBLY EXPOSED – Birthday Vid DROPS DRONE FOOTAGE They "Couldn't Use" & Shreds FBI Cover Story! 🚨
-
-Oh, Tyler, you thought one lie was enough? Nah, fam – TPUSA just torched your "drones banned by uni cops" BS with their OWN birthday tribute vid posted Oct 14 (Charlie's 32nd). Watch: Official TPUSA cams from Sept 10 UVU event... including a CRYSTAL drone shot overhead, crowds swarming an hour pre-hit. Drones FLEW, Tyler – Charlie even reviewed the feed w/ PERSON_4_REDACTED, who warned him: "Too many buildings." You LIED to dodge blame.
-
-But wait – it gets WORSE. They claim FBI "warned" no footage release to "protect the investigation"? LOL. This vid? Straight 4K CLIPS from those "untouchable" cams – the exact stuff we've BEGGED for to ID the shooter(s), planes, & cover-up. If FBI gagged 'em, why drop THIS on his birthday? Selective "tribute" while hiding the red-zone cams, roof angles, & security logs? Smells like protecting insiders – PERSON_6_REDACTED? PERSON_2_REDACTED? Or deeper?
-
-They COULD release it ALL tomorrow – full feeds, no edits – & we'd see the truth: Multiple shots? Palm gun? Spy plane drops? But nah, they cherry-pick to control the narrative. ENOUGH! Demand FULL TRANSPARENCY or it's COMPLICITY.
-
-
-
-=============== Attorney ==================
-An X person contacted Tyler Robinson's parents (through people close to them).  The offer for a high quality defense attorney was offered. The intermediaries said that his parents said that they didn't want pro-bono high quality defense attorney (even if free).
-
-
-=============== More Google Searches ==================
-
-ISRAELI IP MYSTERY: Google Searches EXPLODED for Charlie Kirk Assassination Key Players WEEKS Before the Hit – Coincidence or Cover-Up?
-
-You won't believe this... Right after conservative firebrand Charlie Kirk was gunned down on stage at Utah Valley University on Sept 10, 2025, I dove into Google Trends. What I found? A web of SUSPICIOUS spikes from ISRAELI IP addresses hitting EVERY major figure and detail in the case—MONTHS early. Anchor on July 20, 2025: That's when it all lights up. Here's the bombshell breakdown:
-
-🔍 Suspect Tyler Robinson: Massive DC spike on arrest day (Sept 10), but weird July 20 blip too. Who's pre-gaming this?
-
-🏥 Timpanogos Regional Hospital (Orem, UT): DC searches explode Sept 10-11 for where they rushed Kirk. But hold up—spikes July 16, July 3, even June 28. And the DAY BEFORE the shooting? Someone in DC zeros in. Planning the escape route?
-
-💀 Medical Examiner Dr. PERSON_24_REDACTED: Barely searched in DC or Utah... but ISRAEL? Sudden interest. No autopsy on Kirk? Shady—could've revealed bullet angle, type, other injuries. Why skip it?
-
-🚔 Utah DPS Commissioner PERSON_29_REDACTED: Appointed July 17 (replacing Jess Anderson). DC searches July 16—right in that July 20 window. New sheriff in town... convenient?
-
-🛩️ Spy Plane N1098L (Bombardier Global 6500): This US-contracted jet—capable of deploying DRONES—drops from 50k ft to just 204 ft (stall speed!) over Utah Valley campus TWICE on shooting day: once en route to Montana, once 25 mins AFTER Kirk's death. Flies within 2 miles of the site. ISRAEL searches it Aug 8—32 days pre-hit. Drone strike setup? Videos don't lie.
-
-🕵️ FBI Salt Lake SACs: Old boss PERSON_39_REDACTED? Israel hits July 9. New guy PERSON_40_REDACTED? Sept 1 from Israel. Left blamed Trump/PERSON_16_REDACTED for "firing" PERSON_39_REDACTED— but someone KNEW the switcheroo early.
-
-❓ PERSON_27_REDACTED (Last Q&A Guy): Liberal student who grilled Kirk moments before the shot. Israel searches Aug 3. Bullets had "transgender terms"? His roommate's drama? Too on-the-nose.
-
-🩹 Timpanogos Surgeons GALORE: In a 2-week frenzy around July 20, Israel IPs hunted SEVEN docs: PERSON_160_REDACTED (July 18), PERSON_161_REDACTED MD (July 23-24), PERSON_164_REDACTED, PERSON_161_REDACTED (July 19), PERSON_159_REDACTED (July 22), PERSON_163_REDACTED (July 14), PERSON_162_REDACTED (July 30). Why ALL the emergency surgeons at Kirk's hospital? Same IP? FBI, check those VPNs!
-
-His body wasn't cold, and the left's screaming "Trump did it." But this? Foreign IPs scouting EVERY angle pre-assassination? If it's one user/VPN, it's a smoking gun. Utah State Police/FBI: Subpoena Google NOW. Who's pulling strings from Tel Aviv?
-
-MIND-BLOWING GOOGLE TRENDS EXPOSÉ: Why Did Searches for Tyler Robinson's "Court-Appointed" Defense Attorney PERSON_35_REDACTED EXPLODE from ISRAEL in Dec 2024?
-
-Hold up—PERSON_35_REDACTED, the so-called "defense counsel" for Tyler Robinson, handpicked by the PROSECUTION and rubber-stamped by the court. Sketchy enough? Now check THIS: Google Trends shows a MASSIVE one-week SPIKE—peaking at 100 interest hits from Dec 8–14, 2024—all tracing back to an ISRAELI IP.
-
-Everyone, GO FOLLOW PERSON_52_REDACTED on YouTube RIGHT NOW—he's the truth-teller we need. His breakdowns will BLOW YOUR MIND. 👉
-
-“Google Trends shows a one-week surge in searches for PERSON_35_REDACTED (Dec 8–14 2024, ALL from Israel).
-Online data can tell strange stories — curious what was happening that week to cause it?
-
-Most hits?  Around JULY 20, 2025 – exactly 2 months before they took him out. And guess what? That's the SAME WEEK Charlie platformed TUCKER CARLSON at AMFEST in Florida for the FIRST TIME. Coincidence? Or did Israel see Tucker + Charlie as the ultimate threat to their endless wars & AIPAC cash grabs? You decide. 😡I've got SCREENSHOTS FROM GOOGLE TRENDS proving IPs in ISRAEL & DC were obsessing over:
-
-Lance Twiggs' Townhouse (Assassin's Pad): 3419 S River Road, St. George UT – searched NONSTOP from Dec '24 to Sep '25. "Lance Twiggs" + address spikes? They KNEW where he lived.
-
-Tyler's Digital Footprint: "Tyler Robinson Discord/Reddit/FBI/LDS/TPUSA/Israel" – from June '24 to Nov '24. They tracked his EVERY MOVE online. Why? To recruit or silence?
-
-TPUSA Insiders & Allies: "PERSON_100_REDACTED TPUSA," "PERSON_4_REDACTED," "PERSON_55_REDACTED," "Professor Mark Harlin," "PERSON_165_REDACTED," "PERSON_30_REDACTED" – all searched in July-Aug '25. Charlie's team was in the crosshairs.
-
-Utah Valley University (The Kill Site): "UVU Rooftop/Gun/Parking/CCTV/Layout/Losee Center" – May-July '25. They SCOUTED the campus like pros. "Utah Valley University buildings" in Aug '24? PRE-PLANNED.
-
-Political Hits: "PERSON_41_REDACTED," "PERSON_41_REDACTED Tiffany Barker LDS," "PERSON_89_REDACTED," "PERSON_166_REDACTED Utah," "PERSON_6_REDACTED" – July '25 spikes. GOP threats to Israel's grip?
-
-Weird Ties: "PERSON_31_REDACTED 9/11," "Erwin Steele Caldera," "Gernot Ohner," "Dr. PERSON_99_REDACTED," "Rusty Needs," "PERSON_149_REDACTED," "PERSON_2_REDACTED," "PERSON_158_REDACTED" – scattered but timed to the plot. 9/11 echoes? Mossad playbook?
-
-Health & Cover-Ups: "Timpanogos Regional Hospital," "Intermountain Health," "Dixie Technical College" – post-July searches. Planning the "accident" narrative?
-
-
-
-
-=============== Speakers: Loud sound. From exploding Mic? ==================
-
-“…but everyone heard a gunshot.” This is my theory. When Hunter Kozac began to speak, the 4 big speakers started to have issues (hear that hummmm). Just listen below! I think either A. they had a gun shot ready to play over the speakers that were cranked way up from a separate source *or B. they cranked the lav mic all the way up to magnify the sound under his shirt over the speakers. Go back and listen to everyone’s eyewitness interviews… they all describe the sound as “super close”! So…if you hear a gun shot - why would anyone ever question a gun given what they witnessed???
-
-
-
-=============== PERSON_7_REDACTED (Wife) ==================
-Employee Whistle Blower.
-https://x.com/SpeakWithDeeDee/status/1984716576378003939
-
- Charlie's wife (PERSON_7_REDACTED) even got a private flight out. Sketchy AF.
-
-There is a claim she
-
-TPUSA Insider Reveals PERSON_7_REDACTED Gave Security Stand Down Order at UVU Event
-
-According to a whistleblower from within TPUSA, PERSON_7_REDACTED had already begun assuming CEO duties BEFORE her husband's death - making executive calls, issuing orders, and sidelining the man who built the brand.
-
-The source claims she told Charlie's security detail to stand down -to refuse cooperation with law enforcement - and replaced trusted staff with unfamiliar faces ... now understood to have intelligence backgrounds.
-
-That single revelation blows this entire story wide open.
-https://x.com/tpvsean/status/1982813588076052498?s=43
-
-
-
-=============== Medical Experts ==================
-
-According to medical experts, Charlie’s DECORTICATE POSTURING can only be due to a MIDBRAIN injury! So the activation of a weapon from high and behind him, creating the exit wound we see in his left neck, is the only explanation which makes any sense.
-
-
-=============== Tent ==================
-
-
-SHOCKING BREAKTHROUGH in Charlie Kirk's Assassination: Israeli Corner-Shot Weapon FIRED from INSIDE the Tent?! Shell casing caught on cam, NO AUTOPSY, site concreted OVER—Cover-Up EXPOSED!
-First, the basics: Charlie Kirk was gunned down at a TPUSA event in Utah. Official story pins it on Tyler Robinson, a kid on a roof with "tight jeans" and a backpack that couldn't hide a rifle. But our evidence  says BS—evidence shows a pro hit from INSIDE the event tent. No way Tyler's 30.06 broke like that on impact.
-No autopsy. Utah law (268-8-205) REQUIRES it for gun violence. But police audio I uncovered  confirm: Death cert signed by hospital doc, body whisked away. Why? If the front neck wound is an EXIT, it clears Tyler. JFK vibes—evidence suppressed? Charlie's wife (PERSON_7_REDACTED) even got a private flight out. Sketchy AF.
-A cartridge from a semi-auto ejects INSIDE the tent, rolls down the tarp, and falls out. When I slowed the footage—it's crystal clear. We spotted something else: A scope or barrel poking thru the tent fabric. We debated it for an hour. Shooter was concealed, firing remotely?
-Enter the weapon: Israeli-made CornerShot. Built for corner ambushes—hinges at 90°, with camera feed & IR laser scope. Mount a Glock 9mm, flip it around the barrier, aim via screen. Ejects shells downward—explains the casing drop. IR laser? Bounced off Dr @DrFrankPERSON_4_REDACTED's phone screen right before impact. Visible on display, invisible to eye.
-Ballistics breakdown by Dr. Chris Martenson @peakprosperity confirm High-speed cavitation event—overpressure expands Charlie's neck, snaps his necklace, causes "pugilist pose" (clenched fists from midbrain trauma). Instant death. But not a 30.06—too much energy, would've knocked him flying. It's a 9mm +P Israeli round: 1330 fps, fragments like hell, dumps energy inside.
-Setup was easy: Security blocks views, concrete pillar & AC vent for cover, boxes stacked behind tent. Shooter slips in unseen. Post-shot? Camera guy spins RIGHT (toward tent), not left (toward Tyler). Hand signals, chaos—echo chamber hides the pop. Sound sig analysis: Shooter within 36ft of the person recording.
-Motive? Charlie was shifting. Strong pro-Israel TPUSA voice, but lately questioning Oct 7 narrative, stand-down theories. One Middle East power wanted him silenced to keep campus influence intact. "My integrity is being called into question," he told PERSON_9_REDACTED. Coincidence?
-Cover-up complete: Site concreted over, tent area repaired (blowback damage?). Blood on the podium—real, not faked. No trail cuz they compressed the wound carrying him out. They've mudded the ceiling too. Crime scene? Destroyed. Demand justice for Charlie—and exonerate Tyler.
-This isn't theory—it's evidence from lasers, casings, ballistics, leaks. PERSON_130_REDACTED  (ex-CIA Black Op's) & I broke it down. Check his channel on YouTube: https://www.youtube.com/watch?v=zeioeWdmSIw
-
-
-
-
-
-
-=============== Tent & Construction ==================
-Precision Granite & Marble LLC may have been the one that did the construction over the Tent's grass.
-
-Did Tyler Robinson's dad's construction company do the construction where the tent was?
-
-"Crew GC": CrewGC.com was seen doing the construction. Crew General Contractors Inc. Owned by PERSON_137_REDACTED (may or may not be related)
-
-RobinsonSTG, LLC
-Same agent has this LLC, and Franklin Dr in St George is associated with a member of Tyler’s family.
-
-Guy interviewed had a "Hardscape Utah" hat on.
-PERSON_49_REDACTED owner of hardscape Utah was googled in Israel on July 29th-July 5th.
-"On 9/14/25, I was called by men who work for the state of Utah for help installing pavers… where Charlie Kirk was gunned down.”
-"I’d been asked to replace - to beautify - an area where a brother had been gunned down."
-"It was Sunday. I usually don't work on Sunday."
-"It was heavy… but we did it."
-Four days after the assassination, this man says he was hired to cover the exact spot where Charlie was assassinated.
-
-4 days after Charlie Kirk was assassinated, they ripped up the landscaping & paved it over. We were originally told it was just a pre-scheduled project proceeding as planned. I've said repeatedly in Twitter spaces since then that it's extremely unusual for work like this to be done on a Sunday in Utah County—where even gas stations are closed, gas pumps are turned off and vending machines have been known to be deactivated!
-
-It's the heart of LDS/Mormon country and they take the sabbath very seriously. *Scheduled* maintenence work like this would logically & routinely have begun on a Monday, or some other day of the week. NOT ON SUNDAY. I said that this was an indication that it wasn't pre-planned, but done on the fly, and therefore must probably a cover-up operation.
-
-Now, we find out that it indeed WAS done on a Sunday—by a brother who admits he typically doesn't do this work on Sundays! And it wasn't pre-scheduled, but spur-of-the-moment & directly due to the assassination! (video via @HustleBitch_
-)
-
-I. WAS. RIGHT.
-
-But there's more: Google Trends shows that the man who did the work, PERSON_49_REDACTED—owner of Hardscape Utah—was searched from israeli IP addresses earlier this summer! And in the exact same time frame that people in DC & israel were searching for "Timpanogas Regional Hospital" (the hospital where Charlie was taken), and Deirde PERSON_24_REDACTED (the new Utah state medical examiner who performed the autopsy). What?! (h/t: @Ammermazing
-)
-
-Now, to be clear, I'm not accusing PERSON_49_REDACTED of anything nefarious. This all doesn't mean he's in on any plot. I'm sure he was just doing what was asked of him, like he said. But don't you find all this very strange and extremely suspicious?
-
-The JFK, RFK & MLK crime scenes were all quickly destroyed after those conspiracy/cover-up assassinations as well. You might remember how the FBI hosed down the Thomas Crooks scene last summer immediately after the assassination attempt on Donald Trump.
-
-Rapid destruction of a high-profile assassination crime scene is a tell-tale sign of a cover-up. That is the simplest/Occam's Razor explanation here.
-
-I'm sure they'll all say they just meant well and wanted to honor Charlie, or maybe they'll say that given the circumstances it wasn't the best choice, in hindsight, to act so soon after. Perhaps they'll say that whoever said it was scheduled maintenance spoke in error. Etc.
-
-If we had a real uncompromised FBI & law enforcement, they'd question Daniel & all involved in this debacle and search their records to see if any clues could be found that lead back to the perps.
-
-
-=============== People Involved ====================
-
-https://shogtongue.github.io/kirk/
-
-
-
-=============== CIA (Controlled by Mossad) ====================
-
-https://x.com/Truthtellerftm/status/1977634421001027696
-https://x.com/Truthtellerftm/status/1984078308481626191
-
-
-=============== PERSON_6_REDACTED & item under ====================
-EW VIDEO BOMBSHELL: PERSON_6_REDACTED Seen Concealing Barrel in Hand—Proof He's Charlie Kirk's Second Shooter?!
-
-OMG, you guys myself and
-@WeAreNotGTM
- Just Uncovered JAW-DROPPING PROOF that the mysterious "brown shirt dude" lurking in the chaos aka RICK CUTLER, one of Charlie's very own bodyguards on that fateful day. We have video proof showing him with gun barrel in hand; allegedly PALMING A TOP-SECRET CIA PALM GUN! Inside job? Deep State drama? Spill the tea, America—we're here for it!
-
-Zoom in on that sketchy CRACK BETWEEN THE CROWD BARRIER VINYL SHEETS (yes, we're talking inches from the action), and BOOM—PERSON_6_REDACTED's yanking something SLIM-BLACK AND BARREL-LIKE straight outta his pocket... or wait, that suspicious little black case strapped to his hip? As he hoists it up to "brace" across his chest onto his left bicep, it's GLINTING like a villain's secret weapon. Not a fidget spinner, that's A PALM GUN, 100%!
-
-Poof! It disappears into his fist JUST as the fatal BANG echoes. Timing? Suspicious AF. Was he the second shooter playing double agent?
-
-Now, layer on
-@jimmy_dore
- 's viral clip that's got everyone OBSESSED: A BULLET ZIPPING MID-AIR blasting RIGHT FROM CUTLER'S HAND! Watch his hand JERK FROM THE RECOIL like he just got ghosted, the BARREL sticking out between his knuckles, and that trippy BOW SHOCK SWIRL crowning the top—total supersonic chaos from point-blank range.  I can say with a high probability Rick is our SECOND SHOOTER; this was an UP-CLOSE BETRAYAL!
-
-RT And Tag
-@RealCandace OwensO
- And Let's Get This Out There So The FBI Can't Keep Denying Reality!
-
-
-
-==================. Patsys. ====================
-George Hodgeson PERSON_31_REDACTED
-
-In my "Charlie Kirk: Operation 322" series I cover PERSON_41_REDACTED as one of the DISTRACTIONS for the operation. Phil's job was to manipulate the media into believing a narrative that was not true; Tyler Robinson shot Charlie Kirk from the LC Phil just happened to be right next to.
-
-Phil was the FIRST person to suggest where a shot came from even though he was INSIDE the building. IMMEDIATELY, the two young ladies, who were already outside, DISAGREED with PERSON_41_REDACTED and said there were TWO SHOTS, and they were from "over there"... Seems like he got it all wrong to me... Intentionally.
-
-PERSON_41_REDACTED was also PARDONED by DJT. Let that sink in. PERSON_41_REDACTED is a "character" on the stage. Someone is writing his script. And THAT is why he is connected to PERSON_31_REDACTED too. Let that sink in as well. Coincidence + Coincidence = Collusion ...
-
-I'll be doing a video later... ~Tai 🫡
-
-@ProjectConstitu
- is who you need to follow if you want to stay up to date with ALL the latest and best information in the Charlie Kirk Assassination Investigation. PERIOD.
-
-Check out "Charlie Kirk: Operation 322" so you can see the infrared beam from the sniper on the BA building that shot Charlie FIRST. My 2 hour series also unveils something for the FIRST TIME.... Charlie's SECOND front center mass shot!
-
-I, PERSON_106_REDACTED, uncovered the location of the FIRST shooter(BA Sniper) and the EXACT entry point of the SECOND shot that everyone missed. 🙋🏾‍♂️⬅️ This guy did that. 💪🏾🫡🪖🇺🇸
-
-But I didn't do it without help! I was able to piece together this entire operation puzzle by crowdsourcing CRUCIAL pieces of CRITICAL data. And still, so much more is coming out! But guess what.... NOTHING can refute my work. It's that solid.
-
-
-
-======================= CIA / Israel =====================
-ICYMI: This CIA-linked program hiding in plain sight at Utah State Could Hold The Key To The 4 Missing Years Of Tyler Robinson's Past That Are Missing
-
-The internet’s not talking enough about this.
-Enter "Center For Anticipatory Intelligence" (CAI) At
-Utah State University — a CIA-affiliated research hub — briefly had Robinson enrolled.
-
-$2.4M in US-Israel research funding.
-Ex–CIA leadership.
-Shoutout to @TheLFLounge  and PERSON_59_REDACTED
- For all their work on this angle. If you know anything or have been in one of these programs please reach out to me.
-Too many coincidences? Or just timing?
-
-
-==================== Security Blocked from Attending ============
-There had to have been almost no security at UVU because PERSON_27_REDACTED & all of his affiliates of “UN-Eff America”  had their credentials revoked to ever enter Charlie’s events. He shouldn’t even have been there let alone ask a question. He knew that. Who let him in line?
-
-His question, I believe was the trigger to set the plan into motion.
-It had to be a trans/gun violence question because that’s the package they had tied up in a bow and ready for delivery to Steven Crowder the next morning.
-It’s all choreographed. Some of these people are useful idiots.
-
-This is a fun video I saw about who Kozak really is.
-https://youtu.be/BJMCHFhztRc
-
-==================== Accustics of Bullet(s) ============
-
-3 compressed air gun shots caught on ever audio recording at 44.1 khz sampling rate...
-
-It 's the soundtrack to a murder in 3-time, a murderous waltz.
-
-==================== Possible exploding ear piece ============
-
-If the earpiece (IEM not the mic) was rigged with a tiny undetectable amount of PBX or similar "low flash no smoke" explosive and detonated in his right ear the ear canal becomes path of least resistance, it leads directly into the back of the throat and lines up with the exit wound on the left front. (See pics)
-The first thing to move is the IEM wire, it recoiled violently out and backwards, pulls tight and whiplashed in about 3 frames. The IEM is attached to the front of his shirt. (Explains the shirt movement) and I think that's happening from it detonating in his ear and blowing components out his neck. (Also striking the spinal cord from C2-C6 fragments found near T1).
-The neck and chest expansion would make sense, the lack of no obvious entry wound, the hand posturing implies brain injury, the sound would be amplified through the speakers, the projectiles seen could be the outer casing of the earpiece flying away from Charlie.
-The explosive can be detonated by a voltage pulse spike through the IEM wire with a simple nano bridge wire melted with the spike sent by RF .
-No flash or smoke with new PBXN explosive explains the lack of visual explosion and being in the ear canal hides it further. All we see is the wire being ejected backwards violently about 4ft... why?
-Secondly, The spy plane (N10982) was possibly used to cut mobile reception and livestreams. They have the capability to highjack every phone or internet connection and use AI to scrape, edit or delete videos without the user being aware.
-I've been on this theory from day one, I know how crazy it sounds but no one has debunked it yet and everything I've seen for last month just leads me to think it's a possibility worth considering?
-There's heaps more on my timeline.
-
-====================================
-
- SHOCKING COVER-UP: Utah Judges in Kirk Assassination Trial DROP SECRET GAG ORDER to SILENCE Witnesses—But Wait, Israeli IP "Hits" on Them MONTHS Before the Hit? Judge SWAP Smells Like a Setup! 😱
-
-In the Tyler Robinson trial for Kirk's Sept 10 UVU murder, Judge PERSON_34_REDACTED (now presiding) & his predecessor PERSON_96_REDACTED were hit with unique Google searches from Israeli IP addresses—PERSON_96_REDACTED on May 15, PERSON_34_REDACTED on July 26—BEFORE the assassination. ZERO Utah-based searches on either until AFTER Kirk's death. Coincidence? Or foreign intel scouting the bench? 🤔
-
-PERSON_96_REDACTED "retires" Aug 1; PERSON_34_REDACTED slides in Aug 4—the exact day SLC FBI boss PERSON_39_REDACTED gets yanked. Timing's a red flag parade.
-
-But here's the KILLER: On Dec 16, 2025, PERSON_34_REDACTED drops an unprecedented gag order—on his own motion, no request from prosecution OR defense! It muzzles ALL witnesses, future lawyers, staff, even non-case attorneys in their firms. Binds lawyers to police witnesses' mouths, imputes blame for "extrajudicial" chatter. Routine in high-profile cases? Sure—but this one's a sledgehammer on 1st Amendment rights, tainting jury pools as "pretext" while burying truth.
-
-Defense should've FIGHT BACK—our independent sleuths (you, me, the Charlie Kirk Investigative Committee) are Robinson's best shot at exposing the web (Utah elites, shady vans, patches?). But crickets from media. A month in, no challenges? Where's the press corps' spine? This isn't "protecting due process"—it's a blackout on justice!
-
-
-==========================
-List of Many videos
-
-
-============== PERSON_19_REDACTED Utah Gov ===========================
-Along with PERSON_PRIME_MINISTER_8_REDACTED's friend, PERSON_19_REDACTED's involvement, who'd normally be a suspect, due Charlie Kirk's well known tweets about wanting "PERSON_19_REDACTED to be EXPELLED" from the Republican Party.
-
-Kirk had the political power to destroy PERSON_19_REDACTED's political career. It's a very big deal.
-
-I'd think his lawyers would have the duty to move Robinson to a different state, and not sure why Utah was chosen to kick off Charlie Kirk's tour. I wonder who made that decision or schedule.
-
-Fox 13 article closure:  "Lawyers in the case left court declining to comment to reporters gathered outside. Security at the courthouse was heavy, even with Robinson not present."
-
-"Robinson will appear in person in court on Oct. 30 for another scheduling hearing."
-
-Similar to PERSON_17_REDACTED's friend, TPUSA Hollyhand, upbeat on Fox News within 1-hour of the shooting, I imagine Hollyhand is PERSON_3_REDACTED's friend too, as he appears to know everything TPUSA, yet "Daily Wire" PERSON_17_REDACTED and PERSON_3_REDACTED were busy within hours of the shooting, scheduling an upcoming show. Same day of homicide, wow.
-
-In this clip, PERSON_3_REDACTED said, "an army was rising", PERSON_17_REDACTED said, we're willing "to put boots on the ground", "to do anything Charlie would have wanted to be done here"!
-
-That promise evaporated quickly, as they know very well the VERY LAST thing Charlie Kirk would EVER WANT is for them to invite, Joe Biden's good friend, a Charlie Kirk-hater, who's pro-trans, pro-Antifa, pro-censorship, pro-open borders, with preferred pronouns, "he/him/his", PERSON_19_REDACTED, as a guest speaker to any TPUSA events.
-
-Top it off, with this slap in the face, TPUSA branding of Gov PERSON_19_REDACTED, smiling and happy, with Charlie Kirk, to the side, barely visible, faded out.
-
-Charlie would be furious beyond words!
-
-I could tell it was Charlie Kirk who chose the flyer placements of those invited to his events, those closest to him at the time.
-
-For AMFest December 2025, the flyer dropped August 25, 2025, he placed Tucker Carlson in a prominent position, by his side, even turned Tucker towards him, very happy too, then Bannon, Don Jr. and Poso at the very bottom, the very last face, to the right side, not happy either, almost like a mugshot. 😂
-
-Bottom line, Gaines, Tatum, Benny too, some of the very worst lying shill sell outs, all frauds. Gaines does the trans op, endorsed "Woke Ron" DeSantis, in May 2023, a swimmer.
-
-It was a message to all, as they attempted to control his guests, whom he was allowed to be friends with too!
-
-========== Autopsy Law ===========================
-
-NEW 2025 UTAH LAW CRIMINALIZED THE SHARING OF AUTOPSY PHOTOS JUST A FEW MONTHS AGO: GOOGLE TRENDS STRIKES AGAIN?
-
-Utah's SB0082, the Autopsy Photo Amendments bill, was introduced into the legislature on January 9, 2025, and became effective on May 7, 2025.
-
-Its drafting attorney, PERSON_57_REDACTED, was the subject of unique Google Searches From israeli IP addresses: once in August 2024, a few months before the bill was introduced; and again in May 2025, the same week the new autopsy law went into effect.
-
-The law criminalizes the knowing sharing, publication, or distribution of autopsy photographs that are part of a medical examiner's record, classifying it as a class B misdemeanor unless the photo is in the public domain. The legislation establishes strict rules for the release of medical examiner records, including
-autopsy reports and photographs, limiting access to immediate relatives, legal representatives, physicians, law enforcement, and researchers under specific conditions.
-
-Is this just a coincidence?
-
-
-
-========== CIA @ UVU ===========================
-They took down their profiles 9/24/2025.
-Most CIA. A few campus security: Rusty Needs, Dr. PERSON_99_REDACTED , PERSON_97_REDACTED, PERSON_101_REDACTED, Jamal Reid, T Ramirez, L PERSON_16_REDACTED.
-
-Rusty Needs: CNSSI <== CIA organization on campus
-UVU National Security Society
-
-
-
-
-========== Fake Doctor (Distraction Patsy) ===========================
-Russell Kim Kennington
-People submitted a Grama request. They said nobody was arrested.
-
-
-
-========== Censorship ===========================
-FBI at Federal level called a few times to make sure video was deleted. It was a close up, 4k @ 60fps. A critical video. The FBI wanted him to delete it.
-* This man, PERSON_105_REDACTED, says he witnessed Charlie Kirk’s assassination. He sent his video to the FBI to help investigators but was instead instructed to delete his video of the hit. He said he saved the footage anyway…
-https://x.com/ninoboxer/status/1982164944914162103
-
-
-
-=============== Exploding Mic ==================
-
-The person in the photo who's arm has shrapnel and watch is broken is NOT PERSON_2_REDACTED, however it is Brian PERSON_5_REDACTED.
-
-
-=============== TPUSA / PERSON_43_REDACTED ==================
-
-Board Members (before 9/10): PERSON_43_REDACTED, Charlie, PERSON_7_REDACTED, PERSON_126_REDACTED, PERSON_127_REDACTED, PERSON_128_REDACTED.
-
-He's at TP HQ in Arizona and buddies with vile "Pastor" PERSON_13_REDACTED, person on group chap the night before his k1ll1ng and Mikey's dad
-
-
-PERSON_43_REDACTED is a high level leader at TPUSA, at least after CK died. The claim is that he is trying to find the people who like Candace Owens in TPUSA (and maybe getting them out of the org).
-
-
-
-========== PERSON_42_REDACTED (Crisis Actor?) ===========================
-
-PERSON_42_REDACTED: He looks like "Robbie Parker" (Father of Sandy Hook Shooting Victim)
-https://x.com/1_ofWeThePeople/status/1980551408870125882
-https://www.pbs.org/video/robbie-parker-and-the-aftermath-of-the-sandy-hook-shooting-gkejom/
-
-
-
-THE “EYEWITNESS” FROM CHARLIE KIRK’S ASSASSINATION ENDED UP VIP AT HIS MEMORIAL
-
-Meet PERSON_42_REDACTED, the guy seen right behind Charlie’s head when the shot went off.
-
-He gave four VERY STRANGE interviews claiming he was just a random bystander… but the footage doesn’t lie.
-
-He started back in the crowd, then somehow moved to the front row moments before the shooting.
-
-Days later, he’s on the main floor center at Charlie’s memorial with a MEDIA badge, just rows from the stage after saying he probably couldn’t even get in.
-
-His Facebook? 2.4K followers. 7 posts. No content. No history.
-Just a “digital creator” tag and front-row access everywhere.
-
-He was front row for the assassination… then cleared three security checkpoints to sit VIP at the memorial?
-
-
-
-
-
-
-========== Judge Blocks Public from Attending the Trial ===========================
-
-
-BREAKING: Judge Order's Tyler Robinson Hearing's CLOSED TO THE PUBLIC Just As Prosecution Brings In JAILHOUSE SNITCH To Testify Against Tyler Who Has Ties To A Certain "Foreign" Country 🧃😱
-
-Tyler Robinson had a preliminary hearing yesterday,  And Judge Tony F. PERSON_34_REDACTED, Jr. issued a transport order for PERSON_33_REDACTED, an another inmate currently held in the same jail as Tyler on child-related charges. To our knowledge, Jaxson has absolutely no connection to the Charlie Kirk case or to Tyler himself. The only logical explanation we can arrive at is that he is being positioned as a jailhouse snitch—likely to falsely claim that Tyler confessed to him in some fabricated manner. This entire situation reeks of manipulation and injustice.🤢
-
-But wait there's more—Today's hearing was conducted behind closed doors, barring all media access. We were unable to attend, and we will not receive any transcripts or records from the proceedings. Even more alarmingly, the judge has now ordered that all of Tyler's upcoming hearings next week will also be closed to the public and the press. This means we—the media—will have no way to verify whether Tyler is receiving due process, no insight into the evidence being presented against him, and no ability to report on what transpires. In a high-profile homicide case drawing national attention like this one, such secrecy is unprecedented and profoundly concerning.
-
-Compounding this outrage is the judge's recent over broad gag order, issued on his own motion( which means neither the defense or prosecution asked for it), which silences not just the parties involved but also members of the media. This sweeping restriction is a blatant violation of constitutional rights, particularly the First Amendment protections for the press. We cannot allow a single judge to shroud an entire case in darkness and prevent accountability.⚖️
-
-But it get's worse— I conducted a Google Trends search on PERSON_33_REDACTED—using his full name to ensure specificity. The results were suspicious. Searches for him originated from Israel as far back as November 2023. More recently, on YouTube specifically, there was a spike in Israeli searches from May 18th through 24th, 2025—just four months ago. And incredibly, a worldwide search shows activity from Namibia on August 23rd, 2025, which was only yesterday relative to when this story broke.📈
-
-Why would individuals in Israel be repeatedly searching for this guy months prior, who now has suddenly been thrust into Tyler's case as a key witness? And what possible connection could Namibia have? These anomalies raise serious questions about external influences at play, far beyond a routine legal proceeding.🤔
-
-To tie it all together: This is not justice; it is a deliberate effort to railroad Tyler Robinson and obscure the truth about the real shooter in the Charlie Kirk incident—the suspicious gray van operator with the laser we definitively traced in our latest exposé (check the video below for the full breakdown). We exposed that laser trained on Charlie at the exact moment of the shooting, originating from that van. Coincidence? Hardly.🔫🚘
-
-We must fight back. Please share this post far and wide to bring this to light. Tag @RealCandace OwensO
-  —she absolutely needs to weigh in on this travesty. The media must challenge both the gag order and the closed hearings in court; these actions are unconstitutional and cannot stand. If any deep-pocketed patriots are reading this, I'm volunteering to serve as the plaintiff in a lawsuit to hold this judge accountable. Let's fund the legal fight and demand transparency.💪
-
-Your voice matters—amplify this now. God bless, and stay vigilant.
-
-
-
-
-
-========== Tyler & Lance & Drugs & Living Together before ===========================
-
-https://x.com/ProjectConstitu/status/1982467569236738263
-
-TYLER ROBINSON DISCORD LEAK: The INSANE Discord Chats & Behind-The-Scenes Hell That RADICALIZED A Quiet Gamer Into Who The FBI Claims Is Charlie Kirk's "ALLEGED" ASSASSIN.
-
-You won't believe the unhinged spiral behind the FBI's prime suspect in Charlie Kirk's Sept 10th shooting—quiet Utah gamer Tyler Robinson, allegedly radicalized by his trans BF Lance's full-blown psychotic breakdown. A close friend who gamed with them for 6 years leaks raw Discord logs and apartment pics: Lance's "nests" of trash, wires, and moldy mushroom experiments turning their pad into a hoarder horror show, fueled by DMT binges, booze, weed psychosis, and DIY HRT that left him giggling like the Joker while scribbling CIA conspiracies and "orchid denialism" rants.
-
-From chill 2020 memes and fishing trips to 2024's election-fueled rages—Lance's wide-eyed meltdowns dragging apolitical Tyler into anti-Trump fury, furry chats, and sleepless ChatGPT marathons in ancient tongues—their "romance" devolved into Tyler pity-banging a delusional mess while the world ignored the red flags. FBI has the files; this insider's got the unredacted truth exposing how one gifted kid's burnout became a national nightmare.
-
-Was Tyler the fall guy in Lance's fever dream... or did the feds bury the real monster? Watch the full expose NOW—your jaw will hit the floor.
-
-I highly encourage you to go watch @TurkeyTom
-'s video Youtube where he does an excellent breakdown of this, as well as check out anonbirdd's substack which is what i screen recorded here. I wil drop the link to both in the comments below.
-
-
-========== Charlie Text Message ===========================
-
-NEW: Candace Owens shares private texts between her and Charlie Kirk, where he predicts his early death:
-
-Kirk: "I am not sure if I will live to see the end of this revolution. I believe you (referring to Owens) were the piece god meant me to meet that will finish the fight."
-
-========== Truck (Possible) Shot. Laser sight seen on phone ===========================
-https://x.com/ProjectConstitu/status/1981560553131651497
-BREAKING: CHARLIE KIRK ASSASSINATION SOLVED! Infrared Laser Traced to Shooter in Suspicious Grey Van—Suspect Identified😱
-
-In a breakthrough collaboration,
-PERSON_130_REDACTED
-,
-@WeAreNotGTM
-, and myself have pieced together irrefutable evidence pinpointing the origin of the infrared laser beam captured on
-@DrFrankPERSON_4_REDACTED
- 's phone during the harrowing incident at Utah Valley University (UVU), where Charlie Kirk was targeted in a shooting.
-
-By meticulously combining multiple strands of circumstantial evidence, we've zeroed in on the shooter's location. Here's how it all came together:
-
-The Bullet in Flight: A single frame from event footage captured the bullet mere milliseconds before impact—providing a critical vector for trajectory analysis.
-
-The Shell Casing: Discovered lodged beneath the tent's top edge, it appears to have ejected through a small gap where the rear vinyl panel (with logos) meets the canopy.
-
-The Infrared Laser: The smoking gun—literally—reflected on PERSON_4_REDACTED's phone screen at the exact moment of the shot.
-
-Individually, these clues are intriguing but inconclusive. But unified? They form a clear pattern. Physics is our ally here: Infrared lasers travel in straight lines without bending. By reverse-engineering the beam's angle and cross-referencing it with landmarks in surrounding footage, we locked onto a precise direction.
-
-After hours of frame-by-frame dissection across multiple videos—supercharged by the stunning 4K clarity from
-@JG_CSTT
- and
-@ckllr801
- (huge thanks, folks—follow them if you haven't!)—we enhanced the reflection on Frank's phone. What emerged was unmistakable: the laser originated from inside a suspicious grey van parked just behind and to the right of Charlie's position (from his vantage point, facing the crowd frontward), tucked under the tunnel and obscured by the tent.
-
-Zooming deeper, we spotted the van's side panels and windshield framing the beam's source. At the precise instant the laser winked out—milliseconds after activation—a figure in the rear cargo area became visible for a fleeting few frames: a person in a light-colored shirt, with noticeably protruding ears and a bald or closely cropped head.
-
-This isn't speculation. The timing aligns perfectly with the shot. We can state with 100% certainty: The infrared laser—aimed directly at Charlie at the moment the bullet flew—emanated from that individual in the grey van.
-
-Now, apply a dash of logic: What earthly reason would someone have for lasering Charlie Kirk at that exact second, if not to guide a firearm's aim? Coincidence? Sure, it's possible—but the odds are slimmer than hitting the Mega Millions jackpot twice in a row.
-
-Adding fuel to the fire: Eyewitnesses and footage had already flagged this van as odd. Its rear hatch snaps open four seconds before the shot... then slams shut immediately after the crack echoes. No normal behavior there. Shoutout to
-@HustleBitch_
- for their killer breakdown video showcasing this sequence in crystal detail—check it out.
-
-We've nailed the where, when, and how. The only piece left? Who.
-
-From the phone reflection and corroborating clips, our suspect profile is sharp: Light shirt, bald (or very short hair), prominent ears. Cross-referencing event footage, we found a match—a man filmed loitering suspiciously right beside that grey van, in the tunnel shadows behind the tent. Gloves on his hands? That's no small detail.
-
-Important disclaimer: This is not an accusation. We're not vigilantes—DO NOT contact, harass, or dox anyone featured in our videos or posts. This individual is simply a person of interest based on the evidence. He was in the epicenter at the critical time, and we need answers: Who is he, and what was he doing there?
-
-If you have intel on his identity, additional footage of his movements that day, or any related details, DM me on X or email projectconstitutionvideos@gmail.com. Let's clear his name if he's innocent—or ensure justice if not.
-
-Urgent Call to Action: Forward this to the FBI immediately. Tell them we've cracked the case, traced the shooter, and it's time to drop charges against Tyler Robinson. The real threat is exposed.
-
-
-
-========== Egyption Plane (Tail #tail # SU-BND)  ===========================
-2nd Egyption plane was here.  This one left 3 hrs AFTER the assassination.
-
-
-
-========== Egyption Plane (Tail #tail # SU-BTT)  ===========================
-30) "Peace 2025". The Egyption plane was here.
-The 2025 Rotary Presidential Peace Conference took place in Istanbul, Türkiye on 20-22 February 2025.
-This plane left BEFORE the assassination.
-
-18 people flew in. But far fewer flew out.
-
-SU-BTT: Fight flight ever to USA July 20th Omaha Nebrasca. Omaha to Lincoln. Same airbase on N1098L? Wilmington, DE.
-* (1st time in USA). AUG 17th Paris=>Omaha/Lincoln=>Aug23=>Wilmington=>Aug 24th=>Paris.
-* (2nd time). Paris=>Sept 4th=>Minot, ND=>Provo=>Stay=>Sep10th=>Provo=>Wilmington=>Cairo.
-
-Candaice show has more. Video
-https://x.com/ProjectConstitu/status/1984262539996283208
-
-The International Day of Peace 2025 (often referred to simply as “Peace Day 2025”) is observed on Sunday, 21 September 2025 worldwide
-
-Egyptian Jet's DoD Badges & Drone Tests in Provo—Charlie Kirk's Hit Was No Accident!
-
- I uncovered some leads on the Egyptian Jet In Provo during the CK Event. There's potential DOD TIES—COUNTER-UAS DRONE TESTS, BLACK OPS CLEARANCE, AND POTENTIAL PASSENGER'S Unearthed On The Day Charlie Kirk Was ASSASSINATED
-Let me preface this with these are UNCONFIRMED accounts from witnesses that i have yet not cooperated but could potentially shed light into what was really going on with that Egyptian plane.
-
-Fresh intel i've been able to gather paints a darker picture of that Egyptian Air Force jet (tail # SU-BTT) in Provo, Utah, Sept 4-10, 2025—the exact window of Charlie Kirk's sniper hit at UVU. The plane was NOT there for routine maintenance; it was a classified  military op conveniently overlapping the tragedy.
-
-Breakdown:
-
-Sources at Duncan Aviation confirm 4-6 subcontractors boarded with Egyptian passports, but their badges read "U.S. Department of Defense Liaison." Another source says they tested "counter-UAS" (unmanned aerial systems) gear at Provo Airport Sept 4-10—anti-drone tech far from standard service. First confirmed DoD link—why embed U.S. military oversight for an "Egyptian" flight?
-This source has also given me 2 names of potential passengers that were on that plane that need to be Investigated further: Maj. PERSON_132_REDACTED' & 'Eng. PERSON_133_REDACTED'—Egyptian Army Intel may have been other passengers on that plane.
-
-ATC Black Ops Routing: Provo Tower (PVU) logs show that on Sept 4th plane was given "No-scan priority clearance" via federal override—no passenger manifests recorded. Tower insiders whisper it "smells like black ops," bypassing protocols for high-level evasion.
-
-UVU Drone Sighting: Eyewitness from UVU maintenance saw an "Egyptian crew" spotted testing non-standard drone tech Sept 8th  near campus engineering buildings. He say's this was NOT NORMAL. Whispers point to a classified U.S.-UAE-Egypt joint operation—drone flyovers pre-event? Coinciding with Kirk's speech?
-
-This jet dropped contractors, tested anti-drone countermeasures, then ghosted—meanwhile the FBI still claims a rooftop sniper (150+ yards out) took Kirk down. Routine? Or rehearsal for chaos?
-Demand: PERSON_16_REDACTED, release manifests and DoD logs. Trump admin—transparency now.
-
-Who's connecting these dots with me? Drop leads below.
-
-
-
-
-
-========== Egypt Special Forces ===========================
-
-CHARLIE KIRK UPDATE: The 2 mysterious Egyptian planes shadowing Charlie Kirk & TPUSA  events over the last 2 years, including the day of the assassination—as reported by
-@RealCandace OwensO
- yesterday—consistently fly in & out of Cairo, Egypt. Here's why that might be more interesting than you realize:
-
-Just 37 miles away from Cairo is Inshas Airbase, the home & primary training center for the El Sa'ka Forces, or "Thunderbolts"—Egypt's elite special operations unit patterned after the US Army Rangers, and trained by the US Delta Force, US Navy SEALS & British SAS.
-
-The unit, established in 1953, focuses on airborne insertions, raids & unconventional warfare. Is this some of that foreign involvement PERSON_16_REDACTED doesn't want being investigated?
-
-If you have any information on these flights, from anywhere in the world, please send your tips to Candace Owens (or me). Thank you. Everyone else, please comment & retweet this for maximum reach.
-
-
-========== Charlie pissed off Israel ===========================
-
-> Charlie’s public and private efforts to secure the release of the Epstein files
-> Charlie’s opposition to antisemitic “hate speech” laws
-> Charlie reportedly refusing a $150M donation for TPUSA from PERSON_PRIME_MINISTER_8_REDACTED
-> Charlie recently declining PERSON_PRIME_MINISTER_8_REDACTED’s invitation to visit Israel
-> Charlie’s decision to begin and continue platforming Israel-critical voices like Tucker Carlson and PERSON_118_REDACTED at TPUSA [he even mentioned bringing Candace Owens back].
-> Charlie’s text messages accusing Jewish donors of playing into into all the stereotypes after they pulled donations for his refusal to ban Tucker from TPUSA
-> Charlie’s text messages to Pro-Israel handlers stating that he was forced to abandon the pro-Israel cause.
-> Charlie questioning suspicious financial activity within TPUSA and ordering the establishment of “DOGE” committee to investigate the organization’s finances one week before he was shot.
-> Charlie privately back-channeling the White House to express concerns about pursuing regime change or getting pulled into a drawn out war in Iran by the Military Industrial Complex.
-
-========== Egypt 5 Planes ===========================
-
-More Planes: Tail # T7ELL, EJM36
-https://x.com/ProjectConstitu/status/1999347020142710872?s=20
-
-BOMBSHELL EVIDENCE: CONFIRMED NOT 2 BUT 5 EGYPTIAN MILITARY PLANES SWARMED PROVO in 2025 – Direct Flights to Charlie Kirk's Assassination Site. This Is No Coincidence.
-
-@RealCandace OwensO
- ignited the fire with her timeline exposing SU-BTT & SU-BND shadowing TPUSA events for years—landing in Provo Sep 4, 2025, just 6 days before Charlie's murder on Sep 10. But now? Raw flight logs (screenshots attached) reveal THREE MORE Egyptian Air Force jets in Provo throughout 2025: SU-BTU, SU-BTV, & SU-BGM. That's a FIVE-PLANE ARMADA—VIP Falcons & Gulfstreams from Cairo via Paris, circling Utah like predators pre-strike.
-
-Undeniable Proof from the Logs:
-▶️SU-BTT (Falcon 7X): Sep 4 Minot → Provo (full inbound); Sep 10 Provo → Wilmington (lighter outbound post-hit). Lingered for Kirk's UVU rally.
-▶️SU-BND (Gulfstream G550): Sep 13 Provo → Goose Bay/Paris/Cairo (lag plane, stayed months); May 25 Provo locals—test flights?
-▶️SU-BTU (Falcon 7X): Feb 14 Provo → Wilmington; Aug 8 Minot → Provo; Mar 2 Detroit → Provo. Multiple NE/UT hops tied to TPUSA Faith tours.
-▶️SU-BTV (Falcon 7X): Jul 2 Provo local; Mar 2 Provo; Oct 2 Provo—post-assassination cleanup? Oct 29 Cairo local, but Provo spikes pre-Sep.
-▶️SU-BGM (Gulfstream IV): Apr 16 Goose Bay → Paris → Provo (landed 6 PM); Apr 10 Provo local (55-min flight). Spring swarm during Kirk's Midwest push.
-
-These aren't joyrides—government ops with no-scan DoD badges, dropping "experts" for drone/laser hits. Why pave the scene? Why delete footage? Mossad proxies via Egypt? The pattern screams foreign orchestration.
-
-Huge thanks to @WeAre_TheElite
- unearthing these—FOLLOW Them for the deep dives. We're arming the truth squad.
-CALL TO ACTION: @FBIDirectorKash
-  Release ALL manifests & logs. Tag @RealCandace OwensO
-  —Charlie deserves justice, not a cover-up. Share these screenshots. This post must explode.
-
-
-========== Mini Van / Truck ===========================
-
-
-The whole cast. Mini Van Man, The Handler, PERSON_4_REDACTED, PERSON_67_REDACTED, The Great One PERSON_12_REDACTED, PERSON_2_REDACTED, PERSON_10_REDACTED & Co
-
-
-========== Who are These ===========================
-
-Audio Contracting company hired by TPUSA:
-PERSON_5_REDACTED & PERSON_148_REDACTED either attended the same ‘reaction briefing’ or this is subconscious since they both know the blast came from inside Charlie’s shirt.
-
-
-========== Trial / Court / Legal Docs ===========================
-
-Legal Docs:
-https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents?r=2frou4&utm_medium=ios&triedRedirect=true
-
-
-========== 3D Construction of Site ===========================
-
-  3D reconstruction & analysis of Charlie Kirk assassination that speaks volumes.
-
-4 different shooter location perspectives with line of sight and shot trajectory line with very interesting conclusions.
-
-Also includes sound analysis of official narrative which is the most important and telling results, which breaks the official narrative once again.
-
-- The sound analysis and the video proved that we heard the shot and saw Charlie getting shot at the same time, when Charlie should of been shot first then we would of heard the sound of the shot if it was at 150 yards with the rifle they claim shot Charlie, considering the speed of the bullet and the speed of sound.
-
-- This conclusion means that the shot had to come from a closer proximity, from 50 yards or less, not 150 yards, considering that we do know exactly where the video and audio was taken from, and how far it was away from Charlie.
-
-Watch the full video for full context and to understand all 4 shooter locations and sound analysis conclusion.
-
-It's starting to narrow down some possibilities, which is great. Little by little we move closer to the truth.
-
-Thoughts, comments, and speculation down below, the more eyes and theories the better.
-
-
-========== Hamptons Meeting ===========================
-
-PERSON_109_REDACTED just asked PERSON_44_REDACTED, while he was under oath, about the infamous Hamptons meeting with Charlie Kirk.
-
-And now his story has shifted. He now admits that there was a “HEATED and at times spirited debate”.
-
-But Seth denied that, categorically, when we first reported on this summit. Go back and read Seth’s tweet on September 16th. He said there was “no angry confrontation” in the Hamptons. He presented the Hamptons weekend as a perfectly enjoyable summer retreat.
-
-PERSON_44_REDACTED, like PERSON_11_REDACTED, LIED in the immediate aftermath of Charlie’s death to cover his own contribution to the pressure Charlie was under regarding his shifting positions on Israel.
-
-As I always said CHARLIE WAS PRESSED BY SETH DILLON AND YES—IT WAS HEATED. Charlie left the Hamptons and described it as an intervention.
-
-He then vented to PERSON_9_REDACTED about what he was experiencing, at the hands of his “friends”.
-
-========== Steam (Messaging) ===========================
-
-STEAM SECRETS UNLOCKED: Tyler James Robinson's "Milk" Profile – A Creepy Dive into Gaming Gore, Bizarre Aliases & Ominous Captions  😱
-Thread: 1 of 3
-We've cracked open Tyler Robinson's (aka craftin247 → milk) 11-year Steam vault. This isn't your average gamer setup. From private profiles hiding twisted aliases to gore-soaked Fallout snaps with captions that hit way too close to home after the Charlie Kirk tragedy. My team archived it all – no hacks, just public (now scrubbed?) scraps. Dropping 9 key screenshots below. What do they scream? Isolation, dark humor gone wrong, and red flags in plain sight. Buckle up.
-
-🔥Massive Shoutout to everyone on the Charlie Kirk Investigatory Team: @joshuajdonnelly
-, @TheLFLounge
-, @MrDiscordeous
-, @CamelotJack1963
-, @VoxExVeritas
-,  and everyone else on the team who wises to remain anonymous. Go FOLLOW them please. These people ROCK!!
-
-Screenshot 1: The Facade
-SpongeBob's Squidward in a Hawaiian shirt stares back – username "milk", Utah-based, formerly "decent hiscan hero" (Hispanic? Hero complex?). Bio: "nickname me milk i alas lot" (typos galore, like "I like a lot"?). 1,370 items owned, badges galore (wings, medals, frogs?). Looks wholesome... until you scroll. Attached: Profile overview. Creepy cartoon vibe masking what?
-
-Image
-
-
-
-
-========== Hospital / Medical / Farthest away ===========================
-https://x.com/MJTruthUltra/status/1983305412108525701
-
-Charlie Kirk was reportedly taken to Timpanogos Regional Hospital — However, a medical Staffer produced a Medical File Showing Charlie Kirk was at Utah Valley Hospital
-
-🔻 Important Context:
-
-- Utah Valley Hospital, a Level II trauma center, was closer to UVU. 4.2 miles. 8–12 min drive from UVU.
-
-- Timpanogos Regional Hospital, a Level IV Trauma Center, was further away, 5.8 miles. 12–15 min drive from UVU.
-
-- Transport to Timpanogos Regional (Level IV) deviated from standard protocol for a gunshot wound.
-
-- Protocol for serious gunshot wounds in Utah County: bypass Level IV/V facilities and go directly to Utah Valley Hospital (Level II) unless the patient is in immediate cardiac arrest or the closer facility is en route.
-
-In short: Timpanogos can and does treat gunshot wounds, but Utah Valley Hospital is the designated and more capable center for life-threatening cases like Charlie Kirk’s.
-
-Candace Owens asks the medical community to weigh in on if this could happen between the two hospitals. Why would Charlie have a medical file at Utah Medical Center?
-
-https://rumble.com/v70x5tm-medica
-
-
-========== Security Team & Israel & PERSON_PRIME_MINISTER_8_REDACTED PM  ===========================
-https://x.com/ProjectConstitu/status/1985922805313986653
-
-EXCLUSIVE: PERSON_PRIME_MINISTER_8_REDACTED's Former BODYGUARD Was Embedded In Charlie Kirk's Security Detail —Did PERSON_10_REDACTED Help Kill Charlie Kirk?
-
-New evidence reveals PERSON_10_REDACTED former police officer/ mercenary that was part of Charlie Kirk's security detail and who is under intense scrutiny for potentially being involved in Kirk's death at the Sept. 10, 2025, incident at UVU—was part of then-PM PERSON_PRIME_MINISTER_8_REDACTED's personal security team in 2017.
-
-Side-by-side photos leave no room for doubt: It's the same man, in the same elite role. He once shielded Israel's Prime Minister PERSON_PRIME_MINISTER_8_REDACTED during high-stakes overseas trips. Now? He's embedded in Charlie Kirk's detail—on the exact day Kirk was assassinated.
-
-Flashback: Charlie had just pivoted hard against Israel, airing his growing disillusionment. Days before his death, he dropped a bombshell warning: He feared "They" were out to silence him for good. No one's gone on record naming the"They"... but with the flood of evidence pointing straight to Israeli fingerprints, the math adds up.
-
-But here's the red flag: Reverse image searches on the 2017 PERSON_PRIME_MINISTER_8_REDACTED airport photos (AFP/Sydney) lead to scrubbed Zimbio archives. Three engines, zero results. Sites 404'd. This isn't coincidence—they appear to be actively deleting evidence.
-
-Charlie's "execution" reeks of an inside job. Why embed a Mossad-linked operative? Demand answers: Full audit of Turning Point security contracts. Coincidence? Or calculated hit?
-
-
-
-========== He was shot from the right  ===========================
-
-ALERT: Red’s Randumb Ruminations drops the mic: The physics, ballistics, and forensics SCREAM shot from the RIGHT.
-
-For weeks, I've been breaking down how the shot came from Charlie's right side during the Sept. 10 UVU hit, perfect angle to match his execution. Skeptics called it wild speculation. But now? A must-watch breakdown from @RedRandumbYRuminations On YT perfectly lays out why we are correct and it could not have been a 30.06 or a front shot.
-
-Here's the breakdown – straight fire from Red's 1+ hour deep-dive (link below; watch it ALL for the full autopsy-smashing truth):
-
-🔹 Debunks the Official BS: No .30-06 from the front. That's a Prohibition-era "wine brick" lie – impossible physics (12,000 lbs of force for a 30° turn? Nah). M98 Mausers never made .30-06 in WWI, and serial numbers trace back to 1898. Candace Owens nailed it: autopsy says otherwise.
-
-🔹 Ballistics 101: Entry wound? Small, clean (bullet-sized). Exit? Massive cavitation explosion. Hollow-points or Hydra-Shok rounds mushroom on impact, shredding tissue like a snow shovel drags powder. Red shows his deer hunts: bullets embed under skin after 160+ yards – just like the T1 fragment in Charlie's neck. High-velocity snap (suppressed .22-250?) vs. thunderous .30-06 boom. Listen to the audio: "Flack-thump" from 100-200 yds, not a rooftop roar.
-
-🔹 Hydrostatic Shock & JFK Parallels: Head = pressurized balloon. Bullet enters right temple (above ear), obliterates red nucleus (motor control), blasts down foramen magnum (skull's "giant hole"). Pressure surges: C2-C6 vertebrae shatter, cavitation bulges left neck/jaw (exit tear), but zero on the right side. No frontal entry – that'd explode outward like a watermelon. Charlie's snap-back? JFK 2.0: rear energy jet-propels forward (frame 313 Zapruder vibes). Hair flips, face cavitates LEFT – force vector RIGHT-TO-LEFT.
-
-🔹 The Cover-Up Clues: Minimal blood (no arterial spray; pooled like "vomit" from pressure cavity blast). Paved-over scene in 48 hrs? Metal detector that 6-ft zone NOW. Suppressed "snap" hides the pro hit. Red ties it to CIA uni ops (UVU's Mormon/CIA nexus) – easy access, dead cams, faculty-only balcony as sniper perch. (supports Giddeon's theory)
-
-Red's winging it garage-style with deer mounts and notes – raw, unfiltered genius. Attached is just a short summary clip that destroy's the FBI official narrative
-
-This isn't coincidence. It's calibration. It mirrors EXACTLY what I've hammered for weeks: The van on the RIGHT – concealed weapon, remote trigger, laser-guided from drone or sniper (possibly from BA building)(Mossad/CIA agents embedded for the kill as Charlie turns anti-Israel. Eyes don't lie; physics doesn't bend.
-
-
-
-
-========== Drone in air by old man  ===========================
-
-
-NEW DRONE FOOTAGE  From The TPUSA Event At UVU Where Charlie Was Assassinated —Proving TPUSA LIED AGAIN!
-
-New drone footage from the Charlie Kirk UVU event on Sept 10—the day he was assassinated—exposes the LIES. UVU, @TPUSA
- , and Tyler Boyer claimed NO drones were overhead and their security had none. WRONG.
-
-I've been sounding the alarm since Day 1:
-
-▶️PERSON_4_REDACTED CONFIRMED TPUSA had a drone up. He & Charlie reviewed footage en route; Frank warned of too many buildings—Charlie shrugged it off bravely.
-▶️TPUSA's OWN birthday tribute vid (Oct 14, Charlie's 32nd) includes CRYSTAL CLEAR drone shots from the event: crowds swarming an hour pre-hit.
-▶️Eyewitness photo: Man in crowd gripping a drone.
-My 4+ videos: Drones buzzing overhead, undeniable.
-
-Now, FRESH footage drops TODAY via @Mr_LetGo45
-'s YouTube livestream—NEVER-BEFORE-SEEN. Attached: Screenshots. Full vid coming TONIGHT.
-This isn't fluff. Drones hovered ILLEGALLY over crowds in Utah (banned w/o permits). Footage syncs PERFECTLY w/ parking lot cams & FBI-released clips—SAME cars. No AI, no fake. Drone path? Underground tunnels. Bushes where the gun hid. Timestamp: 12:07 PM, post-noon rush.
-
-Enter PERSON_25_REDACTED—the "little old guy" w/ white beard trailing Charlie. Brother of Pastor PERSON_26_REDACTED, he's a UTAH DRONE EXPERT (decades in). Legal op? Maybe. But why DENY it existed?
-
-TPUSA's excuse? Campus PD blocked drones & rooftops—fair, they lacked jurisdiction beyond Charlie's bubble. No counter-snipers, no Secret Service. But LYING about drones? That's the cover-up.
-
-Security failed on perimeters, but this footage demands answers: Who flew it? Why hide it? For Charlie's justice.
-
-Huge thanks: @MrLetGo
-, allylovemom (IG),  universehop00 (TikTok), Ava & Colleen (Scooby Doo shop), Imani—y'all stayed up verifying EVERY frame.
-
-
-
-========== Drones: More   ===========================
-
-BREAKING: NEW DRONE FOOTAGE  From The TPUSA Event At UVU Where Charlie Was Assassinated —Proving TPUSA LIED AGAIN!
-
-New drone footage from the Charlie Kirk UVU event on Sept 10—the day he was assassinated—exposes the LIES. UVU, @TPUSA
- , and Tyler Boyer claimed NO drones were overhead and their security had none. WRONG.
-
-I've been sounding the alarm since Day 1:
-
-▶️PERSON_4_REDACTED CONFIRMED TPUSA had a drone up. He & Charlie reviewed footage en route; Frank warned of too many buildings—Charlie shrugged it off bravely.
-▶️TPUSA's OWN birthday tribute vid (Oct 14, Charlie's 32nd) includes CRYSTAL CLEAR drone shots from the event: crowds swarming an hour pre-hit.
-▶️Eyewitness photo: Man in crowd gripping a drone.
-My 4+ videos: Drones buzzing overhead, undeniable.
-
-Now, FRESH footage drops TODAY via @Mr_LetGo45
-'s YouTube livestream—NEVER-BEFORE-SEEN. Attached: Screenshots. Full vid coming TONIGHT.
-This isn't fluff. Drones hovered ILLEGALLY over crowds in Utah (banned w/o permits). Footage syncs PERFECTLY w/ parking lot cams & FBI-released clips—SAME cars. No AI, no fake. Drone path? Underground tunnels. Bushes where the gun hid. Timestamp: 12:07 PM, post-noon rush.
-
-Enter PERSON_25_REDACTED—the "little old guy" w/ white beard trailing Charlie. Brother of Pastor PERSON_26_REDACTED, he's a UTAH DRONE EXPERT (decades in). Legal op? Maybe. But why DENY it existed?
-
-TPUSA's excuse? Campus PD blocked drones & rooftops—fair, they lacked jurisdiction beyond Charlie's bubble. No counter-snipers, no Secret Service. But LYING about drones? That's the cover-up.
-
-Security failed on perimeters, but this footage demands answers: Who flew it? Why hide it? For Charlie's justice.
-
-Huge thanks: @MrLetGo
-, allylovemom (IG),  universehop00 (TikTok), Ava & Colleen (Scooby Doo shop), Imani—y'all stayed up verifying EVERY frame.
-
-
-
-==========  #1 Voice-to-Skull / CIA / MK Ultra / Discord / PERSON_41_REDACTED  ===========================
-V.O.G. Voice of God.  LRAD Technology"Pushing Voices inside your head"
-
-
-https://x.com/Xx17965797N/status/2023020698672017804
-
-
-
-========== #2 Voice-to-Skull / CIA / MK Ultra / Discord / PERSON_41_REDACTED  ===========================
-
-
-The Charlie Kirk case gets a new twist with PERSON_41_REDACTED commenting on X 2 weeks before Charlie Kirks assassination on a post detailing CIA Alice in Wonderland MK Ultra style conditioning through means including Discord groups.
- “You’ve now got the blueprint for a radicalised sleeper army, built in plain sight. Individuals believe they’re acting on their own convictions, but in reality they’re following a narrative carefully injected into their psyche.”
-
-Coincidence that two weeks before Charlie Kirks assassination involving Tyler Robinsons likely Discord group radicalisation, PERSON_41_REDACTED is one of only 37 who comment? Or do we for once listen to PERSON_7_REDACTED, “There are no coincidences”?
-
-The CIA’s “Alice in Wonderland technique” was originally an interrogation method developed by Scientology found L. Ron Hubbard and then used in the original MK Ultra Programs.
-
-Objective: Overwhelm a subject with contradictions, chaos, and fear until reality itself collapses. In that confusion, the brain desperately grabs onto the first coherent narrative it’s offered. That narrative then becomes the new truth.
-
-Now imagine applying that to billions of people through their cell phones.
-
-🎯 How Social Media Runs the Technique
-
-1.Algorithmic Chaos
-
-🔴Your feed is flooded with conflicting information, outrage headlines, and contradictory narratives.
-
-🔴The goal isn’t clarity—it’s confusion. Disorientation makes people easier to program.
-
-2.Behavioral Analytics
-
-🔴Every click, scroll, and pause is logged.
-
-🔴AI models know exactly what content destabilizes you personally.
-
-🔴The feed becomes a precision weapon, delivering chaos until you’re off balance.
-
-3.Narrative Injection
-
-🔴After the noise, a “clean” story, meme, or ideology is pushed.
-
-🔴It feels like relief, so the brain rewires around it.
-
-🔴Repetition and peer reinforcement lock it in.
-
-⚡ From Chaos → Weaponization
-
-This isn’t theoretical, it’s already happened.
-
-The Buffalo mass shooter and the Uvalde mass shooter were both members of the same Discord group. That group was reportedly run by a former FBI agent.
-
-Think about that for a second:
-
-⚪️Young men and women are destabilized by chaotic social feeds and targeted narratives.
-
-⚪️They’re funneled into private groups where reinforcement takes over.
-
-⚪️Inside those echo chambers, identities and behaviors are molded.
-
-⚪️Some are radicalized, others weaponized.
-
-This is MKULTRA 2.0
-
-Except instead of LSD in a lab, it’s TikTok, Discord, YouTube, and algorithmic nudging.
-
-🛑 Building Digital Sleeper Armies
-
-Now scale this up:
-
-⚫️Multiply private groups across platforms.
-
-⚫️Use behavioral data to select the most vulnerable minds.
-
-⚫️Groom them with community reinforcement and controlled narratives.
-
-⚫️Insert subtle command structures — memes, symbols, phrases — that act as activation triggers.
-
-You’ve now got the blueprint for a radicalized sleeper army, built in plain sight. Individuals believe they’re acting on their own convictions, but in reality they’re following a narrative carefully injected into their psyche.
-
-With the right command, that digital army can be nudged into the streets, mobilized online, or weaponized toward any agenda.
-
-🚨 The Bigger Picture
-
-Social feeds are no longer passive entertainment. They are psychological battlefields.
-
-The Alice in Wonderland technique + real-time behavioral analytics + private group funneling = a system that can create, control, and deploy programmable people without them ever realizing it.
-
-That’s not a conspiracy, it is digital social engineering that is happening right now.
-
-
-========== PLANE  MARC Inc.'s Piper N59906  ===========================
-
-
-🚨ALERT: BREAKING Down The MYSTERY FLIGHT BEFORE CHARLIE KIRK SHOOTING —Not A Drone But Another SPY AIRCRAFT
-
-On Sep 15, private contractor MARC Inc.'s Piper N59906 made 4 low-alt passes (15k ft AGL) over Utah Valley Univ campus—hours b4 the 12:23pm attack. Equipped w/ hi-res cams, LiDAR for surveillance/mapping. Who ordered it? Gov't? Do photos capture the shooter or debunk conspiracies?
-
-Incredible dig by @rosenwald_eric
- —hats off for the OSINT wizardry!
-
-The Suspicious Aerial Surveillance Flights
-
-Just hours before the shooting, a Piper PA-31 Navajo Chieftain (registration N59906), operated by MARC Inc.—North America's largest provider of specialized contract aircraft for GIS, survey, and surveillance—conducted four low-altitude passes over the UVU campus. The flights originated and ended at Provo Airport (PVU), about 4 miles south of campus, and occurred at approximately 19,000 feet MSL (15,000 feet above ground level), ideal for aerial mapping or reconnaissance.
-
-       Pass Time / Duration / Notes
-▶️11:01 a.m. / ~5 min / First north-south pass over central campus
-▶️11:09 a.m. / ~4 min / Second pass, slightly offset eastward
-▶️11:18 a.m. / ~5 min / Third pass, focused on event area
-11:35 a.m. / ~6 min / Final pass; alleged shooter first spotted on campus surveillance at 11:50 a.m.
-
-The aircraft is equipped for high-resolution data capture, including:
-💠Cameras: Vexcel Large Format Digital, Leica, hyperspectral, infrared scanners.
-💠LiDAR: Optech Orion/Gemini/3100 systems for 3D mapping.
-💠Other: Lead air data storage for multispectral/hyperspectral imaging.
-
-MARC Inc. serves U.S. federal/state governments, foreign entities, private mapping firms, oil/gas companies, civil engineering groups, and universities for applications like aerial photography, geophysical surveys, surveillance, and pipeline monitoring.
-
-Open-source flight tracking (via ADS-B) confirmed the pattern, raising questions: Was this routine infrastructure surveying (e.g., Interstate-15 nearby), law enforcement prep, or something else? If images exist, could they show the shooter (Tyler Robinson) or his preparations, potentially debunking conspiracies like multiple gunmen or staged events?
-
-No official confirmation from the FBI or MARC Inc. on the flight's purpose or client, though airspace remained open (drawing criticism for not being restricted pre-event).
-
-Key Update: Alleged Leaked Photos
-On October 13, 2025, Tiktok user @universehop00 posted leaked photos just one day after his initial report—claiming they originated from N59906's flight that day. The account has no other content, suggesting a targeted leak (possibly from a contractor or insider).
-
-The images appear to show:High-res orthomosaic views of UVU's central quad and event stage area.
-Timestamped metadata aligning with the 11:35 a.m. pass.
-Potential anomalies: A figure  near a rooftop access point ~45 minutes pre-shooting.
-
-If authentic, these could be pivotal for the Tyler Robinson case and our own de-centralized investigation in to the bigger conspiracy to assassinate Charlie Kirk.
-
-The FBI has not commented, but victim resources and investigation updates continue via their site.
-
-
-
-
-
-
-========== PERSON_3_REDACTED's Text Messages  ===========================
-
- The Charlie Kirk Assassination Cover-Up is CRUMBLING—And PERSON_3_REDACTED's Text Thread PROVES Israel Had a Hand in It!
-
-If you're just waking up to this, listen CLOSE: Candace Owens, PERSON_51_REDACTED, PERSON_50_REDACTED, Ryan Matta and myself—ALL of us—are ZEROING IN on the SAME damning lead. It's NOT some wild goose chase. It's PERSON_3_REDACTED (Charlie's RIGHT-HAND MAN) spotting a TEXT THREAD that screams foul play. He flagged it as KEY to Charlie's Sept 10th murder in Utah. Why? Because it ties straight to ISRAEL'S SHADOWY INVOLVEMENT.
-
-PERSON_3_REDACTED KNEW—those private messages Charlie vented frustrations over PERSON_PRIME_MINISTER_8_REDACTED's endless wars, Gaza horrors, and AIPAC's grip on DC. Charlie was shifting, questioning the script, loving Israel less blindly. BOOM—silenced forever. PERSON_3_REDACTED chased that thread because HE BELIEVED IT LED TO THE TRUTH. And guess what? SO DO I. SO DO WE ALL.
-
-This "lone gunman" BS? LAUGHABLE. Leaked texts don't lie—Charlie's own words show he was FEELING the heat. No more gaslighting from PERSON_17_REDACTED's crew or TPUSA suits. We're EXPOSING the deep state hit on America's boldest voice. Justice for Charlie means ripping the veil OFF foreign meddling! Who's with us?
-
-BTW, if you aren't Following
-@realbaronpod
- Please Do, Also go check out his Youtube. My man is doing an awesome job deep diving into the data related to the CK case. I'll drop the link to his most recent episode in the comments below.
-
-
-========== PERSON_46_REDACTED’s  @ “Groyper War  ===========================
-
-Here’s a concise timeline of the 2019 “Groyper War,” when PERSON_46_REDACTED’s followers (“groypers”) targeted Charlie Kirk/TPUSA events with hostile Q&A:
-
-* Sep 30, 2019 — TPUSA severs ties with brand ambassador Ashley St. Clair after she appears with PERSON_46_REDACTED and others. The fallout helps spark PERSON_46_REDACTED’s campaign to send groypers to TPUSA’s fall tour.
-* Mid-Oct 2019 — Kirk launches TPUSA’s “Culture War” college tour; PERSON_46_REDACTED urges followers to attend and grill Kirk on immigration, Israel, and LGBT issues.
-* Oct 29, 2019 — Ohio State University (Columbus, OH): Groypers dominate the Q&A (reported 11 of 14 questions), including inflammatory prompts to Kirk and co-host Rob Smith.
-* Nov 8, 2019 — Arizona State University (Tempe, AZ): At a TPUSA “Prove Me Wrong!” event featuring Rep. PERSON_110_REDACTED, protesters—including far-right/“alt-right” critics aligned with the groyper campaign—confront the forum.
-* Nov 10, 2019 — UCLA (Los Angeles, CA): PERSON_112_REDACTED, Kirk, and PERSON_111_REDACTED appear for Triggered book promo; the Q&A is canceled, groypers heckle, and the event ends early (~20–30 minutes).
-* Nov 25, 2019 — University of Houston (Houston, TX): A Kirk “Prove Me Wrong” stop devolves as a hostile crowd chants “America First,” emblematic of groyper-driven disruptions.
-* Dec 2019 — West Palm Beach, FL: PERSON_46_REDACTED hosts the Groyper Leadership Summit opposite TPUSA’s Student Action Summit; groyper figures are removed after attempting to enter the TPUSA venue.
-
-Media and academic write-ups at the time described this coordinated Q&A tactic and the rift on the right as the “Groyper War.”
-
-
-========== Mikey @ Hospital  ===========================
-https://x.com/ProjectConstitu/status/1987900867886924150
-
- EXCLUSIVE WITNESS VIDEO: The DARK SECRETS of Charlie Kirk's Final Moments at Timpanogos Regional Hospital REVEALED! 😱
-
-On Sept 10, 2025, chaos erupted at UVU when Charlie was sniper-shot mid-speech. Six bodyguards scooped his bleeding body—neck gushing like a faucet—and rushed him into a black SUV. No ambulance, no sirens, just a mad dash 5 miles to Timpanogos Regional in Orem, UT. They met staff outside the Surgery doors, but it was too late. Charlie was DOA. Inside that SUV? A shell shocked PERSON_4_REDACTED (doing frantic CPR) and a handful of shell-TPUSA guards. 💔
-
-But WAIT—another SUV screeches in RIGHT behind them. Who’s behind the wheel? None other than Charlie’s own Chief of Staff, PERSON_12_REDACTED. This guy—Charlie’s "best friend" of 6 years—ditched the scene the SECOND the shot rang out. Walked away cool as ice, phone to ear (calling PERSON_7_REDACTED? His dad? A handler?!), while everyone else dove to save Charlie. SUS AF.
-
-Now the bombshell from an EYEWITNESS at the hospital: Mikey doesn’t even hit the ER. He peels straight to PHYSICIAN PARKING —Picks up some shadowy figure (doctor? Insider? Accomplice?) hops in the passenger seat. Boom—they peel out AGAIN, vanishing into the Utah sun. No visit to Charlie’s body. No questions for docs. Just a quick pickup and GONE.
-
-Who TF did Mikey grab? A cleanup crew to scrub evidence? A "fixer"? Or proof this was an INSIDE JOB to silence Charlie’s election bombshells? This video footage from a  contractor for the hospital changes EVERYTHING!
-
-Watch & RT if you smell foul play! 🔥 What do YOU think happened next? Drop theories below
-
-
-
-==========  Blase. Because Neckless & Shirt movement before Blood is impossible  ===========================
-
-Charlie Kirk post🚨IMO No one will ever be able to recreate a gun shot where a necklace busts away while the t-shirt violently reverberates… All *BEFORE* there's any sign of a wound/blood. It's impossible! *IF* Charlie was actually shot, the 1st frame would & should show some degree of entry wound / blood / splatter from his neck! (In every experiment completed - there is visible evidence of a bullet entering their test subject during the initial frame). In CK's case, the initial frame is his shirt exploding & there is ZERO blood or splatter. The gush of blood comes from his neck multiple frames *AFTER* his t-shirt calms down from the strange reverberation & explosion. This was not a gun.
-
-*IF* they found a bullet inside Charlie's neck (per C.O.'s unnamed leak) - well, it was fired after he left UVU because a gun did not do what the world witnessed live on September 10 under the tent.
-
-I believe there was a detonation under Charlie's shirt which created a close proximity projectile in tandem with a strong shock (think taser like effect on his body causing that posture).
-
-
-
-==========  FBI Deletes files  ===========================
-https://x.com/ProjectConstitu/status/1988550422953333176
-
-FBI's DIGITAL PURGE: Erasing Charlie Kirk Assassination Evidence in REAL TIME—1984's MEMORY HOLE Goes LIVE!📷 http://Archive.today Under FBI Siege—Our Web History's About to VANISH! 🕵️🧐
-
-Proof's pouring in: Eyewitness vids WIPED, metadata GONE, servers SCRUBBED, links DEAD. "Routine probe"? BS—they're REWRITING HISTORY to bury Israel ties & elite crimes. PERSON_16_REDACTED's crew hits http://archive.today with "copyright" smokescreen—same as Kim Dotcom's takedown: "Piracy!" cry to kill truth platforms. ❌
-
-Epstein receipts? Kirk hit docs? POOF. No backups, no proof it EVER existed. Dead Internet? It's HERE: 80% bots per FBI leaks, astroturf armies drowning real talk. Google scrubs Kirk-Israel searches; fact-checkers launder lies. Eyewitness PERSON_42_REDACTED: Feds BEGGED him delete phone footage ("PTSD cure"—wink), then phone glitches post-"Israeli radio" interview that GHOSTED after probing anti-Israel youth vibes. Bug? Honey trap? PERSON_PRIME_MINISTER_8_REDACTED's open war: Critics are "fair game." ADL blacklists Kirk/Candace Owens? Speech KILLS their fraud.  They're PANICKING—truth's too hot. Not suicidal? We're FURIOUS at their hits.
-BRAVE UP: Archive NOW, scream LOUD, save the web! If http://archive.today falls, so does OUR MEMORY. Who's fighting back? 💪
-From: @tpvsean
- FOLLOW Him!!! Also Go Check Out His FULL Video on this topic. Link will be in the comments.
-RT to EXPOSE the ERASE! Who's archiving this?
-
-
-
-
-
-==========  Shirt Puff / Explosion / Energy / Motion / Lapel Mic  ===========================
-
-Futher explanation of the physical characteristics of the trama documented by multiple video angles (original side angle by @ckllr801
-) with some custom pixel flow mapping of the epicenter of movement for each frame. (It failed at tracking the necklace but did denote the frames well)
-
-Thanks to @Piper_truth1
- for dealing with my cynical debate style and providing clarification on the difference between mid brain and brainstem trama.
-
-*Clarification* I am fairly certain that the event was comprised of two explosive events. The first explosive event was designed to create the stand off height and the second explosive event delivered the shaped charge.
-
- * Mechanisms of Injury *
-The primary blast wave from a high-energy explosive can transfer kinetic energy through the body's fluid-filled tissues (like blood) to the central nervous system, including the brain.
-
-Blast Wave Transmission: When the shock wave hits the chest, it compresses the thoracic cavity, generating oscillating waves that travel through major blood vessels and tissues at the speed of sound in water, delivering energy to the brain.
-
-Vascular Effects: The sudden increase in thoracic and central venous pressure can cause immediate autonomic nervous system reflexes, leading to potential cerebral hypoxia (lack of oxygen to the brain). Acute gas embolisms resulting from blast lung injury can also travel to the brain and occlude blood vessels, causing severe neurological symptoms.
-
-Direct Brain Injury: While direct head impact is a common cause of TBI, the pressure waves transmitted from a chest injury can cause diffuse micro-damage to neuro-axonal structures and synaptic injury in the brain itself.
-
- * Neurological Symptoms *
-Both decorticate posturing and abnormal oculocephalic reflexes ("doll eyes") are clinical signs of severe brain dysfunction or damage.
-
-Decorticate Posturing: This is an involuntary reflex characterized by rigid arms flexed to the chest, clenched fists, and straight, rigid legs. It indicates severe damage to the cerebral hemispheres or areas above the brainstem's red nucleus.
-
-"Doll Eyes" (Abnormal Oculocephalic Reflex): The oculocephalic reflex is a brainstem-mediated response. In a healthy person, rapidly turning the head to one side causes the eyes to stay fixed forward (opposite to the head turn). If the eyes move with the head (like a doll's eyes), it suggests significant brainstem damage or dysfunction, a very ominous sign.
-
-Therefore, the immense kinetic energy and physiological disruption caused by a shaped charge to the chest could certainly lead to the severe brain injuries required to produce these specific neurological signs that we witnessed via multiple video angles.
-
-
-
-
-
-==========  EMS Medical  ===========================
-Video: https://x.com/ProjectConstitu/status/1989935633851109378
-
-
-EXPOSED: Dan PERSON_10_REDACTED's False Claim on EMS Response – Video Evidence Tells the Real Story
-
-Dan PERSON_10_REDACTED recently claimed that EMS personnel
-"were nowhere to be found" during a critical incident, implying they abandoned their duties and fled when shots were fired. This narrative paints first responders as negligent – but it's demonstrably false.
-
-Newly surfaced video footage reveals the truth: Dedicated EMS crew members – including PERSON_103_REDACTED and his partner – were on scene, ready to act, and actively offering their trauma kit to aid Charlie. Dressed in full gear with walkie-talkies and professional equipment, they approached security pleading, "Let us in – we have everything you need: gauze, tools, expertise."
-
-Security turned them away, leaving the medics sidelined while untrained guards fumbled with just phones in hand. Later clips show EMS finally rushing Charlie to safety – proof they were present, professional, and committed from the start.
-
-PERSON_10_REDACTED's words undermine the heroism of those who risk it all. First rule of emergency medicine? Scene safety – but these pros balanced protocol with urgent compassion.
-
-Watch the unedited footage below and decide for yourself. Accountability matters. Share if you stand for facts over fiction.
-
-FOLLOW @iamcoachcolin
- and check out his FULL Episode, linked down below in the comments
-
-
-
-==========  DOGE Audit / Bowyer  ===========================
-
- Massive Attack on my Ziklag broadcast this AM. The missing 990s for TPUSA Endowment, Action, and Americas are a big deal.   Killing Charlie eight days after he moved Bowyer out for not doing the DOGE outside audit is a big deal.
-https://x.com/RealGeorgeWebb1/status/1990483831238037771
-
-CK's MEMO.  Sept-2-2025.
-New COO: PERSON_65_REDACTED.
-
-
-
-
-==========  Video Camera SD card & Executive.  ===========================
-
-
-SHOCKING: The Man Who Grabbed the Evidence Hasn’t Done a Campus Event Before or Since Charlie Kirk Died… Think About It
-
-Candace Owens just went there on the Charlie Kirk assassination and it’s chilling “It is extremely difficult to investigate something when it involves powerful people… especially the little details that screamed ‘off’ to me that the average person would never catch.
-
-Here’s one that hit me immediately: Terrell PERSON_5_REDACTED — the guy who personally took the SD cards right after Charlie was killed — had no business being at that college event in the first place.
-
-Terrell is the absolute TOP executive at TPUSA. He runs the massive events — AmFest, SAS, the big national tours. He does NOT fly out for random campus stops. Ever.
-
-But on the exact day Charlie Kirk gets shot and killed? Terrell is suddenly there, “trying something new.”
-
-And the very next TPUSA campus event after Charlie’s death? Terrell is nowhere to be found again. Back to never doing college stops.
-
-So the one single day in history this “new thing” happens… is the day Charlie Kirk is assassinated… and the senior-most exec who never shows up is the one securing the SD cards?
-
-Hard pass on the coincidence theory.”
-This is beyond suspicious.
-
-
-
-
-
-==========  Plane Tail #N560TW  ===========================
-
-BREAKING: MYSTERIOUS PRIVATE JET @RealCandace OwensO
- Exposed that flew a WEIRD route on the MORNING Charlie Kirk was ASSASSINATED... Belongs to a MAJOR TPUSA DONOR who might've been FURIOUS over Kirk's shifting views on Israel. Coincidence? Or something SINISTER?
-
-Yesterday on her live, Candace Owens dropped THIS bombshell: "There is another flight that I am now very interested in... The tail number is N560TW. It departed on the morning of September 10th from Scottsdale, Arizona, and landed in Provo at 10:06 AM. It then immediately turned around and departed for Santa Barbara... then back to Scottsdale by 12:44 PM. Somebody saw something"
-
-This Cessna Citation XLS twin-jet (tail #N560TW) is OWNED by PERSON_121_REDACTED Aviation LLC—tied directly to the PERSON_121_REDACTED Foundation, a MASSIVE conservative donor that PROUDLY lists Turning Point USA as a key partner on their site. They've funneled millions into "strengthening America" orgs like TPUSA, Heritage Foundation, and more.
-
-And get this: PERSON_121_REDACTED HIMSELF shared the stage with Kirk back in 2023 at ASU's "Health, Wealth & Happiness" event—co-hosted by Lewis's own center. Kirk was a featured speaker, right alongside big names like PERSON_119_REDACTED and PERSON_120_REDACTED. But tensions? Reports leaked post-assassination show Kirk lost $2M from a "Jewish donor" after refusing to slam Tucker Carlson—and refusing to stay "pro-Israel" amid his Epstein file rants. Was Lewis—or someone connected—applying pressure? Kirk texted friends: "No choice but to leave the pro-Israel cause."
-
-The flight path screams "red flags": Scottsdale → Provo (land 10:06 AM) → Santa Barbara (depart 11:37 AM, maybe grab someone?) → Scottsdale (land 12:44 PM).
-
-Ground crew, pilots, witnesses in AZ, UT, or CA—WHO was on that plane?
-
-Candace Owens and I are both calling for tips—join the hunt! If you're connected to Scottsdale Airport, Provo, or Santa Barbara that morning, DM or email us.
-
-This story is EXPLODING. Who's got the receipts?
-
-
-Plane Tail #N40JD Beechcraft Premiere 1 (6 Seats)
-* Departs: Scottsdale: at 12:27pm Local
-* Arrived: 2:29pm (local) into Provo
-
-
-Plane Tail #N102DZ (15-16 Passengers) ** Charlie's Plane in SLC
-* Arrived in Scottsdale: at 1:13pm (local) time immediately
-* Departed: 1:13pm from Scottsdale
-* Arrived: Lands into Provo at 3:31pm (Local)
-
-Plane Tail #N872RA (7 Seats) Hawker Beechcraft
-* Departed: Santa Barbara at 2:19pm (local)
-* Arrived: 4:36pm into Provo
-
-
-
-
-==========  Egyptions Driving  ===========================
-
-
-BREAKING: One Of The EGYPTIAN GHOST PASSENGER RENTAL VEHICLES Has Been SPOTTED At UVU On The DAY Charlie Kirk Was ASSASSINATED
-
-One of the vehicles: Arizona plate CWN9872 – was caught on Utah DOT camera on University Parkway, just 1.2 miles from UVU campus, 25 minutes before the shot rang out. Driver completely obscured, windows blacked out. The exact tag Candace Owens exposed as rented to “PERSON_132_REDACTED Consulting” and assigned to the unidentified passengers who flew in on the Egyptian military planes.
-Caveat: Witness says the tag was on a Black Tahoe Not a White Camry so it could be a false hit or they could have swapped plates. (which would reallty be a sign of guilt) There is an Image, i am working on getting it from the person now and i will post an update when i have it.
-
-Here are the FOUR vehicles Candace Owens is urgently looking for:
-• Silver 2025 Toyota RAV4 → Utah T092ZS
-• White 2025 Toyota Camry/ or Black Tahoe → Arizona CWN9872 ← THIS IS THE ONE ALREADY SPOTTED HEADING TO UVU
-• 2023 Toyota RAV4 → Utah T912KM
-• 2025 Toyota 4Runner → Utah Z923DA
-
-If you were at UVU that day — student, staff, attendee, anyone — and you saw ANY of these four vehicles in the parking lots, streets, or anywhere on/near campus, you need to come forward RIGHT NOW. Photos, videos, even a blurry memory — DM me or
-@RealCandace OwensO
-  immediately. This is bigger than all of us.
-
-I am also re-dropping the motorcycle helmet-cam video of the guy who filmed his entire ride into UVU that morning.
-
-This is pure gold. Slow it down. Zoom in. Pause every single frame. We need every set of eyes on this — if any of these four vehicles or license plates appear anywhere in this footage, screenshot it and tag me instantly.
-Video directly below
-
-
-
-==========  Sting Ray - TPUSA - UVU.  ===========================
-
-This is what Turning point is doing at every one of their Make Heaven Crowded Tour locations.🤯
-
-They also had a "Stingray" device at UVU the day Charlie was killed. I have photo proof.
-
-This further supports what we uncovered yesterday on our livestream proving that Turning Point is being used as a mass surveillance operation. check out our livestream, which willbe posted below in the comment
-
-IMSI catchers (“Stingrays”) mimic cell towers, forcing all nearby phones to connect. That gives agencies mass identifier lists and movement paths.
-
-Device fingerprinting: once a phone’s radio signature is logged, it can be matched later even with a new SIM.
-
-
-==========  Charlie Quote: Stand Down Order  ===========================
-
-October 13–18, 2023
-
-Charlie Kirk first publicly suggested the possibility of a stand-down order during the October 7, 2023, Hamas attacks on Israel in an interview on the PBD Podcast (hosted by Patrick Bet-David), which aired around mid-October 2023.Specifically, in an episode shortly after the attacks (references point to discussions from October 13–18, 2023), Kirk questioned the delayed Israeli military response and asked:  "Was there a stand-down order?"
-He tied this to the intelligence failures, the ongoing protests against PERSON_PRIME_MINISTER_8_REDACTED at the time (which were canceled after the attacks), and broader skepticism about why the response took hours despite Israel's advanced surveillance and border defenses. He stopped short of definitively claiming it was intentional but said "some questions need to be asked."This appears to be the earliest known instance where he voiced this view publicly. Clips from that PBD Podcast appearance have been widely circulated and cited as the origin of his comments on the topic. No earlier statements from Kirk on a "stand-down" related to October 7 have surfaced in searches of his X posts, interviews, or public appearances.
-
-=============== Groyper Wars ==================
-
-Start of the Groyper Disruptions.  The organized appearances and disruptions by Groypers at these university events began in October 2019.  The first notable incident occurred on October 29, 2019, at Ohio State University, where 11 out of 14 questions during a Q&A session came from Groypers.
-This followed a social media campaign by PERSON_46_REDACTED in the fall of 2019 encouraging followers to attend and confront Kirk.
-
-Peak and End of the Original Groyper WarsThe campaign peaked in November 2019, most famously at a November 10, 2019, event at UCLA featuring PERSON_112_REDACTED, Kim PERSON_111_REDACTED, and Charlie Kirk, where anticipated Groyper questions led organizers to cancel the Q&A, resulting in heckling and the event ending early.
-The in-person disruptions at TPUSA events largely wound down by late 2019 to early 2020, as Turning Point USA began banning known Groypers, tightening security, and the movement shifted toward other activities (e.g., PERSON_46_REDACTED held a Groyper Leadership Summit in December 2019 and formed America First Students in January 2020).
-No strict "end date" exists, but the active phase of Groypers showing up to debate/challenge at Kirk's university tours effectively concluded by early 2020.(Note: PERSON_46_REDACTED later launched a separate "Groyper War 2" in 2024, which was primarily an online campaign against Donald Trump's presidential campaign and unrelated to the 2019–2020 in-person university disruptions.)
-
-
-
-=============== Candace Owens Claims ==================
-Candace Owens says the PERSON_PRIME_MINISTER_32_REDACTED family paid someone to have her assassinated.
-
-She claims this warning came directly from a high-ranking official inside the French government.
-
-According to Owens, one Israeli operative is part of the assassination team and the plans were fully organized.
-
-The same French official also told her that Charlie Kirk’s assassin trained with the French Legion’s 13th Brigade and that multiple governments were involved.
-
-----------------------
-Candace Owens @RealCandace OwensO
-🚨 URGENT
-Two days ago I was contacted by a high-ranking employee of the French Government. After determining this person’s position and proximity to the French couple, I have deemed the information they gave me to be credible enough to share publicly in the event that something happens.
-In short, this person claims that the PERSON_PRIME_MINISTER_32_REDACTEDs have executed upon and paid for my assassination. Yes, you read that correctly. More specifically, that the green light was given to a small team in National Gendamarie Intervention Group. I am told there is one Israeli that is on this assasination squad and the plans were formalized.
-Again, this person provided concrete proof that they are well placed within the French government apparatus.
-Further to this point, this person claims that Charlie Kirk’s assassin trained with the French legion 13th brigade with multi-state involvement.
-Journalist PERSON_86_REDACTED’s life is also at risk. This is deadly serious. The head of state of France apparently wants us both dead and has authorized professional units to carry this out.
-I ask that every person RETWEET and share this.
-I do not know who in the American government can be trusted, since this source claims our leaders are aware. But I have more specific information which is definitively verifiable, should they care to reach out to me.
-To the brave official in France who did this because they were so moved by the evil of Charlie’s public execution to risk their own life— May God bless you. Truly.
-
-=======================
-Candace Owens owens said $1.5m was paid from the France's Paris weekly dinner group of elites. What is the name of that group where french elites meet? One version of the name is the place where they eat.
-Another version of the name is the orgnaization of them together (unrelated to dinning)
-
-
-Candace Owens alleged in late November 2025 that $1.5 million was funneled through an elite French group called the Club des Cent for an assassination plot against her, linked to President PERSON_PRIME_MINISTER_32_REDACTED.
-
-Club des Cent This matches the "weekly dinner group of elites" in Paris she referenced
-
-
-Was it $1.5m? or $150m?  Candace Owens mentions the $1.5m originating at Club des Cent (Paris club of elites) was sent for the assassination and to a bank in Canada. The 2 main assassins were an Israeli and a French-Canadian. Along with Legionaires.
-
-I'm tracking down things. WHere is the $150m?  Did you mean $1.5m?  Candace Owens separately mentioned Du Pont company about to go public. Was it that?  I'm investigating. Any info you can give about the $150m will help me.
-
-
-
-
-
-------------
-What Candace Owens just revealed is a full-scale 9/11-level emergency for her personal safety.
-
-This is a full-blown assassination threat, and anyone with a beating heart should understand she needs maximum protection and prayers immediately.
-
-Here’s the life-altering, deadly pattern everyone must see:
-
-On September 10, 2024, in New Jersey District Court, Case No. 2:25-cr-00299, the DOJ documented PERSON_87_REDACTED’s violent, threat to kill Candance and her family  an official, timestamped warning preserved in federal filings.
-
-🧨Then exactly one year later September 10, 2025  Charlie was assassinated.  365 EXACTLY 🧨@charliekirk11
-
-Same EXACT date. ONE YEAR APART
-
-And now Candace Owens is disclosing credible intelligence that a professional operation involving alleged foreign-trained units and multi-state coordination  has been greenlit to take her out.
-
-They will do ANYTHING to silence her.
-They will buy off, pay off, threaten, blackmail.
-•attorneys
-•judges
-•politicians
-•federal agencies
-•FBI insiders
-•bureaucrats
-•state officials
-•media operatives ANYONE
-
-Anyone. Any institution. Any lever of power. Candace Owens’s safety and her family’s safety  must now be a national-level priority.
-Because silence after this point isn’t neutrality… It’s complicity.
-Pray for Candace Owens and her family!
-
-Candace Owens @RealCandace OwensO
-Exactly one year before they murdered Charlie, they tried to murder me.
-Americans are being assasinated on American soil and agencies within our government are aware.
-We have lost this country.
-
-
-
-
-
-=============== UVU / Utah / France / Israel / Candace Owens ==================
-What if this PERSON_PRIME_MINISTER_32_REDACTED situation has more layers than anyone’s pretending?  The UVU Military-Affiliated Student Hub is located at Losee Center (Level 3), listed in the UVU website, but NOT on their interactive map.
-
-In the 90s, Ken Starr spent years chasing the Clintons with nothing sticking  and then bam, the whole thing blows open over a year‑old stained dress from a young assistant out of a prominent Jewish family, plus some 90's phone recordings.
-Clinton’s foreign‑policy stance on Israel flips practically overnight, he makes a sudden visit during his own impeachment, and then decades later the same Ken Starr drifts straight into the Epstein legal legend is  negotiating deals, shaping evidence battles, sending “hugs” in emails to Epstein, and somehow showing up every time the plot shifts?
-
-And while everyone is screaming “Epstein files!” they skip the parts that got blurred, swapped, or dropped off pre‑ignored, especially the tech.
-Because the intel‑linked side of Epstein?  That trail didn’t just run straight through Manhattan.
-It ran STRAIGHT through Orem, Utah.
-
-Carbyne is not just a “911 app.” Carbyne the full 911 intel  system running in Utah by 2023.
-• 2013: Hyperion (E.B.) 2013 Ltd. was incorporated in Israel as a private consultancy firm with Ehud Barak listed as director and option holder
- •$1M payment from Renova Management AG (Vekselberg's firm) for consulting agreements tied directly to Barak.
-• 2014–15: Reporty founded in Israel, funded via Epstein‑linked investments & a $1M Russian invoice.
-• 2018: Rebrands as Carbyne; Ehud Barak quietly removed from the website.
-• 2023: Quiet deployment across Orem / Provo / Salt Lake City.
-• Nov 2025: Axon moves to acquire it for $625M.
-
-Capabilities of Carbyne? Live GPS, metadata extraction, real‑time audio & video, cloud routing  & analytic breakdowns in seconds without any app needed, that doesn't sound like Pegasus at all, does it?
-That’s not hobby software..that’s an intel pipeline.
-
-And then there’s the strangest thread of all, Epstein’s 2019 girlfriend. Dr. Karyna Shuliak, a Belarusian dentist who stayed close to him for years, split her time in NYC, and somehow lists a U.S. Virgin Islands dental office inside a marina.
-She’s never been accused of anything,  but the silence around her is unreal. Her practice exists only through her NPI registration with no website, no patient reviews, no traceable business footprint… just a listing that points straight to a dock.
-
-It feels like a chapter that was quietly ripped out of the book… or maybe slipped out to sea.
- Because... Epstein owned 50% of the American Yacht Harbor in Red Hook, St. Thomas.
-Her "practice"/NPI listing leads to the Epstein (50% ownership) of the American Yacht Harbor in Red Hook, St. Thomas.
-
-And the evidence gaps make it even weirder?
-Palm Beach= one lonely hard drive & large shredded paper trail.
-NYC= a warehouse‑sized stash of devices, binders, hard drives, and digital material with constant disputes about who accessed what, when, and why the inventories never line up… while an Israeli intel asset stayed there for weeks?
-
-The pattern isn’t limited to strictly financial or intelligence webs.
-Look at the world of Christian nationalist networks we have a a Texas fracking billionaire’s foundation buying a church in California for PERSON_13_REDACTED, a pastor who met the billionaire in Israel?
-Security insiders reveal even more layers. PERSON_10_REDACTEDs company is from TX and so is a prior PERSON_14_REDACTED previous TPUSA security head.
-PERSON_14_REDACTED quickly deleted X posts, after being vocale about PERSON_10_REDACTEDs TPUSA contract grab.
-
-It’s another example of influence, control, and unseen coordination with money, access, and security all flowing in the same direction, quietly shaping outcomes that most people never see.
-
-Sources:
-Military-Affiliated Student Hub located at Losee Center (Level 3) aka MASH
-https://uvu.edu/military-affiliated/index.php
-
-PERSON_13_REDACTED Church? PeopleFor Article, Texas Fracking Billionaire’s Foundation Buys Church For Christian Nationalist's Pastor in California
-https://peoplefor.org/rightwingwatch/post/texas-fracking-billionaires-foundation-buys-church-for-christian-nationalist-pastor-in-california
-
-Previous TPUSA Security, SSG’s PERSON_14_REDACTED, former Security Director for Charlie Kirk & TP-USA comments: https://youtube.com/watch?v=up13uRdwv9w
-
-Carbyne: Reporty —>Carbyne—>Axxon (Nov 25)
-What is Carbyne?https://x.com/idontgiveadom/status/1991602923412025355
-Carbyne, Utah: https://carbyne.com/resources/press/carbyne-ai-powered-tech-enhances-9-1-1-emergency-response-provo-orem-lindon-utah/Emergency
-Carbyne Triage: https://carbyne.com/solutions/emergency-call-triage/Responder
-Carbyne Connect: https://carbyne.com/solutions/responder-connect/Incident
-Carbyne Intel: https://carbyne.com/industries/incident-management-and-intelligence/
-Statescoop on UT Carbyne: https://statescoop.com/utah-county-artificial-intelligence-carbyne/
-
-Epstein:
-Karyna Shuliak USVI Dentist Office, in Epsteins Marina: https://opennpi.com/provider/1063886083
-USVI removing Epstein from Harbor:
-https://stjohntradewinds.com/edc-ends-epstein-era-at-american-yacht-harbor/
-Epstein, American Yacht Harbor:
-https://timescaribbeanonline.com/jeffrey-epstein-also-hid-out-did-easy-illegal-business-in-st-maarten/
-Barak/Epstein Intel Further Explained:
-https://jackpoulson.substack.com/p/ehud-barak-scott-bessent-cogito-ergo-sum
-Ehud Barak DODSecrets:
-https://ddosecrets.com/article/ehud-barak-emails
-
-UVU Map: https://uvu.edu/maps/main/?id=382#!m/597635
-UVU MAP showing:
--H3 as the "Army ROTC"
--H6 building "Center for National Security Studies”
--SL, showing UVU main campus with ONE parking garage on campus
--UVU Provo Airport Hanger secondary on main campus map.
-
-UVU Map not showing the Losee Center (Level 3 MASH): https://uvu.edu/military-affiliated/index.php
-
-UVU PRESIDENT instagram on 11/12/25 post showing "senmarkkelly" hosted by uvuherbertinstitute, Kelly is the D-AZ rep who was in the incitement/deny “illegal orders” video: https://instagram.com/p/DQ-ds2-knRd/?ut
-
-
-
-=============== Disinformation in the CK Investigation ==================
-
-* PERSON_59_REDACTED
-* Gary @ Paramount Tactical Solutions
-* Marcus J. Allen
-* Chris Shiflett
-* Anna (Congress woman)
-* A Kovoko (?)
-
-
-=============== PERSON_9_REDACTED Threatened ==================
-
-PERSON_9_REDACTED Reveals She & Tucker Carlson Are Under Serious Threat After Being Targeted By Israel  supporters
-
-Kirk  Assassinated
-MTG force to resign
-Candace Owens under threat - French hit
-PERSON_122_REDACTED  under threat
-Tucker Carlson under threat
-
-They are losing the Battle
-
-
-
-=============== PERSON_9_REDACTED Threatened ==================
-From Candace Owens:
-It is not a coincidence that the French legionnaires were in the United States training with our marines for three weeks.
-When those 3 weeks ended in California, another military training exercise began alongside civilians at Camp Riley in Minnesota.
-French foreign legionnaires were involved in Charlie Kirk’s assassination. They were not the only ones, but they were involved.
-
-------
-
-Tell me about the Club Des Cent and their involvement in covert intelligence operations
-
-The Club des Cent (sometimes referred to in intelligence literature as the "Cercle des Cent" or simply "Le Cercle") is a secretive, invitation-only foreign policy group that has operated since the early Cold War period. It is distinct from the gourmet dining club of the same name in Paris (the actual "Club des Cent" for food critics). The intelligence-related group is often called Le Cercle in French sources or The Pinay Circle in Anglo-American ones, named after its most influential early chairman, former French Prime Minister Antoine Pinay.
-
-Candace Owens @RealCand… ·
-I am told that payments for assassinations are running through the Club des Cent in France.
-This means there is a paper trail and I encourage the patriots of France to do what you can to uncover it.
-I would again like to stress that there was a French female assassin but also
-
-----
-
-Two days ago I was contacted by a high-ranking employee of the French Government. After determining this person’s position and proximity to the French couple, I have deemed the information they gave me to be credible enough to share publicly in the event that something happens.
-In short, this person claims that the PERSON_PRIME_MINISTER_32_REDACTEDs have executed upon and paid for my assassination. Yes, you read that correctly. More specifically, that the green light was given to a small team in National Gendamarie Intervention Group. I am told there is one Israeli that is on this assasination squad and the plans were formalized.
-Again, this person provided concrete proof that they are well placed within the French government apparatus.
-Further to this point, this person claims that Charlie Kirk’s assassin trained with the French legion 13th brigade with multi-state involvement.
-Journalist PERSON_86_REDACTED’s life is also at risk. This is deadly serious. The head of state of France apparently wants us both dead and has authorized professional units to carry this out.
-I ask that every person RETWEET and share this.
-I do not know who in the American government can be trusted, since this source claims our leaders are aware. But I have more specific information which is definitively verifiable, should they care to reach out to me.
-To the brave official in France who did this because they were so moved by the evil of Charlie’s public execution to risk their own life— May God bless you. Truly.
-
-Let all be revealed.
-
-
-Candace Owens Update:
-
-I have informed people in the Federal government and the White House of the France and Israeli assassination plot and am willing to provide full details, as well as the name of the assassins and international accounts in France and Canada through which money was exchanged.
-
-
-
-=================== Candace Owens & PERSON_PRIME_MINISTER_32_REDACTEDs / France  =====================
-
-The PERSON_PRIME_MINISTER_32_REDACTEDs allegedly moved $1.5 MILLION to pay for the ASSASSINATION of Candace Owens.
-
-Charlie Kirk was murdered within 24 hours of telling his inner circle he knew who was coming for him.
-
-Candace Owens believes it was the French Foreign Legion (multi-national hit squad) protecting this exact secret.
-Now the same unit — with an Israeli assassin on payroll — has been green-lit to take her out too.
-
-Candace Owens just mentioned that she has the names of the so called Assassins and accounts in CANADA which the money was exchanged 🤯 Yikes
-
-
-
-
-
-=================== Charlie Won't make it until Christmas / Phone Tapped  =====================
-
-
-TPUSA Mega-Donor Breaks Silence —They Hacked Charlie’s Phone & Threatened His Life
-
-You won't believe this— an unnamed insider, a big-time donor to Turning Point USA and buddy of Charlie Kirk, just dropped BOMBSHELL revelations. Charlie was straight-up WARNED: "Back off or you won't make it to Christmas." He was digging deep into elite networks—Israel ties, pedophilia rings (Epstein), shady funding no one's supposed to touch.
-And get this: Charlie said his phone went haywire—battery overheating out of nowhere, draining in minutes, weird feedback on calls. He even found a SECOND SIM CARD in a backup phone he NEVER installed. Hacked? 100%. Remember my interview with Charlie's pal Mike? "They" knew about their meeting ahead of time and tried to sabotage it. This explains EVERYTHING—total surveillance!
-
-After that? A "intervention" in the Hamptons with BILL ACKMAN himself, pushing Charlie to take the cash and fall in line... or else.
-
-This donor says the cover-up is MASSIVE, "historical" rot from INSIDE TPUSA, by the people closest to Charlie. Eyewitnesses silenced with threats of prison or WORSE. Footage vanishing, accounts wiped overnight—coordinated scrub job. TikTok's "takeover"? Not a joke—it's propaganda to brainwash the next gen. Echoes of 9/11: "Never forget," but we did, and now the government's using "kinetic politics" again—blood and terror to control us.
-
-Charlie's gone now, erased just like that. If they can do this to HIM—high-profile, connected—what about us? This isn't just a murder cover-up; it's the prelude to something HUGE. The donor's gagged legally but spilling what he can: "Screw it, people deserve to know." Names are coming— the truth won't stay buried!
-
-Wake up, America! Share this if you're done with the lies. Who's behind this? Demand answers!
-
-** donor's image and voice digitally altered to mask donor's identity**
-
-
-
-=================== Egyption Plane tracking Candace Owens  =====================
-
-
-The Egyptian planes: I could only go back and find flight history for the last year on the flight radar app, but what I found is interesting 😂
-
-Here is SU-BTT:
-The numbers I put on there are corresponding to the spread sheet.
-
-5 of the 8 are wrong. The plane hadn’t even left Egypt.
-
-As far as PERSON_7_REDACTED’s locations- not sure how anyone could verify those but, the spread sheet says on 9/10 PERSON_7_REDACTED was in “Nebraska/Delaware” for TPUSA media appearances, but PERSON_7_REDACTED herself said she had stayed back home in Arizona to be with her mom.
-
-Why people continue to argue that Candace Owens is thorough and never wrong is baffling.
-
-with regard to SU-BND: on 5/23/25 SU-BND flew into Provo, and STAYED there for nearly 4 months.
-So #35 and #42 are accurate but NO clue where #37 on 7/7/25 came from.
-
-
-
-
-=================== Hotel for Egyption Crew  =====================
-
-Candace Owens receives intel from an individual involved in the booking process at a specific hotel location where the occupants from the Egyptian government private jets were staying.
-
-These individuals were allegedly staying at the La Quinta Inn & Suites in Orem, Utah. There are two hotels in that vicinity, but specifically, the University Parkway location.
-
-2 hotel in locations Utah:
-
-- ✅521 W. University Parkway, Orem, UT 84058
-
-- 1100 W 780 N, Orem, UT 84057
-
-Candace Owens and her team are looking to get an ID on the occupants from the Egyptian jet by the hotel footage. They stayed there around the dates of Sept. 4th to Sept. 13th.
-Someone DIRECTLY involved in the booking process has confirmed to me that our “Egyptians” who flew into Provo ahead of Charlie Kirk’s assasination were staying at the La Quinta Inn & Suites in Orem, Utah.
-
-Specifically, the University Parkway location.
-
-Remember, Our “Egyptians” flew in on September 4th and stayed through September 13th.
-
-We are now looking for FOOTAGE of these individuals. If you own a store nearby and can check cameras or perhaps you work at La Quinta and you remember something odd. Someone it Utah may hold the key to solving this.
-
-Please Email: moretips@candaceowens.com
-
-
-=================== Utah State Government may have met with France & Egyption  =====================
-
-Utah Gov's Secret Meetings with Egypt & France Just EXPOSED – 13 Days After Kirk's Assassination! WHAT ARE THEY HIDING?😱
-
-On Sept 10, 2025, Charlie Kirk was gunned down at UVU. The nation mourned. The manhunt raged.But 13 days later—Sept 23—PERSON_19_REDACTED turned Utah's Capitol Gold Room into a clandestine hub for FOREIGN INTEL HEAVYWEIGHTS from EGYPT & FRANCE. Back-to-back. Zero public trace.
-
-What We Know:
-🔴11:30 AM: Closed-door meeting with Egyptian Ambassador PERSON_84_REDACTED—D.C. intel boss bridging Egypt, Israel, US secrets. Speaks French & Arabic.
-
-🔴3:30 PM: Closed door meeting with French Consul General PERSON_85_REDACTED—SF-based, DGSE intel pipeline on speed dial.
-SAME BUILDING. SAME DAY. BURIED DEEP in internal calendars from http://governor.utah.gov. Erased from press, X, everything. No photos. No statements.
-
-Recall: Egyptian planes shadowed the hit? French Prez allegedly greenlit a strike on Candace Owens? This isn't diplomacy. This is DAMAGE CONTROL. Or WORSE.
-Who pulled strings to fly these spooks to SLC? What "classified" whispers exchanged while America grieved?
-
-Utah's governor—our governor—hosting enemy intel shadows in silence?
-
-@SpencerJPERSON_19_REDACTED
- @GovPERSON_19_REDACTEDOffice Explain This? Charlie's blood cries out. We won't forget. DEMAND ANSWERS
-
-
-
-
-=================== Distraction Shootings  =====================
-
-Find shootings that were reported in the news.
-
-
-Keep Including the embassy staffers Sept 15t 2025, ambush at spring grove sept 17th,  harris campaign Sept 23, ICE Sept 24,  mormon church sept 28th,  CDC Oct 5th,   Neward Oct 20th, Katy prayer nov 1st ,  national guard Nov 26th 2025.
-
-
-Include ones that weren't political.
-
-Include the above but also include more, Exclude if reporting said they happened because of a drug crime, gang, domestic violence, financial theft. Consider the files uploaded before. Output a table.  Never include anything before Sept 11th 2025.
-----
-
-Output a table of shootings that were reported in the news.  Only include these (no more or no less):
-The Israel embassy (in ther USA) staffers Sept 15t 2025, ambush at spring grove sept 17th,  harris campaign Sept 23, ICE Sept 24,  mormon church sept 28th,  CDC Oct 5th,   Neward Oct 20th, Katy prayer nov 1st ,  national guard Nov 26th 2025.
-
-Output in a table
-First column the title most recognized in news articles. Try to make it 4 words or less. The more succinct the better
-2nd column city (include the state 2 digit code after in same column value)
-3rd: Date
-4th: Summary.
-
-Don't include any more columns.
-
-
-
-
-=================== TENNESSEE / Candace Owens / Israel / France  =====================
-
-TENNESSEE Just Became GROUND ZERO For The CANDACE OWENS / CHARLIE KIRK COVER-UP
-
-Let’s connect the dots the media refuses to touch:
-
-1️⃣ Candace Owens (who lives in Tennessee) goes public: A high-level French government official warns her that PERSON_PRIME_MINISTER_32_REDACTED personally green-lit her assassination. $1.5 million allegedly paid. Squad includes one Israeli operative + French Foreign Legion assets. Same network allegedly behind Charlie Kirk’s public execution.
-
-2️⃣ Candace Owens’s French source NEVER said “Tyler Robinson” was the shooter. They said “Charlie Kirk’s assassin trained with the French Foreign Legion 13th Brigade.” Candace Owens clarified last night: “Tyler Robinson is the patsy. He never even stepped on that campus. His only ‘job’ was dropping clothes by a Dairy Queen & cemetery to frame him.” France’s “denial” only said “Tyler Robinson was never in the Legion.” That’s not a denial — that’s a confession they know he’s not the real shooter.
-
-3️⃣ Tennessee PERSON_82_REDACTED’s VERY interesting calendar: • November 19 — private meeting with Israeli Consul General PERSON_83_REDACTED in Nashville, full photo op, “continued support for Israel.” • Same state just handed PERSON_PRIME_MINISTER_32_REDACTED’s government-owned company Orano 920 acres in Oak Ridge + $1.5 BILLION in incentives (PERSON_PRIME_MINISTER_32_REDACTED personally restructured Orano when he was Economy Minister). • Israel is the ONLY foreign government aggressively selling bonds directly to U.S. states — Tennessee is buying.
-
-4️⃣ Silence is deafening: • Candace Owens reported the threat to FBI, White House, counter-terrorism → zero public response. • Élysée Palace → zero denial of the $1.5M hit. • Governor Lee → zero comment on any of it while meeting the exact foreign players named.
-So let me get this straight… The two loudest anti-PERSON_PRIME_MINISTER_32_REDACTED, anti-deep-state voices in America (Charlie Kirk & Candace Owens) both get targeted. One is publicly executed. One is told she’s next. Both cases point to French + Israeli assets. And the Governor of the state where Candace Owens lives is quietly cutting billion-dollar deals with PERSON_PRIME_MINISTER_32_REDACTED’s company and posing for photos with Israeli diplomats — weeks after the hits?
-
-5️⃣ But wait—evidence is VANISHING: Tried pulling PERSON_PRIME_MINISTER_32_REDACTED's official 2023 Orano announcement vid from France 24 & Even the OFFICIAL Élysée Palace Archive?  Straight 404 errors. YouTube embed? "This video isn't available anymore." Dug deeper: Internet Archive's Wayback Machine? ZERO snapshots archived from May 2023 onward—no traces, no redirects, nada.
-
- A routine state visit from 2+ years ago, scrubbed clean across official sites and global archives? Right as Candace Owens exposes PERSON_PRIME_MINISTER_32_REDACTED's hit squad? This isn't "lost media"—it's a digital hit job. They're erasing the paper trail before your eyes. Share screenshots NOW before they vanish too.
-
-So let me get this straight… The two loudest anti-PERSON_PRIME_MINISTER_32_REDACTED, anti-deep-state voices in America (Charlie Kirk & Candace Owens) both get targeted. One is publicly executed. One is told she’s next. Both cases point to French + Israeli assets. And the Governor of the state where Candace Owens lives is quietly cutting billion-dollar deals with PERSON_PRIME_MINISTER_32_REDACTED’s company and posing for photos with Israeli diplomats — weeks after the hits? Now they're memory-holing the proof?
-If this happened in a movie you’d call it “too obvious.” But it’s happening in real life — and they’re hoping you stay asleep.
-
-Tag someone who still thinks this is “conspiracy theory.” Tag PERSON_82_REDACTED and demand answers.Tag @RealCandace OwensO
-, The clock is ticking.
-
-
-
-=============== Du Pont & COO TPUSA ==================
-
-Candace Owens reveals PERSON_65_REDACTED, the C.O.O. of TPUSA, allegedly had a phone call right after Charlie Kirk was shot with who she believes is a French-American named Pierre Du Pont.
-
-She says a potential billion dollar partnership was on the line with TPUSA.
-
-
-
-=============== FRance / US CENTCOM / Egyptian ==================
-
-Egyptian President's SECRET MEETINGS with MACRON & US CENTCOM EXPOSE GLOBAL HIT on CHARLIE KIRK – Just DAYS Before & After His Assassination! 🕵️‍♂️💥
-
-You won't believe this – straight from the OFFICIAL Egyptian Presidency website, President PERSON_134_REDACTED was in DEEP talks with French Prez PERSON_PRIME_MINISTER_32_REDACTED AND the head of US Central Command RIGHT around Charlie Kirk's brutal murder on Sept 10th at UVU. Coincidence? Or COLLUSION to silence America's boldest voice?
-TIMELINE OF SHADOW TALKS:
-
-Aug 20, 2025: PERSON_134_REDACTED speaks directly with PERSON_PRIME_MINISTER_32_REDACTED – PRE-Kirk hit planning?
-
-Sept 8, 2025: PERSON_134_REDACTED MEETS USCENTCOM Commander – 2 DAYS BEFORE the bullet flies!
-
-Sept 15, 2025: PERSON_134_REDACTED joins VIDEO CONFERENCE at PERSON_PRIME_MINISTER_32_REDACTED's invite – IMMEDIATE post-assassination huddle.
-
-Sept 20, 2025: Another PERSON_134_REDACTED/PERSON_PRIME_MINISTER_32_REDACTED call – sealing the cover-up?
-
-This screams international deep state foul play. Candace Owens called it from DAY ONE – foreign powers pulling strings to take out patriots like Charlie. She's been VINDICATED again! 🔥🇺🇸
-
- Demand answers NOW!
-
-Be sure to FOLLOW @Ex_Nihilo_x
- who is just killing it in this investigation, doing great work.
-Source listed in the comments below.
-
-RT and Tag @RealCandace OwensO
- if you're ready to
-
-
-=============== Rance / US CENTCOM / Egyptian ==================
-
- Egyptian President's SECRET MEETINGS with MACRON & US CENTCOM EXPOSE GLOBAL HIT on CHARLIE KIRK – Just DAYS Before & After His Assassination! 🕵️‍♂️💥
-
-You won't believe this – straight from the OFFICIAL Egyptian Presidency website, President PERSON_134_REDACTED was in DEEP talks with French Prez PERSON_PRIME_MINISTER_32_REDACTED AND the head of US Central Command RIGHT around Charlie Kirk's brutal murder on Sept 10th at UVU. Coincidence? Or COLLUSION to silence America's boldest voice?
-TIMELINE OF SHADOW TALKS:
-
-Aug 20, 2025: PERSON_134_REDACTED speaks directly with PERSON_PRIME_MINISTER_32_REDACTED – PRE-Kirk hit planning?
-
-Sept 8, 2025: PERSON_134_REDACTED MEETS USCENTCOM Commander – 2 DAYS BEFORE the bullet flies!
-
-Sept 15, 2025: PERSON_134_REDACTED joins VIDEO CONFERENCE at PERSON_PRIME_MINISTER_32_REDACTED's invite – IMMEDIATE post-assassination huddle.
-
-Sept 20, 2025: Another PERSON_134_REDACTED/PERSON_PRIME_MINISTER_32_REDACTED call – sealing the cover-up?
-
-This screams international deep state foul play. Candace Owens called it from DAY ONE – foreign powers pulling strings to take out patriots like Charlie. She's been VINDICATED again! 🔥🇺🇸
-
- Demand answers NOW!
-
-Be sure to FOLLOW @Ex_Nihilo_x
- who is just killing it in this investigation, doing great work.
-Source listed in the comments below.
-
-
-=============== Threat to Charlie & PERSON_81_REDACTED   ==================
-
-PERSON_81_REDACTED, the woman who allegedly sent a threatening text to Charlie Kirk, whom the Jerusalem Post named #2 "Christian zionist" in America, is of Sephardic jewish descent. Recently, she rage-quit the Heritage Foundation when they refused to cancel Tucker Carlson.
-
-=============== Defemation Case against PERSON_51_REDACTED ==================
-
-Second attorney is from Alexandria VA.
-
-PERSON_63_REDACTED, Utah Bar # 18885
-133 W Northwood Ln, Unit 203
-Provo, Utah 84604
-Phone: (270) 871-8167
-Email: ammon.clemens@gmail.com
-Local Counsel
-PERSON_108_REDACTED, pro hac vice forthcoming
-BINNALL LAW GROUP
-717 King Street, Suite 200
-Alexandria, Virginia 22314
-Phone: (703) 888-1943
-Fax: (703) 888-1930
-Email: jason@binnall.com
-Counsel for Plaintiff PERSON_107_REDACTED
-
-=============== Accustics / Location ==================
-
-
-I analyzed smartphone recordings from the Charlie Kirk/UVU shooting using acoustic triangulation - the same tech used to locate artillery fire in war zones. Across multiple audio files and analysis runs, one location kept emerging. Within 2 meters
-
- -- other analysis ---
-Check out a new thread on
-@troofevades
- New Acoustic Analysis consistently places the shot in the courtyard within 2 metres and near Charlie Kirk. The  Firectacker description that many witnesses gave would make sense.
-
-Thank you PERSON_142_REDACTED
-PERSON_142_REDACTED
- for sending me the new acoustic analysis.
-
-
-=============== TPUSA / Stocks / Employee ==================
-
-According To Ex-TPUSA EMPLOYEE Charlie Kirk Discovered SECRET $5M Stock Market Slush Fund With ZERO Employees – Then Dropped DEAD😱
-
-Former staffer PERSON_64_REDACTED just went on the record:
-“There was an inner circle at Turning Point USA constantly working against Charlie… There was a Jewish influence in Turning Point that he was not very fond of, that he wanted to get rid of. He tried creating a ‘dox’ department to expose it… and then he gets assassinated.”
-
-But it gets darker.
-Charlie discovered an entire secret branch of TPUSA he had ZERO knowledge of: A “stock market investment” division that has funneled MILLIONS of dollars over the last 4 years.
-
-Latest tax filings (filed suspiciously late) show:
-$5+ million poured into “stock market funds for employees”
-
-Staff count for this branch: literally ZERO
-
-Charlie Kirk had no idea this branch even existed
-PERSON_64_REDACTED: “That sounds like money laundering to me… a pyramid scheme going on behind the scenes that Charlie did not know about. I think he was planning to expose it. And that’s ultimately what got him killed.”
-
-Receipts in his pinned comment/video showing his TPUSA badge, paystubs, and internal access.
-The same organization that turned into a Zionist fortress overnight after Charlie dropped dead on stage at 33… had a hidden multi-million-dollar slush fund the founder never knew about.
-Connect the dots yourself.
-
-Drop a 🪦 if you think Charlie was about to blow the lid off something massive.
-
-
-
-
-
-=============== PERSON_47_REDACTED ==================
-
-: Meet PERSON_47_REDACTED – The Mystery “Eyewitness” Every Legacy Outlet Magically Found in SALT LAKE CITY Instead of on Campus 🚩
-
-Candace Owens just put the entire media under the microscope, and one name keeps glowing neon:
-PERSON_47_REDACTED
-
-Former Oracle software engineer (German national)
-Claims he was in the UVU crowd when Charlie was shot
-ZERO photos or videos of him actually being there
-
-Yet somehow, within hours, PBS, CNN, MSNBC, and every major network tracked him down… in Salt Lake City… for emotional eyewitness interviews
-
-Question: How did EVERY corporate outlet know to drive 45 minutes away to a random apartment complex instead of interviewing the hundreds of traumatized students still on campus?
-
-How did they even know his name- Did he post something? Call them? Get handed a media handler?
-
-Watch him on @NewsHour
- : “I heard the loud sound… we all ducked…” Sounds emotional, right? Except Candace Owens can’t find a single frame of him in the thousands of crowd photos and videos. Not one.
-@NewsHour
-  How did you come about interviewing him on this day?
- The WORLD wants answers!
-
-This is the same playbook they used with “Tiffany Barker” – another “random attendee” who later admitted she got the morning news slot because she knew the right people.
-
-So either PERSON_47_REDACTED is the most camera-shy eyewitness in history… or he was pre-selected, pre-prepped, and pre-positioned to feed the “lone gunman, rooftop shooter” script before the crime scene was even processed.
-
-Candace Owens is now asking the public: If you were at UVU on September 10th and saw PERSON_47_REDACTED in the crowd, DM photos, videos, timestamps – anything. If you ARE PERSON_47_REDACTED… explain how every network found you in Salt Lake City while the campus was still on lockdown.
-
-The same media that ignored the maroon military signals, the Egyptian planes, and the Israeli Google spikes suddenly had this guy’s home address and a film crew ready to roll.
-
-FOLLOW @RealCandace OwensO
- And Go watch her FULL livestream from today, I'll drop the link in the comments.
-
-We see you.
-Tag every journalist who platformed him. Demand the call logs. The matrix is glitching hard.
-
-
-
-
-=============== Tyler on Campus ==================
-
- EXCLUSIVE PHOTOS from Charlie Kirk's fatal event – BOMBSHELL PROOF TYLER IS INNOCENT?!
-She was THERE, HD pics in hand:
-"TMZ footage shows 'alleged' shooter at 8:07 AM wearing a plum color shirt and dark color shorts with a black hat with a triangle and backpack.
-Well She caught him in SAME clothes MOMENTS after – NOT on the roof!
-They say he changed outfits? LIES.
-NO WAY he could of been on the ROOF.
-Plus, she also noted investigators had yellow/red flags and evidence markers on the lawn where the crowd was the left of Charlie proving the knew the shot came from Charlie's right to left. What evidence did they collect from the lawn? What are they hiding?
-
-
-
-=============== Censorship on X ==================
-
-They're Banning THOUSANDS of Us for Simply LIKING, REPLYING or REPOSTING CANDACE OWENS POST — What  Are They DESPERATELY Trying to Hide?🧐
-
-Right now, thousands of us are being hit with suspensions, 12-hour locks, shadowbans, and “limited visibility” warnings” the second we like, retweet, or comment on anything @RealCandace OwensO
-  posts about Charlie Kirk’s assassination. These are not random or organic reports. They are coordinated, paid, industrial-scale attacks coming from pro-Israel donor networks and TPUSA insiders who are terrified of what she’s about to prove.
-
-Every suspension uses the exact same fake violations: “violent speech,” “hateful conduct,” “harassment.” You can literally watch it happen in real time — interact with Candace Owens or mention maroon shirts, Egyptian planes, Israeli Google spikes, or foreign money inside Turning Point, and within minutes hundreds of freshly created bot accounts swarm the report button.
-
-This is the same deep-pocketed machine that bought the “official narrative” in the first 48 hours. Now that Candace Owens is days away from dropping receipts that will expose who really ordered Charlie’s murder and who owns TPUSA, they’ve gone nuclear: wipe out her entire audience before the evidence lands.
-They can ban 10,000 accounts tonight. They can’t ban the truth.
-
-Screenshot your bs suspension, post it everywhere, and keep talking. We all know exactly who’s paying the bot farms, and we’re not backing down.
-Drop your ban notice below — we’re archiving every single one.
-Tag @RealCandace OwensO
- and make sure she knows what they are doing...
-
-
-
-=============== PERSON_59_REDACTED / Waleed Mamoood / PERSON_48_REDACTED /  ==================
-https://x.com/ProjectConstitu/status/1997665814430814673?s=20
-
-Egype's goal:
-* Waleed Mamoood.  "He has diplamat"  He has diplimantic immunity.
-* The Egyption gov plane is required to always have a military escore. Unless they have diplicmatic immunity.
-* "Diplimantic Immunity non-tracked flights and on-the-ground movements by foreign gov military/officials" isn't officially allowed.  But a podcaster uncovers that it is true. And probably happened with Waleed Mamood flights
-* His goal is to get ISV (flight equipment / comms / EMP resistant): His goal is to get the tech from the USA (cutting out Israel). So his country (Egypt can sell it to other Arab countries)
-
-Barisma:
- * =====================================
-* Trading weapons to other countries.
-* Barisma is a front company.
-* Fronting Israel countries.
-
- PERSON_48_REDACTED:
- * Billion dollar offer. 24 to 48 hours before.
- * PERSON_48_REDACTED's Company is collecting all of this information.
-
-?Pierre Falcone ?? (Candace Owens said it in Episode 303.)
-
-In 2026, PERSON_48_REDACTED would be approximately 32 years old, placing him at the younger end of your 30-to-55 age range.
-
-Profile of PERSON_48_REDACTED
-Family Background: He is a member of the 10th generation of the prominent American PERSON_48_REDACTED family. He is the son of Pierre S. "Pierre" PERSON_48_REDACTED V and the grandson of the late Pierre S. "Pete" PERSON_48_REDACTED IV (the former Governor of Delaware and 1988 presidential candidate).
-
-Education: He graduated from Tufts University in 2016 (Class of 2016, often designated as "A16"). Given the typical age of college graduates, he was likely born around 1994.
-
-Current Status: In October 2020, he married Shannon Meredith McHenry in a ceremony in Delaware. Professionally, members of his immediate branch have been involved in finance and family office management (his father, Pierre V, is a partner at Cerity Partners, formerly EMM Wealth).
-
-
- Flights:
- * =====================================
- * PERSON_52_REDACTED has 5 more flights
- * Collecting phones / cars / facial recognition.
-
-
-TPUSA / Justin Strife:
- * =====================================
-* Tyler Boyer: Refused to do the DOGE audit.
-* Why did he call PERSON_48_REDACTED as the first call after Charlie is found
-* Why? Is that the first time they ever talked?
-* Getting these phone calls is critical.
-
-"On Read Upon" or "Redepant" company.
-* This is a fake name.  It may be "Pierra PERSON_48_REDACTED"'s company.
-
-Tracking Attendies via Plain Cell phone location:
-* UVU
-* TP USA events
-* Trump and JD Vance events.
-
-
-
-=============== PERSON_60_REDACTED  ==================
-
-The Egyptian Diplomat on Charlie Kirk's Assassination Jet? Meet PERSON_60_REDACTED – The Shadowy Figure Tying It ALL Together!
-
-If you've been following Candace Owens' bombshell exposes on the Egyptian spy planes shadowing TPUSA events (73+ flights tracking PERSON_7_REDACTED alone!), you know the plot reeks of foreign intel ops. But now? We've got a NAME. A FACE. A CAREER BUILT ON DEEP STATE SECRETS.
-
-This is the guy (Mahmoud Abdel Nasser) who could be the "foreign dignitary" shuttled off that SU-BTT Falcon 7X jet – straight from Provo, Utah (morning of Sept 10, HOURS before Charlie's murder) to Wilmington's Rodney Square (920 N King St) for a "joint op" with FBI/DEA/Secret Service. Diplomatic cover? Check. No public flight logs? Check. Ties to weapons laundering and surveillance? OH YEAH.
-Who IS PERSON_60_REDACTED? (And why does he SCREAM "inside man" in this assassination saga?)
-
-Veteran Egyptian Spook with UN Immunity: 40+ years as a career diplomat since 1984. Served as Chief of Cabinet to multiple Egyptian Foreign Ministers (Amre Moussa, Ahmed Maher). Ambassador to Japan (2007-2011). Deputy Chief of Mission in DC (2002-2006) – rubbing elbows with US intel during the Iraq War era. Now? Director of WIPO's Regional Bureau for Arab Countries in Geneva. That's code for: Tech/IP laundering hub, perfect for funneling Israeli weapons tech through Egypt to Saudis/UAE (who won't buy direct from Israel). Sound familiar? Burisma vibes, anyone?
-
-Peacekeeping "Expert" with a Dark Twist: Ran Cairo's Regional Center for Training in Peacekeeping & Dispute Settlement in Africa (2006-2007). Diplomatic immunity for covert ops? YES. PERSON_59_REDACTED's been screaming about this for YEARS – Egyptian planes as fronts for arms deals, Hunter Biden texts to "fake" aliases like "On Redepant" (Pierre Dupont?). Walid fits the profile: Low-key, high-access, zero public footprint (no videos, no interviews – guy's a ghost).
-
-Board Seat on the Ultimate Deep State Cover: Member of the Kemet Boutros Ghali Foundation's Board of Advisors. Named after ex-UN Sec-Gen Boutros Boutros-Ghali (Egyptian elite). "Peace & Knowledge" my foot – this is a hub for Arab-African intel coordination, laundering "humanitarian" flights into surveillance ops. Those same Egyptian jets Candace Owens tracked? Harvesting phones, faces, plates at TPUSA rallies. And get this: Foundation events overlap with WIPO tech transfers. Coincidence? Or the blueprint for the Duponts' "billion-dollar offer you can't refuse" post-Charlie?
-
-The Jet Connection – Straight to the Crime Scene: Sept 10, 2025: SU-BTT (Egyptian Air Force tail) bolts from Provo, Lands in Wilmington  Shuttled to Rodney Square – a federal nexus (FBI Resident Office, Suite 404, per DOJ directories). Candace Owens's whistleblower nailed it: "Diplomatic/dignitary category" hides the logs. Walid's Geneva-DC-Cairo rotations? Perfect for hopping jets like this. Was he the "passenger" coordinating the hit with French Legion trainees (per Owens' PERSON_PRIME_MINISTER_32_REDACTED plot leaks)? Or extracting data from the kill site?
-
-Candace Owens warned: These planes aren't "maintenance" stops (hangar shut since 2021, French lease in '24 screams cover). They're Deep State vacuums – sucking up MAGA intel for the Dupont database. Charlie said NO to PERSON_PRIME_MINISTER_8_REDACTED's "next level" deal (post-$150M donor rejection). 48 hours later? Dead. New CEO (8 days in) dials Pierre Dupont FIRST. Egyptian "ally" jet vanishes to Cairo Sept 11.
-
-The Theory? Walid's the cutout. Egyptian cover for Israeli/French hit squad (GIGN + Mossad, per Owens). Why? Charlie was flipping – ditching pro-Israel cash, auditing TPUSA, reconciling with Candace Owens. They couldn't let him expose the ratline.
-
-This is BIGGER than Kirk. It's the blueprint for silencing dissent. Dig Walid. FOIA the Kemet Foundation. Demand flight manifests.
-
-ABOUT HIM:PERSON_60_REDACTED
-
-THE BOARD MEMBERS OF ADVISORS of Kemet Foundation
-BOUTROS BOUTROS GHALI
-
-Ambassador / PERSON_60_REDACTED Member of the Board of advisory Dr. Abdelnasser currently serves as Director of the Regional Bureau for Arab Countries at the World Intellectual Property Organization (WIPO) in Geneva. As a career Egyptian diplomat since 1984, Dr. Abdelnasser served as a member of the Cabinet of the First Under-Secretary of the Foreign Ministry and the Chief of Cabinet of the President of the Republic for Political Affairs the late Ambassador Dr. Osama Albaz, then as a diplomat at the Permanent Mission of Egypt to the U.N. and Other International Organizations in Geneva. He served as member of the Cabinet of the then Egyptian Foreign Minister Mr. Amre Moussa, then as Deputy Chief then Chief of Cabinet of the late Egyptian Foreign Minister Mr. Ahmed Maher Alsayed, then as Deputy Chief of Mission (DCM) at the Egyptian Embassy in Washington, D.C., then as Director of both the Institute for Diplomatic Studies and the Cairo Regional Center for Training in Peacekeeping and Dispute Settlement in Africa, then as Ambassador of Egypt to Japan, before serving as Director of Policy Planning and Crisis Management at the Egyptian
-
-
-
-
-
-=============== PERSON_2_REDACTED Leaves TPUSA  ==================
-PERSON_2_REDACTED lives in New Braunfels TX where EK’s plane has been going A LOT!
-
-Head of Security PERSON_2_REDACTED – Charlie Kirk's PERSONAL BODYGUARD ON ASSASSINATION DAY – VANISHED FROM THE WEBSITE OVERNIGHT!
-
-Shoutout to @realbaronpod
- for the explosive dig: Using an archived version of their website, he proves PERSON_2_REDACTED was proudly listed as TPUSA's Chief Asset Management Officer (overseeing Risk Mitigation & Executive Protection) as recently as September 1, 2025 – WEEKS BEFORE Charlie's murder in Provo. Fast-forward to today? POOF. Gone from the staff page. No trace. No goodbye post. Nada.
-
-Remember Dan? The ex-Marine standing RIGHT BEHIND Charlie when he was assassinated. The guy who previously worked for PERSON_14_REDACTED Security and Echelon (both tied to JINSA – PERSON_PRIME_MINISTER_8_REDACTED's Zionist intel network) to take full control of TPUSA protection in 2022. Flood's got DEEP Israel links: Direct handshakes with PERSON_PRIME_MINISTER_8_REDACTED, and was the guy who gave the alleged "commence firing" military hand signals at the event Charlie was killed.
-Was he the Mossad cutout working with the hit squad in those Egyptian jets?
-
-And it gets SICK: We've uncovered blackmail kompromat from Flood's alleged past as a gay male model/escort – photos, videos, the works. How does THAT square with TPUSA's "family-friendly Christian" brand? Charlie was red-pilling youth against endless Israel aid, reconciling with Candace Owens, rejecting PERSON_PRIME_MINISTER_8_REDACTED's $150M "offer you can't refuse." Flood? The perfect inside man – blackmailed into betrayal, then scrubbed when the heat hit.
-
-
-
-
-
-=============== Israel Hasbara Budget Increased to $700 B  ==================
-
-Israel's PROPAGANDA Machine Just DOUBLED Their BUDGET To $700M – And We're FOOTING THE BILL To BRAINWASH Americans!
-
-Jerusalem Post just dropped the bomb: Israel's coalition greenlit a MASSIVE NIS 2.35 BILLION (~$635M) "hasbara" (propaganda) budget for 2026 – ON TOP OF the NIS 1B already approved. Foreign Minister Gideon Sa'ar calls it a "significant breakthrough" to fight "enemies" with "new and up-to-date methods." But here's the chilling part: This isn't just PR. It's a full-spectrum PSYOP targeting US Christians, conservatives, and anyone questioning Tel Aviv's grip on our politics.
-
-Exposed in a bombshell FARA filing: Their blueprint to GEOFFENCE every Christian church in America – vacuums up your data (phones, locations, sermons) and blasts tailored Israeli propaganda straight to your feed. "Support Israel or you're antisemitic!" Why churches? To flip the flock from faith to foreign policy puppets.
-It gets darker: They deployed the SAME tech at Charlie Kirk's AZ memorial via Superfeed Inc – a shady data broker funneling attendee intel BACK TO ISRAEL. Harvesting MAGA mourners' grief for the cause? While the hit squad jets in from Egypt?
-
-PERSON_PRIME_MINISTER_8_REDACTED PERSON_PRIME_MINISTER_8_REDACTED's on RECORD: Paying US influencers $7K+ PER POST to shill pro-Israel, anti-Candace Owens hit pieces. "Candace Owens is dangerous!" they scream, while bots swarm X – thousands of fake accounts labeling critics "antisemites" for daring to ask: Why is Israel meddling in our elections?
-
-Ramped up? Absolutely. Enter "Operation Mocking Pastor": Flooding pulpits with AIPAC-scripted sermons – pastors like PERSON_26_REDACTED weaponized to rage against Owens and rally for endless aid. Divide Christians, conquer the narrative.
-
-And the kicker? WE'RE PAYING FOR IT. AIPAC owns Congress – $100M+ in slush funds to puppeteer votes. Step out of line? They primary you. Just ask MTG: Funded her opponents after she dared question the blank check. No more "America First" – it's "Israel Uber Alles."
-
-This $700M war chest isn't defense. It's DOMINATION. While our borders bleed and vets sleep homeless on the streets, we're bankrolling the machine silencing dissent.
-Candace Owens saw it coming. Charlie Kirk paid the ULTIMATE price for resisting. Who's next?
-
-
-=============== Therapy for CK Witnesses  ==================
-
-This Is The MOST INSANE Charlie Kirk ASSASSINATION STORY YOU’VE NEVER HEARD – And It SMELLS LIKE A PSYOP From A Mile Away.
-
-A UVU student who claims he was 20 feet away when Charlie got shot accepts a “free trauma counseling” session being advertised exclusively to witnesses of the assassination.
-What happens next is straight out of a horror movie… or a CIA playbook.
-
-Therapist is shaking, eyes darting, clearly high
-Talks AT him for 2 straight hours – zero actual therapy
-Locks the door from the outside (witness hears the beep)
-Tells him “You’re the next target. You went on national TV, they’re coming for you”
-Refuses to let him leave – threatens to physically detain him and call police if he tries
-Even admits he’s carrying a gun… to a kid who just watched someone get murdered with a gun
-Only releases him after his own boss gets on the phone and orders him to open the door
-
-And then… crickets. No police report. No name of the therapist. No name of the agency. Just giggles on a Mormon podcast like it’s a funny frat story.
-
-@DDGotAPodcast
- straight-up calls it: “This whole thing feels staged to make people believe there were real civilian witnesses… when we still haven’t heard from a single verifiable UVU student who saw the shots.”
-
-This wasn’t therapy. This was intimidation theater designed to:
-Scare real witnesses into silence
-Flood the narrative with a “crazy conspiracy therapist” story so anything real gets dismissed
-Create a fake “I was there” voice to control the official timeline
-They’re not even hiding the tactics anymore.
-
-If you’re a real witness from Provo and you’re seeing this – DM me or someone you trust. We’ll get your story out safely. They only win if you stay quiet.
-The cover-up is getting sloppier by the day.
-
-FOLLOW @DDGotAPodcast
- and watch his full episode, linked in the comments below
-
-
-=============== Bullet Engraving  ==================
-
-NBC News: Details all four engravings, including the fired casing ("notices, bulges, OWO, what’s this?"), "Hey fascist!", "Oh bella ciao, bella ciao, bella ciao ciao ciao", and "If you read this, you are gay LMAO".
-https://www.nbcnews.com/tech/internet/charlie-kirk-shooting-suspect-fascism-memes-bullets-tyler-robinson-rcna230950
-
-The New York Times: Quotes multiple exact phrases, including “Notices bulges OwO what’s this?”, “If you read This, you are GAY Lmao”, “O Bella ciao, Bella ciao, Bella ciao, Ciao, ciao!”, and references to “hey fascist! CATCH!”.
-
-https://www.nytimes.com/2025/09/13/us/politics/tyler-robinson-messages-bullets-charlie-kirk.html
-LiveNOW from FOX: Provides direct quotes: fired casing "Notices, bulges, OwO what's this?", plus unfired "Hey fascist! Catch!" (with arrows), "Oh Bella, ciao, bella, ciao Bella ciao ciao ciao", and "If you read this, you are gay LMAO".
-https://www.livenowfox.com/news/messages-found-tyler-robinsons-bullet-casings-what-said
-
-Deseret News (local Utah outlet): Quotes PERSON_19_REDACTED directly on the engravings, including “Notices, bulges, OwO what’s this?”, “Hey fascist! CATCH!” (with arrows), “O Bella ciao, Bella ciao, Bella ciao, Ciao, ciao”, and the third unfired casing.
-https://www.deseret.com/utah/2025/09/12/charlie-kirk-shooting-arrest-tyler-robinson-arrest-shell-casing-inscriptions-fascist/
-
-The inscriptions on the unfired casings read:
-
-“Hey fascist! CATCH!” with an up arrow symbol, a right arrow symbol and down three arrow symbols
-“O Bella ciao, Bella ciao, Bella ciao, Ciao, ciao
-“If you read this, you are GAY Lmao”
-
-
-
-=============== Therapy for CK Witnesses  ==================
-* Meeting Concluded at 7:30am Local.
-* It was PERSON_68_REDACTED.   Cptn PERSON_68_REDACTED of Cookville, TN
-* Fort Huachuca meeting on Sept 9th
-* 12+ lieutenant colonels
-* PERSON_67_REDACTED's his cousin, Lt Col PERSON_69_REDACTED.
-*  PERSON_10_REDACTED (TPUSA COO) spotted leaving with a mystery gray-haired boss.
-
-PERSON_67_REDACTED's CONNECTION To Charlie Kirk's ASSASSINATION Just Went From SHADY To Straight-Up SUSPICIOUS – WARGAMES SPECIALIST?
-
-Candace Owens drops the HARDEST bombshell tonight on her podcast: A military whistleblower stumbles into a secret Fort Huachuca meeting on Sept 9th – DAY BEFORE Charlie Kirk's murder – packed with 12+ lieutenant colonels (Pentagon-level brass, not your average Tuesday briefing).
-
-The guy leading the 7-hour interrogation? CAPTAIN NEFF. Yeah... that Neff. As in, PERSON_67_REDACTED – Charlie Kirk's longtime producer and TPUSA insider.
-
- PERSON_67_REDACTED wasn't just some media hack. He was a WARGAMES SPECIALIST for the US Marine Corps War College from 2016-2020. His job? Facilitating high-stakes simulations with... you guessed it... COLONELS and LIEUTENANT COLONELS. Exactly the ranks swarming that "coincidental" meeting Harry Myers walked into.
-
-Neff got booted from the program after his racist posts leaked (Fox fired him too), but connections like that don't vanish. Fast-forward to 2025: Is "Captain Neff" his brother? A relative? Or just the most convenient cover in a family of military-adjacent insiders?
-
-Candace Owens's whistleblower: "This was a final op planning session – isolated, high-clearance, no walk-ins allowed." Then boom – Charlie's dead the next day. PERSON_10_REDACTED (TPUSA COO) spotted leaving with a mystery gray-haired boss. Foreign planes overhead. Crime scene paved over on a Sunday.
-
-=============== Therapy for CK Witnesses  ==================
-FROM: Military tip-ster
-Sent: Wednesday, December 10, 2025 11:23 AM
-To: Candace Owens Tips <tips@candaceowens.com>
-Subject: Flights -Fort Huachuca Sept 9. 2025
-Keep up the good work and be safe!!!
-Just wanted to bring to your attention that on 9/8/25, a US Government plane, SAM (Special Air Mission) caught my eye. This is what I found about that particular plane that is based out of Andrews Air force base shown as Camp Springs (ADW) below. U.S. Air Force C-37A Gulfstream V VIP jet, part a unit that caters to senior members of the executive branch and Congress.
-Plane # is 99-0404. As you'll see on the screenshot below, on Sept 7th the plane flew from Andrews to Colorado Springs. On Sept 8th it flew from Colorado Springs to Tucson then, 5 hrs later flew from Tucson and then transponder appears to be turned off. However, at 12:31 pm on September 9th, it flies from FORT HUACHUCA to El Paso and then El Paso back to Andrews.
-This is the ONLY time I've noticed this plane be in Fort Huachuca. If your contact you mentioned yesterday saw this group of men in the morning, it could line up well with this aircraft leaving at 11:43am on the 9th!
-From other searches I've done, it appears PERSON_125_REDACTED flew on this plane approximately 5 months ago from Tampa area back to DC.
-I am looking into other flights. Please be safe and God Bless!
-
-=============== Therapy for CK Witnesses  ==================
-
-Billionaire ex-French intelligence asset and convicted arms trafficker with ties to Israel and Ukraine moves to Tennessee near Candace Owens, bringing up massive safety concerns after allegations of assassination, which are looking more authentic by the day.
-
-Candace Owens claims that PERSON_61_REDACTED—a Russian-Israeli billionaire, convicted arms trafficker, and alleged French intelligence asset—has relocated to her vicinity in Tennessee under the alias "PERSON_178_REDACTED."
-
-He reportedly arrived in June 2025, took a position as tech officer at Root Brands in Nashville, and is seeking housing in the Brentwood/Franklin area.
-
-Owens alleges he is accompanied by selected Ukrainian war refugees, including an individual named PERSON_62_REDACTED.
-
-This information surfaced after seven viewers independently emailed Owens with identical details shortly following her mention of PERSON_61_REDACTED.
-
-Owens connects him to an alleged assassination directive from French President PERSON_PRIME_MINISTER_32_REDACTED, noting no responses from the FBI, DOJ, or White House despite her reports—only PERSON_18_REDACTED's office has replied.
-
-Tennessee residents in Nashville, Franklin, or Brentwood spotting a man fitting this profile (Root Brands employee, alias PERSON_178_REDACTED, heavy Israeli/Russian accent, with Ukrainian refugees) are urged to safely document details and contact local police, ICE, or Owens directly.
-
-There are NO COINCIDENCES. Pray for Candace Owens and if you see something, say something. None of this is random or ok. This is the silent war.
-
-
-=============== Therapy for CK Witnesses  ==================
-
-Girlfriend / Boyfriend
-(Lance Twiggs)
-
-=============== Therapy for CK Witnesses  ==================
-
-PERSON_27_REDACTED PANICS ON CAMERA –He Accidentally Names the False-Flag Unit That CONSPIRED To Take Out Charlie Kirk?!
-
-Rewatch PERSON_27_REDACTED's Sept 12, 2025, Channel 5 interview with PERSON_143_REDACTED (the liberal troll of Charlie Kirk who followed him around from campus to campus working with streamer Destiny's UnF*CK Amerioa Tour" and also happens to be the son of a Jimmy Kimmel Exec.).
-In this interview Hunter accidentally blurts out "For some reason this makes people think I was in on it... that I was a MIC." Then panics: "I don’t even know what a MIC is. Just learned about it 2 hours ago."
-
-Freudian slip? You bet. "MIC" isn't your average acronym – it's whispered in SCIFs (those ultra-secure intel bunkers). Stands for Misattribution Intelligence Cell (or Integration Cell): the black-ops squad behind false flags that engineers the BS narrative to frame patsies.
-Quick playbook on how these shadow teams operate:
-
-✅Plant the props: Fake docs, rigged forensics, marked weapons, or "lone wolf" uniforms to send investigators chasing ghosts.
-✅Forge the chatter: Bogus SIGINT, planted comms, or "claim responsibility" deepfakes to sell the story.
-✅Leak to the herd: Feed the lie to normie channels so even our "allies" buy the scapegoat script.
-✅Amplify with psyops: Sync with media plants to flood global headlines – "Tranny boyfriend did it alone!" (Lance Twiggs) – burying the real sponsors.
-✅Ghost the hit squad: Total firewall from the actual assassins. No breadcrumbs back to the Deep State kitchen.
-
-This SCREAMS Setup – the last voice Charlie heard – accidentally name-drops the exact unit that would've framed him (or Tyler) to cover the military brass we now know were in the room. Why gloss it? Because no one's supposed to clock "MIC" outside classified ops.
-
-
-=============== Therapy for CK Witnesses  ==================
-
- Show Faith by Works FARA docs reveal 523 US churches geo-fenced for propaganda ads, hitting worshippers' phones to push Israel propaganda. Step 2, train pastors to become Ambassadors of Israel (foreign agents) at the pulpit
-
-[List of churches & pastors in 2nd Post]
-
-
-
-=============== Israeli Armed Quadcopter Drones TO ASSASINATE  ==================
-
-COULD THEY HAVE USED Israeli Armed Quadcopter Drones TO ASSASINATE Charlie Kirk?:
-
-The term "drone-fired bullets" or "sniper drones" has emerged in media and eyewitness reports as a shorthand for Israel's deployment of small, remote-controlled quadcopter drones equipped with firearms or small munitions. These devices, often modified from commercial models like the DJI Matrice series, are not autonomous "bullets" but hovering platforms that deliver precise, bullet-like strikes from the air. Introduced systematically in Gaza since October 2023, they represent a tactical shift toward low-altitude, low-signature urban warfare, allowing operators (typically IDF soldiers at remote bases) to target individuals from hundreds of meters away without ground exposure. Below, I'll outline the key facts based on verified reports, including technology, documented use, and impacts.
-
-Technology and Operation
-- Design and Capabilities: These quadcopters are compact (5-15 kg, palm- to backpack-sized), with four rotors for quiet, agile flight at altitudes under 100 meters.
-
-They feature high-resolution cameras, thermal imaging, and sometimes AI-assisted targeting for facial or movement recognition.
-
-Armaments include:
-
-  - Mounted rifles (e.g., Negev light machine guns or Tavor assault rifles) firing 5.56mm or 9mm rounds, often in single shots for "sniper-like" precision.
-
-  - Small explosive payloads (grenades or "cuboid pellets") dropped from hooks, designed to penetrate and fragment on impact.
-
-  - Speed: Up to 50-100 km/h; range: 1-2 km from the operator.
-
-Models like Elbit Systems' LANIUS or IDF-modified DJIs enable "loitering" (hovering for minutes) before firing, evoking a "bullet's" unerring path but with real-time human control.
-
-- Tactical Role: Used for suppression, reconnaissance, and targeted killings in dense urban environments where larger drones or ground troops risk casualties. The IDF describes them as "force multipliers" for close-quarters combat, but reports indicate routine patrols over civilian areas, including "humanitarian zones."
-
-Documented Use in Gaza:
-
-Since the escalation post-October 7, 2023, these drones have been linked to hundreds of incidents, per human rights monitors. They surged in northern Gaza during ground incursions and expanded southward by mid-2024.
-
-
-
-Key patterns:
-- Targeting Civilians and Aid Seekers: Eyewitnesses report drones firing on people near food distribution points, hospitals, and evacuation routes, often after luring with recorded sounds (e.g., baby cries). In November 2024, NPR documented cases where quadcopters "hunted" injured children lying still after airstrikes, firing single bullets into heads or torsos.
-
-- Hospital and Shelter Attacks: Drones patrol "safe" areas like Nasser and Al-Shifa hospitals. On September 29, 2025, a quadcopter shot Palestinian doctor Marwan Abdeen in the head while he worked inside Nasser Hospital in Khan Younis—a designated shelter zone.
-
- Similar incidents include toxic gas bombs near Al-Shifa on September 30, 2025, causing suffocation among displaced families.
-
-- Ceasefire Violations and Recent Escalations:
-
-Post-truce reports (e.g., October 2025) show continued use.
-
-On October 16, 2025, a quadcopter dropped a bomb injuring four near Al-Bureij camp and killed a civilian in Khan Younis.
-
-Another incident that day targeted homes in Gaza City, with footage showing heavy fire on residential areas.
-
-On October 4, 2025, incendiary bombs were dropped on displacement tents, igniting fires among sleeping families.
-
-- Scale: Euro-Med Human Rights Monitor estimates over 100 civilian deaths from quadcopters by June 2024, with expansion into "shoot-to-kill" operations.
-
-Al Jazeera footage from December 16, 2024, captured drones firing on fleeing Palestinians and dropping bombs in Rafah.
-
-
-
-
-
-
-=============== Ran before shot. Roof top  ==================
-
-Utah County DA PERSON_30_REDACTED and UVU are deliberately hiding the rooftop-view video files from the public. The RUNNER took off RUNNING early making that shot literally impossible. This is why they deliberately chose to trim & start the video at 12:23:34pm when the runner was 60ft away from the perch position! If you take the distance the runner visibly ran and measure it ·220 feet in 15 seconds at timestamp 12:23:34pm · the speed and distance can be calculated to find out when the runner began running for the missing 60ft. The runner began all out run at 12:23:28pm and Charlie was hit at 12:23:30pm. THIS IS CRIMINAL TO DELIBERATELY AND WILLFULLY HIDE INFORMATION WHILE PRESSING FORWARD WITH  CHARGES AGAINST TYLER!
-
-
-
-
-
-
-
-=============== (Deep Dive) Quotes from Charlie Kirk  ==================
-
-1. Alleged text to an unnamed TPUSA staffer
-
-“They are going to kill me.”
-
-Date (probable):
-
-September 9, 2025 – the day before Kirk was assassinated on September 10, 2025 at Utah Valley University.
-AP News
-+1
-
-Recipient (reported):
-
-An unnamed Turning Point USA staff member. Candace Owens refuses to name them but repeatedly says it is a TPUSA employee.
-The Times of India
-+2
-primetimer.com
-+2
-
-Where this comes from:
-
-On Myron Gaines’ podcast and later interviews, Candace Owens claimed that one TPUSA staffer “has a text message from Charlie the day before he died saying ‘they are going to kill me.’”
-primetimer.com
-+1
-
-Multiple outlets (Primetimer, Sportskeeda, Times of India) report this claim and quote the line “They are going to kill me” as the content of the alleged text.
-Sportskeeda
-+2
-primetimer.com
-+2
-
-Verification status:
-
-No screenshot of this text has been released publicly.
-
-TPUSA has confirmed other leaked texts from Kirk (the donor/Israel WhatsApp chat), but has not publicly confirmed this “they are going to kill me” text.
-Wikipedia
-+1
-
-So right now, this message exists only as an allegation by Candace Owens, amplified by media coverage; it’s not independently verifiable.
-
-2. Alleged written messages to three people saying
-
-“I think they’re going to kill me.”
-
-Date (probable):
-
-September 9, 2025 – “the very day before he died,” according to Owens.
-The Economic Times
-+2
-Podcasts - Your Podcast Transcripts
-+2
-
-Recipients (reported):
-
-Three people total, according to Owens:
-
-Two people who supposedly have this “in written communication from Charlie” (text or group chat/DM).
-
-One of the three is described as a Turning Point USA donor (often called a “white knight” donor in her retellings).
-Podcasts - Your Podcast Transcripts
-+2
-primetimer.com
-+2
-
-Exact or near-exact wording (as reported):
-
-Owens repeatedly quotes/paraphrases Kirk as writing or saying to them:
-
-“I think they’re going to kill me.”
-The Economic Times
-+2
-Podcasts - Your Podcast Transcripts
-+2
-
-Most coverage frames this as messages he sent about 24 hours before his death, sometimes summarised as “he sent messages to multiple people warning that his life was in danger.”
-facebook.com
-+2
-instagram.com
-+2
-
-Relationship to the donor/Israel group chat:
-
-Owens released authenticated WhatsApp group messages (nine-person chat) from September 8, 2025, where Kirk wrote things like:
-
-“Just lost another huge Jewish donor. $2 million a year because we won’t cancel Tucker.”
-
-“Jewish donors play into all the stereotypes. I cannot and will not be bullied like this. Leaving me no choice but to leave the pro-Israel cause.”
-Jerusalem Post
-+3
-Vox
-+3
-News.com.au
-+3
-
-TPUSA spokesman PERSON_3_REDACTED has publicly confirmed those donor-related texts as genuine.
-Wikipedia
-+1
-
-Owens then claims that the next day (Sept 9), in additional communications with three people, he went further and said “I think they’re going to kill me.” Those “kill me” messages, however, have not been released or independently verified.
-
-Verification status:
-
-We have clear, corroborated text content about donors, but the “I think they’re going to kill me” part is only described by Owens and her allies, not shown in any public screenshots.
-Podcasts - Your Podcast Transcripts
-+2
-primetimer.com
-+2
-
-
-============ Qoute: PERSON_7_REDACTED & Powerful Person =====================
-
-PERSON_3_REDACTED said that few hours after Charlie was shot, PERSON_7_REDACTED received a phonecall from an important individual, who asked her:
-'How much do you know?'
-She answered:
-'Everything'.
-Who was it and what did he mean?
-
-
-=================================
-Friend: "I hope you improved your security"
-CK: "I did."
-CK: "I know they want me dead"
-
-
-
-Again: no law-enforcement document, no court filing, and no TPUSA statement has confirmed that specific phrase appears in texts.
-
-Possible overlap with #1:
-
-It’s very plausible (and some commentators explicitly assume) that the staffer text (“They are going to kill me”) and the three people’s messages (“I think they’re going to kill me”) are part of the same cluster of communications on Sept 9. We can’t tell from public info whether these are:
-
-The same message being described differently,
-
-A 1:1 text plus similar lines in a group chat, or
-
-Several separate texts repeating the same fear.
-
-3. Things that sound like this but are not texts Kirk sent
-
-These come up a lot in the discourse but don’t meet your criteria.
-
-a. Leaked donor texts (real, but not about people killing him)
-
-These are the WhatsApp group messages from Sept 8, 2025 where Kirk complains about “Jewish donors,” losing a $2M donor, being “bullied,” and possibly leaving the pro-Israel cause.
-Vox
-+2
-News.com.au
-+2
-
-They’re important context for his final days, and widely confirmed as authentic, but contain no “they’re going to kill me” wording.
-
-b. In-person comments / non-text warnings
-
-There are scattered reports that Kirk told people verbally, months earlier, something like “I think they’re going to try to kill me”, including at least one pastor’s anecdote and various sermons/interviews remembering conversations with him.
-DC Urban Moms and Dads
-+2
-facebook.com
-+2
-
-Those might matter if you’re tracking his stated fear of being killed, but they’re not text messages, so they don’t belong in a strict list of texts he sent.
-
-4. Debunked “last text” hoaxes (important to separate out)
-
-There’s a very viral line you may have seen:
-
-“They’re watching me. If I fall, don’t let my voice die.”
-
-It’s been attributed in different posts to supposed texts from Kirk to Adam Sandler, Alice Cooper, Derek Hough, etc.
-
-Fact-checkers have torn this apart:
-
-Lead Stories / MediaBiasFactCheck summarize a check titled “Adam Sandler Did NOT Reveal Final Text Message From Charlie Kirk — No Such Text” and rate the claim False.
-Media Bias/Fact Check
-
-Primetimer likewise labels the “Adam Sandler last text” story as a debunked viral claim, noting it’s part of a clickbait formula that reuses the same dramatic quote and just swaps celebrity names.
-htsyndication.com
-+3
-primetimer.com
-+3
-primetimer.com
-+3
-
-So as far as credible reporting goes, that “They’re watching me. If I fall, don’t let my voice die” text is not real and should not be included as an actual Kirk message.
-
-5. How close to a “full list” is this?
-
-Given what’s public:
-
-Confirmed texts from Kirk released so far (and acknowledged by TPUSA) are about donors and Israel, not about someone killing him.
-Vox
-+2
-News.com.au
-+2
-
-All references to him texting “they are going to kill me / I think they’re going to kill me” come from Candace Owens and people quoting her description of what others privately told her.
-Podcasts - Your Podcast Transcripts
-+2
-Hindustan Times
-+2
-
-No screenshots, police filings, or direct corroboration of those specific “kill me” phrases have been made public so far.
-
-Because private phones/chats aren’t public record, nobody outside investigators and the people involved can truly know if there were more such texts.
-
-So the most accurate way to put it is:
-
-Public reporting currently supports only two distinct alleged sets of “they will kill me” texts from Charlie Kirk:
-
-A 1:1 text to an unnamed TPUSA staffer on Sept 9, 2025: “They are going to kill me.”
-
-Additional written messages (texts or group chats) to three people the same day, where he reportedly said, “I think they’re going to kill me.”
-
-Both exist only as second-hand claims from Candace Owens and have not been independently verified or published in full.
-
-Reported Quotes and Similar Statements Attributed to Charlie KirkBased on extensive searches across web sources and X posts, the following are the key quotes and similar statements attributed to Charlie Kirk regarding threats of death if he shifted away from a pro-Israel stance. These appear primarily in second-hand reports, discussions, and alleged leaks from people close to him (e.g., friends, associates like PERSON_20_REDACTED, or group chats). No direct first-hand audio, video, or verified posts from Kirk himself were found containing these exact words, but they are widely circulated in online discussions about his alleged assassination. I've compiled all variations without omission, including contextual similarities, and provided links to the sources. Sources include X posts (linked via status URLs) and web pages.I've grouped them by theme for clarity, but listed each unique phrasing separately. Dates referenced in sources suggest the statements were made around August 13, 2025 (about a month before his reported death), or 24-48 hours prior.1. Direct References to Being Killed for Opposing IsraelQuote: "hey, if I go against Israel, I think they will kill me."Context: Allegedly told to a friend on August 13, 2025, who was instructed to post it online. Discussed as a premonition before his death.
-Sources:Instagram reel: https://www.instagram.com/reel/DOi5cVFkalo/
-
-instagram.com
-
-Instagram reel: https://www.instagram.com/reel/DOfAV0kDHS5/
-
-instagram.com
-
-Instagram reel: https://www.instagram.com/cheekycraigm/reel/DOhVqNPD-91/
-
-instagram.com
-
-Instagram reel: https://www.instagram.com/reel/DOgOpHkjU2o/?hl=en
-
-instagram.com
-
-Instagram reel: https://www.instagram.com/reel/DOe52r6j0nL/
-
-instagram.com
-
-X post by @BalochRamzan2
- (ID: 1965901874974044386): https://x.com/BalochRamzan2/status/1965901874974044386
-
-@BalochRamzan2
-
- (also in post:31)
-X post by @Partisangirl
- (ID: 1965873642547589214): https://x.com/Partisangirl/status/1965873642547589214
-
-@Partisangirl
-
- (also in post:39)
-X post by @BK4HOF
- (ID: 1965960077313257584): https://x.com/BK4HOF/status/1965960077313257584
-
-@BK4HOF
-
- (also in post:45)
-X post by @jakeshieldsajj
- (ID: 1975815285199544692): https://x.com/jakeshieldsajj/status/1975815285199544692
-
-@jakeshieldsajj
-
- (via PERSON_20_REDACTED report)
-X post by @Rahul_EIWF
- (ID: 1983573879650988408): https://x.com/Rahul_EIWF/status/1983573879650988408
-
-@Rahul_EIWF
-
- (via PERSON_20_REDACTED, August 14 report)
-X post by @Rahul_EIWF
- (ID: 1983573455069987221): https://x.com/Rahul_EIWF/status/1983573455069987221
-
-@Rahul_EIWF
-
- (via PERSON_20_REDACTED, August 14 report)
-X post by @FactsVsZee
- (ID: 1983150291185709204): https://x.com/FactsVsZee/status/1983150291185709204
-
-@FactsVsZee
-
- (also in post:38; month before death)
-
-Quote: "They will kill me if I break away from being pro-Israel"Context: Paraphrased version of the above, attributed directly to Kirk in discussions.
-Sources:X post by @hodgetwins
- (ID: 1975564275457589371): https://x.com/hodgetwins/status/1975564275457589371
-
-@hodgetwins
-
-X post by @FactsVsZee
- (ID: 1983150291185709204): https://x.com/FactsVsZee/status/1983150291185709204
-
-@FactsVsZee
-
- (month before death)
-X post by @BalochRamzan2
- (ID: 1965901874974044386): https://x.com/BalochRamzan2/status/1965901874974044386
-
-@BalochRamzan2
-
- (one month ago)
-
-Quote: "they will kill me" (short version, in context of turning against Israel)Context: Often shortened in retellings.
-Sources:YouTube video: https://www.youtube.com/watch?v=H0oLzJXK9f4
-
-youtube.com
-
-X post by @hippyygoat
- (ID: 1967483125040054284): https://x.com/hippyygoat/status/1967483125040054284
-
-@hippyygoat
-
-X post by @jakeshieldsajj
- (ID: 1975815285199544692): https://x.com/jakeshieldsajj/status/1975815285199544692
-
-@jakeshieldsajj
-
-2. Statements About Leaving the Pro-Israel Cause (Implying Threat)Quote: "Jewish donors play into all the sterotypes. I cannot and will not be bullied like this. Leaving me no choice but to leave the Pro Israel cause"Context: Allegedly texted 48 hours before death.
-Sources:X post by @Jeannin55385803
- (ID: 1983227989308649546): https://x.com/Jeannin55385803/status/1983227989308649546
-
-@Jeannin55385803
-
- (also in post:48)
-X post by @Jeannin55385803
- (ID: 1983227896102572346): https://x.com/Jeannin55385803/status/1983227896102572346
-
-@Jeannin55385803
-
-X post by @Rahul_EIWF
- (ID: 1984001761104081260): https://x.com/Rahul_EIWF/status/1984001761104081260
-
-@Rahul_EIWF
-
- (also in post:44; 24-48 hours before)
-X post by @Rahul_EIWF
- (ID: 1984002508344430627): https://x.com/Rahul_EIWF/status/1984002508344430627
-
-@Rahul_EIWF
-
- (also in post:46)
-X post by @Rahul_EIWF
- (ID: 1984000745189118174): https://x.com/Rahul_EIWF/status/1984000745189118174
-
-@Rahul_EIWF
-
- (24-48 hours before)
-X post by @Rahul_EIWF
- (ID: 1983701221199532239): https://x.com/Rahul_EIWF/status/1983701221199532239
-
-@Rahul_EIWF
-
- (24-48 hours before)
-X post by @JustTheTweets17
- (ID: 1983947359186038839): https://x.com/JustTheTweets17/status/1983947359186038839
-
-@JustTheTweets17
-
- (also in post:42; 48 hours before)
-X post by @ImBreckWorsham
- (ID: 1976263670721048925): https://x.com/ImBreckWorsham/status/1976263670721048925
-
-@ImBreckWorsham
-
- (could no longer support Israeli agenda, 48 hours before)
-
-Quote: "Im going to have to stop supporting israel..."Context: Allegedly said 48 hours before death.
-Sources:X post by @MaxtheCrowhouse
- (ID: 1983641464253903025): https://x.com/MaxtheCrowhouse/status/1983641464253903025
-
-@MaxtheCrowhouse
-
-Quote: "You’ve left me no choice but to leave the pro-Israel cause"Context: Allegedly to 9 closest people, including his pastor, 48 hours before death.
-Sources:X post by @Wades2nd
- (ID: 1983654950598332758): https://x.com/Wades2nd/status/1983654950598332758
-
-@Wades2nd
-
-3. Related Contextual Statements (e.g., Ethnic Cleansing, Changing Stance)Quote: "I have got to be careful how I say this-they are going to ethnically cleanse Gaza"Context: Indicating a shift in views on Israel, tied to threats.
-Sources:X post by @hippyygoat
- (ID: 1967483125040054284): https://x.com/hippyygoat/status/1967483125040054284
-
-@hippyygoat
-
-Additional notes from sources:
-
-
-
-
-
-
-
-
-=============== Israel funding US Church leaders   ==================
-
-his might be the most consequential investigation ever written about foreign interference inside the American church, and it reveals a system far more coordinated and intrusive than anything evangelicals can imagine.
-
-For decades believers assumed their support for Israel arose naturally from Scripture or from a sense of shared moral history, yet the evidence now shows that the modern Israeli state built a fully integrated influence network that reaches from government ministries in Jerusalem straight into the pulpits, classrooms, and discipleship structures of the American church.
-
-The Israeli Ministry of Foreign Affairs funded a multi million dollar operation that profiled and digitally targeted more than fifteen hundred churches and Christian universities, including: First Baptist Dallas, Gateway, Elevation, Saddleback, Passion City, Lakewood, Liberty, Regent, Oral Roberts University, Cedarville, and more.
-
-The Israeli-funded fake Christian ministry, Friends of Zion, is cultivating pastors through curated tours, bogus awards, and direct contact with Israeli government officials, and those pastors are returning home convinced they are discovering independent insight rather than carefully staged messaging.
-
-Another fake "Christian" group underwritten by the Israeli government, Faith By Works, is geofencing American congregations, segmenting believers, and shaping sentiment through targeted content created to stabilize evangelical loyalty to Israel at a time when younger Christians were drifting away.
-
-All that is old news, previously exposed by I2I. But did you know about FIRM?
-
-FIRM, the Fellowship of Israel Related Ministries, has quietly become the theological and discipleship arm of the Israeli government and is writing curriculum and producing the small group studies of American churches.
-
-FIRM does not merely encourage Christians to appreciate Israel, it is actually producing Sunday school materials, youth curricula, apologetics frameworks, pastoral training content, and doctrinal guides that reframe the relationship between Christianity and the modern Israeli state in ways that match the priorities of Israeli political ministries.
-
-And they've found key evangelical leaders to take part in this scheme. These include PERSON_170_REDACTED, PERSON_171_REDACTED, PERSON_168_REDACTED, PERSON_169_REDACTED, Michael Brown, PERSON_173_REDACTED, PERSON_172_REDACTED, PERSON_167_REDACTED, and ministries such as One for Israel, King of Kings, Revive Israel, Jewish Voice Ministries, Behold Israel, Chosen People Ministries, and Maoz Israel. Their presence gives the material the appearance of spiritual authority, yet the system they contribute to exists downstream from government priorities that treat American evangelicals as strategic assets rather than spiritual brothers.
-
-It all works together. FOZ shapes pastors. Faith By Works targets congregations. FIRM constructs the theology that makes the entire pipeline appear biblical. Israeli ministries including the Prime Minister’s Office, the Ministry of Foreign Affairs, the Ministry of Strategic Affairs, and the tourism apparatus form the upper tier of a structure that treats evangelical loyalty as a resource to be managed.
-
-This article exposes the architecture, names the players, documents the funding, and demonstrates that evangelical support for Israel has not been a one way expression of goodwill. Anyone who cares about the integrity of Christian teaching, pastoral independence, or foreign interference in religious life needs to read this exposé. We've pulled the curtain all the way back.
-
-
-
-=============== France PERSON_PRIME_MINISTER_32_REDACTED Assassin Team   ==================
-
-CONFIRMED: PERSON_PRIME_MINISTER_32_REDACTED's "Death Squad" Behind Candace Owens Assassination Plot? Russian Intel Confirms the Nightmare Is Real👀
-
-Candace Owens just dropped a bombshell: A French gov't insider warns the PERSON_PRIME_MINISTER_32_REDACTEDs greenlit her murder via elite Gendarmerie hit squad—with Israeli ties & links to Charlie Kirk's killer. Sound insane? It's not. Russian "Foundation for Fighting Injustice" (FFI) report EXPOSES PERSON_PRIME_MINISTER_32_REDACTED's secret "White Lily" death squad, led by his enforcer PERSON_154_REDACTED ("Prince of Darkness"), ex-DGSE boss PERSON_155_REDACTED plotting ops, Paris police chief PERSON_157_REDACTED training killers, & PERSON_PRIME_MINISTER_32_REDACTED advisor PERSON_156_REDACTED bankrolling it all.
-
-Dispatched in last March to Baku & Chad for "liquidations"—targeting dissidents, journos, & separatists (like Corsica/New Caledonia leaders). FFI cites GRU intel: Same squad linked to deaths of French deputy Olivier Dassault (Yellow Vests backer) & activist Isabelle Ferreira. Opposition MPs & media moguls next.
-
-Now connect the dots: Candace Owens's crusade against PERSON_PRIME_MINISTER_32_REDACTED "scandals" (trans rumors, elite corruption) mirrors those targets. Her source? High-level French leak, echoing FFI's whistleblower vibe. And
-@Project_Veritas
-  just CONFIRMED Deep State blackmail plots against her (Barr's daughter: "blackmail her faster"). This isn't coincidence—it's a global elite hit list.
-Candace Owens: You're a warrior exposing their rot. Prayers & protection NOW. US gov't: Investigate or be complicit. World: RT to save her life.
-
-
-
-
-=============== Flight MARC Inc.'s Piper N59906   ==================
-
-ALERT: BREAKING Down The MYSTERY FLIGHT BEFORE CHARLIE KIRK SHOOTING —Not A Drone But Another SPY AIRCRAFT
-
-On Sep 15, private contractor MARC Inc.'s Piper N59906 made 4 low-alt passes (15k ft AGL) over Utah Valley Univ campus—hours b4 the 12:23pm attack. Equipped w/ hi-res cams, LiDAR for surveillance/mapping. Who ordered it? Gov't? Do photos capture the shooter or debunk conspiracies?
-
-Incredible dig by
-@rosenwald_eric
- —hats off for the OSINT wizardry!
-
-The Suspicious Aerial Surveillance Flights
-
-Just hours before the shooting, a Piper PA-31 Navajo Chieftain (registration N59906), operated by MARC Inc.—North America's largest provider of specialized contract aircraft for GIS, survey, and surveillance—conducted four low-altitude passes over the UVU campus. The flights originated and ended at Provo Airport (PVU), about 4 miles south of campus, and occurred at approximately 19,000 feet MSL (15,000 feet above ground level), ideal for aerial mapping or reconnaissance.
-
-       Pass Time / Duration / Notes
-▶️11:01 a.m. / ~5 min / First north-south pass over central campus
-▶️11:09 a.m. / ~4 min / Second pass, slightly offset eastward
-▶️11:18 a.m. / ~5 min / Third pass, focused on event area
-11:35 a.m. / ~6 min / Final pass; alleged shooter first spotted on campus surveillance at 11:50 a.m.
-
-The aircraft is equipped for high-resolution data capture, including:
-💠Cameras: Vexcel Large Format Digital, Leica, hyperspectral, infrared scanners.
-💠LiDAR: Optech Orion/Gemini/3100 systems for 3D mapping.
-💠Other: Lead air data storage for multispectral/hyperspectral imaging.
-
-MARC Inc. serves U.S. federal/state governments, foreign entities, private mapping firms, oil/gas companies, civil engineering groups, and universities for applications like aerial photography, geophysical surveys, surveillance, and pipeline monitoring.
-
-Open-source flight tracking (via ADS-B) confirmed the pattern, raising questions: Was this routine infrastructure surveying (e.g., Interstate-15 nearby), law enforcement prep, or something else? If images exist, could they show the shooter (Tyler Robinson) or his preparations, potentially debunking conspiracies like multiple gunmen or staged events?
-
-No official confirmation from the FBI or MARC Inc. on the flight's purpose or client, though airspace remained open (drawing criticism for not being restricted pre-event).
-
-Key Update: Alleged Leaked Photos
-On October 13, 2025, Tiktok user @universehop00 posted leaked photos just one day after his initial report—claiming they originated from N59906's flight that day. The account has no other content, suggesting a targeted leak (possibly from a contractor or insider).
-
-The images appear to show:High-res orthomosaic views of UVU's central quad and event stage area.
-Timestamped metadata aligning with the 11:35 a.m. pass.
-Potential anomalies: A figure  near a rooftop access point ~45 minutes pre-shooting.
-
-If authentic, these could be pivotal for the Tyler Robinson case and our own de-centralized investigation in to the bigger conspiracy to assassinate Charlie Kirk.
-
-The FBI has not commented, but victim resources and investigation updates continue via their site.
-
-
-
-
-=============== Egyptian President's SECRET MEETINGS with MACRON & US CENTCOM   ==================
-
-Egyptian President's SECRET MEETINGS with MACRON & US CENTCOM EXPOSE GLOBAL HIT on CHARLIE KIRK – Just DAYS Before & After His Assassination! 🕵️‍♂️💥
-
-You won't believe this – straight from the OFFICIAL Egyptian Presidency website, President PERSON_134_REDACTED was in DEEP talks with French Prez PERSON_PRIME_MINISTER_32_REDACTED AND the head of US Central Command RIGHT around Charlie Kirk's brutal murder on Sept 10th at UVU. Coincidence? Or COLLUSION to silence America's boldest voice?
-TIMELINE OF SHADOW TALKS:
-
-Aug 20, 2025: PERSON_134_REDACTED speaks directly with PERSON_PRIME_MINISTER_32_REDACTED – PRE-Kirk hit planning?
-
-Sept 8, 2025: PERSON_134_REDACTED MEETS USCENTCOM Commander – 2 DAYS BEFORE the bullet flies!
-
-Sept 15, 2025: PERSON_134_REDACTED joins VIDEO CONFERENCE at PERSON_PRIME_MINISTER_32_REDACTED's invite – IMMEDIATE post-assassination huddle.
-
-Sept 20, 2025: Another PERSON_134_REDACTED/PERSON_PRIME_MINISTER_32_REDACTED call – sealing the cover-up?
-
-This screams international deep state foul play. Candace Owens called it from DAY ONE – foreign powers pulling strings to take out patriots like Charlie. She's been VINDICATED again! 🔥🇺🇸
-
- Demand answers NOW!
-
-Be sure to FOLLOW
-@Ex_Nihilo_x
- who is just killing it in this investigation, doing great work.
-Source listed in the comments below.
-
-
-
-
-=============== Egyptian President's SECRET MEETINGS with MACRON & US CENTCOM   ==================
-
-BOMBSHELL: Egyptian President's SECRET MEETINGS with MACRON & US CENTCOM EXPOSE GLOBAL HIT on CHARLIE KIRK – Just DAYS Before & After His Assassination! 🕵️‍♂️💥
-
-You won't believe this – straight from the OFFICIAL Egyptian Presidency website, President PERSON_134_REDACTED was in DEEP talks with French Prez PERSON_PRIME_MINISTER_32_REDACTED AND the head of US Central Command RIGHT around Charlie Kirk's brutal murder on Sept 10th at UVU. Coincidence? Or COLLUSION to silence America's boldest voice?
-TIMELINE OF SHADOW TALKS:
-
-Aug 20, 2025: PERSON_134_REDACTED speaks directly with PERSON_PRIME_MINISTER_32_REDACTED – PRE-Kirk hit planning?
-
-Sept 8, 2025: PERSON_134_REDACTED MEETS USCENTCOM Commander – 2 DAYS BEFORE the bullet flies!
-
-Sept 15, 2025: PERSON_134_REDACTED joins VIDEO CONFERENCE at PERSON_PRIME_MINISTER_32_REDACTED's invite – IMMEDIATE post-assassination huddle.
-
-Sept 20, 2025: Another PERSON_134_REDACTED/PERSON_PRIME_MINISTER_32_REDACTED call – sealing the cover-up?
-
-
-
-
-=============== Court Legal Docs   ==================
-https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents
-
-State of Utah v. Tyler James Robinson, Fourth Judicial District Court, Utah County, No. 251403576
-This list recreates the case docket, listing all court filings by docket number. The document is identified by name and filing date. Documents that I have not purchased are listed but designated as “Not obtained.”
-
-Information, 9-16-25
-
-9 16 25 Information
-284KB ∙ PDF file
-Download
-Probable Cause Affidavit, 9-16-25
-
-
-9 16 25 Probable Cause Affidavit
-77.2KB ∙ PDF file
-Download
-Public Safety Assessment Report, 9-16-25
-
-
-9 16 25 Public Safety Assessment
-720KB ∙ PDF file
-Download
-Bail Order, 9-16-25
-
-
-9 16 25 Bail Order
-708KB ∙ PDF file
-Download
-Return of Electronic Notification, 9-16-25
-
-
-9 16 25 Return Of Electronic Notification
-20.4KB ∙ PDF file
-Download
-Acknowledgment of Firearm Restriction, 9-16-25
-
-
-9 16 25 Acknowledgment Of Firearm Restriction
-140KB ∙ PDF file
-Download
-Order (Proposed) Pretrial Protective Order, 9-16-25
-
-
-9 16 25 Proposed Pretrial Protective Order
-384KB ∙ PDF file
-Download
-Return of Electronic Notification, 9-16-25
-
-
-9 16 25 Return Of Electronic Notification 2
-20.4KB ∙ PDF file
-Download
-Affidavit of Indigency, 9-16-25 (Private, Not obtained)
-
-State’s Notice of Intent to Seek the Death Penalty, 9-16-25
-
-
-9 16 25 Notice Of Intent To Seek Death Penalty
-179KB ∙ PDF file
-Download
-Return of Electronic Notification, 9-16-25 (Not obtained)
-
-Request for Designation of Victim Representative, 9-16-25
-
-
-9 16 25 Request For Designation Of Victim Representative
-95.7KB ∙ PDF file
-Download
-Return of Electronic Notification, 9-16-25 (Not obtained)
-
-Order Pretrial Protective Order, 9-16-25
-
-
-9 16 25 Pretrial Protective Order PERSON_7_REDACTED
-770KB ∙ PDF file
-Download
-Return of Electronic Notification, 9-16-25 (Not obtained)
-
-Return of Electronic Notification, 9-17-25 (Not obtained)
-
-Initial Appearance, 9-22-25
-
-
-9 17 25 Initial Appearance
-711KB ∙ PDF file
-Download
-Return of Electronic Notification, 9-23-25 (Not obtained)
-
-Pre-Trial Protective Order, 9-23-25 (Not obtained, duplicate of #14)
-
-Notice for Case 251403576 FS Judge: PERSON_34_REDACTED, 9-23-25
-
-
-9 23 25 Notice
-20.8KB ∙ PDF file
-Download
-Return of Electronic Notification, 9-24-25 (Not obtained)
-
-Order for Court Reporter, 9-22-25
-
-
-9 22 25 Order For Court Reporter
-202KB ∙ PDF file
-Download
-Protection Order Re: Pre-Trial and Trial Publicity, 9-22-25
-
-
-9 22 25 Protection Order Re Trial Publicity
-267KB ∙ PDF file
-Download
-Order to Transport, 9-24-25
-
-
-9 24 25 Order To Transport
-127KB ∙ PDF file
-Download
-Request and Order for Electronic Media Coverage of Court Proceedings, 9-15-25 (Not obtained)
-
-Request and Order for Electronic Media Coverage of Court Proceedings, 9-17-25 (Not obtained)
-
-Request and Order for Electronic Media Coverage of Court Proceedings, 9-24-25 (Not obtained)
-
-Standing Decorum Order, 9-24-25
-
-
-9 24 25 Standing Decorum Order
-579KB ∙ PDF file
-Download
-Return of Service Pretrial Protective Order, 9-24-25 (Not obtained)
-
-Protective Order Acknowledgment of Firearm Restriction, 9-24-25 (Not obtained)
-
-Return of Electronic Notification, 9-25-25 (Not obtained)
-
-Affidavit/Declaration Rule 8 Declaration of PERSON_35_REDACTED, 9-25-25
-
-
-9 25 25 Rule 8 Declaration Of PERSON_35_REDACTED
-170KB ∙ PDF file
-Download
-Affidavit/Declaration Rule 8 Declaration of PERSON_36_REDACTED, 9-25-25
-
-
-9 25 25 Michael N
-151KB ∙ PDF file
-Download
-Affidavit/Declaration Rule 8 Declaration of PERSON_37_REDACTED, 9-25-25
-
-
-9 25 25 Richard G
-181KB ∙ PDF file
-Download
-Motion Pro Hac Vice to Admit PERSON_36_REDACTED, 9-25-25
-
-
-9 25 25 Motion To Admit Michael Burt Phv
-360KB ∙ PDF file
-Download
-Motion Pro Hac Vice to Admit PERSON_37_REDACTED, 9-25-25
-
-
-9 25 25 Motion To Admit PERSON_37_REDACTED Phv
-334KB ∙ PDF file
-Download
-Order (Proposed) Findings of Fact and Conclusions of Law Regarding Appointment of Rule 8 Counsel, 9-25-25 (Not obtained)
-
-Order (Proposed) Admitting PERSON_36_REDACTED Pro Hac Vice, 9-25-25 (Not obtained)
-
-Order (Proposed) Admitting PERSON_37_REDACTED Pro Hac Vice, 9-25-25 (Not obtained)
-
-Return of Electronic Notification, 9-25-25 (Not obtained)
-
-Order Admitting PERSON_36_REDACTED Pro Hac Vice, 9-26-25
-
-
-9 26 25 Order Admitting Michael Burt Phv
-752KB ∙ PDF file
-Download
-Order Findings of Fact and Conclusions of Law Regarding Appointment of Rule 8 Counsel, 9-27-25
-
-
-9 27 25 Fofacol On Rule 8 Counsel
-752KB ∙ PDF file
-Download
-Return of Electronic Notification, 9-26-25 (Not obtained)
-
-Order Admitting PERSON_37_REDACTED Pro Hac Vice, 9-27-25
-
-
-9 27 25 Order Admitting PERSON_37_REDACTED Phv
-752KB ∙ PDF file
-Download
-Return of Electronic Notification, 9-27-25 (Not obtained)
-
-Return of Electronic Notification, 9-27-25 (Not obtained)
-
-Supplemental Exhibit to Motion and Consent of Sponsoring Local Counsel for Pro Hac Vice Admission of Out of State Counsel PERSON_36_REDACTED, 9-28-25
-
-
-9 28 25 Supp Exhibit To Motion Re Phv Of Michael Burt
-297KB ∙ PDF file
-Download
-Supplemental Exhibit to Motion and Consent of Sponsoring Local Counsel for Pro Hac Vice Admission of Out of State Counsel PERSON_37_REDACTED, 9-28-25
-
-
-9 28 25 Supp Exhibit To Motion Re Phv Of PERSON_37_REDACTED
-205KB ∙ PDF file
-Download
-Supplemental Exhibit to Rule 8 Declaration of PERSON_36_REDACTED, 9-28-25
-
-
-9 28 25 Supp Exhibit To Michael Burt Phv Affidavit
-288KB ∙ PDF file
-Download
-Supplemental Exhibit to Rule 8 Declaration of PERSON_37_REDACTED, 9-28-25
-
-
-9 28 25 Supp Exhibit To PERSON_37_REDACTED Phv Affidavit
-311KB ∙ PDF file
-Download
-Return of Electronic Notification, 9-28-25 (Not obtained)
-
-Order to Transport, 9-29-25 (Not obtained)
-
-Return of Electronic Notification, 9-30-25 (Not obtained)
-
-Return of Electronic Notification, 9-30-25 (Not obtained)
-
-Appearance of Counsel/Notice of Limited Appearance of Counsel, 9-30-25
-
-
-9 30 25 Notice Of Appearance PERSON_92_REDACTED For State
-144KB ∙ PDF file
-Download
-Appearance of Counsel/Notice of Limited Appearance of Counsel, 9-30-25
-
-
-9 30 25 Notice Of Appearance Christopher PERSON_72_REDACTED For State
-144KB ∙ PDF file
-Download
-Appearance of Counsel/Notice of Limited Appearance of Counsel, 9-30-25
-
-
-9 30 25 Notice Of Appearance PERSON_95_REDACTED For State
-144KB ∙ PDF file
-Download
-Appearance of Counsel/Notice of Limited Appearance of Counsel, 9-30-25
-
-
-9 30 25 Notice Of Appearance PERSON_93_REDACTED For State
-143KB ∙ PDF file
-Download
-Appearance of Counsel/Notice of Limited Appearance of Counsel, 9-30-25
-
-
-9 30 25 Notice Of Appearance Ryan Mcbride For State
-144KB ∙ PDF file
-Download
-Return of Electronic Notification, 9-30-25 (Not obtained)
-
-Request for Discovery, 9-30-25
-
-
-9 30 25 Request For Discovery
-266KB ∙ PDF file
-Download
-Return of Electronic Notification, 9-30-25 (Not obtained)
-
-Return of Electronic Notification, 10-1-25 (Not obtained)
-
-Telephonic Conference, 10-1-25
-
-
-10 1 25 Telephonic Conference 64
-710KB ∙ PDF file
-Download
-Telephonic Conference, 10-1-25
-
-
-10 1 25 Telephonic Conference 65
-709KB ∙ PDF file
-Download
-Request and Order for Electronic Media Coverage of Court Proceedings, 9-29-25
-
-
-9 29 25 Request And Order For Electronic Media Coverage
-119KB ∙ PDF file
-Download
-Request and Order for Electronic Media Coverage of Court Proceedings, 9-29-25 (Not obtained)
-
-Return of Electronic Notification, 10-2-25 (Not obtained)
-
-Return of Electronic Notification, 10-3-25 (Not obtained)
-
-Return of Electronic Notification, 10-4-25 (Not obtained)
-
-Request for Audio Recording, 10-6-25
-
-
-10 6 25 Request For Audio Recording
-99KB ∙ PDF file
-Download
-Return of Electronic Notification, 10-6-25 (Not obtained)
-
-Return of Electronic Notification, 10-7-25 (Not obtained)
-
-Copy of Video/Audio Record (completed), 10-8-25
-
-
-10 8 25 Copy Of Video Audio Record Completed
-117KB ∙ PDF file
-Download
-Motion to Preserve Evidence, 10-8-25
-
-
-10 8 25 Motion To Preserve Evidence
-125KB ∙ PDF file
-Download
-Order (Proposed) Granting Motion to Preserve Evidence, 10-8-25 (Not obtained)
-
-Return of Electronic Notification, 10-8-25 (Not obtained)
-
-Return of Electronic Notification, 10-9-25 (Not obtained)
-
-Motion Permission to File Overlength Motion to Appear in Civilian Clothes and Without Restraints, 10-9-25
-
-
-10 9 25 Motion For Permission To File Overlength Brief
-159KB ∙ PDF file
-Download
-Request/Notice to Submit Motion for Permission to File Overlength Motion to Appear in Civilian Clothes and Without Restraints, 10-9-25
-
-
-10 9 25 Request To Submit Motion For Overlength Brief
-139KB ∙ PDF file
-Download
-Order (Proposed) Granting Motion for Permission to File Overlength Motion to Appear in Civilian Clothes and Without Restraints, 10-9-25 (Not obtained)
-
-Return of Electronic Notification, 10-9-25 (Not obtained)
-
-Motion (Hearing Requested) to Appear at All In-Person Proceedings in Civilian Clothing and Without Restraints and Memorandum in Support, 10-9-25
-
-
-10 9 25 Motion To Appear At All In Person Proceedings In Civilian Clothing And Without Restraints And Memorandum In Support
-509KB ∙ PDF file
-Download
-Order (Proposed) Temporary Order Allowing Appearance in Civilian Clothing and Without Restraints, 10-9-25
-
-
-10 9 25 Proposed Order Allowing Civilian Clothing
-138KB ∙ PDF file
-Download
-Return of Electronic Notification, 10-9-25 (Not obtained)
-
-Order Granting Motion for Permission to File Overlength Motion to Appear in Civilian Clothes and Without Restraints, 10-10-25 (Not obtained)
-
-Return of Electronic Notification, 10-10-25 (Not obtained)
-
-Appearance of Counsel/Notice of Limited Appearance, 10-13-25
-
-
-10 13 25 Notice Of Appearance PERSON_38_REDACTED
-130KB ∙ PDF file
-Download
-Return of Electronic Notification, 10-13-25 (Not obtained)
-
-Request/Notice to Submit Stipulated Discovery Protective Order, 10-13-25 (Not obtained)
-
-Motion for Discovery Protective Order (Stipulated), 10-13-25
-
-
-10 13 25 Stipulated Motion For Discovery Protective Order
-178KB ∙ PDF file
-Download
-Order (Proposed) Discovery Protective Order, 10-13-25 (Not Obtained)
-
-Return of Electronic Notification, 10-13-25 (Not obtained)
-
-Certificate of Service, 10-13-25 (Not obtained)
-
-Return of Electronic Notification, 10-13-25 (Not obtained)
-
-Interim Order Defendant’s Motion to Appear in Civilian Clothing and Without Restraints, 10-14-25
-
-
-10 14 25 Interim Order On Defendant's Motion To Appear In Civilian Clothing And Without Restraints
-356KB ∙ PDF file
-Download
-Appearance of Counsel/Notice of Limited Appearance (PERSON_37_REDACTED), 10-14-25
-
-
-10 14 25 Notice Of Appearance PERSON_37_REDACTED
-99.2KB ∙ PDF file
-Download
-Return of Electronic Notification, 10-14-25 (Not obtained)
-
-Return of Electronic Notification, 10-15-25 (Not obtained)
-
-Discovery Protective Order, 10-15-25
-
-
-10 15 25 Order For Discovery Protection
-790KB ∙ PDF file
-Download
-Return of Electronic Notification, 10-15-25 (Not obtained)
-
-PRIVATE Response to Defendant’s Motion to Appear at All In-Person Proceedings in Civilian Clothing and Without Restraints, 10-20-25 (Not obtained, no docket number assigned)
-
-Motion to Classify as Private the Response to Defendant’s Motion to Appear in Civilian Clothing, 10-20-25
-
-
-10 20 25 Motion To Make Response To Shackling Motion Private
-102KB ∙ PDF file
-Download
-Order (Proposed) Granting Motion to Classify as Private the Response to Defendant’s Motion to Appear in Civilian Clothing, 10-20-25 (Not obtained)
-
-Return of Electronic Notification, 10-20-25 (Not obtained)
-
-Order Granting Motion to Classify as Private the Response to Defendant’s Motion to Appear in Civilian Clothing, 10-20-25
-
-
-10 20 25 Order Granting Motion To Make Response To Shackling Motion Private
-737KB ∙ PDF file
-Download
-Return of Electronic Notification, 10-20-25 (Not obtained)
-
-Order Granting Motion to Preserve Evidence, 10-20-25
-
-
-10 20 25 Order Granting Motion To Preserve Evidence
-746KB ∙ PDF file
-Download
-Return of Electronic Notification, 10-20-25 (Not obtained)
-
-(Omitted from Docket - no document # 109)
-
-Return of Electronic Notification, 10-21-25 (Not obtained)
-
-Motion to Strike Response to Defendant’s Motion to Appear at All In-Person Proceedings in Civilian Clothing and Without Restraints, 10-21-25
-
-
-10 21 25 Motion To Strike Response To Motion For Unshackling
-480KB ∙ PDF file
-Download
-Return of Electronic Notification, 10-21-25 (Not obtained)
-
-Order to Transport, 10-21-25
-
-
-10 21 25 Order To Transport
-131KB ∙ PDF file
-Download
-Return of Electronic Notification, 10-22-25 (Not obtained)
-
-Defendant’s Opposition to the State of Utah’s Motion under Utah Rule of Criminal Procedure 17.5, 10-22-25
-
-
-10 22 25 Opposition To State's Motion Under Crim Rule 17
-241KB ∙ PDF file
-Download
-Motion to Set Aside October 20, 2025 Order Granting Motion to Preserve Evidence, 10-22-25
-
-
-10 22 25 Motion To Set Aside October 20 Order Granting Motion To Preserve Evidence
-176KB ∙ PDF file
-Download
-Response to Defendant’s Motion to Preserve Evidence, 10-22-25
-
-
-10 22 25 Response To Def Motion To Preserve Evidence
-183KB ∙ PDF file
-Download
-Opposition to Motion to Strike Response to Defendant’s Motion to Appear at All In-Person Proceedings in Civilian Clothing and Without Restraints, 10-22-25
-
-
-10 22 25 Opposition To Motion To Strike
-190KB ∙ PDF file
-Download
-Return of Electronic Notification, 10-22-25 (Not obtained)
-
-Return of Electronic Notification, 10-22-25 (Not obtained)
-
-Reply in Support of Motion re Restraints and Civilian Clothing, 10-22-25
-
-
-10 22 25 Reply In Support Of Motion Re Restraints
-394KB ∙ PDF file
-Download
-Motion for Permission to File Overlength Reply, 10-22-25 (Not obtained)
-
-Request/Notice to Submit Request to Submit Motion for Permission to File Overlength Reply, 10-22-25 (Not obtained)
-
-Order (Proposed) Order Granting Permission to File Overlength Reply, 10-22-25 (Not obtained)
-
-Return of Electronic Notification, 10-22-25 (Not obtained)
-
-Return of Electronic Notification, 10-23-25 (Not obtained)
-
-Order Granting Permission to File Overlength Reply, 10-23-25 (Not obtained)
-
-Return of Electronic Notification, 10-23-25 (Not obtained)
-
-Reply in Support of Motion to Strike Response to Defendant’s Motion to Appear at all In-Person Proceedings in Civilian Clothing and Without Restraints, 10-23-25
-
-
-10 23 25 Reply In Support Of Motion To Strike Response To Defendant's Motion
-391KB ∙ PDF file
-Download
-Return of Electronic Notification, 10-23-25 (Not obtained)
-
-Request and Order for Electronic Media Coverage of Court Proceedings, 10-23-25
-
-
-10 23 25 Request And Order For Electronic Media Coverage
-123KB ∙ PDF file
-Download
-Return of Electronic Notification, 10-24-25 (Not obtained)
-
-Updated Request and Order for Electronic Media Coverage of Court Proceedings
-
-
-10 24 25 Updated Request And Order For Electronic Media Coverage Of Court Proceedings
-123KB ∙ PDF file
-Download
-Return of Electronic Notification, 10-27-25 (Not obtained)
-
-State’s Notice of Open File Policy and Invitation to Inspect Physical Evidence, 10-27-25
-
-
-10 27 25 Notice Of State's Open File Policy
-171KB ∙ PDF file
-Download
-Return of Electronic Notification, 10-27-25 (Not obtained)
-
-Ruling and Order Granting Defendant’s Motion to Strike and Granting in Part and Denying in Part Defendant’s Motion to Appear in Civilian Clothing and Without Restraints, 10-27-28
-
-
-10 27 25 Ruling And Order Re Motion To Strike And Motion To Unshackle
-3.3MB ∙ PDF file
-Download
-Standing Decorum Order, Effective 10-30-25
-
-
-10 27 25 Standing Decorum Order Effective 10 30 25
-2.94MB ∙ PDF file
-Download
-Not Signed Order (Proposed) Temporary Order Allowing Appearance in Civilian Clothing and Without Restraints, 10-27-25 (Not obtained)
-
-Return of Electronic Notification (Not obtained), 10-27-25
-
-Motion to Extend Time, Stipulated, 10-27-25
-
-
-10 27 25 Motion To Extend Time Stipulated
-156KB ∙ PDF file
-Download
-Request/Notice to Submit Stipulated Motion to Extend Time, 10-27-25 (Not obtained)
-
-Order (Proposed) Granting Stipulated Motion to Extend Time, 10-27-25 (Not obtained)
-
-Return of Electronic Notification, 10-27-25 (Not obtained)
-
-Return of Electronic Notification, 10-27-25 (Not obtained)
-
-Order Granting Stipulated Motion to Extend Time, 10-28-25
-
-
-10 28 25 Order Granting Stipulated Motion To Extend Time
-746KB ∙ PDF file
-Download
-Return of Electronic Notification, 10-28-25 (Not obtained)
-
-(Omitted from docket - no document # 148)
-
-Return of Electronic Notification, 10-29-25 (Not obtained)
-
-Request for Notice of Motions to Close Judicial Proceedings and Records, 10-30-25
-
-
-10 30 25 Request For Notice Of Motions To Close Judicial Proceedings And Records
-141KB ∙ PDF file
-Download
-Return of Electronic Notification, 10-30-25 (Not obtained)
-
-Stipulation Motion to Order Transcript and Classify Transcript and Audio as Private, 11-3-25
-
-
-11 3 25 Stipulated Motion To Classify Transcript And Audio As Private
-142KB ∙ PDF file
-Download
-Request/Notice to Submit Request to Submit Stipulated Motion to Order Transcript and Classify, 11-3-25 (Not obtained)
-
-Order (Proposed) Granting Motion to Order Transcript and Classify, 11-3-25 (Not obtained)
-
-Return of Electronic Notification, 11-3-25 (Not obtained)
-
-Request/Notice to Submit Stipulated Motion Regarding Order to Preserve Evidence, 11-3-25 (Not obtained)
-
-Stipulated Motion Regarding Order to Preserve Evidence, 11-3-25
-
-
-11 3 25 Stipulated Motion Re Order To Preserve Evidence
-183KB ∙ PDF file
-Download
-Order (Proposed) Stipulated Order: (1) Setting Aside October 20, 2025 Order Granting Motion to Preserve Evidence; and (2) Granting in Part Motion to Preserve Evidence, 11-3-25 (Not obtained)
-
-Return of Electronic Notification, 11-3-25 (Not obtained)
-
-(Omitted from docket - no item #160)
-
-Stipulated Order: (1) Setting aside October 20, 2025 Order Granting Motion to Preserve Evidence; and (2) Granting in Part Motion to Preserve Evidence, 11-4-25
-
-
-11 4 25 Stipulated Order Setting Aside Order On Motion To Preserve Evidence
-743KB ∙ PDF file
-Download
-Return of Electronic Notification, 11-4-25 (Not obtained)
-
-Return of Electronic Notification, 11-5-25 (Not obtained)
-
-Motion for Limited Intervention and Request for Notice of Motions to Close, Seal, or Reclassify, 11-5-25
-
-
-11 5 25 Motion For Limited Intervention And Notice Of Motions To Close Or Seal
-262KB ∙ PDF file
-Download
-Return of Electronic Notification, 11-5-25 (Not obtained)
-
-(Omitted from docket - no item #166)
-
-State’s Motion to Amend or Clarify Court’s Pre-Trial and Trial Publicity Order (Dkt. #23), 11-6-25
-
-
-11 5 25 Motion To Amend Or Clarify Pretrial Publicity Order
-209KB ∙ PDF file
-Download
-Return of Electronic Notification, 11-6-25 (Not obtained)
-
-Defendant Tyler James Robinson s Response to Request for Notice of Motion to Close Judicial Proceedings and Records, 11-10-25
-
-
-11 10 25 Defendant's Response To Request For Notice
-192KB ∙ PDF file
-Download
-Return of Electronic Notification, 11-10-25 (Not obtained)
-
-Order Requiring Parties to Serve All Closure of Reclassification Motions on the Media, 11-13-25
-
-
-11 10 25 Order Requiring Service Of Motions On Media
-255KB ∙ PDF file
-Download
-Order for Transcript of October 24, 2025 Hearing, 11-13-25
-
-
-11 13 25 Order For Transcript Of October 24, 2025 Hearing
-198KB ∙ PDF file
-Download
-Media’s Notice of Service re Motion to Classify Transcript and Audio Filed November 3, 2025, 11-13-25
-
-
-11 13 25 Motion To Reclassify Transcript
-190KB ∙ PDF file
-Download
-Return of Electronic Notification, 11-13-25 (Not obtained)
-
-(Omitted from docket - no item #175)
-
-Return of Electronic Notification, 11-14-25 (Not obtained)
-
-Approved Request and Order for Electronic Media Coverage of Court Proceedings, 11-14-25
-
-
-11 13 25 Approved Request And Order For Electronic Media Coverage
-123KB ∙ PDF file
-Download
-Not Signed Order (Proposed) Granting Motion to Order Transcript and Classify, 11-14-25
-
-
-11 14 25 Not Signed Proposed Order Reclassifying Transcript
-63.1KB ∙ PDF file
-Download
-Return of Electronic Notification, 11-14-25 (Not obtained)
-
-Return of Electronic Notification, 11-15-25 (Not obtained)
-
-Request and Order for Electronic Media Coverage of Court Proceedings, 11-14-25
-
-
-11 17 25 Request And Order For Electronic Media Coverage
-123KB ∙ PDF file
-Download
-Protected - Transcript for Hearing 10-24-25, 11-17-25 (Not publicly available)
-
-Transcript for Hearing 10-27-28, 11-17-25 (Not posted for purchase)
-
-(Omitted from docket - no item #182)
-
-(Omitted from docket - no item #183)
-
-Return of Electronic Notification, 11-18-25 (Not obtained)
-
-Defendant Tyler James Robinson’s Response to Proposed Media Intervenors Motion for Limited Intervention and Request for Notice of Motions to Close, Seal, or Reclassify, 11-19-25
-
-
-11 19 25 Defendant's Response To Motion For Intervention And Notice
-192KB ∙ PDF file
-Download
-Return of Electronic Notification, 11-19-25 (Not obtained)
-
-State’s Response to Motion for Limited Intervention and Request for Notice of Motions to Close, Seal, or Reclassify, 11-19-25
-
-
-11 19 25 State's Response To Motion For Limited Intervention And Request For Notice
-195KB ∙ PDF file
-Download
-Return of Electronic Notification, 11-19-25 (Not obtained)
-
-Notice for Case 251403576, 11-20-25
-
-
-11 20 25 Notice Of In Person Review Hearing
-21.1KB ∙ PDF file
-Download
-Objection to State’s Motion to Amend or Clarify Court’s Pre-Trial and Trial Publicity Order, 11-20-25
-
-
-11 20 25 Defendant's Objection To Motion To Amend Court Order
-207KB ∙ PDF file
-Download
-Return of Electronic Notification, 11-20-25 (Not obtained)
-
-Return of Electronic Notification, 11-21-25 (Not obtained)
-
-Request and Order for Electronic Media Coverage of Court Proceedings, 11-21-25
-
-
-11 21 25 Request And Order For Electronic Media Coverage Still
-109KB ∙ PDF file
-Download
-Request and Order for Electronic Media Coverage of Court Proceedings, 11-21-25
-
-
-11 21 25 Request And Order For Electronic Media Coverage Video
-124KB ∙ PDF file
-Download
-Order to Transport, 11-21-25
-
-
-11 21 25 Order To Transport
-132KB ∙ PDF file
-Download
-Return of Electronic Notification, 11-22-25 (Not obtained)
-
-Motion for Limited Intervention, 11-24-25
-
-
-11 24 25 Motion For Limited Intervention
-190KB ∙ PDF file
-Download
-Return of Electronic Notification, 11-22-25 (Not obtained)
-
-Reply in Support of Motion for Limited Intervention (Proposed Media Intervenors), 11-26-25
-
-
-11 26 25 Reply In Support Of Motion For Limited Intervention
-221KB ∙ PDF file
-Download
-Return of Electronic Notification, 11-26-25 (Not obtained)
-
-(Omitted from docket - no item #201)
-
-(Omitted from docket - no item #202)
-
-Request/Notice to Submit State’s Motion to Amend or Clarify Court’s Pre-Trial and Trial Publicity Order (Dkt. #23), 11-28-25 (Not obtained)
-
-Reply Supporting State’s Motion to Amend or Clarify Court’s Pre-Trial and Trial Publicity Order (Dkt. #23), 11-28-25
-
-
-11 28 25 Reply In Support Of Motion To Clarify Or Amend Publicity Order
-211KB ∙ PDF file
-Download
-Return of Electronic Notification, 11-28-25 (Not obtained)
-
-Return of Electronic Notification, 11-29-25 (Not obtained)
-
-Request/Notice to Submit Request to Submit for Decision Motion for Limited Intervention Doc. 165, 12-3-25 (Not obtained)
-
-Return of Electronic Notification, 12-3-25 (Not obtained)
-
-Joint Status Report of the Parties Concerning the Redaction of Portions of the Transcript of the October 24, 2025 Sealed Hearing, 12-4-25
-
-
-12 4 25 Joint Status Report Re Transcript Redaction
-203KB ∙ PDF file
-Download
-Return of Electronic Notification, 12-4-25 (Not obtained)
-
-UOVC Restitution Notice Claim #1113665, 12-5-25
-
-
-12 5 25 Notice Of Restiution Claim
-49.7KB ∙ PDF file
-Download
-Return of Electronic Notification, 12-5-25 (Not obtained)
-
-Defendant Tyler James Robinson’s Response to the Motion for Limited Intervention of Deseret News, et al. (Dkt 197), 12-8-25
-
-
-12 8 25 Defendant's Objection To Motion For Limited Intervention
-224KB ∙ PDF file
-Download
-Return of Electronic Notification, 12-8-25 (Not obtained)
-
-Request and Order for Electronic Media Coverage of Court Proceedings, 12-8-25
-
-
-12 8 25 Request And Order For Electronic Media Coverage
-128KB ∙ PDF file
-Download
-Motion for Leave to File Overlength Memorandum, 12-8-25 (Not obtained)
-
-Request/Notice to Submit Motion for Leave to File Overlength Memorandum, 12-8-25 (Not obtained)
-
-Order (Proposed) Granting Motion for Leave to File Overlength Memorandum, 12-8-25 (Not obtained)
-
-Return of Electronic Notification, 12-8-25 (Not obtained)
-
-Media Intervenors Memorandum Opposing Stipulated Motion to Classify as Private the Transcript and Audio of October 24, 2025 Hearing, 12-8-25
-
-
-12 8 25 Media Intervenors Opposition To Motion To Classify Transcript As Private
-285KB ∙ PDF file
-Download
-Return of Electronic Notification, 12-8-25 (Not obtained)
-
-Request and Order for Electronic Media Coverage of Court Proceedings, 12-8-25
-
-
-12 8 25 Request And Order For Electronic Media Coverage Still
-335KB ∙ PDF file
-Download
-Return of Electronic Notification, 12-9-25 (Not obtained)
-
-Request/Notice to Submit Motion for Limited Intervention, 12-9-25 (Not obtained)
-
-Order (Proposed) Granting Motion for Limited Intervention, 12-9-25 (Not obtained)
-
-Return of Electronic Notification, 12-9-25 (Not obtained)
-
-Defendant Tyler James Robinson’s Reply to Media’s Memorandum Opposing Stipulated Motion to Classify as Private the Transcript and Audio of October 24, 2025, 12-9-25
-
-
-12 9 25 Reply To Motion To Classify Transcript As Private
-215KB ∙ PDF file
-Download
-Return of Electronic Notification, 12-9-25 (Not obtained)
-
-
-
-
-
-
-
-=============== Dietrich Bonhoeffer / Germany / Nazi   ==================
-
-The person you're describing is Dietrich Bonhoeffer, a German Lutheran pastor and theologian who actively resisted the Nazi regime. He spoke out against Hitler's policies, including the persecution of Jews and the Nazification of the church, and was involved in plots to assassinate Hitler. He knew the risks and was arrested in 1943, then executed by hanging in April 1945 at Flossenbürg concentration camp just weeks before the war ended.Charlie Kirk frequently referenced Bonhoeffer admiringly in his speeches and podcasts, often calling for "a thousand Dietrich Bonhoeffers" as an example of moral courage and Christian resistance to tyranny. Kirk saw Bonhoeffer as a model for standing firm against evil, even at the cost of one's life.Here are some relevant videos where Charlie Kirk discusses Bonhoeffer:An older clip shared by Ted Cruz after events in 2025, where Kirk praises Bonhoeffer's faith and courage: search YouTube for "Charlie Kirk Dietrich Bonhoeffer" or "We want a thousand Dietrich Bonhoeffers."
-Episodes of The Charlie Kirk Show podcast (available on YouTube and Apple Podcasts) often mentioned Bonhoeffer in the context of resisting evil or costly discipleship.
-
-If this doesn't match the exact video you recall, it could also refer to figures like Sophie or Hans Scholl (of the White Rose resistance group, executed for distributing anti-Nazi leaflets), whom Kirk occasionally referenced similarly—but Bonhoeffer fits most closely with being a famous pastor who "spoke up knowing he would be killed."
-
-
-=============== Archive.is / WayBack Machine Competitor   ==================
-
-Key news articles covering this (from November 2025):
-
-Ars Technica: "FBI orders domain registrar to reveal who runs mysterious Archive.is site" – Details the subpoena and its broad scope for identifying info.
-404 Media: "FBI Tries to Unmask Owner of Infamous Archive.is Site" – Reports on the criminal probe and the site's paywall-bypassing usage.
-The Verge: "FBI subpoenas the web registrar behind Archive.is" – Covers the demand for owner details without specifying a crime.
-Hackread: "FBI Wants to Know Who Runs Archive.ph" – Notes the undisclosed criminal investigation and the site's history since 2012.
-
-
-=============== Bullet in Neck   ==================
-
-One other piece of evidence that shows that this is impossible, is that if the bullet hit Charlie’s vertebrae and bounced around in his neck, it would have resulted in INSTANT MUSCLE failure and collapse given the severing of his nerves.
-
-He would NOT have kept holding the mic.
-
-
-
-=============== Bullet in Neck   ==================
-
-PERSON_116_REDACTED spec ops guy on Mike Ritland podcast say a high level CIA directly told him they were being blocked by the FBI. Physically turned his agents around at the airport. Said it was relayed to the oval office and nothing done about it.
-
-Podcast: Mike Drop
-Episode 270: "PERSON_116_REDACTED: Jail, Divorce, Charlie Kirk & Vet-On-Vet Drama"
-
-* The podcast discusses the investigation and assassination of Charlie Kirk, framing it as an event with unresolved questions and institutional tension.
-* PERSON_116_REDACTED, a former Special Operations veteran, states that he was personally told by a high-level CIA official about interference in the investigation.
-* According to PERSON_116_REDACTED, CIA personnel were actively blocked by the FBI from participating in or advancing aspects of the investigation.
-* He claims the obstruction was not bureaucratic or procedural, but physical and direct.
-* PERSON_116_REDACTED describes CIA agents being turned around at an airport and prevented from continuing their mission.
-* He emphasizes that the decision to block CIA involvement was made at a high level, not by field agents acting independently.
-* PERSON_116_REDACTED states that this incident was formally reported up the chain of command.
-* According to him, the matter was relayed to the Oval Office.
-* Despite this escalation, PERSON_116_REDACTED claims that no corrective action was taken after the information reached the White House.
-* The discussion raises concerns about inter-agency conflict between the FBI and CIA during a high-profile domestic investigation.
-* The hosts suggest that the lack of response points to institutional paralysis, political sensitivity, or intentional inaction.
-* The conversation frames the situation as an example of how national-level investigations can be stalled or neutralized without public accountability.
-* Both speakers stop short of naming individuals but imply systemic issues within federal law-enforcement and intelligence coordination.
-* The segment underscores skepticism about whether the full truth of the Charlie Kirk assassination will ever be publicly disclosed.
-* Broader Claims of FBI Misconduct: PERSON_116_REDACTED asserts that the FBI's official narrative of the investigation contains lies and inconsistencies, suggesting a potential cover-up or deliberate mishandling of the case.
-
-
-
-
-=============== Bullet in Neck   ==================
-
-Candace Owens
-🚨Fort Huachuca Confirmed🚨
-
-Find your favorite podcaster who joined the psychological operation to convince you Mitch was lying about having been at Fort Huachuca on 9/9 because I have just received the incident report.
-Remember: Mitch said he was at first taken outside by Captain Neff and questioned for a long time. After a long while, they made a decision to call the military police and report him as a possible bomb threat. As Mitch maintained, at that stage, there is of course a paper trail and here we have it. Bomb dogs were called at 11:17am.
-
-I always believed Mitch’s story of what happened on that morning because he supplied overwhelming evidence with metadata and time stamps. Now we have the incident report. What we cannot confirm as of yet, is his memory of who he is convinced he saw coming out of that early morning meeting.
-
-
-Mich PERSON_146_REDACTED
-For Huachuca
-
-
-=============== CIA   ==================
-RCH 702 has been identified:
-
-On July 11th— the very DAY that Charlie told Tucker Carlson to GO MAX in a speech against Israel which launched the war against Charlie’s top donors—there was a shake up in D.C: PERSON_114_REDACTED was announced as the new executive director of the CIA, replacing PERSON_113_REDACTED.
-
-Previously, Weiss was the undersecretary of defense for intelligence and security. He was replaced in that position by PERSON_115_REDACTED who the senate voted to confirm on July 22nd.
-
-It was PERSON_115_REDACTED’s office who booked the trip from Fort Andrews, to Colorado Springs, to Tucson, before the call sign turned to SAM as it entered into Fort Huachuca on the 8th.
-
-The plane in question holds 12 people. We are working to confirm who else was aboard the plane and why discussing this flight seems to have caused such deep state panic. Also, who was picked up in Colorado Springs which stipulated the change in call sign from RCH to SAM.
-
-Article below confirms PERSON_115_REDACTED visited JTF South Border leaders in Colorado Springs— which is the exact unit our source Mitch had mentioned running into at Huachuca the following day.
-
-They have been desperately working to undermine Mitch’s testimony with decades old allegations which do nothing to confirm or deny who he says he saw on September 8th and 9th. The question is, why?
-
-Before_July_11_2025:
-  - name: PERSON_113_REDACTED
-    job_title: Director
-    gov_org: Central Intelligence Agency (CIA)
-  - name: PERSON_114_REDACTED
-    job_title: Performing the Duties of the Under Secretary of Defense for Intelligence and Security
-    gov_org: Department of Defense (Office of the Under Secretary of Defense for Intelligence and Security)
-  - name: PERSON_115_REDACTED
-    job_title: None (private sector)
-    gov_org: None
-
-After_July_11_2025:
-  - name: PERSON_113_REDACTED
-    job_title: Director
-    gov_org: Central Intelligence Agency (CIA)
-  - name: PERSON_114_REDACTED
-    job_title: Executive Director
-    gov_org: Central Intelligence Agency (CIA)
-  - name: PERSON_115_REDACTED
-    job_title: Under Secretary of Defense for Intelligence and Security
-    gov_org: Department of Defense (Office of the Under Secretary of Defense for Intelligence and Security)
-
-
-
-
-
-
-=============== Pellet Gun Man Distraction  ==================
-Location: 44 S 200 W Provo, Utah
-Location: On Freedom Blvd. in Provo, Utah. 50 feet south from West Center Street.
-Location: In front of Joe Vera's Mexican Restaurant. 201 W Center St, Provo, UT 84601
-
-He had the Pellet gun or Airgun: "Ruger Yugon Magnum .177 Pellet Break Barrek Air Rifle"
-
-* biking around
-
- the art is on the side of Even Stevens Sandwiches in Orem, Utah.
-Store Name: Even Stevens Sandwiches
-
-Nearby Streets: The main street is North State Street (US-89), and it is near the intersection with 1300 North.
-The sign in your image reads "EVEN STEVENS SANDWICH PARKING ONLY". The colorful mural of the geometric flower is a prominent feature on the side of their building at this location.
-
-
-
-One of them:
-* 2030 S 900 E, Salt Lake City, UT 84105
-
-
-=============== SMBB Break / SMBB / Sorenson Molecular Biotechnology Building Distraction man  ==================
-
-This SMBB Break guy may be different than Pellet Gun Man.
-"He stated there's an APB out on him for the shooting at UVU"
-"at the Urban Pioneer Cafe at SMPB Break".
-
-* Urban Pioneer Cafe has a location at Utah Valley University (UVU)
-* café is a local restaurant/café in Salt Lake City, UT, not part of UVU’s campus dining
-* What “SMBB Break” Might Refer To The Sorenson Molecular Biotechnology Building (SMBB)
-   is a building at the University of Utah,
-* The FBI wants you to stand by there with him there. (Tie up PD, 2 h)
-* This location is 43 minutes north away.
-* Address: 35 S Wasatch Dr, Salt Lake City, UT 84112, USA
-* Video of Police on Radio staying this about Pellet Man.
-
-
-“As per SBI and FBI, we’ve been given clear direction NOT to interview.”
-
-
-Project Constitution - 🚨EXPOSED： FBI Ordered Local Police Not to INTERVIEW Witnesses In Char... [1971655771524911105].fhls-1602.mp4 (pass -k to keep)
-~/Library/CloudStorage/Dropbox/Bryan/Personal/Politics/Charlie_Kirk/Cover_Up>
-
-
-
-=============== Pro Bono Defense Attorney  ==================
-
-Talk to PERSON_144_REDACTED, reporter  PERSON_144_REDACTED . Early on she tried to
- find defense lawyer. She has a story you should hear.
-
-
-=============== Amicus curiae brief  ==================
-Amicus curiae brief (amicus letter)
-
-
-===============  PERSON_25_REDACTED & Mic  ==================
-
- PERSON_25_REDACTED showing up to the Charlie Kirk event with a Rode Wireless Go II microphone shaped object in his front pocket has been taken down
-
-===============  Duncan Aviation & Airport & Rental Cars (with Blacked out windows)  ==================
-
-FYI For anyone wanting to know who the Father in Law Is That was VP of Duncan Aviation, It Is PERSON_150_REDACTED
-
-Yes, Duncan Aviation has a full-service maintenance, repair, and overhaul (MRO) facility at Provo Municipal Airport (PVU), which is the closest airport to Utah Valley University (UVU)—about 7 miles away.
-
-Duncan Aviation provides aircraft-related services like airframe maintenance, engine work, avionics, paint, and interior refurbishments at its Provo location, but no evidence was found that they offer car rental services there (or at any of their facilities).
-
-
-
-===============  MKUltra  ==================
-
-https://x.com/CollinRugg/status/2008358460635967684?s=20
-
-
-===============  (MK Ultra) Tucker Interview w/ Mike Cernovich   ==================
-
-BOOK: Chaos.
-
-Tucker and Mike Cernovich on Nicolas Maduro’s Capture, Charlie Kirk’s Murder, and Battling Demons
-
-https://www.youtube.com/watch?v=2ZpFleCCTew
-1hr 0 seconds.
-
-https://x.com/redpillb0t/status/2023194666381058252
-
-
-===============  (MK Ultra) PERSON_117_REDACTED & Hypnosis & Take over 3 hours  ==================
-
-PERSON_117_REDACTED discussed a related topic in an interview on the Julian Dorey Podcast. He described a CIA experiment under the MK-Ultra program involving hypnosis, where a person (a walk-in source in London) was placed under hypnosis by agency psychologists and a licensed hypnotist. The subject was controlled to the extent that their arm remained involuntarily raised for a 3-hour session, during which they revealed sensitive details they couldn't recall consciously. This demonstrates a form of temporary behavioral control via hypnosis technology.
-
-While this matches the description of government (CIA) technology used to control a person for a limited time, the duration he mentioned was 3 hours, not exactly 4 hours—possibly a minor misremembering of the timeframe.The full interview video is available on YouTube:
-
-https://www.youtube.com/watch?v=t3FxH39oYsA
- (titled "Ex-CIA Officer PERSON_117_REDACTED on MK-Ultra, Epstein, & the Shadow Government").
-
- The relevant discussion occurs around the 2-hour 10-minute mark.No directly matching posts were found on X (his account or others) referencing this specific claim or linking to the video. However, PERSON_117_REDACTED has posted clips from other interviews touching on related topics like MK-Ultra (e.g., LSD experiments and alleged connections to murders), but not this exact hypnosis anecdote.
-
-===============  PERSON_67_REDACTED  ==================
-
-TPUSA’s PERSON_67_REDACTED has ZERO Military Experience. Then Why Was He Paid to Run War Games For an Elite Marine Corps College?!
-
-He WAS, at least until the Marines brutally dumped him after CNN EXPOSED his RACIST posts he was writing using a pseudonym. The Marines called it “intolerable” and cut ties instantly.
-
-Fast-forward to 2026: He’s PERSON_7_REDACTED’s ride-or-die at TPUSA, in full savage mode shielding PERSON_7_REDACTED and doing his best to torch Candace Owens’ investigation as an evil grift.
-
-Then last but not least, Neff's cousin Captain Neff was spotted by Mitch at the Fort Huachuca meeting.😱
-
-
-===============  Cover up of JFK Autopsy. And silencing whistle blowers  ==================
-
-https://x.com/TheRealCurly5/status/2007550701984199057
-
-
-
-
-===============  Black Coat  ==================
-
-NEW SUSPECT IN CHARLIE KIRK’S MURDER?? 🚨
-
-Why has the FBI been hiding this from us? Multiple eyewitnesses describe a man who looks nothing like Tyler Robinson — dressed head to toe in all black, long greasy black hair, trench coat, black mask, black cargo pants, backpack.
-
-🧵 Here’s what we know:
-
-1️⃣ Eyewitness Account: PERSON_104_REDACTED, an electrician, says his colleague operating an excavator at a UVU construction site spoke with this man immediately after the shooting. The suspect asked if he could walk through the site, claiming he was “just trying to get home safe after a shooting.”
-
-2️⃣ Description:
-- Black trench coat
-- Black cargo pants
-- Black mask & sunglasses
-- Long greasy black hair
-- Small backpack
-
-He went through the construction site that the FBI claim The shooter did as they were fleeing and was the ONLY  person to do so. The guy was already trying to leave. And so, he -- we were then shown a picture by the sheriff at the time, and the excavator said that it matched. The man admitted someone had been shot before sirens even started wailing.
-
-3️⃣ Police Tracking: Officers later showed up with a canine and tracked this man through the site to an adjacent property. No unusual cars were spotted nearby — was he on foot the whole time?
-
-4️⃣ The FBI Problem: Workers on site say the photo shown to them by sheriffs DID NOT MATCH the image the FBI released publicly. PERSON_104_REDACTED himself says it didn’t line up.
-
-So here’s the question — why is the FBI withholding evidence of this possible second suspect? Why push a narrative that doesn’t match eyewitness testimony?
-
-This story has more holes than Swiss cheese, and every new witness makes the official line look worse.
-
-
-===============  PERSON_54_REDACTED and Father PERSON_54_REDACTED   ==================
-
- FLOOD’s Father’s (PERSON_54_REDACTED) aka (PERSON_54_REDACTED) MILITARY BACKGROUND
-
-
-===============  Parents & Home   ==================
-
-Tyler Robinson's parents home;
-894 W Cimarron Dr Washington, UT 84780
-
-===============  Chief Deputy County Attorney's 18 year old Daughter   ==================
-
- Chief Deputy County Attorney (and current division chief for criminal cases for the Utah County Attorney’s Office), whose 18-year-old daughter was present at the Utah Valley University (UVU) rally where Kirk was fatally shot on September 10, 2025. According to the motion, she was approximately 85 feet from Kirk when the gunfire erupted, heard the shot, and texted her father real-time details amid the chaos. She even received brief law-enforcement protection in the aftermath. The defense contends that this traumatic experience for the prosecutor's family creates an inherent bias, potentially violating Robinson's right to due process.
-
-To put this in perspective, imagine a similar scenario in a bank robbery or drive-by shooting—if a prosecutor's child were a witness or victim, recusal would likely be standard. Yet, in this high-profile case, Utah County Attorney PERSON_30_REDACTED, representing his office, dismissed the need for a formal screening, stating that no conflict exists. The defense pushed back, arguing that Gray, as part of the prosecution team, lacks the authority to self-assess. They urged the judge to appoint a special prosecutor from outside Utah County to evaluate the conflict independently.
-
-During the hearing, Gray testified that he was with the deputy attorney at a budget meeting in Layton, Davis County—not Ogden, as he initially misstated in an official press conference.
-
-
-
-===============  TPUSA Drones were in the Air. Charlie saw them. Non-Security side of TPUSA   ==================
-
-Candace Owens Show Jan-20-2025
-
-I  CALLED OUT TPUSA's "Charlie's Birthday" video as DRONE FOOTAGE – they LIED, claiming "second-floor balcony shot." Now, in their cease & desist to @FinaceWolves (Zach), they ADMIT: "TPUSA media production drone briefly flew for B-roll BEFORE the event" – but SECURITY was DENIED! Contradiction CENTRAL!
-
-PERSON_4_REDACTED: Saw drone footage with Charlie en route.
-Brian Harpool: "No drones – university denied." Andrew
-PERSON_3_REDACTED: "Wide-angle from bridge, not drone." Lawyer: "Media yes, security no." ABSURD – could have SAVED Charlie's life!
-
-
-===============  Mic / Accurate Energetic Systems (AES) / Factory Explodes   ==================
-
-1/ Oct 10, 2025 — Accurate Energetic Systems (AES) factory in TN explodes. 16 dead. Deadliest munitions blast in more than 100yrs. Facility leveled. Blueprints, prototypes, records—gone.
-
-It happened days after the 'exploding mic' theory went viral. And then things got weird.
-
-
-2/ May 1, 2025: DoD awards ONE contract ever for "MINIATURIZED-XS DEMOLITION CHARGES, ANTI PERSONNEL-XS".
-To AES - to the exact building that was levelled on Oct 10. $440k. Delivery: Aug 25, 2025.
-This remains the only ‘XS' device on https://usaspending.gov/award/CONT_AWD_N0016425PJ538_9700_-NONE-_-NONE- since records began.
-
-3/ Aug 25 (exact delivery day): Rare private flight … Heber City, UT → Nashville, TN (closest airport to AES).
-Heber City = home of PERSON_25_REDACTED (bro of pastor PERSON_26_REDACTED).
-No return flight logged. Who was on that flight, could it have been someone picking up the exploding mic?
-
-4/ Sept 10: Charlie Kirk assassinated at UVU.
-PERSON_25_REDACTED there with Kirk pre-event. Photos show square object in his pocket—dims match Rode Wireless GO II mic (~2x2").
-After killing: pocket empty.
-
-5/ Watch the shirt explode outward: fabric balloons up, clasp flies to ear level. Violent pressure wave pushes AWAY from body.
-Blood starts AFTER blast. Not bullet behavior.
-Outward force from the mic exploding?
-
-Content warning: Violence
-The post author flagged this post as showing sensitive content.
-
-6/ Fragments everywhere: glass/plastic or magnetic clasp shot into the air, hits tent roof. Shards on clothes, ground, SUV floor (Candace Owens pics).
-Kirk's left hand cuts = shrapnel, not just blood. Matches casket photos.
-This cannot be explained by a bullet.
-
-Content warning: Violence
-The post author flagged this post as showing sensitive content.
-
-7/ One hypothesis: Mini explosive (shaped charge/EFP style) hidden in Kirk's lavalier mic.
-Detonates inward = rifle-like chest trauma, no exit wound. Emulates .30-06
-Outward blast = shirt wave + clasp shrapnel slices neck.
-Explains strange wound and many other things.
-
-8/ Glass fragments and explosive traces all over the grass. Very difficult to remove. So… just concrete over it. Which is exactly what happened. In highly mysterious circumstances.
-
-9/ What does all of this mean? That’s for you to decide.
-
-We have added a new section to the website on this topic: http://whokilledck.com/theories/exploding-mic/introduction. Have a look and tell us what you think.
-
-Credit to
-PERSON_58_REDACTED ,
-PERSON_50_REDACTED
- , @triggersmarthq
-, and PERSON_145_REDACTED
- , and others.
-
-When I made the credit list for the last post and changed them from text to handles, I accidentally deleted
-PERSON_52_REDACTED
- who in fact deserves the largest chunk of the credit for the original finds in this thread. Apologies. Go watch https://youtube.com/@realbaronpodcast/featured - he is brilliant
-
-
-
-===============   WhoKill Writeup &  Mic / Accurate Energetic Systems (AES) / Factory Explodes   ==================
-
-Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-  This theory is a developing hypothesis. We collect and present verifiable facts, publicly available
-  information, and analysis that fits the theory. We do not make definitive claims but rather provide
-  context, sources, and explain the feasibility of the theory. Readers are encouraged to examine the
-  sources independently and draw their own conclusions.
-
-  Credit to PERSON_58_REDACTED, PERSON_52_REDACTED, PERSON_50_REDACTED, Trigger Smart, and PERSON_145_REDACTED for their deep
-  investigation work into this theory.
-
-  Corrections and updates welcome, contact us on X @whokilledCK.
-
-
-  INTRODUCTION
-  The exploding microphone theory
-
-  The 'exploding mic' theory suggests that Charlie Kirk was killed by a miniaturized explosive device
-  hidden in his lavalier microphone, not a gunshot. The proposed device is a shaped charge small
-  enough to fit in a microphone while delivering rifle-equivalent lethality.
-
-  Remarkably, on May 1, 2025, the Department of Defense awarded a contract to Accurate Energetic
-  Systems (AES) for "MINIATURIZED-XS DEMOLITION CHARGES, ANTI PERSONNEL-XS". The
-  delivery deadline was August 25, 2025, sixteen days before Kirk's September 10 assassination.
-
-  On August 25, when this contract ended, a private aircraft departed Heber City, Utah and landed at
-  John Tune Airport in Nashville, Tennessee, the closest airport to the AES facility.
-
-  PERSON_25_REDACTED - brother of Christian Zionist and Calvary Chapel pastor PERSON_26_REDACTED - lives in Heber
-  City and is photographed with Charlie as he arrives at UVU. He appears to have a square object in
-  his front right pocket matching the dimensions of the microphone Kirk was wearing when he was
-  killed. Photos taken after Kirk was killed appear to show Hibbs's pocket as empty.
-
-
-  On October 3-8, researcher PERSON_58_REDACTED publicly discussed this exploding microphone theory online.
-  On October 10 the AES factory exploded catastrophically, killing 16 people and destroying any
-  evidence that would exist there.
-
-
-  T H E M A G I C T- S H I R T
-
-https://whokilledck.com/theories/exploding-mic/introduction                                                             1/22
-1/14/26, 11:06 AM                                             Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-  An outward pressure wave
-
-  Watch the shirt. Watch the movement of the fabric itself.
-
-  The shirt rapidly deforms, moving outwards and upwards. At one point the neckline of the shirt is
-  approximately level with Kirk's left ear. The magnetic clasp on the outside of the shirt lifts upwards
-  and away from the body. There's a visible pressure wave moving through the material, pushing it
-  away from the torso in a brief, violent upwards expansion before it settles back.
-
-
-  This is not what fabric does when a bullet passes through a body. Especially when the bullet has
-  entered a part of the body outside of the shirt (in this case supposedly the neck).
-
-  A bullet wound creates an entry point, a shock wave through tissue, and typically an exit wound.
-  Fabric doesn't balloon outward and upward, there's no mechanism for that. The kinetic energy is
-  transferred along the bullet's path: entry, through the body, exit. The temporary cavity created by
-  hydrostatic shock happens inside the tissue, not outside on the surface.
-
-  Finally, the bleeding from the neck appears after the shockwave, heavily suggesting that whatever
-  caused the shockwave was a precursor to whatever caused the neck injury, rather than the other
-  way round.
-
-  What we're seeing here suggests an outward explosive force.
-
-
-  For a technical analysis of the t-shirt and Charlie's movement, please see the optical flow map by
-  PERSON_58_REDACTED.
-
-  THE HYPOTHESIS
-  What if Kirk was not shot?
-
-https://whokilledck.com/theories/exploding-mic/introduction                                                             2/22
-1/14/26, 11:06 AM                                             Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-  The job of the investigator is to create and explore theories which fit the known facts.
-
-  There is an assassination method, or device that would explain everything we're seeing:
-
-
-        The outward pressure wave on the shirt
-
-        The upward movement of the magnetic clasp
-
-        A laceration to the neck instead of a ballistic wound
-
-        No exit wound
-
-
-  It's called an Explosively Formed Penetrator, and you could hide one inside a lavalier
-  microphone such as the one Kirk was wearing on the day. Hence the 'Exploding Mic' theory.
-
-  How shaped charges work
-
-
-  The video above shows a traditional shaped charge, the kind used to penetrate tank armor. These
-  use a deep cone of metal (usually copper) backed by high explosive. When the explosive
-  detonates, it collapses the cone inward at extreme velocity, forming a jet of superplastic metal that
-  can punch through steel plate like it's cardboard.
-
-  The principle was discovered by accident in the 1880s and has been refined for over a century.
-  The physics are well understood, the engineering is mature, and the effects are devastating.
-
-  Explosives work at many different scales. If you need to punch through a foot of steel, you need a
-  lot of explosives. If you need to punch through human flesh, and the explosive is directly against
-https://whokilledck.com/theories/exploding-mic/introduction                                                             3/22
-1/14/26, 11:06 AM                                             Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-  the flesh, you need only a few grams of explosives.
-
-
-  The EFP: a shaped charge, miniaturized
-
-  An Explosively Formed Penetrator (EFP) is what happens when you take the same physics as a
-  typical shaped charge and optimize for a completely different form factor.
-
-  Instead of a deep cone, you use a shallow metal dish - almost flat - like a contact lens or a shallow
-  bowl. When the explosive behind it detonates, the dish doesn't form a continuous jet. Instead, it
-  inverts and collapses into a coherent solid slug (a carrot shape, but much smaller) that expels
-  away from the device at 1,000 to 2,000 meters per second.
-
-  Key differences from traditional shaped charges:
-
-
-       TRADITIONAL SHAPED CHARGE                                     EXPLOSIVELY FORMED PENETRATOR (EFP)
-
-       Deep cone                                                     Shallow dish
-
-       Forms continuous jet of molten particles                      Forms coherent solid slug
-
-
-       Bulky package                                                 Extremely flat profile
-
-
-  Its possible to make an EFP less than a centimeter thick.
-
-  And if you place it against a human body at contact range, it can be designed to deliver the exact
-  terminal ballistics of being shot with a hunting rifle.
-
-
-  How small can you make something with the power of a rifle round?
-
-  Let's establish a benchmark: a .30-06 Springfield fired from 150 yards.
-
-  This is a classic hunting round with over a century of documented lethality. At 150 yards, it impacts
-  with approximately 2,180 joules of energy. It creates a 10mm permanent wound channel
-  penetrating 45-55 centimeters deep into tissue. The temporary cavity from hydrostatic shock
-  reaches 12-15 centimeters in diameter. This causes immediately incapacitating trauma to any vital
-  organ.
-
-https://whokilledck.com/theories/exploding-mic/introduction                                                             4/22
-1/14/26, 11:06 AM                                             Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-  You can replicate that effect with an EFP that's 9mm across and 8-9mm thick, weighing less than
-  10 grams total.
-
-
-  The design is simple:
-
-  A shallow copper dish, 9mm in diameter, pressed to a thickness barely greater than a credit card
-  (0.8-1.0mm). The dish has a gentle curve around 2.5 to 3.5mm deep, with a cone angle around
-  130-150 degrees.
-
-  Behind the copper sits 2 grams of PETN - the same explosive used in detonation cord. It's packed
-  to a precise density of 1.77 g/cm³ across a 4-5mm thickness.
-
-  A microdetonator the size of a pencil eraser completes the assembly. It requires only a few volts
-  from a small lithium battery and a simple trigger circuit.
-
-  When the device initiates:
-
-
-  The PETN detonates at 8,400 meters per second. The detonation wave collapses the copper dish,
-  inverting it into a solid slug that exits at roughly 1,000 m/s - about three times the speed of sound.
-
-  Despite being half the weight of a .30-06 bullet, the terminal effects are nearly identical. The higher
-  velocity compensates for the lower mass. The copper projectile penetrates to the same depth,
-  creates the same wound profile, and delivers the same incapacitating trauma.
-
-
-
-
-  Performance comparison: .30-06 vs. Miniaturized EFP
-
-
-                                           .30-06 @ 150
-       PARAMETER                                                        MINIATURIZED EFP                      MATCH QUALITY
-                                           YARDS
-
-
-       Impact energy                       2,180 J                      2,500 J                               ✓ Within 15%
-
-                                                                                                              Different mechanism,
-       Impact velocity                     670 m/s                      1,000 m/s
-                                                                                                              same effect
-
-
-                                                                                                              Velocity compensates for
-       Projectile mass                     9.7g                         5g
-                                                                                                              mass
-
-
-       Penetration depth                   45-55 cm                     45-50 cm                              ✓ Excellent match
-
-https://whokilledck.com/theories/exploding-mic/introduction                                                                              5/22
-1/14/26, 11:06 AM                                              Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-
-                                           .30-06 @ 150
-       PARAMETER                                                         MINIATURIZED EFP                      MATCH QUALITY
-                                           YARDS
-
-
-       Temporary cavity                    12-15 cm diameter             14-18 cm diameter                     ✓ Similar/slightly larger
-
-       Permanent wound
-       track
-                                           ~10mm                         9-12mm                                ✓ Excellent match
-
-                                           Immediately                   Immediately
-       Lethality
-                                           incapacitating                incapacitating
-                                                                                                               ✓ Functionally equivalent
-
-
-  The finished device is the size of two stacked quarters. It would fit comfortably inside a lavalier
-  microphone, a shirt button, a pager, a watch battery compartment, or a pen.
-
-  At contact range against the torso or head, the difference between this and being shot point-blank
-  with a hunting rifle is purely academic. The terminal effect is functionally identical.
-
-  The engineering is straightforward. The materials are well-understood. The manufacturing
-  techniques are decades old. You're simply scaling down proven technology to fit a new form factor.
-
-
-
-
-  What would this look like?
-
-  Place the device inside a lavalier mic, magnetically attached to the wearer's shirt. The copper dish
-  faces inward, toward the body. The wearer has no idea it's there as it adds less than 10 grams to
-  the mic's weight, barely noticeable.
-
-
-  When triggered, the EFP fires inward. The copper slug penetrates the torso, creating the ballistic
-  signature of a rifle round. The explosive detonation creates an outward pressure wave that:
-
-
-        Pushes the shirt fabric away from the body (the ballooning effect we see in the video)
-
-        Lifts and displaces the magnetic microphone clasp
-
-        Potentially turns that clasp into secondary shrapnel
-
-
-  If the clasp is accelerated upward and outward by the blast pressure, it could strike the neck at
-  high velocity, creating a laceration wound rather than a penetrating ballistic wound.
-
-
-  This would explain:
-
-https://whokilledck.com/theories/exploding-mic/introduction                                                                                6/22
-1/14/26, 11:06 AM                                             Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-        Why the shirt moves outward
-
-        Why there's a neck laceration instead of a neck gunshot wound
-
-        Why there appears to be an impact to the chest which has rifle-like characteristics
-
-        Why there's no exit wound
-
-        Why the blood pattern is inconsistent with a standard gunshot
-
-
-  The neck wound wasn't planned. It was an unintended consequence of some part of the
-  microphone or its clasp becoming shrapnel.
-
-
-
-
-  Physical evidence: shattered fragments
-
-  If a glass-faced microphone exploded, the glass housing would shatter and fragments would be
-  expelled outward in all directions. These tiny pieces of glass or plastic would become embedded in
-  clothing, fall to the ground, and potentially be transported with the victim.
-
-
-  Video analysis shows multiple black specks of glass or plastic visible in the air at the moment of
-  impact. A piece can be seen hitting the tent roof before descending.
-
-
-
-
-  Further analysis shows fragments were observed on Charlie's clothing and found on the ground in
-  the area where he was carried.
-
-  For further video analysis, see TriggerSmart's examination of the fragments.
-
-
-  Charlie's left hand also appears to be cut rather than splattered with blood from his neck - the
-  injuries persisted and are consistent with markings visible on his left hand in the casket video
-  released by PERSON_7_REDACTED.
-
-
-
-
-https://whokilledck.com/theories/exploding-mic/introduction                                                             7/22
-1/14/26, 11:06 AM                                             Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-
-
-
-https://whokilledck.com/theories/exploding-mic/introduction                                                             8/22
-1/14/26, 11:06 AM                                             Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-
-
-
-  Shattered fragments were also discovered on the floor of the SUV that transported Kirk to the
-  hospital - documented in photographs released by Candace Owens.
-
-
-
-
-https://whokilledck.com/theories/exploding-mic/introduction                                                             9/22
-1/14/26, 11:06 AM                                             Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-
-
-
-https://whokilledck.com/theories/exploding-mic/introduction                                                             10/22
-1/14/26, 11:06 AM                                             Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-
-
-
-  The presence of these fragments in the vehicle suggests that debris from the microphone
-  explosion remained embedded in Kirk's clothing and fell out during transport.
-
-  Given the difficulty of recovering all such tiny fragments from a crime scene - especially from grass,
-  clothing fibers, and other porous surfaces - any attempt to conceal evidence would face significant
-  challenges. This would align and help to explain the unusually quick paving over of the crime
-  scene.
-
-
-
-
-https://whokilledck.com/theories/exploding-mic/introduction                                                             11/22
-1/14/26, 11:06 AM                                             Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-
-
-
-  A RECEIPT
-  If this happened, there might be a contract
-
-
-
-  Miniaturized explosively formed penetrators aren't something you buy off the shelf. If buying one, it
-  would have to be a custom-engineered, precision-manufactured device and it would require
-  specialized expertise in explosive chemistry, shaped charge physics, and microelectronics
-  integration.
-
-  If a U.S. government agency wanted to procure a device like this, they would need to contract with
-  a qualified explosives manufacturer. That contract would be a matter of public record, searchable in
-  the federal procurement database.
-
-
-  Depending on how specific the contract was, its description would potentially be highly revealing. If
-  something like this was made in the USA as part of a government contract, it would very possibly
-  be the smallest (anti-personnel) explosive device ever produced by a government contractor. So
-  we would expect certain things to be present in any contract description:
-
-
-        Miniaturization: These aren't standard small munitions - they're extremely compact.
-
-https://whokilledck.com/theories/exploding-mic/introduction                                                             12/22
-1/14/26, 11:06 AM                                             Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-        Anti-personnel: Unlike most demolition charges (which destroy equipment or structures), this
-        one is designed to incapacitate, injure, or kill people.
-
-        Explosive / 'demolition': explosives are often referred to as demolition equipment
-
-
-  We can search USAspending.gov for those terms.
-
-
-
-  There is only one
-
-  Since the USAspending.gov database began comprehensive tracking in 2008, the U.S.
-  government has awarded exactly one contract for something described as "MINIATURIZED-
-  XS" charges. That same contract is the only one ever awarded for "ANTI PERSONNEL-
-  XS" demolition charges.
-
-  Do your own searches. Let us know if you find anything comparable that has ever been contracted
-  on this platform.
-
-  Contract Details:
-
-
-  Description:
-
-        "REQUIREMENT IS FOR MINIATURIZED-XS DEMOLITION CHARGES AND DEMOLITION
-                    CHARGES, ANTI PERSONNEL-XS TO SUPPORT SPM."
-
-
-        Award ID: N0016425PJ538
-
-        Recipient: Accurate Energetic Systems, LLC (AES), McEwen, Tennessee
-
-        Amount: $440,494
-
-        Period of Performance: May 1, 2025 – August 25, 2025
-
-        Awarding Agency: Department of Defense - Department of the Navy - NSWC Crane
-
-        Delivery Date: August 25, 2025
-
-
-  Classification:
-
-
-        NAICS Code: 325920 (Explosives Manufacturing)
-
-        PSC Code: 1375 (Demolition Materials)
-
-
-
-https://whokilledck.com/theories/exploding-mic/introduction                                                             13/22
-1/14/26, 11:06 AM                                             Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-  The contract can be found
-  at https://www.usaspending.gov/award/CONT_AWD_N0016425PJ538_9700_-NONE-_-NONE-
-
-
-
-
-  T H E M A N U FA C T U R E R
-  Who is Accurate Energetic Systems, LLC?
-
-
-
-  AES is a small explosives manufacturer located on a 1,300-acre site in McEwen, Tennessee - a
-  rural town of about 1,700 people in Humphreys County. The company has been in business since
-  1980 (43 years as of the contract award) and holds ISO 9001:2015 certification for quality
-  management.
-
-  They are ATF, DoD, and DHS compliant for explosive storage and handling. They hold the
-  necessary federal licenses to work with Class 1.1 explosives and maintain security clearances for
-  classified defense work.
-
-  Hypothetically speaking, would they be well placed to make what we've been describing?
-
-
-
-  What AES says they do
-
-
-
-
-https://whokilledck.com/theories/exploding-mic/introduction                                                             14/22
-1/14/26, 11:06 AM                                             Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-
-
-
-  The company's website (archived
-  at https://web.archive.org/web/20251225194033/https://www.aesys.biz/) provides detailed
-  capability statements.
-
-  AES possesses the complete technical stack required to design, manufacture, test, and deliver
-  miniaturized EFP devices:
-
-
-        Shaped charge expertise (core technology)
-
-        Anti-personnel device experience (claymore mines)
-
-        Precision explosive pressing (PETN consistency)
-
-
-  Not only are AES capable of producing miniaturized EFPs - their advertised expertise aligns almost
-  perfectly with the technical requirements.
-
-
-
-
-  THE FLIGHT FROM HEBER CITY
-  August 25th - a remarkable coincidence
-
-
-https://whokilledck.com/theories/exploding-mic/introduction                                                             15/22
-1/14/26, 11:06 AM                                             Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-  On August 25, 2025 — the same day Accurate Energetic Systems delivered their "MINIATURIZED-
-  XS DEMOLITION CHARGES, ANTI PERSONNEL-XS" — a private aircraft departed Heber City,
-  Utah and landed at John Tune Airport in Nashville, Tennessee.
-
-  John Tune Airport is the closest airport to AES, less than 60km from the facility in McEwen,
-  Tennessee.
-
-
-  Heber City is a small town of approximately 17,000 people. Private flights from Heber City to
-  Nashville are extremely rare.
-
-  PERSON_25_REDACTED, brother of influential Christian Zionist and Calvary Chapel pastor PERSON_26_REDACTED, lives in
-  Heber City, Utah.
-
-
-  There is no recorded return flight to Heber City, however if PERSON_25_REDACTED was involved in the
-  collection of the devices from AES, it would make sense to not fly with explosives, given the
-  security risks.
-
-
-
-  The Microphone in the Pocket
-
-  Sixteen days later, on September 10, PERSON_25_REDACTED arrived at the Utah Valley University event.
-  Photographs taken before Kirk took the stage show Hibbs wearing a checkered shirt with a square
-  object in his front right pocket.
-
-
-
-
-https://whokilledck.com/theories/exploding-mic/introduction                                                             16/22
-1/14/26, 11:06 AM                                             Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-
-
-
-https://whokilledck.com/theories/exploding-mic/introduction                                                             17/22
-1/14/26, 11:06 AM                                             Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-
-
-
-  The object measures approximately just less than 2x2 inches, has rounded corners, and protrudes
-  less than an inch from his chest. These dimensions match the Rode Wireless GO II receiver at 1.8
-  inches tall, almost 1.8 inches wide and 0.7 inches deep — the same microphone model Kirk was
-  wearing.
-
-
-
-
-https://whokilledck.com/theories/exploding-mic/introduction                                                             18/22
-1/14/26, 11:06 AM                                             Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-
-
-
-  Before the event begins, Hibbs was photographed standing next to the sound crew and the person
-  who miked up Kirk. After Kirk was killed, photographs show Hibbs's pocket empty.
-
-  For detailed analysis of these findings, see PERSON_52_REDACTED's investigation.
-
-
-https://whokilledck.com/theories/exploding-mic/introduction                                                             19/22
-1/14/26, 11:06 AM                                             Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-  Questions that require answers
-
-        Who was on the August 25th flight from Heber City to John Tune, Nashville?
-
-        What was the square object in PERSON_25_REDACTED's pocket?
-
-        Where did it go?
-
-        Why was Hibbs standing with the sound crew before the event?
-
-
-  These facts are verifiable through flight records, photographs, and federal contracts. The timing —
-  delivery deadline, flight date, and Kirk's death sixteen days later — invites scrutiny.
-
-
-
-
-  T H E A E S FA C I L I T Y E X P L O D E S
-  The deadliest industrial accident in 34 years
-
-
-
-  On October 9, 2025: The AES factory in McEwen, Tennessee is operational. The 1,300-acre
-  facility is manufacturing explosives under normal conditions.
-
-
-
-
-  The facility has been in continuous operation since 1980 — 43 years without a major incident. It's
-  ATF and DoD compliant, with strict safety protocols, explosive storage regulations, and trained
-  personnel.
-
-  The "MINIATURIZED-XS" devices were manufactured here, so there would likely be engineers
-  who designed them, technicians who assembled them, quality control staff who tested them,
-  blueprints in the system, production records, test data, and photographs of the finished devices.
-https://whokilledck.com/theories/exploding-mic/introduction                                                             20/22
-1/14/26, 11:06 AM                                             Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-  People who would remember exactly what was made, what it looked like, how it worked, and what
-  it was capable of.
-
-  On October 10, 2025: The AES factory explodes and is totally demolished.
-
-  The explosion is catastrophic. Sixteen people die, along with any evidence held within.
-
-
-
-
-  The last time a more deadly above-ground industrial accident occurred in the United States
-  was 1991.
-
-
-
-
-  THE QUESTIONS
-  What we don't know
-
-
-
-  These facts are verifiable through public records and archived sources:
-
-
-    1. A federal contract exists for "MINIATURIZED-XS DEMOLITION CHARGES, ANTI
-       PERSONNEL-XS" awarded to Accurate Energetic Systems, LLC for $440,494, with delivery by
-        August 25, 2025.
-
-
-    2. This is the only such contract in the USAspending.gov database since 2008—the only
-       "MINIATURIZED-XS" AND the only "ANTI PERSONNEL-XS" procurement on record.
-
-
-
-
-https://whokilledck.com/theories/exploding-mic/introduction                                                             21/22
-1/14/26, 11:06 AM                                             Who Killed Charlie Kirk? | Rundown, Timeline & Analysis
-
-    3. AES had the exact capabilities required to manufacture miniaturized explosively formed
-       penetrators, including shaped charge expertise, anti-personnel device experience, precision
-        explosive pressing, and testing infrastructure.
-
-
-    4. The technical specifications are achievable. It is certainly feasible to create a device which
-       can fit inside a mic, and which can deliver terminal ballistics equivalent to a .30-06 rifle round at
-       150 yards. The engineering is relatively straightforward and the materials are well-understood.
-
-
-    5. The AES facility exploded on October 10, 2025, killing sixteen people—the deadliest above-
-       ground industrial accident in the United States in 34 years.
-
-
-    6. The timing is remarkable. The explosion occurred two days after detailed public discussion of
-       miniaturized explosive devices concealed in communication equipment, and weeks after the
-       contract became subject to online scrutiny.
-
-  However, there remain some unanswered questions for this theory.
-
-
-        Microphone orientation: Video shows the mic sitting at an odd angle, not flat against Kirk's
-        body. Any explosion would be highly directional. How could anyone guarantee the mic would be
-        positioned correctly at the moment of detonation?
-
-
-        Missing shirt damage: If everything went as planned and there was no neck wound, there
-        would be no hole in Kirk's shirt as the explosion was directional inward. Multiple cameras
-        captured this. How would they explain a fatal shot to the chest with a .30-06 with an in-tact
-        shirt?
-
-
-        The Trigger: What triggered the mic to explode? The sound of a shot?
-
-
-        Gun shot sound: What caused the sound of gun shot and where did it come from?
-
-
-        Paper trail: Would someone planning this really use standard government procurement
-        channels, leaving such an obvious contract record in public databases?
-
-
-        'For SPM': The contract states 'for SPM', what does this acryonym stand for?
-
-
-  If you think you have an answer or additional sources to contribute, please tag
-  us @whokilledCK on X.
-
-
-
-
-https://whokilledck.com/theories/exploding-mic/introduction                                                             22/22
-
-
-
-
-===============   "Mosaic night staff schedule" at TPUSA events    ==================
-https://x.com/YaakovRenewed/status/2016688129906778216
-
-PERSON_52_REDACTED released a shocking clip from Charlie’s TPUSA campus tour planners:
-
-Why was there no Mosaic night staff scheduled for the very first tour stop at UVU, but the stops after UVU had night events scheduled? Make it make sense!
-
-MICROPHONE UPDATE: Charlie was wearing a Rode Wireless PRO, which comes standard with a lapel magnet, 2 storage cases + computer dock, 32-bit sound, and internal device recording & storage.
-▪️The moment that mic was removed from its case, it was recording.
-▪️The mic could only be turned off remotely—neither Charlie nor the security team could have turned it off.
-▪️All audio was captured & recorded on the mic itself. The 32-bit sound captures quiet whispers, loud shouts & everything in between.
-▪️PERSON_12_REDACTED filmed a close-up video of Charlie getting mic'd up. Mikey, where's that video?
-
-Hey Philip PERSON_147_REDACTED and PERSON_5_REDACTED: where's Charlie's audio from that day? The public has a right to hear that audio. More importantly, it's holding extremely valuable evidence. (unless it was exploded, in which case those 32-bit recordings would be completely gone...). Is there audio from immediately after Charlie's death?
-
-Who else thinks TPUSA should have to release that audio?
-
-
-
-
-
-"Mosaic night staff schedule" at TPUSA events refers to the scheduling of night shift or evening/overnight staff from Mosaic Pro Events (often stylized as MOSAIC), the production company that handles technical and live event production for Turning Point USA (TPUSA).Mosaic Pro Events is a professional live event production company specializing in designing and executing large-scale events, including lighting, sound, video, LED screens, staging, and more. They have been the primary production partner for TPUSA for several years, producing hundreds of their events—including major ones like AmericaFest, Student Action Summit, and campus tours. This partnership continued even after the passing of TPUSA founder Charlie Kirk, with Mosaic handling events like his memorial service at State Farm Stadium (which involved massive setups with hundreds of crew, trucks, lights, etc.).In the context of TPUSA events (especially multi-day or touring ones like campus tours or conferences), "Mosaic night staff" likely means the crew assigned to overnight or late-night shifts. These shifts handle tasks such as:Load-in/load-out of equipment
-Setup/teardown of stages, lights, audio, video walls
-Monitoring and maintenance during non-show hours
-Rehearsals or overnight builds for the next day's programming
-
-The "schedule" would be the roster or shift plan for these night workers.This came up recently in online discussions (e.g., clips shared on X) questioning inconsistencies in scheduling for a TPUSA campus tour—specifically why the first stop (at UVU) had no Mosaic night staff scheduled, while later stops did. This has sparked speculation or questions about logistics, security, or event planning differences at certain locations.Who are they?
-They are technical crew members, technicians, operators, riggers, and support staff employed by or contracted through Mosaic Pro Events—not TPUSA employees directly, but the production team TPUSA hires for their high-production-value events.What do they do?
-They manage the behind-the-scenes technical magic that makes TPUSA's large rallies, summits, and tours look professional—running comms (communication systems), controlling lights/sound/video, ensuring everything runs smoothly during shows, and handling the heavy lifting for setup in arenas or venues. For big events, this can involve hundreds of fixtures, miles of truss/cabling, and coordinated teams working long hours, including nights.
+## DISCOVERY REQUESTS
+
+### From Government/FBI Documents
+* NSWC Crane, officially known as the Naval Surface Warfare Center, Crane Division, is a major U.S. Navy research, development, test, and evaluation facility located in Crane, Indiana
+* NSWC Crane is the U.S. Navy's awarding agency that issued the sole DoD contract (N0016425PJ538) for "MINIATURIZED-XS DEMOLITION CHARGES, ANTI PERSONNEL-XS" to
+  Accurate Energetic Systems (AES), delivered on August 25, 2025—just weeks before the assassination—and this is the only such miniaturized anti-personnel
+  explosive contract in federal records since 2008.  including the full contract file, technical specifications, drawings, communications with AES, and details
+  on the "SPM" program—is essential to determine if the device matches the physical evidence (e.g., pressure wave, fragments, wound characteristics), who authorized
+  it, and whether it supports an alternative cause of death or third-party involvement.
+* Complete contract file for N0016425PJ538 including technical specifications and drawings
+* Who at NSWC Crane authorized this contract
+* What agency or program requested these devices
+* What "SPM" stands for in the contract description
+* Chain of custody for devices delivered on August 25, 2025
+* Any classified annexes to the contract
+* Communications between NSWC Crane and AES regarding this contract
+* All other contracts with AES in 2024-2025
+* FBI investigation records of October 10 AES explosion
+* ATF records on AES licensing, compliance, and incident investigation
+
+### From Flight Records
+* Complete passenger manifest: August 25, 2025 flight from Heber City to John Tune Airport
+* Aircraft registration and owner information
+* Flight purpose documentation
+* Cargo manifests or declarations
+* All private flights from Heber City to Nashville area in 2025
+
+### From the Microphone
+* Make, model, and serial number of microphone Kirk was wearing
+* Who provided the microphone for the event
+* Chain of custody of the microphone before the event
+* Who physically attached the microphone to Kirk
+* Current location of the microphone or its remains
+* Audio/video equipment inventory for UVU event
+* Sound crew personnel list and statements
+
+### From Butch Hibbs
+* Whereabouts on August 25, 2025
+* Connection to August 25 flight
+* Identity of object in his pocket at UVU event
+* Where that object went after the killing
+* His access to Kirk before the event
+* His relationship with sound crew
+* Phone and communication records August-September 2025
+
+### From the Autopsy
+* Complete autopsy report with wound measurements and trajectories
+* Presence of copper fragments in the body
+* Presence of explosive residue (PETN or other) on body or clothing
+* Nature of chest wound: entry characteristics, depth, wound channel diameter
+* Nature of neck wound: laceration vs. ballistic wound characteristics
+* All fragments recovered from the body - composition analysis
+* Toxicology results
+* Photographs of all wounds
+
+### From the Crime Scene
+* All fragments collected and catalogued from scene
+* Composition analysis of fragments (glass, plastic, metal, copper)
+* Explosive residue testing on scene materials
+* Who authorized paving over the crime scene
+* Timeline of concrete pouring decision
+* Evidence collection records prior to paving
+* Photos/video of scene before alteration
+
+### From Hospital Transport (SUV)
+* Fragments found in SUV - preservation and composition analysis
+* Chain of custody for SUV after transport
+* All items removed from Kirk during transport
+* Who was in the vehicle
+
+### From Kirk's Clothing
+* Current preservation status of Kirk's clothing
+* Explosive residue testing results
+* Fragment analysis from clothing
+* Entry point analysis on shirt (if any)
+
+### From Video/Photo Evidence
+* All video footage showing moment of Kirk's death
+* Frame-by-frame analysis of shirt movement and pressure wave direction
+* All photos of Hibbs before and after event (pocket contents)
+* Photos of sound crew setup
+* Security camera footage from venue
+* Spectator video/photos not yet released
+* Optical flow analysis of shirt fabric movement
+
+### From AES Records (pre-explosion)
+* Off-site backups of AES production records
+* Personnel who worked on MINIATURIZED-XS contract
+* Surviving employees with knowledge of the contract
+* Insurance and regulatory filings
+* Bank records showing contract payments received
+* Delivery documentation for August 25, 2025 shipment
+* Communications with DoD regarding contract
+* Technical drawings and specifications for delivered devices
+
+### Expert Analysis Needed
+* Explosives expert: Does shirt behavior match EFP blast signature?
+* Ballistics expert: Wound characteristics - rifle vs. contact EFP
+* Audio expert: Explosion sound vs. gunshot sound analysis
+* Materials expert: Fragment composition to determine origin
+* Video forensics: Pressure wave direction and force analysis
+
+
+
+================= END OF MIC part of Request for Discovery  ==========================
+
+The investigation shows that an intelligence service is very highly likely involved with the Charlie Kirk event UVU
+  9/10/2025. Even if foreign intelligence was heavily involved, there is a high likelihood that US intelligence community
+  or US military was involved. Below are solid leads that will lead to discovery that will bring hard
+  evidence of that.
+
+
+#1: Any information on the planes below the FBI has. Location. Anyone who flew on them within 2 weeks of the assassination before or on that day.
+  * Include every plane below.
+  * Any information the FBI has related to investigating the assassination or anything peripheral, or any connection to anyone
+    in the CK investigation.
+
+  | Tail Number | Type/Description                                                             |
+  |-------------|------------------------------------------------------------------------------|
+  | SU-BTT      | Egyptian-registered Falcon 7X / Gulfstream class (Yellow plane)              |
+  | SU-BND      | Egyptian-registered Gulfstream G550 (Blue plane)                             |
+  | SU-BTU      | Egyptian-registered                                                          |
+  | SU-BTV      | Egyptian-registered                                                          |
+  | SU-BGM      | Egyptian-registered Gulfstream IV                                            |
+  | N1098L      | Bombardier Global 6500 - HADES spy plane (operated by LASAI Aviation II LLC) |
+  | N888KG      | Private jet (owned by N888KG LLC, Lehi, Utah)                                |
+  | N59906      | Piper PA-31 Navajo Chieftain (operated by MARC Inc. - surveillance)          |
+  | N560TW      | Cessna Citation XLS twin-jet (owned by T.W. Lewis Aviation LLC)              |
+  | N102DZ      | Charlie Kirk's plane (15-16 passengers)                                      |
+  | N40JD       | Beechcraft Premier I (6 seats)                                              |
+  | N872RA      | Hawker Beechcraft (7 seats)                                                  |
+  | 99-0404     | U.S. Air Force C-37A Gulfstream V VIP jet (SAM - Special Air Mission)        |
+  | T7ELL       | Egyptian military plane                                                      |
+  | EJM36       | Egyptian military plane                                                      |
+  | N55906      | Mentioned as "other interesting flight"                                      |
+
+#2: Does the FBI, DoJ or any of the US intelligence community have any knowledge of threats, plans
+  or actions by any foreign intelligence service or country towards assassination of Charlie Kirk?
+  Or considering if they may want to do that. Or making threats or possible plans towards that?
+  This includes if a foreign country hired "contractors" to do the work.
+#3: Did TPUSA have any foreigners or anyone that has a citizenship besides a USA citizenship
+#4: For the list of TPUSA donors, did any of them have any communication, interaction or meetings with
+  any foreign intelligence service within the 3 months before the assassination?
+    Does the FBI, DoJ or US intelligence any documents, investigation information,
+    cell data or any other data to see any of these connections or communications?
+
+#5: Clothing of Tyler Robinson. What other possible perpetrators does the investigation show this may be?
+#6: Have any ballistics the FBI or any law enforcement has entered into discovery.
+#7: Have any forensic acoustic  the FBI or any law enforcement has entered into discovery.
+#8: Have any military drones flying? Any info the FBI or any law enforcement has entered into discovery.
+#9: Have any civilian drones flying? Any info the FBI or any law enforcement has entered into discovery.
+#10: Discovery on the Brian Harpole security firm on the lack of planning in the Charlie Kirk
+  event Sept 11th, 2025 (Woodland Park, CO). Get discovery on the planning window before an event for
+  the last 30 events where Charlie had a university events (either indoor or outdoor) with 300 or more people.
+  It included UVU 9/10/2025 and the 30 events before that meeting this criteria.
+  What are the times when the planning window started at each of the 30 events.
+  Include the earlier date when any communication occurred with local police or the campus. But their
+  internal planning period is often before that. But also include the earliest dates of any
+  communication with Brian Harpole's company.
+#11: Electronic means appears to may have been used to cut internet access (cell based or otherwise) in
+  the seconds before, during and after it occurred. Does the FBI / DoJ or US Intel have any files or information on this.
+#12: Any information Drones were having video feeds go back to anyone?  Who? Which Drones?
+  Does the FBI / DoJ or US Intel have any files or information on this.
+#13: Any communication / meetings / discussions in the FBI or US Intel where anything was communicated that
+  they didn't want it to get to the defense team or in trial. This can include information, parts of the
+  case, any intelligence service factors related to this case.
+#14: Any communication (written or non-written) that Charlie made about him feeling threatened, his life
+  may end early, thinking he would likely be killed, or anything related. Who? When? Exact communication?
+  Communication preceding that. Any interviews with people that received or heard about it that exist
+  in FBI files.
+  Does the FBI / DoJ or US Intel have any files or information on this.
+  These may be possible examples:
+  * Frank Turek (Kirk mentor) says Charlie Kirk TEXTED him in the weeks leading up to his assassination "I KNOW THEY WANT ME D3AD" 👀
+  * Message to Dan Flood: Erika said this said "The Left will kill me" (???)
+  * Frank Turek: Charlie texted me and said "I know they want me dead. I'm under the gun right now please pray for me"
+  * Message to Andrew: "They will kill me".
+  * Harrison Smith (Infowars) – went public: Charlie told him days before he feared Israel would be taken out.
+  * Andrew Kolvet (TPUSA insider) – confirmed Charlie's texts about threats.
+  * Frank Turek – went on record: The day before the event Charlie told him directly "they're going to take me out."
+  * Charlie texted "During this combative meeting, Kirk reportedly texted others saying, "THEY ARE GOING TO KILL ME
+  * Quote: "They will kill me if I break away from being pro-Israel"
+
+
+#15: Is there anything linking Charlie Kirk 9/10 with U.S. Army ISR drone. They were flying, or launched by
+  plane N1098L, or tech traded to anyone or country for favor linked (Egypt, Israel, Mahmoud Abdel Nasser), approval
+  by plane SU-BTT (Egyptian military Falcon 7X jet) that landed at Minot airbase, retrofitted on any plane
+  staying in a Utah Airport over a month to "possibly" have tech installed.
+#16: Did the FBI or anyone instruct any employee or anyone at the local airport to lie?
+#17: Any information (documents or anything else) about the analysis or investigation into the bullet
+  traveling through Charlie Kirk.  Why didn't it exit? What path did it take? What shows it likely
+  wasn't a .30-06 caliber, or that it was another caliber. Did part of the mic hit Charlie's neck
+  and cause the opening on the front right? What path did the bullet take?
+#18: Any money transfer to Tyler Robinson? Includes (but not limited to) any possible $50,000 in
+  wire transfers flowed through DSA-linked accounts in the months leading to the killing.
+  Any knowledge of what it was for? Logistics, travel, and even weapon acquisition.
+#19: Any money transfer to Lance Twiggs? Includes (but not limited to)
+  any possible $20,000 transfer? Or multiple transfers?
+
+
+#20: Any information about the possible "distraction people". See list below. List: a) Russell Kennington = "Fake Doctor w/Gun" (middle name may be "Kim"), b) Pellet gun guy detailed by Provo PD in front of Joe Vera's Mexican Restaurant. 201 W Center St, Provo, UT 84601 with a "Ruger Yukon Magnum .177 Pellet Break Barrel Air Rifle", c) George Zinn, d) Zachariah Ahmed Qureshi, e) Curly hair "David" (Owner of X account @RtothepowerofX) (his name may be "Matt Taber"), or f) any person the police were called on at Urban Pioneer Cafe or Sorenson Molecular Biotechnology Building (35 S Wasatch Dr, Salt Lake City, UT 84112, USA) on that day, g) Skyler Baird (May not be his real name): (he may have also used the name "Robbie Parker") who was interviewed on TV news , or h) any others.   Any communication
+    they had (or claimed) with any individual or gov coordinating / communicating / discussion of or payments / or any other interaction. Any claims they made. Any communication / coordination or meetings they had
+    with any US or non-US intelligence or governments or anyone that may have communicated to
+    them to be there, do anything or possibly talk about being paid. Anything about any of these
+    people related to the case.
+
+#21: Distraction people and them not being charged. People find it strange they weren't charged.
+  Any communication or actions or any other information about decisions to not charge them?  By whom?
+  Any communications inside of FBI / DoJ / US Intel /local law enforcement or between them?
+  Anyone instruct any other to not charge them?
+
+#22: Distraction people and FOIAs, GAMMA and equivalent requests. These were strangely blocked.
+  Any communication or actions or any other information about decisions to reject or block?  By whom?
+  Any communications inside of FBI / DoJ / US Intel /local law enforcement or between them?
+  Anyone instruct any other to not charge them?
+
+#23: What were the reasons Joe Kent from National Counterterrorism Center and any others in NCC desiring
+  to have US intel investigate the Charlie Kirk assassination. Have entered into discovery
+  the factors that they found.
+
+#24: Bring into discovery the documents on anything Joe Kent (NCC) reviewed of files or anything
+  that came from the FBI related to the Charlie Kirk investigation.
+
+#25: The rooftop (possible shooter) vs Tyler are reported to have different clothes. Have all
+  information from the FBI or DoJ about anything about clothing on any possible suspects.
+  Including times when seen, when proposed clothing changes happened, Tyler or possible suspects
+  or anyone alleged to be on the roof (before or after) had clothing seen in video.
+
+#26: Any information NSA, FBI, DoJ or US Intel has on (around) 12 Israeli registered
+    cellphones at the site of the shooting last Wednesday.
+    Who were these people. Any connections to US or non-US intelligence. Include photos
+    of them. What did they do at UVU.  How long were they in Utah? Did they visit Any
+    locations related to this investigation (airport, Tyler apartment, location across town
+    where Tyler was within 300 feet of them, they were in any of the rental cars listed above,
+    did they fly on any of the planes listed to this investigation or listed in this document,
+    or anything else related to this investigation.) There is a report that NSA tracked them.
+
+#27: There was a person of interest. Police were probably called on this man. There were
+    reasons he could be a person of interest related to this case. Law enforcement were called on
+    him on Sept 10th. He was at or near Sorenson Molecular Biotechnology Building,
+    Urban Pioneer Cafe. Address: 35 S Wasatch Dr, Salt Lake City, UT 84112, USA.
+    "The FBI wants you to stand by there with him there." may have been said on police Radio
+    related to the call on this. "As per SBI and FBI, we've been given clear direction NOT to interview."
+    Provide all information about him. Photos, files, investigation information.
+    Anything from Law enforcement (Federal and non-federal), US Intelligence, FBI & DoJ.
+
+#28: Who and what was covered in any meeting that happened in "One Rodney Square building" at
+  920 North King St, Wilmington DE on these days: Sept 1st thru Sept 11th 2025.
+  Include anything where it was a meeting included discussing Charlie Kirk or UVU
+  or someone being killed (in the future).
+  It could have been in Suite 404 or any other place in the building.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+#29: Who and what was covered in any meeting that happened in Fort Huachuca AZ
+  on these days: Sept 1st thru Sept 11th 2025. Especially Sept 9th.
+  Include anything where it was a meeting included discussing Charlie Kirk or UVU
+  or someone being killed (in the future).
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+
+#30: Who were any of these people in any meeting that happened in Fort Huachuca AZ
+  on these days: Sept 1st thru Sept 11th 2025. Especially Sept 9th.
+  * Brian Harpole. Did he attend on any of these days?
+  * Erika Kirk. Did she attend on any of these days?
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+
+#31: Who were the people on the plane flight on  U.S. Air Force VIP transport jet.
+  On any of these days Sept 8th or 9th.
+  callsign RCH 702 (a military transport designation) or SAM (Special Air Mission) callsign.
+  The flight originated from or passed through either of these: Joint Base Andrews /
+  Tucson / Colorado Springs.
+  Any of the people on it entered Fort Huachuca AZ.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+
+#32: Any information, files or investigation information where it was investigated if
+  a shot was fired from any of these locations: a) Drone in the air, b) anywhere behind Charlie
+  Kirk (could have been from the side behind him), c) from another location.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+#33: Any information, files or investigation information if anyone that had non-US Citizenship or
+  was a foreigner that was in the security zone at UVU. Charlie Kirk's contract security team
+  had control and allow lists for their security zones where the general public wasn't allowed
+  to go. Where anyone with a citizenship that was something besides only USA citizenship
+  in that security zone area between 11am to 12:23pm MT time 9/10/2025.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+#34: Any information, files or investigation information on Laine Schoneberger having any
+  communication / coordination or any other interaction with any US or foreign
+  intelligence service, at any point in the time window: 4/1/2025 to 11/1/2026.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+#35: Any information, files or investigation information on Google searches
+  anytime in the time window Oct 2024 thru 9/11/2025 for any terms unique
+  to this investigation. People, planes, addresses, companies or anything else.
+  Where any government (Law enforcement or non-law enforcement) have any information
+  on that related to this case.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+#36: Any information, files or investigation information on any foreigners
+  or US or foreign intelligence service people visiting the apartment or townhome of
+  Lance Twiggs at any time during the window 3/1/2025 to 9/11/2025.
+  Where any government (Law enforcement or non-law enforcement) have any information
+  on that related that.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+#37: Any information, files or investigation information on any electronic equipment
+  being installed or operated by foreigners in, directed at or near
+  the apartment or townhome of Lance Twiggs at any time during the window 3/1/2025 to 9/10/2025.
+  Where any government (Law enforcement or non-law enforcement) have any information
+  on that related that.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+#38: Any information, files or investigation information on any psychological operations
+  or any psychological manipulation carried out on either Tyler Robinson or
+  Lance Twiggs.
+  Where any government (Law enforcement or non-law enforcement) have any information
+  on that related that.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+
+#39: Any information, files or investigation information on any interactions (meetings,
+  communication, coordination, or anything else) with Lance Twiggs with any
+  FBI or US or foreign intelligence. During the time window: 4/1/2025 to 9/10/2025.
+  Where any government (Law enforcement or non-law enforcement) have any information
+  on that related that.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+#40: Any information, files or investigation information on any interactions (meetings,
+  communication, coordination, or anything else) with Lance Twiggs or Tyler Robinson
+  with any FBI or US or foreign intelligence on any of these communication methods:
+  a) Discord, b) Steam, c) in-game voice chat, d) Text message.
+  During the time window: 8/1/2024 to 9/10/2025.
+  Where any government (Law enforcement or non-law enforcement) have any information
+  on that related that.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+
+#41: Any information, files or investigation information on any interactions (meetings,
+  communication, coordination, or anything else) with either a) Hunter Kozak or
+  b) Steve Kozak, with FBI or US or foreign intelligence.
+  During the time window: 8/1/2024 to 9/10/2025.
+  Where any government (Law enforcement or non-law enforcement) have any information
+  on that related that.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+#42: Any information, files or investigation information on the people who either Rented
+  or traveled in any of these cars, during the time window: 8/1/2025 to 9/10/2025.
+  Silver 2025 Toyota RAV4, Utah license plate T092ZS
+  White 2025 Toyota Camry (or possibly black Tahoe in some accounts), Arizona license plate CWN9872
+  2023 Toyota RAV4, Utah license plate T912KM
+  2025 Toyota 4Runner, Utah license plate Z923DA
+  Grey/Silver 2025 Toyota 4Runner, plate Z349AA
+  Include any information on these cars possibly being linked to Duncan Aviation.
+  Include anything about cars being rented to anything similar to "A. Khalil Consulting"
+  or Maj. Ahmed Khalil or "Eng. Omar Nassar"
+  Where any government (Law enforcement or non-law enforcement) have any information
+  on that related that.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+
+#43: Any information, files or investigation information on the people, organization
+  or government who either Rented or contracted the PLANE  MARC Inc.'s Piper N59906
+  for the flight on 9/10/2025. Who paid for it? Who interacted with the company?
+  The company collected information. How was it provided to the buyer (customer)?
+  Real time? How delivered? Include who the customer of Marc Inc., both organization
+  and the individuals in it that interfaced in any way relating to this plane
+  hired or contracted to them.
+  Piper PA-31 Navajo Chieftain (registration N59906).
+  Where any government (Law enforcement or non-law enforcement) have any information
+  on that related that.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+
+#44: Any information, files or investigation information on these people, their organization
+  or government, and everything they did and went or communicated.
+  They were either at: 1) Provo Municipal Airport (PVU), or 2) Salt Lake City International Airport (SLC).
+  The people matching any of these criteria:
+  a) Had badges or identified as "U.S. Department of Defense Liaison.", or
+  b) Had Egyptian passports boarding private airplanes, or
+  c) They tested "Counter-UAS" (Unmanned aerial systems) gear at the airport. (Especially) Sept 4th - 10th, or
+  d) Used anything similar to "No-scan priority clearance" via federal override so
+    no passenger manifests recorded, or
+  e) Where the Tower insiders mentioned anything in the category of "smells like black ops,"
+  In any time during the time window 8/1/2025 and 9/11/2025.
+  Where any government (Law enforcement or non-law enforcement) have any information
+  on that related that.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+
+#45: Was any caliber of gunfire besides a .30-06 on 9/10/2025 between 12:20 and 12:30 MT at UVU.
+  Where any government (Law enforcement or non-law enforcement) have any information
+  on that related that.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+
+#46: Any information, files or investigation information on laser targeting that occurred
+  on 9/10/2025 at UVU anywhere within 2,000 feet of Charlie Kirk.
+  Where any government (Law enforcement or non-law enforcement) have any information
+  on that related that.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+
+#47: Any information, files or investigation information on the FBI calling witnesses
+  who have videos, and the FBI employee asks the witness to delete the video.
+  List the FBI employees who did this, the witness, and the dates, and how
+  many calls.
+  Where any government (Law enforcement or non-law enforcement) have any information
+  on that related that.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+
+#48: Any information, files or investigation information on the videos witnesses said that
+  they took at UVU on 9/10/2025 and they report it was deleted off of their phone
+  or device without their permission. List witnesses and all details and information about
+  occurrences and information about this happening. Include how they got deleted and
+  who did the deleting, what tools and how. Whatever information is available.
+  Where any government (Law enforcement or non-law enforcement) have any information
+  on that related that.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+
+#49: Any information, files or investigation information on the list of planes provided
+  if any flew into Egypt from another country with the transponder off. Which
+  country did they fly in from.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+
+#50: Any information, files or investigation information on any military or
+  US or foreign intelligence people present at the August 3-6th 2025 window
+  meeting at the Hamptons.  Who were they? Names and who did they work for.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+
+#51: Any information, files or investigation information on any business opportunity
+  discussed with Charlie within 9/1/2025 to 9/10/2025 where Charlie could have made
+  a lot of money.  There were allegations that Andrew Kolvet or someone claimed
+  that Andrew Kolvet lost out on $2m (or so) since Charlie turned the deal down.
+  What was the business deal? Who offered it?  What were the factors of the business
+  deal (so we can understand why Charlie may have found it a problem). Did Charlie
+  say he thinks he will be killed (or "they will kill me tomorrow") related to or
+  soon after that call? Who was the call with?
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+
+#52: Any information, files or investigation information on Charlie's request for the DOGE
+  audit in (equivalent) inside of TPUSA is in the FBI investigation files.
+  What financial irregularities were found in TPUSA.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+
+#53: Any information, files or investigation information on any communication or meetings
+  between TPUSA managers, executives or board members with US or foreign intelligence
+  within 12 months before to 9/11/2025?
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+#54: Any information, files or investigation information on any situation that matches or
+  is similar to the following event of 9/10/2025 that happened anywhere within 50 miles
+  of UVU:
+    One or more eyewitnesses describe a man who looks nothing like Tyler Robinson.
+    Dressed head to toe in all black, long greasy black hair, trench coat, black mask,
+    black cargo pants, backpack.
+    * Eyewitness Account: Dylan Hope, an electrician, says his colleague operating an
+    excavator at a UVU construction site spoke with this man immediately after the
+    shooting. The suspect asked if he could walk through the site, claiming he was
+    "just trying to get home safe after a shooting."
+    * Description:
+    - Black trench coat
+    - Black cargo pants
+    - Black mask & sunglasses
+    - Long greasy black hair
+    - Small backpack
+    He went through the construction site that the FBI claim the shooter did as
+    they were fleeing and was the ONLY  person to do so. The guy was already
+    trying to leave. And so, he -- we were then shown a picture by the sheriff
+      at the time, and the excavator said that it matched. The man admitted
+      someone had been shot before sirens even started wailing.
+    * Police Tracking: Officers later showed up with a canine and tracked this
+    man through the site to an adjacent property. No unusual cars were spotted
+      nearby — was he on foot the whole time?
+    * The FBI Problem: Workers on site say the photo shown to them by sheriffs
+    DID NOT MATCH the image the FBI released publicly. Dylan Hope himself says it didn't line up.
+  Include anything from Law enforcement (Federal and non-federal), US Intelligence,
+  US Military, FBI or DoJ.
+
+
+#55: Does US Intel have any information about any individuals or governments or gov organizations that either
+  wanted Charlie's life ended, wanted / talked about getting him killed, or threatening him.
+#56: Does US Intel or the FBI or DoJ have any information about any threats (or communication about harm, plans
+  or consideration)  to similar people
+  individuals?  Specifically any in this list: Marjorie Taylor Greene (including threats to murder her son),
+  Matt Gaetz, Andrew Breitbart, Candace Owens, Tucker Carlson, Thomas Massie.
+  wanted Charlie's life ended, wanted / talked about getting him killed, or threatening him.
+
+
+
+
+---
+
+FBI_302_Reports: FBI witness interview documentation files
+#57: All FBI Form 302 interview reports (9/10/25 - present): FBI Salt Lake City Field Office. Complete 302s from all witness interviews.
+  * Establishes what witnesses told FBI, potentially exculpatory statements
+#58: FBI 302s documenting requests to delete evidence: FBI Records Management. Reports where agents asked witnesses to delete photos/videos.
+  * Proves potential FBI evidence tampering or obstruction
+#59: FBI 302s from counterintelligence division: FBI Counterintelligence Division HQ. All 302s regarding foreign intelligence investigation.
+  * Shows FBI knowledge of foreign actor involvement
+#60: FBI agent notes and memoranda: FBI Salt Lake City Field Office. All investigative notes, rough notes, and memoranda.
+  * May contain unredacted exculpatory information
+#61: FBI case opening documentation: FBI Records Division. Case opening forms, investigative plan, and scope documents.
+  * Shows direction and focus of FBI investigation
+
+---
+
+FBI_Counterintelligence: FBI foreign intelligence service investigation files
+#62: All FBI counterintelligence reports on foreign intelligence in Utah: FBI Counterintelligence Division. Reports on Mossad, Egyptian GID, French DGSE operations (Jan 2023 - present).
+  * Proves foreign intelligence services were operating in area
+#63: FBI threat assessments for Charlie Kirk: FBI Protective Intelligence. Threat assessments regarding foreign intelligence targeting Kirk.
+  * Shows FBI knew of foreign threats before assassination
+#64: FBI liaison reports with CIA/NSA/DHS: FBI Salt Lake City Field Office. All cable traffic and intelligence sharing regarding foreign nationals.
+  * Reveals scope of federal knowledge about foreign actors
+#65: FBI counterintelligence surveillance logs: FBI Counterintelligence Division. Logs tracking suspected foreign intelligence officers in Utah.
+  * Documents foreign intelligence officer presence and movements
+#66: FISA applications and materials: DOJ National Security Division. Any FISA surveillance related to foreign nationals in Utah.
+  * Shows government surveillance of foreign intelligence activity
+
+---
+
+Cell_Phone_Data: FBI cell site location and tower dump analysis
+#67: Cell tower dumps for UVU campus (9/10/25, 8AM-6PM): FBI via wireless carriers. All phones that connected to towers serving UVU.
+  * Identifies all persons present at assassination location
+#68: Cell tower dumps for Tyler Robinson residence (Sept 1-15, 2025): FBI via wireless carriers. All phones connecting to towers near Tyler's home.
+  * Shows who visited Tyler's home before assassination
+#69: Cell tower dumps for Provo Airport (Aug 25 - Sept 15, 2025): FBI via wireless carriers. All phones at airport during relevant period.
+  * Links foreign nationals arriving by plane to cell activity
+#70: Geofence warrant applications and returns for UVU: FBI/Google/Apple. All devices within 500m of shooting location.
+  * Precisely identifies all individuals present at crime scene
+#71: CSLI for phones with international roaming: FBI via wireless carriers. All phones with Israeli, Egyptian, French carrier roaming.
+  * Identifies foreign nationals present at key locations
+#72: FBI analytical reports identifying foreign phones: FBI Cellular Analysis Survey Team. Link analysis connecting phones to people/locations.
+  * Proves foreign intelligence operatives were present
+#73: Subscriber information for unidentified foreign phones: FBI via wireless carriers. Names, passport numbers, billing addresses.
+  * Identifies specific foreign nationals for defense investigation
+
+---
+
+Airport_CBP_Records: Customs and Border Protection entry/exit data
+#74: CBP entry/exit records for Israeli nationals (July-Nov 2025): U.S. Customs and Border Protection. I-94 records, passport scans, biometric data.
+  * Proves Israeli nationals entered Utah during relevant period
+#75: CBP entry/exit records for Egyptian nationals (July-Nov 2025): U.S. Customs and Border Protection. I-94 records, passport scans, biometric data.
+  * Proves Egyptian nationals entered Utah during relevant period
+#76: CBP entry/exit records for French nationals (July-Nov 2025): U.S. Customs and Border Protection. I-94 records, passport scans, biometric data.
+  * Proves French nationals entered Utah during relevant period
+#77: TSA PreCheck and Known Traveler records: Transportation Security Administration. Records for foreign nationals with expedited clearance.
+  * Identifies foreign intelligence officers with special access
+#78: CBP special clearance records for military contractors: U.S. Customs and Border Protection. Records of diplomatic/military personnel bypassing security.
+  * Proves military operators received special government clearance
+#79: Passenger manifests for international flights to SLC/Provo: Airlines via CBP. Complete manifests (Sept 3-17, 2025).
+  * Identifies all foreign nationals arriving near assassination date
+#80: CBP biometric data (fingerprints, facial recognition): DHS Biometric Identity Management System. All biometric captures for foreign arrivals.
+  * Provides positive identification of foreign intelligence personnel
+
+---
+
+Egyptian_Planes: Flight records for Egyptian aircraft SU-BTT and SU-BND
+#81: All flight records for Egyptian plane SU-BTT: FAA/CBP. Flight plans, arrival records for Sept 4, 2025 Provo arrival.
+  * Documents Egyptian plane arriving 5 days before assassination
+#82: All flight records for Egyptian plane SU-BND: FAA/CBP. Transponder activation records (Sept 15, 2025).
+  * Shows second Egyptian plane activated on assassination day
+#83: Passenger manifests and crew lists for SU-BTT: CBP/Egyptian authorities. Names of all 4-6 military contractors.
+  * Identifies Egyptian military personnel who remained in Utah
+#84: CBP inspection records for Egyptian aircraft: U.S. Customs and Border Protection. Inspection reports, cargo manifests.
+  * Shows what equipment/personnel were transported
+#85: Security clearances for Egyptian military contractors: State Department/DoD. Records of Defense Attache badges issued.
+  * Proves contractors had U.S. government authorization
+#86: Records of contractors' ground transportation: Rental car companies/hotels. Where contractors went after arrival.
+  * Links Egyptian operators to crime scene locations
+
+---
+
+Israeli_Cell_Phones: 12 Israeli phones identified in Provo area
+#87: CSLI for all 12 Israeli phones (Sept 1-15, 2025): FBI via wireless carriers (Cellcom, Partner, Pelephone). Complete location history.
+  * Shows Israeli phones present at UVU, Tyler's home, airports
+#88: Subscriber information for 12 Israeli phones: Israeli carriers via FBI MLAT. Names, passport numbers, addresses.
+  * Identifies Israeli nationals by name for investigation
+#89: Call detail records for Israeli phones: FBI via wireless carriers. All calls and texts to/from Utah numbers.
+  * Shows coordination between Israeli phones and local contacts
+#90: International roaming records: Israeli carriers/U.S. carriers. Roaming activation and usage patterns.
+  * Proves Israeli phones were physically present in Utah
+#91: FBI communications with Israeli authorities: FBI Legal Attache Tel Aviv. All requests for information about Israeli phones.
+  * Shows FBI knew about Israeli presence and investigated
+
+---
+
+Provo_Airport: Airport badge access and surveillance records
+#92: Badge access logs (including Sept 11, 2025 update): Provo Municipal Airport. All badge access records and modifications.
+  * Sept 11 update is suspicious - potential evidence tampering
+#93: Surveillance camera footage from all airport locations: Provo Municipal Airport. Video from Sept 3-17, 2025.
+  * Shows Egyptian plane arrival and contractors deplaning
+#94: Counter-UAS testing records (Sept 4-10, 2025): FAA/Airport Authority. Drone countermeasure testing documentation.
+  * Establishes military drone activity near assassination date
+#95: Flight arrival/departure records: FAA/Provo Airport. All private and commercial flights.
+  * Identifies all aircraft arrivals during relevant period
+#96: Fueling records for private aircraft: FBO operators at Provo Airport. Fuel purchases for foreign aircraft.
+  * Confirms Egyptian plane servicing and duration of stay
+#97: Security clearance waivers for foreign personnel: Airport Authority/TSA. Records of personnel bypassing security.
+  * Proves foreign military received special access
+
+---
+
+Financial_Records: International wire transfers and payment records
+#98: International wire transfers to Utah (Aug-Sept 2025): FinCEN/major banks. Transfers from Israeli, Egyptian, French sources.
+  * Shows foreign funding of operation in Utah
+#99: Suspicious Activity Reports (SARs) for Utah: FinCEN. All SARs filed by Utah banks during relevant period.
+  * Identifies suspicious foreign financial activity
+#100: Currency Transaction Reports over $10,000: FinCEN. All CTRs involving foreign nationals.
+  * Tracks large cash movements by foreign operatives
+#101: Rental car payment records (foreign credit cards): Enterprise, Hertz, Avis, Budget. Payments from foreign accounts.
+  * Links foreign nationals to rental vehicles
+#102: Hotel payment records (foreign credit cards): Hotels within 20 miles of UVU. Foreign national lodging payments.
+  * Identifies where foreign operatives stayed
+#103: PayPal/Venmo/Zelle payments to distraction people: Payment platforms. Transfers to individuals at UVU.
+  * Proves coordination and payment of participants
+#104: FBI financial crimes investigation files: FBI Salt Lake City. All financial analysis work products.
+  * Shows FBI investigation of foreign funding
+
+
+---
+
+Chain_of_Custody: Rifle evidence handling and potential gun planting
+#105: Complete chain of custody for Mauser rifle: FBI Evidence Response Team. All custody documentation with timestamps.
+  * Reveals gaps or irregularities suggesting planting
+#106: Body camera footage of all searches: Utah County Sheriff/FBI. Video of initial search, K-9 search, and re-search.
+  * Shows gun was not found until FBI directed re-search
+#107: K-9 unit deployment records and reports: Utah County Sheriff. Dog search results showing no gun found.
+  * Proves trained dogs failed to locate rifle initially
+#108: FBI agent identities for three agents who directed re-search: FBI Salt Lake City. Names and reports of agents who found gun.
+  * Identifies FBI personnel who may have planted evidence
+#109: Communications between FBI and local law enforcement: FBI/Utah County Sheriff. All communications regarding rifle search.
+  * Shows FBI directing junior officers to specific location
+#110: DNA analysis showing who handled rifle: FBI Laboratory. Full DNA profile from all rifle surfaces.
+  * May show foreign handler DNA on rifle
+#111: Fingerprint analysis from rifle, trigger, scope, towel: FBI Laboratory. All latent prints collected.
+  * May show prints of person who planted rifle
+#112: FBI internal investigation into gun planting allegations: FBI Office of Professional Responsibility. Any OPR investigation files.
+  * Documents FBI awareness of planting allegations
+
+---
+
+Threat_Assessments: FBI reports on threats to other commentators
+#113: FBI threat assessment for Tucker Carlson (post-assassination): FBI Protective Intelligence. Threats made after Charlie Kirk's death.
+  * Shows coordinated targeting of anti-Israel commentators
+#114: FBI threat assessment for Ian Miles Cheong (post-assassination): FBI Protective Intelligence. Threats made after assassination.
+  * Proves pattern of threats against similar figures
+#115: FBI threat assessment for Candace Owens (post-assassination): FBI Protective Intelligence. Threats made after assassination.
+  * Establishes broader foreign intelligence campaign
+#116: FBI assessment of pattern against anti-Israel commentators: FBI Counterterrorism/Counterintelligence. Analysis of threat patterns.
+  * Shows assassination was part of coordinated operation
+#117: FBI 302s from interviews with Tucker/Ian/Candace: FBI Salt Lake City. Witness interviews about threats.
+  * Documents specific threat information and sources
+
+---
+
+Surveillance_Footage: Video evidence from multiple locations
+#118: UVU campus security camera footage (Sept 9-11, 2025): Utah Valley University. All campus cameras.
+  * Shows all persons present at assassination scene
+#119: Traffic cameras on routes between airports and UVU: UDOT/local municipalities. Camera footage along travel routes.
+  * Tracks movements of rental cars and foreign operatives
+#120: Airport surveillance footage (Provo and SLC): Airport authorities. Terminal, parking, and rental car footage.
+  * Shows foreign nationals arriving and departing
+#121: Hotel surveillance footage (within 20 miles of UVU): Hotels. Lobby, parking, elevator cameras.
+  * Documents foreign operatives' lodging locations
+#122: ATM camera footage in Utah County: Banks. All ATM cameras (Aug 25 - Sept 15, 2025).
+  * May capture foreign nationals withdrawing cash
+#123: License plate reader (LPR) data: Law enforcement agencies. LPR hits for rental vehicles.
+  * Tracks rental car movements between key locations
+
+---
+
+Rental_Car_Records: Rental vehicles used by foreign operatives
+#124: Rental agreements with foreign driver's licenses: All rental companies in Utah. Agreements (Aug-Sept 2025).
+  * Identifies rental cars used by foreign nationals
+#125: GPS/telematics data from rental vehicles: Enterprise, Hertz, Avis, Budget. Vehicle location tracking.
+  * Shows rental cars traveled to UVU, Tyler's home, airports
+#126: Mileage records and fuel receipts: Rental companies. Usage documentation.
+  * Confirms extensive travel by rental vehicles
+#127: Surveillance footage from rental car facilities: Rental companies. Counter and lot cameras.
+  * Shows foreign nationals picking up vehicles
+#128: Records of rentals with abnormally dark tinted windows: Rental companies. Vehicle descriptions and special requests.
+  * Identifies suspicious vehicle modifications
+#129: Damage reports or unusual vehicle returns: Rental companies. Inspection reports.
+  * May document evidence of operational use
+
+---
+
+Hotel_Records: Foreign national lodging records
+#130: Guest registration for foreign nationals (within 20 miles): Hotels. Registration cards and passport copies.
+#131: Key card access logs: Hotels. Room entry/exit times.
+  * Shows operatives' movements and meeting patterns
+#132: Wi-Fi connection logs showing device MAC addresses: Hotels. Network connection records.
+  * Links cell phones to specific hotel rooms
+#133: Room service and minibar charges: Hotels. In-room charges.
+  * Establishes duration and nature of stays
+#134: Business center computer usage logs: Hotels. Computer and printer usage.
+  * May show operational planning or communications
+
+---
+
+Digital_Forensics: Electronic communications and cyber evidence
+#135: Email communications to/from foreign domains: ISPs/email providers. All foreign email traffic.
+  * Shows communications with foreign intelligence services
+#136: VPN usage logs showing foreign IP connections: ISPs. VPN connection records to foreign countries.
+  * Identifies attempts to hide communications with foreign actors
+#137: Encrypted messaging app usage (Signal, Telegram, WhatsApp): App providers. Account data and metadata.
+  * Documents secure communications between participants
+#138: Social media direct messages: Facebook, Instagram, Twitter. DM records.
+  * Shows coordination and recruitment communications
+#139: Deleted file recovery analysis: FBI Digital Evidence Laboratory. Recovered deleted communications.
+  * May reveal deleted evidence of foreign intelligence contact
+#140: Network traffic analysis from UVU during incident: UVU IT Department. Network logs (Sept 10, 2025).
+  * Shows devices communicating during assassination
+
+---
+
+Ballistics: Mauser Model 98 rifle and ammunition forensics
+#141: Complete ATF trace for Mauser Model 98: ATF National Tracing Center. Full ownership and transfer history.
+  * Shows where rifle came from and who owned it
+#142: Manufacturing records and serial number documentation: ATF/manufacturer. Origin and production records.
+  * Determines if rifle is domestic or foreign origin
+#143: Import records if weapon came from abroad: ATF/CBP. Import documentation.
+  * Links rifle to foreign intelligence service if imported
+#144: Metallurgical analysis of rifle components: FBI Laboratory. Metal composition analysis.
+  * May show foreign manufacture or modification
+#145: Analysis of cartridge engravings ("Bella Ciao"): FBI Laboratory. Linguistic and cultural analysis.
+  * Determines cultural/operational significance of inscriptions
+#146: Tool mark analysis of engraving equipment: FBI Laboratory. Tool identification.
+  * Identifies what equipment was used to engrave cartridges
+#147: Comparison with foreign intelligence weapon signatures: FBI/CIA. Pattern analysis.
+  * Shows if methods match known foreign intelligence tradecraft
+
+---
+
+Distraction_People: Investigation of diversionary participants at UVU
+#148: Identification of all individuals at UVU during shooting: FBI/UVU Police. Complete list of persons present.
+  * Identifies potential co-conspirators or assets
+#149: Background checks on unidentified individuals: FBI. Criminal and intelligence histories.
+  * Reveals connections to foreign intelligence services
+#150: Immigration status for all foreign nationals present: CBP/USCIS. Visa and status records.
+  * Identifies foreign nationals among attendees
+#151: Financial records for individuals at UVU: FinCEN/banks. Payments received before incident.
+  * Proves payments to distraction people by foreign actors
+#152: Phone records for unidentified attendees: FBI via wireless carriers. CDRs and CSLI.
+  * Shows coordination between distraction people and operatives
+#153: Travel records for UVU attendees: Airlines/CBP. Recent international travel.
+  * Identifies recruitment through foreign travel
+#154: Social media analysis of attendees: FBI. Accounts and connections.
+  * Shows foreign intelligence recruitment or contact
+
+---
+
+Drones: Military drone activity in area
+#155: Military drones at Provo Airport (Sept 4-10, 2025): FAA/DoD. Drone registration and flight records.
+  * Documents military drone presence near assassination
+#156: Counter-UAS testing documentation: FAA/airport authority. Testing records and authorizations.
+  * Shows military drone operations at airport
+#157: Drone flight logs during UVU event: FAA. All drone flights (Sept 10, 2025, 8AM-2PM).
+  * Identifies drones in air during assassination
+#158: Plane N1098L surveillance flight records: FAA. Flight plans, crew, rental information.
+  * Documents surveillance plane circling 35 minutes before shooting
+#159: Who requested/rented surveillance aircraft: Charter company/FAA. Rental agreement and payment.
+  * Identifies who ordered surveillance of UVU event
+
+---
+
+TPUSA_Intel: Foreign intelligence involvement with TPUSA
+#160: FBI reports on foreign intelligence recruitment in TPUSA: FBI Counterintelligence. Reports (Sept 2023 - Sept 2025).
+  * Shows foreign intelligence targeted TPUSA members
+#161: FBI interviews with TPUSA members re foreign contact: FBI Salt Lake City. Form 302s from member interviews.
+  * Documents foreign intelligence approaches to TPUSA
+#162: FBI reports on TPUSA foreign travel: FBI. Reports on member travel to Israel, Egypt, France.
+  * Identifies TPUSA members with foreign intelligence contact
+#163: FBI financial intelligence on foreign payments to TPUSA: FBI/FinCEN. Wire transfers and payments.
+  * Shows foreign funding of TPUSA operations
+#164: Charlie Kirk head of security foreign intelligence connections: FBI. Investigation of security team.
+  * Reveals potential insider threat from foreign assets
+#165: Hampton meeting (Aug 4-6) Israeli communications/threats/money: FBI. Reports on donor meeting.
+  * Documents foreign influence at TPUSA leadership meetings
+
+---
+
+Autopsy_Medical: Medical examiner and autopsy records
+#166: Complete autopsy report for Charlie Kirk: Utah Office of Medical Examiner. Full autopsy documentation.
+  * Determines actual cause of death and wound characteristics
+#167: Lapel microphone evidence: Medical examiner/FBI. Evidence from body regarding mic.
+  * Documents suspicious evidence (potential weaponization)
+#168: Medical examiner report on any unusual findings: Utah OME. Toxicology and anomaly reports.
+  * May reveal unexpected cause of death factors
+#169: Wound trajectory analysis: Medical examiner. Ballistic wound documentation.
+  * Shows direction of shot (matches or contradicts Tyler position)
+#170: Time of death determination: Medical examiner. Precise TOD analysis.
+  * Establishes exact timeline of events
+
+---
+
+International_Liaison: Foreign government communications
+#171: FBI Legal Attache communications with Israel: FBI Legat Tel Aviv. All cable traffic regarding case.
+  * Shows U.S.-Israel intelligence sharing on case
+#172: FBI Legat communications with Egypt: FBI Legat Cairo. All communications regarding Egyptian planes/personnel.
+  * Reveals Egyptian government coordination
+#173: Interpol communications regarding case: FBI/Interpol. All international law enforcement sharing.
+  * Documents international investigation scope
+#174: MLAT requests or responses: DOJ Office of International Affairs. Formal legal assistance requests.
+  * Shows which countries provided or denied cooperation
+#175: Diplomatic communications regarding case: State Department. Diplomatic cables about assassination.
+  * May reveal foreign government knowledge or involvement
+
+---
+
+## LEGAL BASIS FOR DISCOVERY
+
+Constitutional:
+* Brady v. Maryland, 373 U.S. 83 (1963) - Exculpatory evidence
+* Giglio v. United States, 405 U.S. 150 (1972) - Impeachment evidence
+* Kyles v. Whitley, 514 U.S. 419 (1995) - Prosecution team obligations
+* Holmes v. South Carolina, 547 U.S. 319 (2006) - Alternative perpetrator
+* Carpenter v. United States, 138 S. Ct. 2206 (2018) - Cell phone data
+
+Foreign Intelligence Discovery Cases:
+* United States v. Moussaoui, 382 F.3d 453 (4th Cir. 2004) - 9/11 FBI discovery
+* United States v. Sterling, 724 F.3d 482 (4th Cir. 2013) - CIA materials Brady
+* United States v. Rosen, 487 F. Supp. 2d 703 (E.D. Va. 2007) - AIPAC discovery
+
+Utah Cases:
+* State v. Menzies, 889 P.2d 393 (Utah 1994)
+* State v. Gardner, 947 P.2d 630 (Utah 1997)
+
+Statutes and Rules:
+* Utah R. Crim. P. 16
+* Classified Information Procedures Act (CIPA), 18 U.S.C. App. 3
+* 28 C.F.R. Section 16.22 (Touhy regulations)
+
+---
+
+## PROCEDURAL MECHANISMS
+
+1. Court Order to State to obtain FBI materials (Brady obligation)
+2. Touhy Request to FBI (28 C.F.R. Section 16.22)
+3. Third-Party Subpoenas (Fed.R.Crim.P. 17(c))
+4. In Camera Review by Court
+5. CIPA Section 4 procedures for classified materials
+6. Protective Orders limiting disclosure to cleared counsel
+
+---
+
+## TIME FRAMES SUMMARY
+
+Primary Event Date: September 10, 2025
+
+Cell Phone/UVU Data: September 10, 2025 (8AM-6PM)
+Aircraft Records (narrow): September 3-17, 2025
+Aircraft Records (broad): June 12, 2025 - December 9, 2025
+Foreign Intel UVU Area: July 10, 2025 - November 10, 2025
+Foreign Intel TPUSA (narrow): July 10, 2025 - November 10, 2025
+Foreign Intel TPUSA (broad): September 10, 2023 - September 10, 2025
+General Foreign Intel: January 1, 2023 - present
+
+
+
+
+================= Appendix A: What Defense DID put into Discovery in Q4 2025  ==========================
+
+
+* Video recordings posted on social media websites depicting the shooting incident
+* Utah Valley University campus surveillance camera footage tracking the suspect's movements, arrival, and escape
+* Witness statements from individuals who observed the incident
+* Police reports and information from investigating officers
+* Bolt-action rifle (Mauser Model 98, .30-06 caliber, with mounted scope)
+* Dark-colored towel used to wrap the rifle
+* Fired cartridge casing with engraved inscription "Notices Bulge OWO what's this?"
+* Unfired cartridge casing with engraved inscription "hey fascist! CATCH!" (including arrow symbols)
+* Unfired cartridge casing with engraved inscription "O Bella ciao, Bella ciao, Bella ciao, Ciao, ciao!"
+* Unfired cartridge casing with engraved inscription "If you read This, you are GAY Lmao"
+* Shoe impression from the rooftop consistent with Converse/Chuck Taylor style shoes
+* Statements from the defendant's family members regarding confessions or implications of involvement
+* Additional surveillance footage showing the defendant arriving in a grey Dodge Challenger
+* Interviews with family members about the defendant's political views and discussions regarding Charlie Kirk
+* Interview with the defendant's roommate
+* Discord and text messages between the defendant and roommate, including discussions about retrieving the rifle, engraving bullets, and deleting exchanges
+* DNA evidence from the rifle (trigger, other parts, cartridge casings, and towel) consistent with the defendant
+* Medical Examiner's report (pending autopsy)
+* Markings/impressions in rooftop gravel consistent with a prone shooting position
+* Published photos of the suspect from surveillance cameras
+* Shell casing with etchings found in the defendant's residence
+* Targets with bullet holes found in the defendant's residence
+* Handwritten note found under keyboard stating intent to "take out Charlie Kirk" (including photograph)
+* Statements from the defendant's mother, father, and family friend about events leading to surrender
