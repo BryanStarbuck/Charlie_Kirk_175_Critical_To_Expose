@@ -28,6 +28,55 @@ More of my critical disclosures are here:
 
 
 
+---
+
+## Table of Contents
+
+**Overview & Context**
+- [Law for Charlie Kirk File Disclosure](#law-for-charlie-kirk-file-disclosure)
+- [Name Mapping Key](NAME_MAPPING.json) — maps PERSON_X_REDACTED codes to real names
+
+**Theories & Possible Linkages**
+- [Exploding Microphone Theory](#exploding-microphone-theory---discovery-request-items)
+  - [Factual Claims to Establish](#factual-claims-to-establish)
+  - [Discovery Requests (Mic)](#discovery-requests)
+- [Intelligence Service Discovery Items](#intelligence-service-discovery) (#1–#56)
+
+**Discovery by Category** (#57–#175)
+- [FBI 302 Reports](#fbi-302-reports) (#57–#61)
+- [FBI Counterintelligence](#fbi-counterintelligence) (#62–#66)
+- [Cell Phone Data](#cell-phone-data) (#67–#73)
+- [Airport / CBP Records](#airport-cbp-records) (#74–#80)
+- [Egyptian Planes](#egyptian-planes) (#81–#86)
+- [Israeli Cell Phones](#israeli-cell-phones) (#87–#91)
+- [Provo Airport](#provo-airport) (#92–#97)
+- [Financial Records](#financial-records) (#98–#104)
+- [Chain of Custody](#chain-of-custody) (#105–#112)
+- [Threat Assessments](#threat-assessments) (#113–#117)
+- [Surveillance Footage](#surveillance-footage) (#118–#123)
+- [Rental Car Records](#rental-car-records) (#124–#129)
+- [Hotel Records](#hotel-records) (#130–#134)
+- [Digital Forensics](#digital-forensics) (#135–#140)
+- [Ballistics](#ballistics) (#141–#147)
+- [Distraction People](#distraction-people) (#148–#154)
+- [Drones](#drones) (#155–#159)
+- [TPUSA Intel](#tpusa-intel) (#160–#165)
+- [Autopsy / Medical](#autopsy-medical) (#166–#170)
+- [International Liaison](#international-liaison) (#171–#175)
+
+**Legal Framework**
+- [Legal Basis for Discovery](#legal-basis-for-discovery)
+- [Procedural Mechanisms](#procedural-mechanisms)
+- [Time Frames Summary](#time-frames-summary)
+- [Appendix A: Defense Discovery Q4 2025](#appendix-a)
+
+**Related Repos**
+- [Bryan Starbuck Lawfare](https://github.com/BryanStarbuck/Bryan_Starbuck_Lawfare)
+- [Charlie Kirk: Dangerous Investigation](https://github.com/BryanStarbuck/Charlie_Kirk_Dangerous_Investigation)
+- [Charlie Kirk: 175 Critical to Expose](https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose)
+
+---
+
 # LAW for CHARLIE KIRK FILE DISCLOSURE
 # List to Disclose
 ## State of Utah v. Tyler Alexander Robinson
@@ -70,7 +119,7 @@ WHY #6: The FBI / DoJ / other possibly carried out obstruction of justice.
 Below are "Possible" Linkages. Discovery is to see if evidence can be brought
 from government possession into the court case and history books.
 
-(Possible) Linkage #1: Chain of custody for the rifle shows allegedly potential evidence planting. The K-9 unit
+(Possible) Linkage #1: [Chain of custody](#chain-of-custody) for the rifle shows allegedly potential evidence planting. The K-9 unit
     initially failed to find the gun. Then FBI agents arrived and directed a
     "re-search" that suddenly located the weapon. This pattern matches known
     intelligence tradecraft for planting evidence on a patsy. If discovery shows
@@ -78,7 +127,7 @@ from government possession into the court case and history books.
     the "discovery," it proves Tyler was framed by sophisticated actors.
 
 
-(Possible) Linkage #2: The 12 Israeli-registered cellphones at UVU prove foreign intelligence presence.
+(Possible) Linkage #2: The [12 Israeli-registered cellphones](#israeli-cell-phones) at UVU prove foreign intelligence presence.
     NSA reportedly tracked these phones. If discovery confirms Israeli intelligence
     officers were physically present at the assassination scene, it establishes
     that a foreign state actor had operatives in position. Combined with cell
@@ -86,7 +135,7 @@ from government possession into the court case and history books.
     a coordinated foreign intelligence operation, not a lone gunman.
 
 
-(Possible) Linkage #3: Military planes (SU-BTT, SU-BND, and more) arriving days before the assassination
+(Possible) Linkage #3: [Military planes (SU-BTT, SU-BND, and more)](#egyptian-planes) arriving days before the assassination
     with military contractors who stayed in Utah proves foreign government involvement.
     These weren't tourists - they had Defense Attaché badges and received "no-scan
     priority clearance." Discovery of passenger manifests, where they went, and
@@ -94,7 +143,7 @@ from government possession into the court case and history books.
     coordination that Tyler could never have organized himself.
 
 
-(Possible) Linkage #4: FBI asking witnesses to delete videos is evidence tampering and obstruction.
+(Possible) Linkage #4: [FBI asking witnesses to delete videos](#fbi-302-reports) is evidence tampering and obstruction.
     Multiple witnesses report FBI agents calling them and requesting they delete
     footage from the event. If discovery confirms this pattern, it proves the FBI
     is actively destroying exculpatory evidence. This suggests the FBI knows the
@@ -102,7 +151,7 @@ from government possession into the court case and history books.
     foreign intelligence assets the U.S. has relationships with.
 
 
-(Possible) Linkage #5: The "distraction people" not being charged exposes coordination. Multiple armed
+(Possible) Linkage #5: The ["distraction people"](#distraction-people) not being charged exposes coordination. Multiple armed
     individuals appeared at UVU that day - PERSON_179_REDACTED with a gun, a pellet
     gun man at Joe Vera's, and others. In any normal investigation, these people
     would be charged. The decision NOT to charge them, combined with blocked FOIAs
@@ -118,7 +167,7 @@ from government possession into the court case and history books.
     could identify which officials were coordinating what.
 
 
-(Possible) Linkage #7: The surveillance plane N1098L (HADES spy plane) circling 35 minutes before the
+(Possible) Linkage #7: The [surveillance plane N1098L](#drones) (HADES spy plane) circling 35 minutes before the
     shooting proves advance knowledge and coordination. Someone hired this plane.
     Someone received its surveillance feed. Discovery of who contracted it, who they
     work for, and where the data went would reveal whether U.S. or foreign intelligence
@@ -134,7 +183,7 @@ from government possession into the court case and history books.
     would constitute a Brady violation and evidence of cover-up.
 
 
-(Possible) Linkage #9: Financial transfers to Tyler Robinson ($50K alleged) and his girlfriend ($20K
+(Possible) Linkage #9: [Financial transfers](#financial-records) to Tyler Robinson ($50K alleged) and his girlfriend ($20K
     alleged) through DSA-linked accounts prove outside funding. Tyler Robinson
     didn't have the resources to plan and execute this alone. If discovery shows
     wire transfers from foreign sources or intelligence-linked accounts, it proves
@@ -142,7 +191,7 @@ from government possession into the court case and history books.
     people who actually ordered and financed the assassination.
 
 
-(Possible) Linkage #10: Electronic jamming of cell/internet signals seconds before the shooting proves
+(Possible) Linkage #10: Electronic jamming of [cell/internet signals](#cell-phone-data) seconds before the shooting proves
     military-grade operational support. Civilians cannot jam cell towers. Only
     military or intelligence services have this capability. If discovery confirms
     signals were disrupted during the precise window of the shooting, it proves
@@ -150,6 +199,8 @@ from government possession into the court case and history books.
     the possibility that Tyler Robinson acted alone - he didn't have access to
     military jamming technology.
 
+
+<a id="mic-theory-intro"></a>
 
 ===========================================
 The first section is on a possible exploding Mic theory
@@ -189,7 +240,7 @@ The first section is on a possible exploding Mic theory
 * Photos show square object (~2x2") in PERSON_25_REDACTED's front right pocket matching Rode Wireless GO II mic dimensions
 * PERSON_25_REDACTED photographed standing with sound crew and person who miked up Kirk
 * Post-killing photos show PERSON_25_REDACTED's pocket empty
-* Potential involvement of Israeli secret service or Mossad in orchestrating an inside hit, drawing parallels to 2024 pager bombs in Lebanon
+* Potential involvement of Israeli secret service or Mossad in orchestrating an inside hit, drawing parallels to 2024 pager bombs in Lebanon (see [Israeli Cell Phones](#israeli-cell-phones))
 
 ### The Microphone Type
 * Kirk wearing lavalier microphone (wireless)
@@ -224,7 +275,7 @@ The first section is on a possible exploding Mic theory
 
 
 ### Crime Scene Alteration
-* Crime scene paved over with concrete shortly after incident
+* Crime scene paved over with concrete shortly after incident (see [Surveillance Footage](#surveillance-footage))
 * Glass fragments and explosive traces reported on grass before paving
 
 ### Factory Destruction - October 10, 2025
@@ -282,7 +333,7 @@ The first section is on a possible exploding Mic theory
 * Phone and communication records August-September 2025
 
 ### From the Autopsy
-* Complete autopsy report with wound measurements and trajectories
+* Complete [autopsy report](#autopsy-medical) with wound measurements and trajectories
 * Presence of copper fragments in the body
 * Presence of explosive residue (PETN or other) on body or clothing
 * Nature of chest wound: entry characteristics, depth, wound channel diameter
@@ -313,7 +364,7 @@ The first section is on a possible exploding Mic theory
 * Entry point analysis on shirt (if any)
 
 ### From Video/Photo Evidence
-* All video footage showing moment of Kirk's death
+* All video footage showing moment of Kirk's death (see also [Surveillance Footage](#surveillance-footage))
 * Frame-by-frame analysis of shirt movement and pressure wave direction
 * All photos of PERSON_25_REDACTED before and after event (pocket contents)
 * Photos of sound crew setup
@@ -333,14 +384,18 @@ The first section is on a possible exploding Mic theory
 
 ### Expert Analysis Needed
 * Explosives expert: Does shirt behavior match EFP blast signature?
-* Ballistics expert: Wound characteristics - rifle vs. contact EFP
+* [Ballistics](#ballistics) expert: Wound characteristics - rifle vs. contact EFP
 * Audio expert: Explosion sound vs. gunshot sound analysis
 * Materials expert: Fragment composition to determine origin
 * Video forensics: Pressure wave direction and force analysis
 
 
 
+<a id="intelligence-service-discovery"></a>
+
 ================= END OF MIC part of Request for Discovery  ==========================
+
+[Back to Table of Contents](#table-of-contents)
 
 The investigation shows that an intelligence service is very likely involved with the Charlie Kirk event at UVU
   on 9/10/2025. Even if foreign intelligence was heavily involved, there is a high likelihood that the US intelligence community
@@ -759,6 +814,8 @@ The investigation shows that an intelligence service is very likely involved wit
 
 ---
 
+<a id="fbi-302-reports"></a>
+
 FBI_302_Reports: FBI witness interview documentation files
 #57: All FBI Form 302 interview reports (9/10/25 - present): FBI Salt Lake City Field Office. Complete 302s from all witness interviews.
   * Establishes what witnesses told FBI, potentially exculpatory statements
@@ -773,6 +830,8 @@ FBI_302_Reports: FBI witness interview documentation files
 
 ---
 
+<a id="fbi-counterintelligence"></a>
+
 FBI_Counterintelligence: FBI foreign intelligence service investigation files
 #62: All FBI counterintelligence reports on foreign intelligence in Utah: FBI Counterintelligence Division. Reports on Mossad, Egyptian GID, French DGSE operations (Jan 2023 - present).
   * Proves foreign intelligence services were operating in area
@@ -786,6 +845,8 @@ FBI_Counterintelligence: FBI foreign intelligence service investigation files
   * Shows government surveillance of foreign intelligence activity
 
 ---
+
+<a id="cell-phone-data"></a>
 
 Cell_Phone_Data: FBI cell site location and tower dump analysis
 #67: Cell tower dumps for UVU campus (9/10/25, 8AM-6PM): FBI via wireless carriers. All phones that connected to towers serving UVU.
@@ -805,6 +866,8 @@ Cell_Phone_Data: FBI cell site location and tower dump analysis
 
 ---
 
+<a id="airport-cbp-records"></a>
+
 Airport_CBP_Records: Customs and Border Protection entry/exit data
 #74: CBP entry/exit records for Israeli nationals (July-Nov 2025): U.S. Customs and Border Protection. I-94 records, passport scans, biometric data.
   * Proves Israeli nationals entered Utah during relevant period
@@ -823,6 +886,8 @@ Airport_CBP_Records: Customs and Border Protection entry/exit data
 
 ---
 
+<a id="egyptian-planes"></a>
+
 Egyptian_Planes: Flight records for Egyptian aircraft SU-BTT and SU-BND
 #81: All flight records for Egyptian plane SU-BTT: FAA/CBP. Flight plans, arrival records for Sept 4, 2025 Provo arrival.
   * Documents Egyptian plane arriving 5 days before assassination
@@ -839,6 +904,8 @@ Egyptian_Planes: Flight records for Egyptian aircraft SU-BTT and SU-BND
 
 ---
 
+<a id="israeli-cell-phones"></a>
+
 Israeli_Cell_Phones: 12 Israeli phones identified in Provo area
 #87: CSLI for all 12 Israeli phones (Sept 1-15, 2025): FBI via wireless carriers (Cellcom, Partner, Pelephone). Complete location history.
   * Shows Israeli phones present at UVU, Tyler's home, airports
@@ -852,6 +919,8 @@ Israeli_Cell_Phones: 12 Israeli phones identified in Provo area
   * Shows FBI knew about Israeli presence and investigated
 
 ---
+
+<a id="provo-airport"></a>
 
 Provo_Airport: Airport badge access and surveillance records
 #92: Badge access logs (including Sept 11, 2025 update): Provo Municipal Airport. All badge access records and modifications.
@@ -869,6 +938,8 @@ Provo_Airport: Airport badge access and surveillance records
 
 ---
 
+<a id="financial-records"></a>
+
 Financial_Records: International wire transfers and payment records
 #98: International wire transfers to Utah (Aug-Sept 2025): FinCEN/major banks. Transfers from Israeli, Egyptian, French sources.
   * Shows foreign funding of operation in Utah
@@ -880,7 +951,7 @@ Financial_Records: International wire transfers and payment records
   * Links foreign nationals to rental vehicles
 #102: Hotel payment records (foreign credit cards): Hotels within 20 miles of UVU. Foreign national lodging payments.
   * Identifies where foreign operatives stayed
-#103: PayPal/Venmo/Zelle payments to distraction people: Payment platforms. Transfers to individuals at UVU.
+#103: PayPal/Venmo/Zelle payments to [distraction people](#distraction-people): Payment platforms. Transfers to individuals at UVU.
   * Proves coordination and payment of participants
 #104: FBI financial crimes investigation files: FBI Salt Lake City. All financial analysis work products.
   * Shows FBI investigation of foreign funding
@@ -888,8 +959,10 @@ Financial_Records: International wire transfers and payment records
 
 ---
 
+<a id="chain-of-custody"></a>
+
 Chain_of_Custody: Rifle evidence handling and potential gun planting
-#105: Complete chain of custody for Mauser rifle: FBI Evidence Response Team. All custody documentation with timestamps.
+#105: Complete chain of custody for [Mauser rifle](#ballistics): FBI Evidence Response Team. All custody documentation with timestamps.
   * Reveals gaps or irregularities suggesting planting
 #106: Body camera footage of all searches: Utah County Sheriff/FBI. Video of initial search, K-9 search, and re-search.
   * Shows gun was not found until FBI directed re-search
@@ -908,6 +981,8 @@ Chain_of_Custody: Rifle evidence handling and potential gun planting
 
 ---
 
+<a id="threat-assessments"></a>
+
 Threat_Assessments: FBI reports on threats to other commentators
 #113: FBI threat assessment for Tucker Carlson (post-assassination): FBI Protective Intelligence. Threats made after Charlie Kirk's death.
   * Shows coordinated targeting of anti-Israel commentators
@@ -921,6 +996,8 @@ Threat_Assessments: FBI reports on threats to other commentators
   * Documents specific threat information and sources
 
 ---
+
+<a id="surveillance-footage"></a>
 
 Surveillance_Footage: Video evidence from multiple locations
 #118: UVU campus security camera footage (Sept 9-11, 2025): Utah Valley University. All campus cameras.
@@ -938,6 +1015,8 @@ Surveillance_Footage: Video evidence from multiple locations
 
 ---
 
+<a id="rental-car-records"></a>
+
 Rental_Car_Records: Rental vehicles used by foreign operatives
 #124: Rental agreements with foreign driver's licenses: All rental companies in Utah. Agreements (Aug-Sept 2025).
   * Identifies rental cars used by foreign nationals
@@ -954,6 +1033,8 @@ Rental_Car_Records: Rental vehicles used by foreign operatives
 
 ---
 
+<a id="hotel-records"></a>
+
 Hotel_Records: Foreign national lodging records
 #130: Guest registration for foreign nationals (within 20 miles): Hotels. Registration cards and passport copies.
 #131: Key card access logs: Hotels. Room entry/exit times.
@@ -966,6 +1047,8 @@ Hotel_Records: Foreign national lodging records
   * May show operational planning or communications
 
 ---
+
+<a id="digital-forensics"></a>
 
 Digital_Forensics: Electronic communications and cyber evidence
 #135: Email communications to/from foreign domains: ISPs/email providers. All foreign email traffic.
@@ -982,6 +1065,8 @@ Digital_Forensics: Electronic communications and cyber evidence
   * Shows devices communicating during assassination
 
 ---
+
+<a id="ballistics"></a>
 
 Ballistics: Mauser Model 98 rifle and ammunition forensics
 #141: Complete ATF trace for Mauser Model 98: ATF National Tracing Center. Full ownership and transfer history.
@@ -1001,6 +1086,8 @@ Ballistics: Mauser Model 98 rifle and ammunition forensics
 
 ---
 
+<a id="distraction-people"></a>
+
 Distraction_People: Investigation of diversionary participants at UVU
 #148: Identification of all individuals at UVU during shooting: FBI/UVU Police. Complete list of persons present.
   * Identifies potential co-conspirators or assets
@@ -1019,6 +1106,8 @@ Distraction_People: Investigation of diversionary participants at UVU
 
 ---
 
+<a id="drones"></a>
+
 Drones: Military drone activity in area
 #155: Military drones at Provo Airport (Sept 4-10, 2025): FAA/DoD. Drone registration and flight records.
   * Documents military drone presence near assassination
@@ -1032,6 +1121,8 @@ Drones: Military drone activity in area
   * Identifies who ordered surveillance of UVU event
 
 ---
+
+<a id="tpusa-intel"></a>
 
 TPUSA_Intel: Foreign intelligence involvement with TPUSA
 #160: FBI reports on foreign intelligence recruitment in TPUSA: FBI Counterintelligence. Reports (Sept 2023 - Sept 2025).
@@ -1049,6 +1140,8 @@ TPUSA_Intel: Foreign intelligence involvement with TPUSA
 
 ---
 
+<a id="autopsy-medical"></a>
+
 Autopsy_Medical: Medical examiner and autopsy records
 #166: Complete autopsy report for Charlie Kirk: Utah Office of Medical Examiner. Full autopsy documentation.
   * Determines actual cause of death and wound characteristics
@@ -1062,6 +1155,8 @@ Autopsy_Medical: Medical examiner and autopsy records
   * Establishes exact timeline of events
 
 ---
+
+<a id="international-liaison"></a>
 
 International_Liaison: Foreign government communications
 #171: FBI Legal Attache communications with Israel: FBI Legat Tel Aviv. All cable traffic regarding case.
@@ -1128,6 +1223,10 @@ General Foreign Intel: January 1, 2023 - present
 
 
 
+[Back to Table of Contents](#table-of-contents)
+
+<a id="appendix-a"></a>
+
 ================= Appendix A: What Defense DID put into Discovery in Q4 2025  ==========================
 
 
@@ -1148,7 +1247,7 @@ General Foreign Intel: January 1, 2023 - present
 * Interview with the defendant's roommate
 * Discord and text messages between the defendant and roommate, including discussions about retrieving the rifle, engraving bullets, and deleting exchanges
 * DNA evidence from the rifle (trigger, other parts, cartridge casings, and towel) consistent with the defendant
-* Medical Examiner's report (pending autopsy)
+* [Medical Examiner's report](#autopsy-medical) (pending autopsy)
 * Markings/impressions in rooftop gravel consistent with a prone shooting position
 * Published photos of the suspect from surveillance cameras
 * Shell casing with etchings found in the defendant's residence
