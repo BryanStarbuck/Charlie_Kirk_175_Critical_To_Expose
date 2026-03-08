@@ -275,3 +275,5 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 Peer laws: [Law 2 - US Intel Disclosure](../2_US_Intel/Law_2_US_Intel.md) | [Law 3 - Mandatory Investigation](../3_Require_to_Investigate/Law_3_Require_to_Investigate.md) | [Law 4 - Trusted Investigators](../4_Trusted_Investigations/Law_4_Trusted_Investigations.md)
 
 Precedent: [Epstein Files Transparency Act](../../Existing_Laws/Massie_Epstein_Disclosure/Law_Massie_Epstein_Disclosure.md) | [JFK Records Act](../../Existing_Laws/JFK_Records_Act/Law_JFK_Records_Act.md)
+
+
