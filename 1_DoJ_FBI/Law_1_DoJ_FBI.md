@@ -241,6 +241,17 @@ This Act shall take effect immediately upon enactment. Records preservation requ
 
 ## Schedule A: 175 Critical Disclosure Items
 
+Import to apply:
+* "Intelligence" as it relates to FBI and DoJ means that the Intelligence side of the FBI is also required to disclose information on anything related to the Charlie Kirk case or the people involved.
+
+
+* "People involved" (PEOPLE_INVOLVED): This definition includes the following:
+   a) All TPUSA employees, executives, board members, and donors of over $5 million. It includes TPUSA external contractors, such as the security team. It includes Erika Kirk. 
+   b) The following People in Utah (that were in Utah 9/10/2025 or 2 months before or after): It includes any US or foreign intelligence.  It includes any FBI that were doing anything or in knowledge of anything related to this case.  It includes anyone on UVU compus 9/10/2025.
+   c) It includes any FBI, US or foreign intelligence, or anyone (in the USA or outside of the USA) discussing d.
+
+
+
 ### Schedule A Table of Contents
 
 - [Intelligence Service Discovery](#intelligence-service-discovery-1-56) (#1–#56)
