@@ -245,9 +245,9 @@ Import to apply:
 * "Intelligence" as it relates to FBI and DoJ means that the Intelligence side of the FBI is also required to disclose information on anything related to the Charlie Kirk case or the people involved.
 
 
-"People Listed" (PEOPLE_LISTED): are the set of people information must be disclosed on. It is listed in Schedule B. 
+"People Listed" (PEOPLE_LISTED): are the set of people information must be disclosed on. It is listed in Schedule B.
 
-(PUT_LIST_HERE)
+P1) TPUSA organization, P2) TPUSA security team, P3) Sound/AV/equipment crew, P4) All persons present at UVU 9/10/2025, P5) FBI personnel, P6) DOJ and federal prosecutors, P7) Utah state and local law enforcement, P8) Judges and court personnel, P9) Defense attorneys, P10) US intelligence community personnel, P11) Foreign intelligence operatives and foreign nationals, P12) Military personnel and contractors, P13) Egyptian aircraft personnel, P14) Drone and surveillance operators, P15) Distraction persons and persons of interest, P16) Airport and transportation personnel, P17) TPUSA donors and persons who met with Kirk, P18) Kirk's close associates and confidants, P19) Erika Kirk and Kirk family, P20) Medical and hospital personnel, P21) Crime scene alteration personnel, P22) Witnesses and civilian videographers, P23) Life insurance and financial persons, P24) Tyler Robinson's associates, P25) Political figures and government officials, P26) Lobbyists and political organizations, P27) Media and journalists with inside knowledge, P28) AES personnel, P29) Rental car and lodging personnel, P30) Digital platform and telecom personnel, P31) UVU administration and staff, P32) Persons on listed aircraft, P33) Persons connected to Scott Lazerson, P34) Religious leaders, P35) Any other person with relevant information.
 
 - **P1)** All TPUSA employees, executives, board members, officers, contractors, consultants, and interns — current as of September 10, 2025 and for the 12 months prior. All TPUSA donors who contributed $5 million or more in any single year or $10 million cumulatively. All TPUSA event organizers, logistics personnel, and anyone involved in planning or executing the UVU event on September 10, 2025. Includes Erika Kirk and any person who assumed a leadership role at TPUSA within 30 days of Charlie Kirk's death.
 
