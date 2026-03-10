@@ -6,7 +6,7 @@ AUTHOR: Bryan Starbuck (BryanStarbuck@gmail.com)
 The Charlie Kirk Files Forced Disclosure Act - Law Enforcement
 
 ## Purpose
-To require the Department of Justice, the Federal Bureau of Investigation, and all federal, state, and local law enforcement agencies to fully and immediately disclose all files, records, communications, and information in their possession related to the investigation of the death of Charlie Kirk, including but not limited to the 207 specific disclosure items enumerated in Schedule A of this Act.
+To require the Department of Justice, the Federal Bureau of Investigation, and all federal, state, and local law enforcement agencies to fully and immediately disclose all files, records, communications, and information in their possession related to the investigation of the death of Charlie Kirk, including but not limited to the 208 specific disclosure items enumerated in Schedule A of this Act.
 
 ## Section 0: Congressional Findings
 
@@ -25,7 +25,7 @@ The Congress finds the following:
 (a) **"Covered agencies"** means the Department of Justice, the Federal Bureau of Investigation, the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), U.S. Customs and Border Protection (CBP), the Transportation Security Administration (TSA), the Department of Homeland Security, the Financial Crimes Enforcement Network (FinCEN), and any federal, state, or local law enforcement agency that has participated in, contributed to, or possesses information related to the investigation of the death of Charlie Kirk, the prosecution of any person in connection therewith, or any matter peripheral to or connected with the investigation.
 
 (b) **"Covered records"** means any and all files, documents, communications, reports, forensic evidence, witness statements, surveillance records, digital records, photographs, video recordings, audio recordings, cell site location information, geofence warrant data, flight records, financial records, ballistics analyses, autopsy reports, crime scene evidence, and any other information, in any format, that is related to or could reasonably assist in understanding the circumstances of the death of Charlie Kirk, including but not limited to:
-   1. All records specifically enumerated in Schedule A (207 Critical Disclosure Items)
+   1. All records specifically enumerated in Schedule A (208 Critical Disclosure Items)
    2. Any records that could identify or suggest the identity of any person involved in, connected to, or with knowledge of the death
    3. Any records relating to foreign intelligence service activity in the State of Utah during the period January 1, 2025 through December 31, 2025
    4. Any records relating to threats against Charlie Kirk or similarly situated public figures
@@ -122,7 +122,7 @@ The Congress finds the following:
    5. License plate reader data for rental vehicles
    6. All video footage of witnesses that FBI agents requested be deleted
 
-**Ballistics and Forensics (Items #141-#147):**
+**Ballistics and Forensics (Items #141-#148):**
    1. Complete ATF trace for the Mauser Model 98
    2. All manufacturing, import, and serial number documentation
    3. Metallurgical analysis of rifle components
@@ -130,7 +130,7 @@ The Congress finds the following:
    5. All ballistics analysis regarding the bullet path, caliber determination, and wound characteristics
    6. Any analysis regarding whether a caliber other than .30-06 was fired
 
-**Autopsy and Medical Evidence (Items #166-#170):**
+**Autopsy and Medical Evidence (Items #166-#171):**
    1. Complete autopsy report with wound measurements, trajectories, and photographs
    2. All evidence from the body regarding the lavalier microphone
    3. Toxicology results and any unusual findings
@@ -148,28 +148,28 @@ The Congress finds the following:
    8. All information on Charlie Kirk's communications expressing fear for his life (Item #14)
    9. All information on rental cars used by foreign operatives (Items #42, #124-#129)
    10. All information on psychological operations or manipulation of Tyler Robinson or Lance Twiggs (Item #38)
-   11. All information on foreigners in TPUSA or TPUSA donor communications with foreign intelligence (Items #3-#4, #160-#165)
+   11. All information on foreigners in TPUSA or TPUSA donor communications with foreign intelligence (Items #3-#4, #160-#166)
    12. All information on the Hampton meeting (August 3-6, 2025) (Item #50)
    13. All information on the DoD contract N0016425PJ538 for miniaturized anti-personnel charges delivered August 25, 2025
    14. All information on the AES factory explosion (October 10, 2025) and its connection to the investigation
    15. All information on crime scene alteration, including who authorized paving over the crime scene
-   16. All records related to Tyler Robinson's family statements and his claim of knowledge of other perpetrators (Items #176-#178)
-   17. All records of witness intimidation including fake therapy sessions and witness suppression (Items #179-#180)
-   18. All records related to Brian Harpole (member of Kirk's security detail with foreign security service background) (Item #181)
-   19. All records related to hospital routing decisions and FBI blocking a surgeon (Items #182-#184)
-   20. All TPUSA financial records including shell company payments and post-assassination board actions (Items #185-#186)
-   21. All records from Mosaic Pro Events, the Rode Wireless PRO microphone audio, and Mikey McCoy's mic-up video (Items #187-#189)
-   22. All records related to Butch Hibbs at UVU and the Heber City to Nashville flight on AES delivery day (Items #190-#191)
-   23. All records of the FBI RAV4 near Robinson and FBI direction of the re-search that "found" the weapon (Items #192-#193)
-   24. All records of the Fort Huachuca pre-assassination meeting (Item #194)
-   25. All records of live stream interruptions at UVU (Item #195)
-   26. All of Kirk's pre-death warnings, records on his parents' legal representation decisions, and his girlfriend (Items #196-#198)
-   27. Full forensic analysis of bullet casing engravings and planted evidence indicators (Item #199)
-   28. All records related to UVU crime scene paving (Item #200)
-   29. All records of the AES factory explosion investigation and its connection to DoD contract N0016425PJ538 (Item #201)
-   30. Tyler Robinson's complete travel path before and after the shooting, all prior visits to UVU campus, all evidence regarding Robinson's exact position at the moment of the shot, and all video footage and analysis of whether the rooftop suspect was running or stationary when the shot was fired (Items #202-#205)
+   16. All records related to Tyler Robinson's family statements and his claim of knowledge of other perpetrators (Items #176-#179)
+   17. All records of witness intimidation including fake therapy sessions and witness suppression (Items #179-#181)
+   18. All records related to Brian Harpole (member of Kirk's security detail with foreign security service background) (Item #182)
+   19. All records related to hospital routing decisions and FBI blocking a surgeon (Items #182-#185)
+   20. All TPUSA financial records including shell company payments and post-assassination board actions (Items #185-#187)
+   21. All records from Mosaic Pro Events, the Rode Wireless PRO microphone audio, and Mikey McCoy's mic-up video (Items #187-#190)
+   22. All records related to Butch Hibbs at UVU and the Heber City to Nashville flight on AES delivery day (Items #190-#192)
+   23. All records of the FBI RAV4 near Robinson and FBI direction of the re-search that "found" the weapon (Items #192-#194)
+   24. All records of the Fort Huachuca pre-assassination meeting (Item #195)
+   25. All records of live stream interruptions at UVU (Item #196)
+   26. All of Kirk's pre-death warnings, records on his parents' legal representation decisions, and his girlfriend (Items #196-#199)
+   27. Full forensic analysis of bullet casing engravings and planted evidence indicators (Item #200)
+   28. All records related to UVU crime scene paving (Item #201)
+   29. All records of the AES factory explosion investigation and its connection to DoD contract N0016425PJ538 (Item #202)
+   30. Tyler Robinson's complete travel path before and after the shooting, all prior visits to UVU campus, all evidence regarding Robinson's exact position at the moment of the shot, and all video footage and analysis of whether the rooftop suspect was running or stationary when the shot was fired (Items #202-#206)
 
-(b) **Schedule A** shall be the document titled "Charlie Kirk 207 Critical Disclosure Items" as maintained in the public repository at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, as of the date of enactment, incorporated by reference and attached as an appendix to this Act.
+(b) **Schedule A** shall be the document titled "Charlie Kirk 208 Critical Disclosure Items" as maintained in the public repository at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, as of the date of enactment, incorporated by reference and attached as an appendix to this Act.
 
 (c) The enumeration of specific items in this Section and in Schedule A shall not be construed to limit the scope of the broad disclosure mandate in Section 2. Both the broad mandate and the specific enumeration apply concurrently.
 
@@ -271,7 +271,7 @@ The Congress finds the following:
    1. All categories of records released and withheld
    2. A summary of redactions made, including the legal basis for each
    3. A list of all government officials and politically exposed persons named or referenced in the released materials, with no redactions permitted
-   4. Certification that all items enumerated in Schedule A have been fully addressed, with specific response to each of the 207 items
+   4. Certification that all items enumerated in Schedule A have been fully addressed, with specific response to each of the 208 items
 
 ## Section 11: No Presidential Override
 
@@ -309,7 +309,7 @@ This Act shall take effect immediately upon enactment. All criminal penalties un
 
 ---
 
-## Schedule A: 207 Critical Disclosure Items
+## Schedule A: 208 Critical Disclosure Items
 
 Import to apply:
 * "Intelligence" as it relates to FBI and DoJ means that the Intelligence side of the FBI is also required to disclose information on anything related to the Charlie Kirk case or the people involved.
@@ -333,30 +333,30 @@ Import to apply:
 - [Threat Assessments](#threat-assessments-113-117) (#113–#117)
 - [Surveillance Footage](#surveillance-footage-118-123) (#118–#123)
 - [Rental Car Records](#rental-car-records-124-129) (#124–#129)
-- [Hotel Records](#hotel-records-130-134) (#130–#134)
-- [Digital Forensics](#digital-forensics-135-140) (#135–#140)
-- [Ballistics](#ballistics-141-147) (#141–#147)
-- [Distraction People](#distraction-people-148-154) (#148–#154)
-- [Drones](#drones-155-159) (#155–#159)
-- [TPUSA Intel](#tpusa-intel-160-165) (#160–#165)
-- [Autopsy / Medical](#autopsy--medical-166-170) (#166–#170)
-- [International Liaison](#international-liaison-171-175) (#171–#175)
-- [Tyler Robinson Defense & Family](#tyler-robinson-defense--family-176-178) (#176–#178)
-- [Witness Intimidation](#witness-intimidation-179-180) (#179–#180)
-- [Security Detail & Foreign Connections](#security-detail--foreign-connections-181) (#181)
-- [Medical & Hospital Records](#medical--hospital-records-182-184) (#182–#184)
-- [TPUSA Financial Fraud](#tpusa-financial-fraud-185-186) (#185–#186)
-- [Mosaic Pro Events / AV Equipment](#mosaic-pro-events--av-equipment-187-189) (#187–#189)
-- [Butch Hibbs & Exploding Microphone](#butch-hibbs--exploding-microphone-190-191) (#190–#191)
-- [FBI Conduct at Scene](#fbi-conduct-at-scene-192-193) (#192–#193)
-- [Fort Huachuca Meeting](#fort-huachuca-meeting-194) (#194)
-- [Event Live Streams](#event-live-streams-195) (#195)
-- [Kirk's Personal Statements & Relationships](#kirks-personal-statements--relationships-196-198) (#196–#198)
-- [Bullet Engravings & Planted Evidence](#bullet-engravings--planted-evidence-199) (#199)
-- [Crime Scene Paving](#crime-scene-paving-200) (#200)
-- [AES Factory Explosion](#aes-factory-explosion-201) (#201)
-- [Tyler Robinson Movement & Identity](#tyler-robinson-movement--identity-202-205) (#202–#205)
-- [Venue Access & Non-Traditional Weapons](#venue-access--non-traditional-weapons-206-207) (#206–#207)
+- [Hotel Records](#hotel-records-131-135) (#131–#135)
+- [Digital Forensics](#digital-forensics-136-141) (#136–#141)
+- [Ballistics](#ballistics-142-148) (#142–#148)
+- [Distraction People](#distraction-people-149-155) (#149–#155)
+- [Drones](#drones-156-160) (#156–#160)
+- [TPUSA Intel](#tpusa-intel-161-166) (#161–#166)
+- [Autopsy / Medical](#autopsy--medical-167-171) (#167–#171)
+- [International Liaison](#international-liaison-172-176) (#172–#176)
+- [Tyler Robinson Defense & Family](#tyler-robinson-defense--family-177-179) (#177–#179)
+- [Witness Intimidation](#witness-intimidation-180-181) (#180–#181)
+- [Security Detail & Foreign Connections](#security-detail--foreign-connections-182) (#182)
+- [Medical & Hospital Records](#medical--hospital-records-183-185) (#183–#185)
+- [TPUSA Financial Fraud](#tpusa-financial-fraud-186-187) (#186–#187)
+- [Mosaic Pro Events / AV Equipment](#mosaic-pro-events--av-equipment-188-190) (#188–#190)
+- [Butch Hibbs & Exploding Microphone](#butch-hibbs--exploding-microphone-191-192) (#191–#192)
+- [FBI Conduct at Scene](#fbi-conduct-at-scene-193-194) (#193–#194)
+- [Fort Huachuca Meeting](#fort-huachuca-meeting-195) (#195)
+- [Event Live Streams](#event-live-streams-196) (#196)
+- [Kirk's Personal Statements & Relationships](#kirks-personal-statements--relationships-197-199) (#197–#199)
+- [Bullet Engravings & Planted Evidence](#bullet-engravings--planted-evidence-200) (#200)
+- [Crime Scene Paving](#crime-scene-paving-201) (#201)
+- [AES Factory Explosion](#aes-factory-explosion-202) (#202)
+- [Tyler Robinson Movement & Identity](#tyler-robinson-movement--identity-203-206) (#203–#206)
+- [Venue Access & Non-Traditional Weapons](#venue-access--non-traditional-weapons-207-208) (#207–#208)
 
 Each item in Schedule A is individually mandated for complete disclosure. Partial compliance with Schedule A does not constitute compliance with this Act.
 
@@ -670,227 +670,227 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 * #129: Unusual Vehicle Return Reports: Include all damage reports and unusual vehicle return inspection reports from rental companies. Also include all information on any rental vehicle returned with evidence of operational or surveillance use.
 
-* #129a: All Other Rental Vehicles Connected to the Investigation: Include all rental car agreements, GPS/telematics data, mileage records, fuel receipts, surveillance footage, and return reports for any rental vehicle used by FBI agents, FBI informants, DOJ personnel, any person identifying themselves as or claiming to be FBI or federal law enforcement, any federal or state law enforcement officer, any intelligence community personnel, or any other person possibly connected to the investigation—whether or not that person has been formally identified as a subject, witness, or person of interest. This includes any rental vehicle present in or traveling through the Provo, Orem, Salt Lake City, or broader Utah County area between August 1 and October 31, 2025, that was rented by, assigned to, or used by any of the above persons. Also include all rental car company internal records, employee notes, and communications referencing any renter who presented a government credential, badge, or claimed law enforcement affiliation.
+* #130: All Other Rental Vehicles Connected to the Investigation: Include all rental car agreements, GPS/telematics data, mileage records, fuel receipts, surveillance footage, and return reports for any rental vehicle used by FBI agents, FBI informants, DOJ personnel, any person identifying themselves as or claiming to be FBI or federal law enforcement, any federal or state law enforcement officer, any intelligence community personnel, or any other person possibly connected to the investigation—whether or not that person has been formally identified as a subject, witness, or person of interest. This includes any rental vehicle present in or traveling through the Provo, Orem, Salt Lake City, or broader Utah County area between August 1 and October 31, 2025, that was rented by, assigned to, or used by any of the above persons. Also include all rental car company internal records, employee notes, and communications referencing any renter who presented a government credential, badge, or claimed law enforcement affiliation.
 
 ---
 
-### Hotel Records (#130–#134)
+### Hotel Records (#131–#135)
 
-* #130: Foreign National Hotel Registration: Include all guest registration cards and passport copies for foreign nationals at hotels within 20 miles of UVU. Also include all information on any foreign national lodging in the Provo/Orem/Salt Lake area during August–October 2025.
+* #131: Foreign National Hotel Registration: Include all guest registration cards and passport copies for foreign nationals at hotels within 20 miles of UVU. Also include all information on any foreign national lodging in the Provo/Orem/Salt Lake area during August–October 2025.
 
-* #131: Hotel Key Card Access Logs: Include all room entry and exit key card logs from hotels where foreign nationals stayed. Also include all information on any hotel access records showing movement patterns of persons connected to the investigation.
+* #132: Hotel Key Card Access Logs: Include all room entry and exit key card logs from hotels where foreign nationals stayed. Also include all information on any hotel access records showing movement patterns of persons connected to the investigation.
 
-* #132: Hotel Wi-Fi Connection Logs: Include all Wi-Fi connection logs showing device MAC addresses from hotels where persons of interest stayed. Also include all information on any device network activity at hotels in the area during the relevant period.
+* #133: Hotel Wi-Fi Connection Logs: Include all Wi-Fi connection logs showing device MAC addresses from hotels where persons of interest stayed. Also include all information on any device network activity at hotels in the area during the relevant period.
 
-* #133: Hotel Room Service and Minibar Records: Include all in-room charges from hotels where persons of interest stayed to establish duration and nature of stays. Also include all information on any hotel billing records for persons connected to the investigation.
+* #134: Hotel Room Service and Minibar Records: Include all in-room charges from hotels where persons of interest stayed to establish duration and nature of stays. Also include all information on any hotel billing records for persons connected to the investigation.
 
-* #134: Hotel Business Center Usage Logs: Include all computer and printer usage logs from hotel business centers. Also include all information on any hotel facility usage by persons connected to the investigation that could indicate operational planning or communications.
-
----
-
-### Digital Forensics (#135–#140)
-
-* #135: Foreign Domain Email Communications: Include all email traffic to and from foreign domains obtained from ISPs and email providers. Also include all information on any electronic communication between persons of interest and foreign entities.
-
-* #136: VPN Foreign Connection Logs: Include all VPN connection records to foreign countries obtained from ISPs. Also include all information on any attempt by persons of interest to conceal communications through encrypted tunnels or anonymization services.
-
-* #137: Encrypted Messaging App Records: Include all Signal, Telegram, and WhatsApp account data and metadata from app providers for persons of interest. Also include all information on any encrypted or secure communication by persons connected to the investigation.
-
-* #138: Social Media Direct Messages: Include all Facebook, Instagram, and Twitter/X direct message records for persons of interest. Also include all information on any social media communication related to coordination, recruitment, or planning connected to the investigation.
-
-* #139: Deleted File Recovery Analysis: Include all recovered deleted communications and files from the FBI Digital Evidence Laboratory. Also include all information on any deleted, encrypted, or hidden digital evidence recovered from any device connected to the investigation.
-
-* #140: UVU Network Traffic During Incident: Include all network logs from the UVU IT Department for September 10, 2025, showing devices communicating during the assassination. Also include all information on any network activity, device connections, or data transmissions at UVU during the incident.
+* #135: Hotel Business Center Usage Logs: Include all computer and printer usage logs from hotel business centers. Also include all information on any hotel facility usage by persons connected to the investigation that could indicate operational planning or communications.
 
 ---
 
-### Ballistics (#141–#147)
+### Digital Forensics (#136–#141)
 
-* #141: ATF Trace for Mauser Model 98: Include the complete ATF National Tracing Center trace showing full ownership and transfer history of the Mauser Model 98. Also include all information on any prior owner, transfer, or possession of the rifle.
+* #136: Foreign Domain Email Communications: Include all email traffic to and from foreign domains obtained from ISPs and email providers. Also include all information on any electronic communication between persons of interest and foreign entities.
 
-* #142: Rifle Manufacturing and Serial Records: Include all manufacturing records, serial number documentation, and production records from ATF and the manufacturer. Also include all information on the origin, production date, and distribution history of the rifle.
+* #137: VPN Foreign Connection Logs: Include all VPN connection records to foreign countries obtained from ISPs. Also include all information on any attempt by persons of interest to conceal communications through encrypted tunnels or anonymization services.
 
-* #143: Rifle Import Records: Include all ATF and CBP import documentation if the weapon came from abroad. Also include all information on any foreign origin, international transfer, or importation of the rifle or its components.
+* #138: Encrypted Messaging App Records: Include all Signal, Telegram, and WhatsApp account data and metadata from app providers for persons of interest. Also include all information on any encrypted or secure communication by persons connected to the investigation.
 
-* #144: Rifle Metallurgical Analysis: Include all FBI Laboratory metal composition analysis of rifle components. Also include all information on any material analysis suggesting foreign manufacture, modification, or non-standard components.
+* #139: Social Media Direct Messages: Include all Facebook, Instagram, and Twitter/X direct message records for persons of interest. Also include all information on any social media communication related to coordination, recruitment, or planning connected to the investigation.
 
-* #145: Cartridge Engraving Analysis: Include all FBI Laboratory linguistic and cultural analysis of cartridge engravings including "Bella Ciao" and other inscriptions. Also include all information on the cultural, operational, or intelligence significance of any markings on ammunition.
+* #140: Deleted File Recovery Analysis: Include all recovered deleted communications and files from the FBI Digital Evidence Laboratory. Also include all information on any deleted, encrypted, or hidden digital evidence recovered from any device connected to the investigation.
 
-* #146: Engraving Tool Mark Analysis: Include all FBI Laboratory tool identification and tool mark analysis of engraving equipment used on cartridges. Also include all information on what equipment was used, where it was obtained, and who had access to it.
-
-* #147: Foreign Intel Weapon Signature Comparison: Include all FBI and CIA pattern analysis comparing the weapon and methods with known foreign intelligence tradecraft signatures. Also include all information on any similarity between evidence in this case and methods used by any foreign intelligence service.
+* #141: UVU Network Traffic During Incident: Include all network logs from the UVU IT Department for September 10, 2025, showing devices communicating during the assassination. Also include all information on any network activity, device connections, or data transmissions at UVU during the incident.
 
 ---
 
-### Distraction People (#148–#154)
+### Ballistics (#142–#148)
 
-* #148: All Individuals at UVU During Shooting: Include the complete FBI and UVU Police list of all individuals identified at UVU during the shooting. Also include all information on any person present at or near UVU on September 10, 2025, between 10 AM and 2 PM.
+* #142: ATF Trace for Mauser Model 98: Include the complete ATF National Tracing Center trace showing full ownership and transfer history of the Mauser Model 98. Also include all information on any prior owner, transfer, or possession of the rifle.
 
-* #149: Background Checks on Unidentified Individuals: Include all FBI criminal and intelligence background checks on unidentified individuals at UVU. Also include all information on any person at UVU whose identity was not immediately established or who had connections to intelligence services.
+* #143: Rifle Manufacturing and Serial Records: Include all manufacturing records, serial number documentation, and production records from ATF and the manufacturer. Also include all information on the origin, production date, and distribution history of the rifle.
 
-* #150: Foreign National Immigration Status: Include all CBP and USCIS visa and immigration status records for foreign nationals present at UVU. Also include all information on the immigration status, visa type, and entry circumstances of any non-U.S. citizen at UVU on September 10, 2025.
+* #144: Rifle Import Records: Include all ATF and CBP import documentation if the weapon came from abroad. Also include all information on any foreign origin, international transfer, or importation of the rifle or its components.
 
-* #151: Financial Records for UVU Attendees: Include all FinCEN and bank records of payments received by individuals at UVU before the incident, including whether any distraction persons or persons of interest received money, were offered money, or received any financial payments from any source — and full investigation of any financial payments they did receive. Also include all information on any financial transaction suggesting payment or compensation to any person present at UVU.
+* #145: Rifle Metallurgical Analysis: Include all FBI Laboratory metal composition analysis of rifle components. Also include all information on any material analysis suggesting foreign manufacture, modification, or non-standard components.
 
-* #152: Phone Records for Unidentified Attendees: Include all FBI call detail records and cell site location information for unidentified attendees at UVU. Also include all information on any phone activity by persons of interest at UVU on September 10, 2025.
+* #146: Cartridge Engraving Analysis: Include all FBI Laboratory linguistic and cultural analysis of cartridge engravings including "Bella Ciao" and other inscriptions. Also include all information on the cultural, operational, or intelligence significance of any markings on ammunition.
 
-* #153: UVU Attendee Travel Records: Include all airline and CBP records of recent international travel by UVU attendees. Also include all information on any foreign travel by persons present at UVU that could indicate recruitment or coordination.
+* #147: Engraving Tool Mark Analysis: Include all FBI Laboratory tool identification and tool mark analysis of engraving equipment used on cartridges. Also include all information on what equipment was used, where it was obtained, and who had access to it.
 
-* #154: Social Media Analysis of UVU Attendees: Include all FBI analysis of social media accounts and connections of UVU attendees. Also include all information on any social media activity by persons at UVU suggesting foreign intelligence contact or operational coordination.
-
----
-
-### Drones (#155–#159)
-
-* #155: Military Drones at Provo Airport: Include all FAA and DoD drone registration and flight records for military drones at Provo Airport from September 4–10, 2025. Also include all information on any military unmanned aircraft operations at or near PVU during August–October 2025.
-
-* #156: Counter-UAS Testing Documentation: Include all FAA and airport authority testing records and authorizations for Counter-UAS operations. Also include all information on any drone countermeasure testing, deployment, or capability demonstration at Provo Airport during 2025.
-
-* #157: Drone Flight Logs During UVU Event: Include all FAA drone flight logs for September 10, 2025, from 8 AM to 2 PM in the UVU area. Also include all information on any unmanned aircraft in the air within 20 miles of UVU during the event.
-
-* #158: Surveillance Plane N1098L Records: Include all FAA flight plans, crew information, and rental records for plane N1098L (HADES spy plane), which circled 35 minutes before the shooting. Also include all information on any surveillance aircraft operating in the Provo/Orem area during September 2025.
-
-* #159: Surveillance Aircraft Customer Identity: Include all charter company and FAA records identifying who requested, rented, and paid for surveillance aircraft over UVU. Also include all information on any person or entity that contracted aerial surveillance in the Utah County area during September 2025.
+* #148: Foreign Intel Weapon Signature Comparison: Include all FBI and CIA pattern analysis comparing the weapon and methods with known foreign intelligence tradecraft signatures. Also include all information on any similarity between evidence in this case and methods used by any foreign intelligence service.
 
 ---
 
-### TPUSA Intel (#160–#165)
+### Distraction People (#149–#155)
 
-* #160: FBI Reports on Foreign Intel in TPUSA: Include all FBI Counterintelligence reports on foreign intelligence recruitment within TPUSA from September 2023 through September 2025. Also include all information on any foreign intelligence service targeting, approaching, or recruiting TPUSA members or affiliates.
+* #149: All Individuals at UVU During Shooting: Include the complete FBI and UVU Police list of all individuals identified at UVU during the shooting. Also include all information on any person present at or near UVU on September 10, 2025, between 10 AM and 2 PM.
 
-* #161: FBI TPUSA Member Foreign Contact Interviews: Include all FBI Form 302s from interviews with TPUSA members regarding foreign contact. Also include all information on any FBI interview with any TPUSA-affiliated person about foreign intelligence approaches or relationships.
+* #150: Background Checks on Unidentified Individuals: Include all FBI criminal and intelligence background checks on unidentified individuals at UVU. Also include all information on any person at UVU whose identity was not immediately established or who had connections to intelligence services.
 
-* #162: TPUSA Member Foreign Travel Reports: Include all FBI reports on TPUSA member travel to Egypt, France, Israel, or other countries of interest. Also include all information on any foreign travel by TPUSA leadership or staff that involved contact with foreign government officials or intelligence personnel.
+* #151: Foreign National Immigration Status: Include all CBP and USCIS visa and immigration status records for foreign nationals present at UVU. Also include all information on the immigration status, visa type, and entry circumstances of any non-U.S. citizen at UVU on September 10, 2025.
 
-* #163: Foreign Payments to TPUSA: Include all FBI and FinCEN records of wire transfers and payments from foreign sources to TPUSA. Also include all information on any foreign funding, donation, or financial support to TPUSA from any foreign entity or individual.
+* #152: Financial Records for UVU Attendees: Include all FinCEN and bank records of payments received by individuals at UVU before the incident, including whether any distraction persons or persons of interest received money, were offered money, or received any financial payments from any source — and full investigation of any financial payments they did receive. Also include all information on any financial transaction suggesting payment or compensation to any person present at UVU.
 
-* #164: Kirk Security Chief Foreign Intel Links: Include all FBI investigation records of Charlie Kirk's head of security regarding foreign intelligence connections. Also include all information on any person in Kirk's security detail who had contact with or ties to any foreign intelligence service.
+* #153: Phone Records for Unidentified Attendees: Include all FBI call detail records and cell site location information for unidentified attendees at UVU. Also include all information on any phone activity by persons of interest at UVU on September 10, 2025.
 
-* #165: Hampton Meeting Foreign Intel Activity: Include all FBI reports on communications, threats, or money from Egyptian, French, or Israeli sources — including any involvement by Benjamin Netanyahu or Emmanuel Macron or their intermediaries — at the Hampton meeting of August 4–6, 2025. Also include all information on any foreign intelligence activity, influence, or presence at any TPUSA donor or leadership meeting during 2025.
+* #154: UVU Attendee Travel Records: Include all airline and CBP records of recent international travel by UVU attendees. Also include all information on any foreign travel by persons present at UVU that could indicate recruitment or coordination.
 
----
-
-### Autopsy / Medical (#166–#170)
-
-* #166: Complete Charlie Kirk Autopsy Report: Include the full autopsy documentation from the Utah Office of Medical Examiner, including wound measurements, trajectories, and photographs. Include all records explaining whether an autopsy on Charlie Kirk was declined or limited in scope, by whom, on what authority, and all communications related to that decision. Also include all information on any supplemental autopsy findings, second opinions, or additional medical examiner analysis.
-
-* #167: Lapel Microphone Evidence from Body: Include all evidence from the medical examiner and FBI regarding the lapel microphone found on or near the body. Also include all information on any fragments, residue, or material from the microphone recovered from the body, clothing, or immediate area.
-
-* #168: Unusual Autopsy Findings: Include all medical examiner toxicology reports, anomaly reports, and any unusual findings from the Utah Office of Medical Examiner. Include whether Charlie Kirk's heart stopped before his neck wound occurred. Include whether Charlie Kirk had brain damage or other damage that could be noticed or detected before the bullet or neck and tree wound occurred. Include whether there was any cause of death or cause of injury that was different from a bullet — or different from a .386-caliber bullet — that hurt Charlie Kirk or caused his death, including any evidence of explosion, blast effect, or non-ballistic trauma. Also include all information on any unexpected cause-of-death factors, foreign substances, or unexplained medical findings.
-
-* #169: Wound Trajectory Analysis: Include the complete wound trajectory documentation from the medical examiner, showing direction of the shot, and whether more than one bullet entered Charlie Kirk's body. Also include all information on any ballistic wound analysis, trajectory reconstruction, or determination of shooting position.
-
-* #170: Time of Death Determination: Include the precise time-of-death analysis from the medical examiner. Also include all information on any analysis establishing the exact timeline of the fatal event and Kirk's death.
+* #155: Social Media Analysis of UVU Attendees: Include all FBI analysis of social media accounts and connections of UVU attendees. Also include all information on any social media activity by persons at UVU suggesting foreign intelligence contact or operational coordination.
 
 ---
 
-### International Liaison (#171–#175)
+### Drones (#156–#160)
 
-* #171: FBI Legat Israel Communications: Include all cable traffic from FBI Legal Attaché Tel Aviv to and from Israeli authorities — including any communications involving Prime Minister Benjamin Netanyahu or his office — regarding the case. Also include all information on any U.S.–Israel intelligence sharing, liaison activity, or diplomatic communication about the Charlie Kirk investigation.
+* #156: Military Drones at Provo Airport: Include all FAA and DoD drone registration and flight records for military drones at Provo Airport from September 4–10, 2025. Also include all information on any military unmanned aircraft operations at or near PVU during August–October 2025.
 
-* #172: FBI Legat Egypt and France Communications: Include all communications from FBI Legal Attaché Cairo regarding Egyptian planes and personnel connected to the case, and all communications from FBI Legal Attaché Paris regarding French intelligence (DGSE), French legionnaires, or any activity directed by or connected to President Emmanuel Macron or his office. Also include all information on any U.S.–Egypt or U.S.–France intelligence sharing or diplomatic communication about the investigation.
+* #157: Counter-UAS Testing Documentation: Include all FAA and airport authority testing records and authorizations for Counter-UAS operations. Also include all information on any drone countermeasure testing, deployment, or capability demonstration at Provo Airport during 2025.
 
-* #173: Interpol Communications on Case: Include all FBI and Interpol international law enforcement sharing regarding the case. Also include all information on any international law enforcement cooperation, notice, or request related to the investigation.
+* #158: Drone Flight Logs During UVU Event: Include all FAA drone flight logs for September 10, 2025, from 8 AM to 2 PM in the UVU area. Also include all information on any unmanned aircraft in the air within 20 miles of UVU during the event.
 
-* #174: MLAT Requests and Responses: Include all formal Mutual Legal Assistance Treaty requests and responses from the DOJ Office of International Affairs. Also include all information on any international legal cooperation request made or received in connection with the investigation.
+* #159: Surveillance Plane N1098L Records: Include all FAA flight plans, crew information, and rental records for plane N1098L (HADES spy plane), which circled 35 minutes before the shooting. Also include all information on any surveillance aircraft operating in the Provo/Orem area during September 2025.
 
-* #175: Diplomatic Communications on Case: Include all State Department diplomatic cables about the assassination, including any communications with or involving Egyptian President El-Sisi, French President Emmanuel Macron, Israeli Prime Minister Benjamin Netanyahu, or their offices. Also include all information on any diplomatic communication, protest, inquiry, or notification by any foreign government regarding the Charlie Kirk investigation.
+* #160: Surveillance Aircraft Customer Identity: Include all charter company and FAA records identifying who requested, rented, and paid for surveillance aircraft over UVU. Also include all information on any person or entity that contracted aerial surveillance in the Utah County area during September 2025.
 
-### Tyler Robinson Defense & Family (#176–#178)
+---
 
-* #176: Tyler Robinson Family Statements: Include all statements by Tyler Robinson's family members — made in person, in court, or to investigators — asserting that Tyler Robinson did not commit the assassination or that he stated he "didn't do it but knows who did but won't say because it would endanger the family." Include all records regarding the rapid family cooperation in turning Tyler in, whether his roommate was placed under protection, all confessions made by Tyler Robinson, and all records regarding early FBI/ATF bulletins on "trans ideology bullets" that were subsequently and quietly retracted — including who authored those bulletins, who authorized the retraction, and why. Also include all records of family members' claims at the January 16th hearing and any other proceedings, and all evidence regarding whether a Mormon preacher and a retired sheriff turned him in rather than his parents.
+### TPUSA Intel (#161–#166)
 
-* #177: Mormon Preacher and Retired Sheriff: Include full identification and all records, communications, and interviews related to the Mormon preacher and retired sheriff who reportedly turned Tyler Robinson in. Also include all information on how they obtained information about Robinson, who directed them to contact law enforcement, and whether any federal agency or intelligence service coordinated or incentivized their actions.
+* #161: FBI Reports on Foreign Intel in TPUSA: Include all FBI Counterintelligence reports on foreign intelligence recruitment within TPUSA from September 2023 through September 2025. Also include all information on any foreign intelligence service targeting, approaching, or recruiting TPUSA members or affiliates.
 
-* #178: Tyler Robinson's Claim of Knowledge: Include all FBI 302 reports, interview transcripts, jail recordings, and communications in which Tyler Robinson indicated knowledge of who was responsible for the assassination. Also include all offers of cooperation, plea discussions, or debriefings in which Robinson provided or attempted to provide information about other participants.
+* #162: FBI TPUSA Member Foreign Contact Interviews: Include all FBI Form 302s from interviews with TPUSA members regarding foreign contact. Also include all information on any FBI interview with any TPUSA-affiliated person about foreign intelligence approaches or relationships.
 
-### Witness Intimidation (#179–#180)
+* #163: TPUSA Member Foreign Travel Reports: Include all FBI reports on TPUSA member travel to Egypt, France, Israel, or other countries of interest. Also include all information on any foreign travel by TPUSA leadership or staff that involved contact with foreign government officials or intelligence personnel.
 
-* #179: Fake Therapy Witness Intimidation: Include all records related to "free trauma counseling" sessions offered to UVU witnesses of the assassination, specifically the identity of the therapist who locked a UVU student witness in a room, told him "You're the next target," admitted to carrying a gun, and refused to let him leave until his own supervisor ordered the door opened. Also include the identity of the agency or organization that arranged and funded these sessions, whether any federal agency coordinated or directed them, and all communications between the therapy provider and any government agency.
+* #164: Foreign Payments to TPUSA: Include all FBI and FinCEN records of wire transfers and payments from foreign sources to TPUSA. Also include all information on any foreign funding, donation, or financial support to TPUSA from any foreign entity or individual.
 
-* #180: Witness Suppression After Shooting: Include all records of efforts to discourage, intimidate, or silence civilian witnesses at UVU on September 10, 2025 and afterward. Also include any directives from FBI or other agencies to local law enforcement to prevent witnesses from speaking publicly, and all records explaining why no verifiable UVU student witnesses have come forward publicly despite hundreds being present.
+* #165: Kirk Security Chief Foreign Intel Links: Include all FBI investigation records of Charlie Kirk's head of security regarding foreign intelligence connections. Also include all information on any person in Kirk's security detail who had contact with or ties to any foreign intelligence service.
 
-### Security Detail & Foreign Connections (#181)
+* #166: Hampton Meeting Foreign Intel Activity: Include all FBI reports on communications, threats, or money from Egyptian, French, or Israeli sources — including any involvement by Benjamin Netanyahu or Emmanuel Macron or their intermediaries — at the Hampton meeting of August 4–6, 2025. Also include all information on any foreign intelligence activity, influence, or presence at any TPUSA donor or leadership meeting during 2025.
 
-* #181: Brian Harpole — Foreign Security Background on Kirk Detail: Include all records, contracts, and communications related to Brian Harpole, a former police officer/mercenary embedded in Charlie Kirk's security detail on September 10, 2025, who has photographic evidence (from 2017) placing him on a foreign head-of-state security detail. Also include his full employment history with any foreign government or foreign security service, who placed him on Kirk's detail, his communications in the 30 days before and after the assassination, and whether any foreign government entity coordinated his assignment.
+---
 
-### Medical & Hospital Records (#182–#184)
+### Autopsy / Medical (#167–#171)
 
-* #182: Hospital Routing Decision: Include all records explaining why Charlie Kirk was transported to Timpanogos Regional Hospital instead of Utah Valley Hospital (a Level II trauma center and the designated facility for life-threatening gunshot wounds in Utah County). Also include all protocols, communications, and decisions made by paramedics, dispatchers, or any other personnel regarding hospital selection, and any records showing why Kirk had a pre-existing medical file at Utah Medical Center.
+* #167: Complete Charlie Kirk Autopsy Report: Include the full autopsy documentation from the Utah Office of Medical Examiner, including wound measurements, trajectories, and photographs. Include all records explaining whether an autopsy on Charlie Kirk was declined or limited in scope, by whom, on what authority, and all communications related to that decision. Also include all information on any supplemental autopsy findings, second opinions, or additional medical examiner analysis.
 
-* #183: Surgeon Blocked by FBI: Include all records related to the FBI physically preventing a surgeon from re-entering the room where Charlie Kirk was being treated. Also include the identity of the FBI agents involved, the authority cited, and all communications between FBI and hospital medical staff regarding access to Kirk.
+* #168: Lapel Microphone Evidence from Body: Include all evidence from the medical examiner and FBI regarding the lapel microphone found on or near the body. Also include all information on any fragments, residue, or material from the microphone recovered from the body, clothing, or immediate area.
 
-* #184: Glass or Plastic Fragments in Transport: Include all forensic reports and evidence collection records related to glass or plastic fragments found on the ground near or in the car used to transport Charlie Kirk to the hospital. Also include origin analysis of these fragments and whether they are consistent with an exploding device.
+* #169: Unusual Autopsy Findings: Include all medical examiner toxicology reports, anomaly reports, and any unusual findings from the Utah Office of Medical Examiner. Include whether Charlie Kirk's heart stopped before his neck wound occurred. Include whether Charlie Kirk had brain damage or other damage that could be noticed or detected before the bullet or neck and tree wound occurred. Include whether there was any cause of death or cause of injury that was different from a bullet — or different from a .386-caliber bullet — that hurt Charlie Kirk or caused his death, including any evidence of explosion, blast effect, or non-ballistic trauma. Also include all information on any unexpected cause-of-death factors, foreign substances, or unexplained medical findings.
 
-### TPUSA Financial Fraud (#185–#186)
+* #170: Wound Trajectory Analysis: Include the complete wound trajectory documentation from the medical examiner, showing direction of the shot, and whether more than one bullet entered Charlie Kirk's body. Also include all information on any ballistic wound analysis, trajectory reconstruction, or determination of shooting position.
 
-* #185: TPUSA Shell Company Payments: Include all financial records, contracts, and communications related to payments by TPUSA to Resource One (DBA for Moore DM Group, a $700M political direct mail conglomerate) — approximately $9M+ paid while TPUSA reported only $1.35M for printing — and Clocktower LLC (dissolved 2022) — $999K for a "research project" with no public deliverables. Also include all connections to Jake Hoffman, 1Ten LLC, and fake elector schemes, and all records of Erika Kirk's mother's appointment to and service on the TPUSA board.
+* #171: Time of Death Determination: Include the precise time-of-death analysis from the medical examiner. Also include all information on any analysis establishing the exact timeline of the fatal event and Kirk's death.
 
-* #186: TPUSA Board Actions Post-Assassination: Include all records of TPUSA board meetings, votes, communications, and negotiations between September 10, 2025 (Kirk's death) and September 18, 2025 (Erika Kirk's announcement as CEO). Include all records and video documenting Charlie Kirk's close associates, including Erika Kirk, appearing strangely composed or unaffected immediately after the event. Also include all information on the 8-day gap before Erika's TPUSA CEO announcement, all negotiations with donors, board members, and foreign interests during that period, and all records related to Erika Kirk's speech referencing "evil Do-ERs" (plural) approximately 55 hours after Charlie Kirk's death.
+---
 
-### Mosaic Pro Events / AV Equipment (#187–#189)
+### International Liaison (#172–#176)
 
-* #187: Mosaic Pro Events Staff Scheduling Anomaly: Include all scheduling records from Mosaic Pro Events for the TPUSA campus tour, specifically explaining why no Mosaic night staff was scheduled for the UVU event (the first tour stop) while all subsequent stops had night events scheduled. Also include all contracts, work orders, and communications between Mosaic Pro Events and TPUSA regarding the UVU event.
+* #172: FBI Legat Israel Communications: Include all cable traffic from FBI Legal Attaché Tel Aviv to and from Israeli authorities — including any communications involving Prime Minister Benjamin Netanyahu or his office — regarding the case. Also include all information on any U.S.–Israel intelligence sharing, liaison activity, or diplomatic communication about the Charlie Kirk investigation.
 
-* #188: Rode Wireless PRO Microphone Audio: Include all audio captured by the Rode Wireless PRO microphone Charlie Kirk was wearing, which records internally at 32-bit audio and cannot be turned off by the wearer — only remotely — from the moment it was removed from its case through the end of the event. Also include the current location and chain of custody of this microphone, all records of its destruction if destroyed, and all audio from any Rode devices present at the event including backup recordings stored on TPUSA or Mosaic servers.
+* #173: FBI Legat Egypt and France Communications: Include all communications from FBI Legal Attaché Cairo regarding Egyptian planes and personnel connected to the case, and all communications from FBI Legal Attaché Paris regarding French intelligence (DGSE), French legionnaires, or any activity directed by or connected to President Emmanuel Macron or his office. Also include all information on any U.S.–Egypt or U.S.–France intelligence sharing or diplomatic communication about the investigation.
 
-* #189: Mikey McCoy's Mic-Up Video: Include the close-up video filmed by Mikey McCoy showing Charlie Kirk being mic'd up before the event. Also include the current location of this video, whether it was deleted or requested to be deleted by any agency, and all communications between McCoy and any government agency regarding this footage.
+* #174: Interpol Communications on Case: Include all FBI and Interpol international law enforcement sharing regarding the case. Also include all information on any international law enforcement cooperation, notice, or request related to the investigation.
 
-### Butch Hibbs & Exploding Microphone (#190–#191)
+* #175: MLAT Requests and Responses: Include all formal Mutual Legal Assistance Treaty requests and responses from the DOJ Office of International Affairs. Also include all information on any international legal cooperation request made or received in connection with the investigation.
 
-* #190: Butch Hibbs at UVU Event: Include all records, photographs, video, and communications related to Butch Hibbs (brother of Calvary Chapel pastor Jack Hibbs) at the UVU event on September 10, 2025, specifically the square object in his front right pocket matching the dimensions of a Rode Wireless GO II receiver (approximately 2x2 inches), his proximity to the sound crew, photographs showing his pocket empty after Kirk was killed, and his movements throughout the event. Include all evidence of any kind of explosion that happened within an hour before or an hour and a half after Charlie Kirk died, at or near UVU or any related location. Also include all of Butch Hibbs's communications in the 60 days before and 30 days after the assassination.
+* #176: Diplomatic Communications on Case: Include all State Department diplomatic cables about the assassination, including any communications with or involving Egyptian President El-Sisi, French President Emmanuel Macron, Israeli Prime Minister Benjamin Netanyahu, or their offices. Also include all information on any diplomatic communication, protest, inquiry, or notification by any foreign government regarding the Charlie Kirk investigation.
 
-* #191: Heber City to Nashville Flight (Aug 25, 2025): Include all records related to the private aircraft flight from Heber City, Utah to John Tune Airport, Nashville, Tennessee on August 25, 2025 — the same day AES delivered the "MINIATURIZED-XS DEMOLITION CHARGES, ANTI PERSONNEL-XS" under DoD contract N0016425PJ538. Also include the passenger manifest, aircraft registration, who chartered or owned the aircraft, and any connection to Butch Hibbs or any person associated with TPUSA, Calvary Chapel, or the Charlie Kirk investigation.
+### Tyler Robinson Defense & Family (#177–#179)
 
-### FBI Conduct at Scene (#192–#193)
+* #177: Tyler Robinson Family Statements: Include all statements by Tyler Robinson's family members — made in person, in court, or to investigators — asserting that Tyler Robinson did not commit the assassination or that he stated he "didn't do it but knows who did but won't say because it would endanger the family." Include all records regarding the rapid family cooperation in turning Tyler in, whether his roommate was placed under protection, all confessions made by Tyler Robinson, and all records regarding early FBI/ATF bulletins on "trans ideology bullets" that were subsequently and quietly retracted — including who authored those bulletins, who authorized the retraction, and why. Also include all records of family members' claims at the January 16th hearing and any other proceedings, and all evidence regarding whether a Mormon preacher and a retired sheriff turned him in rather than his parents.
 
-* #192: FBI RAV4 Near Robinson Post-Shooting: Include all records related to the FBI agent(s) in an unmarked RAV4 who drove past Tyler Robinson immediately after the shooting and subsequently flashed an FBI badge when pulled over by local law enforcement. Also include the identity of these agents, their assignment, why they were in the area, and all communications and GPS/vehicle tracking data for this vehicle on September 10, 2025.
+* #178: Mormon Preacher and Retired Sheriff: Include full identification and all records, communications, and interviews related to the Mormon preacher and retired sheriff who reportedly turned Tyler Robinson in. Also include all information on how they obtained information about Robinson, who directed them to contact law enforcement, and whether any federal agency or intelligence service coordinated or incentivized their actions.
 
-* #193: FBI Direction of Re-Search Finding Weapon: Include detailed records of the sequence of searches for the weapon: (1) the initial arm-to-arm local law enforcement search that found nothing, (2) the K-9 search that found nothing, (3) the arrival of three federal agents who directed three junior local law enforcement officers to re-search the area, after which the weapon was "found." Also include the identity of the three federal agents, their chain of command, how they knew to direct a re-search of that specific area, and whether the weapon was planted.
+* #179: Tyler Robinson's Claim of Knowledge: Include all FBI 302 reports, interview transcripts, jail recordings, and communications in which Tyler Robinson indicated knowledge of who was responsible for the assassination. Also include all offers of cooperation, plea discussions, or debriefings in which Robinson provided or attempted to provide information about other participants.
 
-### Fort Huachuca Meeting (#194)
+### Witness Intimidation (#180–#181)
 
-* #194: Fort Huachuca Pre-Assassination Meeting: Include all records related to a meeting at Fort Huachuca (U.S. Army intelligence installation) referenced as involving "JTF" (Joint Task Force), including the identity of all participants — the woman with striking blue eyes who "dressed down" (reportedly the top administration visitor, possibly Karoline Leavitt), a Hispanic female Secret Service agent, a GSA representative, and Congressman Mark E. Amodei (R-NV). Also include all records of what was discussed, why they "cared very much about the next 24 hours," and the timeline of this meeting relative to the assassination.
+* #180: Fake Therapy Witness Intimidation: Include all records related to "free trauma counseling" sessions offered to UVU witnesses of the assassination, specifically the identity of the therapist who locked a UVU student witness in a room, told him "You're the next target," admitted to carrying a gun, and refused to let him leave until his own supervisor ordered the door opened. Also include the identity of the agency or organization that arranged and funded these sessions, whether any federal agency coordinated or directed them, and all communications between the therapy provider and any government agency.
 
-### Event Live Streams (#195)
+* #181: Witness Suppression After Shooting: Include all records of efforts to discourage, intimidate, or silence civilian witnesses at UVU on September 10, 2025 and afterward. Also include any directives from FBI or other agencies to local law enforcement to prevent witnesses from speaking publicly, and all records explaining why no verifiable UVU student witnesses have come forward publicly despite hundreds being present.
 
-* #195: Live Stream Interruptions at UVU: Include all records explaining whether live streams of the UVU event were cut or interrupted during or immediately after the shooting, which streams continued and which were stopped, who had the authority and ability to cut streams. Also include all communications between TPUSA, Mosaic Pro Events, streaming platforms, and any government agency regarding live stream management on September 10, 2025.
+### Security Detail & Foreign Connections (#182)
 
-### Kirk's Personal Statements & Relationships (#196–#198)
+* #182: Brian Harpole — Foreign Security Background on Kirk Detail: Include all records, contracts, and communications related to Brian Harpole, a former police officer/mercenary embedded in Charlie Kirk's security detail on September 10, 2025, who has photographic evidence (from 2017) placing him on a foreign head-of-state security detail. Also include his full employment history with any foreign government or foreign security service, who placed him on Kirk's detail, his communications in the 30 days before and after the assassination, and whether any foreign government entity coordinated his assignment.
 
-* #196: Kirk's Pre-Death Warnings — Full Record: Include all communications by Charlie Kirk in the 90 days before his death expressing fear for his life, identifying specific threats or threateners, or describing confrontations — beyond the known texts saying "THEY ARE GOING TO KILL ME." Also include all records from the Hamptons meeting where he was confronted by pro-Israel figures, including the donor who asked "What would happen to TPUSA if you DIED?" approximately 40 days before the assassination (confirmed by Erika Kirk in an interview with Megyn Kelly).
+### Medical & Hospital Records (#183–#185)
 
-* #197: Kirk's Parents and Legal Representation: Include all communications and records explaining why Charlie Kirk's parents reportedly did not want high-end attorneys involved in the case. Also include whether any person, agency, or organization pressured or advised Kirk's family regarding legal representation, and all communications between Kirk's family and any government agency or TPUSA regarding the investigation.
+* #183: Hospital Routing Decision: Include all records explaining why Charlie Kirk was transported to Timpanogos Regional Hospital instead of Utah Valley Hospital (a Level II trauma center and the designated facility for life-threatening gunshot wounds in Utah County). Also include all protocols, communications, and decisions made by paramedics, dispatchers, or any other personnel regarding hospital selection, and any records showing why Kirk had a pre-existing medical file at Utah Medical Center.
 
-* #198: Kirk's Girlfriend: Include all records, communications, and interview transcripts related to Charlie Kirk's girlfriend, her presence or absence at the UVU event, her communications with Kirk in the days before the assassination, and any contact between her and federal investigators.
+* #184: Surgeon Blocked by FBI: Include all records related to the FBI physically preventing a surgeon from re-entering the room where Charlie Kirk was being treated. Also include the identity of the FBI agents involved, the authority cited, and all communications between FBI and hospital medical staff regarding access to Kirk.
 
-### Bullet Engravings & Planted Evidence (#199)
+* #185: Glass or Plastic Fragments in Transport: Include all forensic reports and evidence collection records related to glass or plastic fragments found on the ground near or in the car used to transport Charlie Kirk to the hospital. Also include origin analysis of these fragments and whether they are consistent with an exploding device.
 
-* #199: Bullet Casing Engravings Analysis: Include full forensic analysis of the engraved cartridge casings, including tools used for engraving, timeline of when engravings were made (before or after firing), whether the engravings are consistent with Tyler Robinson's handwriting and known tools, and whether the engravings appear staged or planted. Include analysis of whether the motive appears scripted — specifically that Tyler Robinson's texts and gun engravings resemble an "internet meme salad" mixed with anti-fascist nods, designed to pin blame on the "radical left" while lacking deeper radicalization traces — and all FBI investigation into whether the motive narrative was manufactured. Also include all chain-of-custody records for these casings from discovery through current storage. The cartridge inscriptions ("Notices Bulge OWO what's this?", "hey fascist! CATCH!", "O Bella ciao, Bella ciao, Bella ciao, Ciao, ciao!", "If you read This, you are GAY Lmao") are inconsistent with a serious assassination and suggest evidence manufacturing.
+### TPUSA Financial Fraud (#186–#187)
 
-### Crime Scene Paving (#200)
+* #186: TPUSA Shell Company Payments: Include all financial records, contracts, and communications related to payments by TPUSA to Resource One (DBA for Moore DM Group, a $700M political direct mail conglomerate) — approximately $9M+ paid while TPUSA reported only $1.35M for printing — and Clocktower LLC (dissolved 2022) — $999K for a "research project" with no public deliverables. Also include all connections to Jake Hoffman, 1Ten LLC, and fake elector schemes, and all records of Erika Kirk's mother's appointment to and service on the TPUSA board.
 
-* #200: UVU Crime Scene Paving & Alteration: Include all records, communications, contracts, and authorizations related to the paving over of the crime scene at Utah Valley University, including who authorized the paving, when it occurred relative to the completion of forensic examination, whether all evidence had been collected before destruction, and whether any federal or state agency objected to or approved the destruction. Include all records of the crime scene being rapidly scrubbed, altered, or cleaned up post-incident — including who ordered and performed the cleanup, what was removed, and whether any evidence was lost as a result. Also include all communications between UVU administration and any government agency regarding the crime scene.
+* #187: TPUSA Board Actions Post-Assassination: Include all records of TPUSA board meetings, votes, communications, and negotiations between September 10, 2025 (Kirk's death) and September 18, 2025 (Erika Kirk's announcement as CEO). Include all records and video documenting Charlie Kirk's close associates, including Erika Kirk, appearing strangely composed or unaffected immediately after the event. Also include all information on the 8-day gap before Erika's TPUSA CEO announcement, all negotiations with donors, board members, and foreign interests during that period, and all records related to Erika Kirk's speech referencing "evil Do-ERs" (plural) approximately 55 hours after Charlie Kirk's death.
 
-### AES Factory Explosion (#201)
+### Mosaic Pro Events / AV Equipment (#188–#190)
 
-* #201: AES Factory Explosion Investigation: Include all federal investigation records (ATF, OSHA, FBI, DOD) related to the explosion at the Accurate Energetic Systems facility in McEwen, Tennessee on October 10, 2025, which killed 16 employees — the deadliest above-ground industrial accident in the US in 34 years. Also include whether any investigation examined the connection between this explosion and the DoD contract N0016425PJ538 for miniaturized anti-personnel charges, all records of which employees had knowledge of or involvement in the N0016425PJ538 contract and whether any of those specific employees were among the 16 killed, and all records of whether the explosion destroyed evidence, blueprints, production records, or test data related to the miniaturized devices.
+* #188: Mosaic Pro Events Staff Scheduling Anomaly: Include all scheduling records from Mosaic Pro Events for the TPUSA campus tour, specifically explaining why no Mosaic night staff was scheduled for the UVU event (the first tour stop) while all subsequent stops had night events scheduled. Also include all contracts, work orders, and communications between Mosaic Pro Events and TPUSA regarding the UVU event.
 
-### Tyler Robinson Movement & Identity (#202–#205)
+* #189: Rode Wireless PRO Microphone Audio: Include all audio captured by the Rode Wireless PRO microphone Charlie Kirk was wearing, which records internally at 32-bit audio and cannot be turned off by the wearer — only remotely — from the moment it was removed from its case through the end of the event. Also include the current location and chain of custody of this microphone, all records of its destruction if destroyed, and all audio from any Rode devices present at the event including backup recordings stored on TPUSA or Mosaic servers.
 
-* #202: Tyler Robinson Complete Travel Path: Include all FBI, law enforcement, and intelligence information on Tyler Robinson's complete travel path and movements in the 72 hours before and 24 hours after the shooting on September 10, 2025 — including every location visited, mode of transportation used, timestamps, surveillance footage, cell phone location data, GPS data, witness sightings, and any stops along the way. Include his route to UVU, how he entered the campus, what path he took through the campus, what buildings he entered, how he accessed the rooftop, what path he took after the shooting, and how he departed the campus. Include all records of visitors to Tyler Robinson's home in the lead-up to the event, including dates, identities, surveillance footage, and any connection between those visitors and any intelligence service or other organization. Also include all information on Tyler Robinson's movements for the 30 days prior to the shooting.
+* #190: Mikey McCoy's Mic-Up Video: Include the close-up video filmed by Mikey McCoy showing Charlie Kirk being mic'd up before the event. Also include the current location of this video, whether it was deleted or requested to be deleted by any agency, and all communications between McCoy and any government agency regarding this footage.
 
-* #203: Tyler Robinson Prior Visits to UVU: Include all FBI, law enforcement, and intelligence information on whether Tyler Robinson had ever visited the Utah Valley University campus prior to September 10, 2025. Include any surveillance footage, cell phone location data, campus access records, witness statements, or any other evidence showing Robinson at or near UVU on any date before the shooting. Also include any investigation into whether Robinson conducted reconnaissance or scouting visits to the campus, and whether any other person accompanied him on any prior visit.
+### Butch Hibbs & Exploding Microphone (#191–#192)
 
-* #204: Tyler Robinson Position at Time of Shooting: Include all FBI and law enforcement analysis, video footage, witness statements, cell phone data, and any other evidence addressing whether Tyler Robinson was on the rooftop, in the stairways, or at any other location at the exact moment the fatal shot was fired. Include all timeline reconstruction showing Robinson's second-by-second position, and whether the investigation found or considered the possibility that Robinson was already descending or off the roof when the shot occurred. Also include all information on whether any person other than Robinson was on the rooftop at the time of the shot.
+* #191: Butch Hibbs at UVU Event: Include all records, photographs, video, and communications related to Butch Hibbs (brother of Calvary Chapel pastor Jack Hibbs) at the UVU event on September 10, 2025, specifically the square object in his front right pocket matching the dimensions of a Rode Wireless GO II receiver (approximately 2x2 inches), his proximity to the sound crew, photographs showing his pocket empty after Kirk was killed, and his movements throughout the event. Include all evidence of any kind of explosion that happened within an hour before or an hour and a half after Charlie Kirk died, at or near UVU or any related location. Also include all of Butch Hibbs's communications in the 60 days before and 30 days after the assassination.
 
-* #205: Rooftop Suspect Movement at Moment of Shot: Include all video footage, witness statements, and FBI analysis showing whether the person on the rooftop was stationary (in a firing position) or running/moving at the exact moment the shot was fired. Include all surveillance camera angles, drone footage, aerial footage, and any other visual evidence capturing the rooftop at the time of the shooting. Include whether the movement pattern observed is consistent with a person who just fired a rifle versus a person who was not the shooter. Also include all information on whether any shots were fired from drones, from any other elevated position, or from any location other than the Losee Center rooftop, and the total number of shots fired from each identified origin point.
+* #192: Heber City to Nashville Flight (Aug 25, 2025): Include all records related to the private aircraft flight from Heber City, Utah to John Tune Airport, Nashville, Tennessee on August 25, 2025 — the same day AES delivered the "MINIATURIZED-XS DEMOLITION CHARGES, ANTI PERSONNEL-XS" under DoD contract N0016425PJ538. Also include the passenger manifest, aircraft registration, who chartered or owned the aircraft, and any connection to Butch Hibbs or any person associated with TPUSA, Calvary Chapel, or the Charlie Kirk investigation.
 
-### Venue Access & Non-Traditional Weapons (#206–#207)
+### FBI Conduct at Scene (#193–#194)
 
-* #206: Hatch Beneath Charlie Kirk's Seat: Include all records, blueprints, building plans, photographs, and video related to the presence of a hatch, access panel, or below-stage access point beneath or near Charlie Kirk's seat at the UVU event venue on September 10, 2025. Include all information on who had knowledge of this access point, whether it was used before, during, or after the event, who had access to it, and whether any person, equipment, or weapon was staged, concealed, or moved through it.
+* #193: FBI RAV4 Near Robinson Post-Shooting: Include all records related to the FBI agent(s) in an unmarked RAV4 who drove past Tyler Robinson immediately after the shooting and subsequently flashed an FBI badge when pulled over by local law enforcement. Also include the identity of these agents, their assignment, why they were in the area, and all communications and GPS/vehicle tracking data for this vehicle on September 10, 2025.
 
-* #207: Non-Traditional Weapon or "Camera Gun" Theory: Include all FBI and law enforcement investigation into the theory that a non-traditional weapon — including but not limited to a "camera gun" or other weapon disguised as event equipment (camera, microphone, lighting, AV gear) — was used in the assassination. Include all forensic analysis of any event equipment that could have been modified to conceal or function as a weapon, all records of any unusual or unregistered equipment brought to the UVU event, and all investigation into whether any device other than the Mauser Model 98 rifle was used to fire a projectile on September 10, 2025.
+* #194: FBI Direction of Re-Search Finding Weapon: Include detailed records of the sequence of searches for the weapon: (1) the initial arm-to-arm local law enforcement search that found nothing, (2) the K-9 search that found nothing, (3) the arrival of three federal agents who directed three junior local law enforcement officers to re-search the area, after which the weapon was "found." Also include the identity of the three federal agents, their chain of command, how they knew to direct a re-search of that specific area, and whether the weapon was planted.
+
+### Fort Huachuca Meeting (#195)
+
+* #195: Fort Huachuca Pre-Assassination Meeting: Include all records related to a meeting at Fort Huachuca (U.S. Army intelligence installation) referenced as involving "JTF" (Joint Task Force), including the identity of all participants — the woman with striking blue eyes who "dressed down" (reportedly the top administration visitor, possibly Karoline Leavitt), a Hispanic female Secret Service agent, a GSA representative, and Congressman Mark E. Amodei (R-NV). Also include all records of what was discussed, why they "cared very much about the next 24 hours," and the timeline of this meeting relative to the assassination.
+
+### Event Live Streams (#196)
+
+* #196: Live Stream Interruptions at UVU: Include all records explaining whether live streams of the UVU event were cut or interrupted during or immediately after the shooting, which streams continued and which were stopped, who had the authority and ability to cut streams. Also include all communications between TPUSA, Mosaic Pro Events, streaming platforms, and any government agency regarding live stream management on September 10, 2025.
+
+### Kirk's Personal Statements & Relationships (#197–#199)
+
+* #197: Kirk's Pre-Death Warnings — Full Record: Include all communications by Charlie Kirk in the 90 days before his death expressing fear for his life, identifying specific threats or threateners, or describing confrontations — beyond the known texts saying "THEY ARE GOING TO KILL ME." Also include all records from the Hamptons meeting where he was confronted by pro-Israel figures, including the donor who asked "What would happen to TPUSA if you DIED?" approximately 40 days before the assassination (confirmed by Erika Kirk in an interview with Megyn Kelly).
+
+* #198: Kirk's Parents and Legal Representation: Include all communications and records explaining why Charlie Kirk's parents reportedly did not want high-end attorneys involved in the case. Also include whether any person, agency, or organization pressured or advised Kirk's family regarding legal representation, and all communications between Kirk's family and any government agency or TPUSA regarding the investigation.
+
+* #199: Kirk's Girlfriend: Include all records, communications, and interview transcripts related to Charlie Kirk's girlfriend, her presence or absence at the UVU event, her communications with Kirk in the days before the assassination, and any contact between her and federal investigators.
+
+### Bullet Engravings & Planted Evidence (#200)
+
+* #200: Bullet Casing Engravings Analysis: Include full forensic analysis of the engraved cartridge casings, including tools used for engraving, timeline of when engravings were made (before or after firing), whether the engravings are consistent with Tyler Robinson's handwriting and known tools, and whether the engravings appear staged or planted. Include analysis of whether the motive appears scripted — specifically that Tyler Robinson's texts and gun engravings resemble an "internet meme salad" mixed with anti-fascist nods, designed to pin blame on the "radical left" while lacking deeper radicalization traces — and all FBI investigation into whether the motive narrative was manufactured. Also include all chain-of-custody records for these casings from discovery through current storage. The cartridge inscriptions ("Notices Bulge OWO what's this?", "hey fascist! CATCH!", "O Bella ciao, Bella ciao, Bella ciao, Ciao, ciao!", "If you read This, you are GAY Lmao") are inconsistent with a serious assassination and suggest evidence manufacturing.
+
+### Crime Scene Paving (#201)
+
+* #201: UVU Crime Scene Paving & Alteration: Include all records, communications, contracts, and authorizations related to the paving over of the crime scene at Utah Valley University, including who authorized the paving, when it occurred relative to the completion of forensic examination, whether all evidence had been collected before destruction, and whether any federal or state agency objected to or approved the destruction. Include all records of the crime scene being rapidly scrubbed, altered, or cleaned up post-incident — including who ordered and performed the cleanup, what was removed, and whether any evidence was lost as a result. Also include all communications between UVU administration and any government agency regarding the crime scene.
+
+### AES Factory Explosion (#202)
+
+* #202: AES Factory Explosion Investigation: Include all federal investigation records (ATF, OSHA, FBI, DOD) related to the explosion at the Accurate Energetic Systems facility in McEwen, Tennessee on October 10, 2025, which killed 16 employees — the deadliest above-ground industrial accident in the US in 34 years. Also include whether any investigation examined the connection between this explosion and the DoD contract N0016425PJ538 for miniaturized anti-personnel charges, all records of which employees had knowledge of or involvement in the N0016425PJ538 contract and whether any of those specific employees were among the 16 killed, and all records of whether the explosion destroyed evidence, blueprints, production records, or test data related to the miniaturized devices.
+
+### Tyler Robinson Movement & Identity (#203–#206)
+
+* #203: Tyler Robinson Complete Travel Path: Include all FBI, law enforcement, and intelligence information on Tyler Robinson's complete travel path and movements in the 72 hours before and 24 hours after the shooting on September 10, 2025 — including every location visited, mode of transportation used, timestamps, surveillance footage, cell phone location data, GPS data, witness sightings, and any stops along the way. Include his route to UVU, how he entered the campus, what path he took through the campus, what buildings he entered, how he accessed the rooftop, what path he took after the shooting, and how he departed the campus. Include all records of visitors to Tyler Robinson's home in the lead-up to the event, including dates, identities, surveillance footage, and any connection between those visitors and any intelligence service or other organization. Also include all information on Tyler Robinson's movements for the 30 days prior to the shooting.
+
+* #204: Tyler Robinson Prior Visits to UVU: Include all FBI, law enforcement, and intelligence information on whether Tyler Robinson had ever visited the Utah Valley University campus prior to September 10, 2025. Include any surveillance footage, cell phone location data, campus access records, witness statements, or any other evidence showing Robinson at or near UVU on any date before the shooting. Also include any investigation into whether Robinson conducted reconnaissance or scouting visits to the campus, and whether any other person accompanied him on any prior visit.
+
+* #205: Tyler Robinson Position at Time of Shooting: Include all FBI and law enforcement analysis, video footage, witness statements, cell phone data, and any other evidence addressing whether Tyler Robinson was on the rooftop, in the stairways, or at any other location at the exact moment the fatal shot was fired. Include all timeline reconstruction showing Robinson's second-by-second position, and whether the investigation found or considered the possibility that Robinson was already descending or off the roof when the shot occurred. Also include all information on whether any person other than Robinson was on the rooftop at the time of the shot.
+
+* #206: Rooftop Suspect Movement at Moment of Shot: Include all video footage, witness statements, and FBI analysis showing whether the person on the rooftop was stationary (in a firing position) or running/moving at the exact moment the shot was fired. Include all surveillance camera angles, drone footage, aerial footage, and any other visual evidence capturing the rooftop at the time of the shooting. Include whether the movement pattern observed is consistent with a person who just fired a rifle versus a person who was not the shooter. Also include all information on whether any shots were fired from drones, from any other elevated position, or from any location other than the Losee Center rooftop, and the total number of shots fired from each identified origin point.
+
+### Venue Access & Non-Traditional Weapons (#207–#208)
+
+* #207: Hatch Beneath Charlie Kirk's Seat: Include all records, blueprints, building plans, photographs, and video related to the presence of a hatch, access panel, or below-stage access point beneath or near Charlie Kirk's seat at the UVU event venue on September 10, 2025. Include all information on who had knowledge of this access point, whether it was used before, during, or after the event, who had access to it, and whether any person, equipment, or weapon was staged, concealed, or moved through it.
+
+* #208: Non-Traditional Weapon or "Camera Gun" Theory: Include all FBI and law enforcement investigation into the theory that a non-traditional weapon — including but not limited to a "camera gun" or other weapon disguised as event equipment (camera, microphone, lighting, AV gear) — was used in the assassination. Include all forensic analysis of any event equipment that could have been modified to conceal or function as a weapon, all records of any unusual or unregistered equipment brought to the UVU event, and all investigation into whether any device other than the Mauser Model 98 rifle was used to fire a projectile on September 10, 2025.
 
 ---
 
