@@ -19,47 +19,51 @@ As a secondary matter, we would like the defense team to add these items as form
 - [Discovery Part 1 — Initial Findings and Key Evidence](https://github.com/BryanStarbuck/Charlie_Kirk_Dangerous_Investigation/blob/main/Details/Discovery_1/README.md)
 
 
+
+This document does not make any claim that any individual or organization did anything criminal, illegal or immoral. Any references are made for the purpose of laws and legal discovery towards getting information that will get the truth out. No statement in this document is to imply that any person or organization did anything immoral or illegal. This is just to force the public disclosure of the truth (whatever it may be).
+
+
 ---
 
 ## Table of Contents
 
 **Overview & Context**
-- [Law for Charlie Kirk File Disclosure](#law-for-charlie-kirk-file-disclosure)
+- [Law for Charlie Kirk File Disclosure](Discovery/README.md#law-for-charlie-kirk-file-disclosure)
 - [Name Mapping Key](NAME_MAPPING.json) — maps PERSON_X_REDACTED codes to real names
 
 **Theories & Possible Linkages**
-- [Exploding Microphone Theory](#exploding-microphone-theory---discovery-request-items)
-  - [Factual Claims to Establish](#factual-claims-to-establish)
-  - [Discovery Requests (Mic)](#discovery-requests)
-- [Intelligence Service Discovery Items](#intelligence-service-discovery) (#1–#56)
+- [Exploding Microphone Theory](Discovery/README.md#exploding-microphone-theory---discovery-request-items)
+  - [Factual Claims to Establish](Discovery/README.md#factual-claims-to-establish)
+  - [Discovery Requests (Mic)](Discovery/README.md#discovery-requests)
+- [Intelligence Service Discovery Items](1_DoJ_FBI/Law_1_DoJ_FBI.md#intelligence-service-discovery-156) (#1–#56)
 
 **Discovery by Category** (#57–#175)
-- [FBI 302 Reports](#fbi-302-reports) (#57–#61)
-- [FBI Counterintelligence](#fbi-counterintelligence) (#62–#66)
-- [Cell Phone Data](#cell-phone-data) (#67–#73)
-- [Airport / CBP Records](#airport-cbp-records) (#74–#80)
-- [Egyptian Planes](#egyptian-planes) (#81–#86)
-- [Israeli Cell Phones](#israeli-cell-phones) (#87–#91)
-- [Provo Airport](#provo-airport) (#92–#97)
-- [Financial Records](#financial-records) (#98–#104)
-- [Chain of Custody](#chain-of-custody) (#105–#112)
-- [Threat Assessments](#threat-assessments) (#113–#117)
-- [Surveillance Footage](#surveillance-footage) (#118–#123)
-- [Rental Car Records](#rental-car-records) (#124–#129)
-- [Hotel Records](#hotel-records) (#130–#134)
-- [Digital Forensics](#digital-forensics) (#135–#140)
-- [Ballistics](#ballistics) (#141–#147)
-- [Distraction People](#distraction-people) (#148–#154)
-- [Drones](#drones) (#155–#159)
-- [TPUSA Intel](#tpusa-intel) (#160–#165)
-- [Autopsy / Medical](#autopsy-medical) (#166–#170)
-- [International Liaison](#international-liaison) (#171–#175)
+- [FBI 302 Reports](1_DoJ_FBI/Law_1_DoJ_FBI.md#fbi-302-reports-5761) (#57–#61)
+- [FBI Counterintelligence](1_DoJ_FBI/Law_1_DoJ_FBI.md#fbi-counterintelligence-6266) (#62–#66)
+- [Cell Phone Data](1_DoJ_FBI/Law_1_DoJ_FBI.md#cell-phone-data-6773) (#67–#73)
+- [Airport / CBP Records](1_DoJ_FBI/Law_1_DoJ_FBI.md#airport--cbp-records-7480) (#74–#80)
+- [Egyptian Planes](1_DoJ_FBI/Law_1_DoJ_FBI.md#egyptian-planes-8186) (#81–#86)
+- [Israeli Cell Phones](1_DoJ_FBI/Law_1_DoJ_FBI.md#israeli-cell-phones-8791) (#87–#91)
+- [Provo Airport](1_DoJ_FBI/Law_1_DoJ_FBI.md#provo-airport-9297) (#92–#97)
+- [Financial Records](1_DoJ_FBI/Law_1_DoJ_FBI.md#financial-records-98104) (#98–#104)
+- [Chain of Custody](1_DoJ_FBI/Law_1_DoJ_FBI.md#chain-of-custody-105112) (#105–#112)
+- [Threat Assessments](1_DoJ_FBI/Law_1_DoJ_FBI.md#threat-assessments-113117) (#113–#117)
+- [Surveillance Footage](1_DoJ_FBI/Law_1_DoJ_FBI.md#surveillance-footage-118123) (#118–#123)
+- [Rental Car Records](1_DoJ_FBI/Law_1_DoJ_FBI.md#rental-car-records-124129) (#124–#129)
+- [Hotel Records](1_DoJ_FBI/Law_1_DoJ_FBI.md#hotel-records-130134) (#130–#134)
+- [Digital Forensics](1_DoJ_FBI/Law_1_DoJ_FBI.md#digital-forensics-135140) (#135–#140)
+- [Ballistics](1_DoJ_FBI/Law_1_DoJ_FBI.md#ballistics-141147) (#141–#147)
+- [Distraction People](1_DoJ_FBI/Law_1_DoJ_FBI.md#distraction-people-148154) (#148–#154)
+- [Drones](1_DoJ_FBI/Law_1_DoJ_FBI.md#drones-155159) (#155–#159)
+- [TPUSA Intel](1_DoJ_FBI/Law_1_DoJ_FBI.md#tpusa-intel-160165) (#160–#165)
+- [Autopsy / Medical](1_DoJ_FBI/Law_1_DoJ_FBI.md#autopsy--medical-166170) (#166–#170)
+- [International Liaison](1_DoJ_FBI/Law_1_DoJ_FBI.md#international-liaison-171175) (#171–#175)
 
 **Legal Framework**
-- [Legal Basis for Discovery](#legal-basis-for-discovery)
-- [Procedural Mechanisms](#procedural-mechanisms)
-- [Time Frames Summary](#time-frames-summary)
-- [Appendix A: Defense Discovery Q4 2025](#appendix-a)
+- [Legal Basis for Discovery](Discovery/README.md#legal-basis-for-discovery)
+- [Procedural Mechanisms](Discovery/README.md#procedural-mechanisms)
+- [Time Frames Summary](Discovery/README.md#time-frames-summary)
+- [Appendix A: Defense Discovery Q4 2025](Discovery/README.md#appendix-a)
 
 **Related Repos**
 - [Bryan Starbuck Lawfare](https://github.com/BryanStarbuck/Bryan_Starbuck_Lawfare)
@@ -67,13 +71,6 @@ As a secondary matter, we would like the defense team to add these items as form
 - [Charlie Kirk: 175 Critical to Expose](https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose)
 
 ---
-
-
-This document does not make any claim that any
-individual or organization did anything criminal, illegal or immoral. Any references
-are made for the purpose of laws and legal discovery towards getting information that will get the truth out. No statement in this document is to imply that any person or organization did anything immoral or illegal. This is just to force the public disclosure of the truth (whatever it may be).
-
-
 
 ===========================================
 
