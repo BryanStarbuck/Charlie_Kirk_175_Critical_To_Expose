@@ -8,6 +8,14 @@ Under {ROOT_DIR} dir are 4 directories, which map to the 4 laws we want to pass:
         4_Trusted_Investigations
 
 
+The goal of this is to improve:
+Under {ROOT_DIR} dir are 4 directories, which map to the 4 laws we want to pass:
+        {ROOT_DIR}/2_US_Intel/Law_2_US_Intel.md
+        {ROOT_DIR}/3_Require_to_Investigate/Law_3_Require_to_Investigate.md
+        {ROOT_DIR}/4_Trusted_Investigations/Law_4_Trusted_Investigations.md
+
+The only 3 files to modify or output are the 3 above.
+
 ORIGINAL_175_FILE is file {ROOT_DIR}/original/README.md
 
 GOAL_PER_LAW_FILE is file {ROOT_DIR}/other/List_Of_Laws.md.txt
@@ -15,7 +23,6 @@ GOAL_PER_LAW_FILE is file {ROOT_DIR}/other/List_Of_Laws.md.txt
 
 INPUT_INVESTIGATION_FILE is file {ROOT_DIR}/other/Bkup_Charlie_Kirk.txt
 
-OUTPUT_FILE is file {ROOT_DIR}/other/Slides/Slide_1.yaml
 
 Your instructions are:
 * Read all of this into the context window: INPUT_INVESTIGATION_FILE
@@ -40,10 +47,4 @@ Make a slide deck only for this law here.
 
 * Make it 80 slides
 
-Make sure it motivates. Make sure it gives shocking why these laws would make everything jump far forward towards the truth. People aren't necessarily aware of the Charlie Kirk thing. What would be surprising to them is that these laws would be an incredible solution to this main for more progress. 
 
-What would resonate with Americans since the justice period? 
-
-Read the Bkup_Charlie_Kirk.txt file, that input_investigation_file. Read those in the context. Come up with this output_file. Grow the contents of that to be a slide deck of what would the contents be of the slides to have this as a video walking through the slides to go introduce this to everybody. Make it 40 slides.
-
-For each slide, include the title text, the points you'll make on there. They don't have to be a bullet list; they could have graphics. You could have three panels; it could have whatever. Output it as a YAML file, hierarchical. There's a top hierarchy, and the second level would be an array of slides underneath there. Have all the properties mapped out that include the title slide, that means the content is structured on slide YAML properties, YAML hierarchy. Have what the speaker speaks through verbally to go with the slide. 
