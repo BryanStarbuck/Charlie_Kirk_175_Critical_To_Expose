@@ -1,5 +1,7 @@
 # Discovery — Charlie Kirk Assassination Investigation
 
+AUTHOR: Bryan Starbuck (BryanStarbuck@gmail.com)
+
 We would like to have the defense team formally submit this entire list as formal discovery in the case related to the Charlie Kirk assassination.
 
 We would like to have the FBI at the federal level and U.S. intelligence both become legally recognized custodial agencies in this matter. We would like to have it established in public documents that [Brady Laws](https://en.wikipedia.org/wiki/Brady_v._Maryland) apply at the FBI federal level and at the U.S. intelligence level — so that the U.S. citizen base can trust in justice, knowing that Brady Laws enforce that these agencies must disclose any and all relevant information. Under Brady Law, they are obligated to hand over all such information to the defense. Any failure to do so constitutes a Brady Law violation.
