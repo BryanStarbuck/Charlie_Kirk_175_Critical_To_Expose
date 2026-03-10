@@ -6,6 +6,8 @@ Our main push is to get a set of laws passed to force file disclosure in the Cha
 
 - [Law 1 — DoJ / FBI Forced Disclosure](1_DoJ_FBI/Law_1_DoJ_FBI.md)
 - [Law 2 — U.S. Intelligence Forced Disclosure](2_US_Intel/Law_2_US_Intel.md)
+- [Law 3 — Require Investigation](3_Require_to_Investigate/Law_3_Require_to_Investigate.md)
+- [Law 4 — Trusted Investigations](4_Trusted_Investigations/Law_4_Trusted_Investigations.md)
 
 As a secondary matter, we would like the defense team to add these items as formal [discovery](Discovery/README.md) in the court case.
 
