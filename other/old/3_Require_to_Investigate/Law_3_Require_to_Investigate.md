@@ -6,7 +6,7 @@ AUTHOR: Bryan Starbuck (BryanStarbuck@gmail.com)
 The Charlie Kirk Mandatory Investigation Act
 
 ## Purpose
-To require the Federal Bureau of Investigation, the Central Intelligence Agency, the National Security Agency, and the United States Intelligence Community (via the Director of National Intelligence) to each conduct independent, thorough, complete, and good-faith investigations into the death of Charlie Kirk, pursuing all leads including those identified in the 175 Critical Disclosure Items (Schedule A), and to make the findings of such investigations publicly available through mandatory disclosure reports every 6 months.
+To require the Federal Bureau of Investigation, all relevant federal and state law enforcement agencies, and the United States Intelligence Community to conduct a thorough, complete, and good-faith investigation into the death of Charlie Kirk, pursuing all leads including those identified in the 175 Critical Disclosure Items (Schedule A), and to make the findings of such investigation publicly available.
 
 **Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
 
@@ -26,57 +26,21 @@ To require the Federal Bureau of Investigation, the Central Intelligence Agency,
 
 (d) **"Schedule A"** means the document titled "Charlie Kirk 175 Critical To Expose" as maintained at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, incorporated by reference.
 
-## Section 2: Mandatory Investigation - FBI
+## Section 2: Mandatory Investigation - Law Enforcement
 
-(a) The FBI shall open and actively pursue a full investigation into the death of Charlie Kirk within 60 days of enactment.
+(a) The FBI shall open and actively pursue a full investigation into the death of Charlie Kirk within 14 days of enactment.
 
 (b) The investigation shall:
-   - Assign a dedicated team of no fewer than 20 special agents
-   - Be led by a senior special agent with homicide investigation experience who has no prior involvement in the case
+   - Assign a dedicated team of no fewer than 20 agents
+   - Be led by a senior agent with homicide investigation experience who has no prior involvement in the case
    - Have an independent budget allocation of no less than $10 million
    - Pursue all leads, including those implicating any government agency, intelligence service, or foreign government
    - Interview all known witnesses and persons of interest
    - Conduct or commission all relevant forensic analyses
-   - Produce public disclosure reports every 6 months documenting all findings, all output documents discovered, and as much information as can be provided
-   - Operate for a minimum of 2 years from the date of team formation
+   - Produce interim public reports every 90 days
+   - Produce a final comprehensive public report within 18 months
 
 (c) The investigation team shall operate with independence from FBI leadership on investigative decisions. The team may not be directed to cease any line of inquiry by any person outside the team.
-
-(d) **Team Duration:** All team members shall be committed to the investigation for a minimum of 2 years. Individual team members may request to continue working on the investigation beyond the 2-year minimum, for up to 5 years total. Such requests shall be granted unless the requesting member's continued service would compromise the investigation.
-
-## Section 2A: Mandatory Investigation - CIA
-
-(a) The Central Intelligence Agency shall open and actively pursue a full investigation into the death of Charlie Kirk within 60 days of enactment.
-
-(b) The investigation shall:
-   - Assign a dedicated team of no fewer than 20 special agents
-   - Be led by a senior special agent with relevant investigative experience who has no prior involvement in the case
-   - Have an independent budget allocation of no less than $10 million
-   - Pursue all leads within the CIA's areas of responsibility, including foreign intelligence connections, foreign operatives, international financial flows, and any CIA involvement or foreknowledge
-   - Specifically investigate all intelligence-related leads in Schedule A
-   - Produce public disclosure reports every 6 months documenting all findings, all output documents discovered, and as much information as can be provided
-   - Operate for a minimum of 2 years from the date of team formation
-
-(c) The investigation team shall operate with independence from CIA leadership on investigative decisions. The team may not be directed to cease any line of inquiry by any person outside the team.
-
-(d) **Team Duration:** All team members shall be committed to the investigation for a minimum of 2 years. Individual team members may request to continue working on the investigation beyond the 2-year minimum, for up to 5 years total. Such requests shall be granted unless the requesting member's continued service would compromise the investigation.
-
-## Section 2B: Mandatory Investigation - NSA
-
-(a) The National Security Agency shall open and actively pursue a full investigation into the death of Charlie Kirk within 60 days of enactment.
-
-(b) The investigation shall:
-   - Assign a dedicated team of no fewer than 20 special agents
-   - Be led by a senior special agent with relevant investigative experience who has no prior involvement in the case
-   - Have an independent budget allocation of no less than $10 million
-   - Pursue all leads within the NSA's areas of responsibility, including signals intelligence, electronic surveillance, communications intercepts, electronic warfare, and any NSA involvement or foreknowledge
-   - Specifically investigate all SIGINT and electronic warfare leads in Schedule A
-   - Produce public disclosure reports every 6 months documenting all findings, all output documents discovered, and as much information as can be provided
-   - Operate for a minimum of 2 years from the date of team formation
-
-(c) The investigation team shall operate with independence from NSA leadership on investigative decisions. The team may not be directed to cease any line of inquiry by any person outside the team.
-
-(d) **Team Duration:** All team members shall be committed to the investigation for a minimum of 2 years. Individual team members may request to continue working on the investigation beyond the 2-year minimum, for up to 5 years total. Such requests shall be granted unless the requesting member's continued service would compromise the investigation.
 
 (d) **Mandatory Investigation of Schedule A Leads.** The investigation team shall specifically and individually investigate each of the following leads from Schedule A, and shall document its findings or explain its inability to investigate each one in its interim and final reports:
 
@@ -135,24 +99,18 @@ To require the Federal Bureau of Investigation, the Central Intelligence Agency,
 
 **Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
 
-## Section 3: Mandatory Investigation - Intelligence Community (via DNI)
+## Section 3: Mandatory Investigation - Intelligence Services
 
-(a) The Director of National Intelligence shall direct all remaining Intelligence Community agencies (beyond the CIA and NSA, which have their own mandates under Sections 2A and 2B) to conduct a parallel intelligence assessment within 60 days of enactment. This includes but is not limited to the DIA, NRO, NGA, armed forces intelligence, FBI intelligence division, DHS intelligence, and DOE/Treasury/State intelligence elements.
+(a) The Director of National Intelligence shall direct all relevant Intelligence Community agencies to conduct a parallel intelligence assessment within 30 days of enactment.
 
 (b) The intelligence assessment shall:
-   - Assign a dedicated team of no fewer than 20 special agents across the participating agencies
-   - Be led by a senior special agent with no prior involvement in the case
-   - Have an independent budget allocation of no less than $10 million
    - Determine whether any foreign or domestic intelligence service had involvement in or knowledge of the death
    - Review all intercepts, surveillance, and intelligence products for relevant information
    - Assess whether any U.S. intelligence agency had foreknowledge
    - Specifically investigate all intelligence-related leads in Schedule A (Items #1-#56, #62-#66, #81-#91, #155-#175)
-   - Produce public disclosure reports every 6 months documenting all findings, all output documents discovered, and as much information as can be provided
-   - Operate for a minimum of 2 years from the date of team formation
+   - Produce a declassified public report within 12 months
 
 (c) The assessment shall be conducted by personnel with no prior involvement in any previous investigation or assessment related to the death.
-
-(d) **Team Duration:** All team members shall be committed to the investigation for a minimum of 2 years. Individual team members may request to continue working on the investigation beyond the 2-year minimum, for up to 5 years total. Such requests shall be granted unless the requesting member's continued service would compromise the investigation.
 
 ## Section 4: Independence and Non-Interference
 
@@ -202,17 +160,11 @@ To require the Federal Bureau of Investigation, the Central Intelligence Agency,
 
 (a) All reports produced under this Act shall be made publicly available, with only the narrow redactions permitted under the companion Intelligence Services Disclosure Act (Law 2).
 
-(b) Each of the four investigation teams (FBI, CIA, NSA, and IC via DNI) shall produce and publicly release a disclosure report every 6 months. Each report shall document:
-   - All findings to date
-   - All output documents discovered during the reporting period
-   - As much information as can be provided regarding each line of inquiry
-   - Status of each of the 175 Schedule A items
+(b) Interim reports shall be released every 90 days and shall address each Schedule A category.
 
-(c) Reports shall continue for the duration of each team's operation (minimum 2 years, up to 5 years if team members request extension under Sections 2(d), 2A(d), 2B(d), and 3(d)).
+(c) A final comprehensive report shall be released no later than 18 months after enactment.
 
 (d) Each report shall include a section addressing each of the 175 items in Schedule A, documenting what was investigated, what was found, and what remains unresolved.
-
-(e) A final comprehensive report shall be released by each team upon the conclusion of its investigation.
 
 ## Section 9: Effective Date
 

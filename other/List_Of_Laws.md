@@ -24,6 +24,7 @@
 - **Independent Oversight (Section 8):** 5-citizen review board appointed by Congress (not President). Full access, subpoena power, permanent until compliance certified. 10-year cooling-off period from covered agencies.
 - **Private Right of Action (Section 9):** Any citizen may sue. Presumption of disclosure. Attorney's fees awarded.
 - **No Presidential Override (Section 11):** President cannot withhold. No executive order can modify.
+- **Prohibition on Classification (Section 12A):** No information related to the Charlie Kirk investigation may be classified, reclassified, or withheld under any classification authority if it pertains to, reveals, or suggests the involvement of, foreknowledge by, or connection to any of the following: any foreign country, any foreign intelligence service, any U.S. intelligence service (including but not limited to the CIA and NSA), the FBI, or any branch or component of the U.S. military. Any existing classification of such information is automatically void upon enactment. Any attempt to classify or reclassify such information constitutes obstruction under Section 7.
 - **State/Local Cooperation (Section 12):** Federal funding suspension for non-compliance.
 
 ---
@@ -43,6 +44,7 @@
 - **Records Preservation (Section 6):** Triggered at bill introduction. 15 years for destruction. Forensic audit required post-September 10, 2025.
 - **Whistleblower Protections (Section 7):** Submit to disclosure body, Trusted Investigators, or congressional intelligence committees. 5 years for retaliation. Rebuttable presumption. Reinstatement. Treble damages.
 - **No Presidential Override (Section 8).**
+- **Prohibition on Classification (Section 8A):** No information related to the Charlie Kirk investigation may be classified, reclassified, or withheld under any classification authority if it pertains to, reveals, or suggests the involvement of, foreknowledge by, or connection to any of the following: any foreign country, any foreign intelligence service, any U.S. intelligence service (including but not limited to the CIA and NSA), the FBI, or any branch or component of the U.S. military. Any existing classification of such information is automatically void upon enactment. Any attempt to classify or reclassify such information constitutes obstruction under Section 5.
 - **Congressional Oversight (Section 9):** Congressional intelligence committees receive full unredacted copies. Permanent independent review board. Monthly compliance reports. DNI non-compliance = contempt of Congress. Each of 175 Schedule A items individually addressed.
 - **Private Right of Action (Section 10).**
 
@@ -53,10 +55,12 @@
 **Directory:** `3_Require_to_Investigate/`
 **Primary File:** `Law_3_Require_to_Investigate.md`
 
-**Scope:** Goes beyond disclosure (Laws 1 and 2) to require active, good-faith investigation of all Schedule A items by both the FBI and the Intelligence Community. FBI must assign a minimum 20-agent dedicated team with a $10 million independent budget. DNI must direct a parallel intelligence assessment. No geographic limitation. 18-month law enforcement timeline; 12-month intelligence assessment timeline.
+**Scope:** Goes beyond disclosure (Laws 1 and 2) to require active, good-faith investigation of all Schedule A items by four agencies: the FBI, the CIA, the NSA, and the Intelligence Community (via DNI). Each agency must assign a minimum 20-special-agent dedicated team with a $10 million independent budget. All four investigations must begin within 60 days of enactment. No geographic limitation. Minimum 2-year commitment for all team members, with the option for individual team members to request to continue working on the investigation for up to 5 years. Every 6 months, each investigation team must produce a public disclosure report documenting all findings, output documents discovered, and as much information as can be provided.
 
 **Key Provisions:**
-- **Mandatory FBI Investigation (Section 2):** FBI must open investigation within 14 days of enactment. Minimum 20 agents. Senior agent lead with no prior case involvement. $10M independent budget. Interim public reports every 90 days. Final report within 18 months. Team operates independently of FBI leadership.
+- **Mandatory FBI Investigation (Section 2):** FBI must open investigation within 60 days of enactment. Minimum 20 special agents. Senior special agent lead with no prior case involvement. $10M independent budget. Public disclosure reports every 6 months. Team operates for a minimum of 2 years, with team members able to request to continue for up to 5 years. Team operates independently of FBI leadership.
+- **Mandatory CIA Investigation (Section 2A):** CIA must open a parallel investigation within 60 days of enactment. Minimum 20 special agents. Senior special agent lead with no prior case involvement. $10M independent budget. Same reporting and duration requirements as the FBI investigation.
+- **Mandatory NSA Investigation (Section 2B):** NSA must open a parallel investigation within 60 days of enactment. Minimum 20 special agents. Senior special agent lead with no prior case involvement. $10M independent budget. Same reporting and duration requirements as the FBI investigation.
   - **Eight mandatory investigation categories (Section 2(d)):**
     - Exploding microphone theory (DoD contract, AES facility, Heber-Nashville flight, AES explosion, physical evidence)
     - Foreign intelligence involvement (Israeli cell phones, Egyptian aircraft, HADES spy plane, foreign operatives, Counter-UAS testing)
@@ -66,12 +70,13 @@
     - Psychological operations (3 specific leads)
     - Pre-planning/foreknowledge (Kirk's "kill me" texts, Hamptons meeting, Fort Huachuca, Jerusalem Post pre-announcement)
     - Electronic warfare (2 specific leads)
-- **Mandatory Intelligence Assessment (Section 3):** DNI directs parallel intelligence assessment within 30 days. Must determine foreign/domestic intelligence involvement. Declassified public report within 12 months.
+- **Mandatory Intelligence Community Assessment (Section 3):** DNI directs a fourth parallel intelligence assessment within 60 days, coordinating all remaining IC agencies beyond CIA and NSA. Must determine foreign/domestic intelligence involvement. Same 6-month public disclosure reporting cycle. Minimum 2-year commitment with option for team members to request up to 5 years.
 - **Independence and Non-Interference (Section 4):** 10 years for directing investigators to close inquiries, exclude theories, alter findings, or delay reports.
   - **Conflict of Interest Trigger (Section 4(c)):** If evidence emerges that a covered agency was itself involved in the assassination, investigation authority automatically transfers to an independent congressional commission with subpoena power.
 - **External Independent Monitor (Section 6):** Appointed by Congress (not internal inspector). Real-time access to investigation. Authority to direct investigators to pursue neglected leads. Monthly reports to Congress. Certifies "good-faith" compliance.
 - **Whistleblower Protections (Section 5):** 5 years for retaliation. Reinstatement. Treble damages.
-- **Public Reporting (Section 8):** 90-day interim reports. 18-month final report. Each report must address all 175 Schedule A items individually.
+- **Prohibition on Classification (Section 7A):** No information related to the Charlie Kirk investigation may be classified, reclassified, or withheld under any classification authority if it pertains to, reveals, or suggests the involvement of, foreknowledge by, or connection to any of the following: any foreign country, any foreign intelligence service, any U.S. intelligence service (including but not limited to the CIA and NSA), the FBI, or any branch or component of the U.S. military. Any existing classification of such information is automatically void upon enactment. Any attempt to classify or reclassify such information constitutes obstruction under Section 4.
+- **Public Reporting (Section 8):** Every 6 months, each of the four investigation teams (FBI, CIA, NSA, IC) must produce and publicly release a disclosure report documenting: all findings to date, all output documents discovered, and as much information as can be provided. Each report must address all 175 Schedule A items individually. Reports continue for the duration of each team's operation (minimum 2 years, up to 5 years if team members request extension).
 
 ---
 
@@ -80,7 +85,7 @@
 **Directory:** `4_Trusted_Investigations/`
 **Primary File:** `Law_4_Trusted_Investigations.md`
 
-**Scope:** Establishes independent investigation teams led by three Designated Trusted Investigators: **Candace Owens**, **Dave Smith**, and **Tucker Carlson**. Each receives one FBI team and one Intelligence Community team (six teams total). Full access to all records disclosed under Laws 1 and 2, plus independent investigation authority. Minimum 24-month operation. No geographic limitation.
+**Scope:** Establishes independent investigation teams led by three Designated Trusted Investigators: **Candace Owens**, **Dave Smith**, **Joe Kent**, **Tulsi Gabbard**, and **Tucker Carlson**. Each receives one FBI team and one Intelligence Community team (six teams total). Full access to all records disclosed under Laws 1 and 2, plus independent investigation authority. Minimum 24-month operation. No geographic limitation.
 
 **Key Provisions:**
 - **Team Establishment (Section 2):** Six total teams (3 FBI + 3 IC). Security clearances mandated by statute within 30 days -- no agency may delay or deny to obstruct. Independent budget for legal counsel, forensic experts, and security.
@@ -92,6 +97,7 @@
 - **Whistleblower Channel (Section 8):** Government employees may submit information directly to Trusted Investigators. 5 years for retaliation. Reinstatement. Treble damages. 2-year rebuttable presumption.
 - **Personal Security (Section 9):** Dedicated security detail funded from investigation budget. 10 years imprisonment for agencies surveilling investigators or their families.
 - **Succession (Section 10):** If one investigator cannot serve, remaining investigators jointly nominate a replacement with congressional confirmation within 14 days. Teams continue operating during transition.
+- **Prohibition on Classification (Section 10A):** No information related to the Charlie Kirk investigation may be classified, reclassified, or withheld under any classification authority if it pertains to, reveals, or suggests the involvement of, foreknowledge by, or connection to any of the following: any foreign country, any foreign intelligence service, any U.S. intelligence service (including but not limited to the CIA and NSA), the FBI, or any branch or component of the U.S. military. Any existing classification of such information is automatically void upon enactment. Any attempt to classify or reclassify such information constitutes obstruction under Section 7.
 - **Duration and Reporting (Section 11):** Minimum 24 months, extendable by investigator. 90-day interim reports. Comprehensive final report addressing all Schedule A items. Only the Designated Trusted Investigator may terminate their own investigation -- no government official can end it.
 - **Coordination (Section 12):** Voluntary shared findings database. Independence preserved. Redundancy by design.
 
