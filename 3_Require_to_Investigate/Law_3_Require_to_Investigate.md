@@ -8,6 +8,8 @@ The Charlie Kirk Mandatory Investigation Act
 ## Purpose
 To require the Federal Bureau of Investigation, all relevant federal and state law enforcement agencies, and the United States Intelligence Community to conduct a thorough, complete, and good-faith investigation into the death of Charlie Kirk, pursuing all leads including those identified in the 175 Critical Disclosure Items (Schedule A), and to make the findings of such investigation publicly available.
 
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
+
 ## Section 1: Definitions
 
 (a) **"Covered law enforcement agencies"** means the Federal Bureau of Investigation, the Department of Justice, the Bureau of Alcohol, Tobacco, Firearms and Explosives, and any federal or state law enforcement agency with jurisdiction or relevant capabilities.
@@ -95,6 +97,8 @@ To require the Federal Bureau of Investigation, all relevant federal and state l
    1. Electronic jamming of cell/internet signals at UVU in the seconds before the shooting
    2. Drone video feeds -- who received them, from which drones
 
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
+
 ## Section 3: Mandatory Investigation - Intelligence Services
 
 (a) The Director of National Intelligence shall direct all relevant Intelligence Community agencies to conduct a parallel intelligence assessment within 30 days of enactment.
@@ -129,6 +133,8 @@ To require the Federal Bureau of Investigation, all relevant federal and state l
 
 (c) Criminal penalties of up to 5 years imprisonment, mandatory reinstatement, and civil liability including treble damages for retaliation.
 
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
+
 ## Section 6: External Independent Monitor
 
 (a) Congress shall appoint an independent monitor (not an inspector from within any covered agency) with real-time access to the investigation.
@@ -147,6 +153,8 @@ To require the Federal Bureau of Investigation, all relevant federal and state l
 (a) The investigation teams shall brief the relevant congressional committees monthly.
 
 (b) The briefings shall include specific status updates on each category of leads from Schedule A.
+
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
 
 ## Section 8: Public Reporting
 

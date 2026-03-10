@@ -66,16 +66,7 @@ We would also like the defense team to submit the items below as formal discover
 ## Case No. 251403576 | Fourth Judicial District Court, Utah County
 ## Judge Derek P. Pullan
 
-Everything in this document is about possible scenarios. The goal of the discovery is
-to establish which of these may be a problem.  This document does not make any claim that any
-individual or organization did anything criminal, illegal or immoral. Any references
-are made for the purpose of discovery towards getting information that will get the truth out
-and can help the case of Tyler Robinson be determined NOT guilty.
-
-The goals of discovery are towards establishing one or more of the WHY
-which will give the best defense to Tyler Robinson. They can lead to a court finding of
-"NOT GUILTY" on most or all of the most important charges. Or to showing reasonable doubt
-in the prosecutor's case, leading to not guilty on charges.
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
 
 
 WHY #1: If an explosion happened with any mic or electronics on Charlie
@@ -267,6 +258,8 @@ The first section is on a possible exploding Mic theory
 * 16 people killed
 * Deadliest above-ground US industrial accident in 34 years
 * All on-site evidence destroyed
+
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
 
 ---
 
@@ -792,8 +785,7 @@ The investigation shows that an intelligence service is very likely involved wit
   or consideration) to similar individuals? Specifically any in this list: Marjorie Taylor Greene (including threats to murder her son),
   Matt Gaetz, Andrew Breitbart, Candace Owens, Tucker Carlson, Thomas Massie.
 
-
-
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
 
 ---
 
@@ -1152,6 +1144,10 @@ International_Liaison: Foreign government communications
   * Shows which countries provided or denied cooperation
 #175: Diplomatic communications regarding case: State Department. Diplomatic cables about assassination.
   * May reveal foreign government knowledge or involvement
+
+---
+
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
 
 ---
 

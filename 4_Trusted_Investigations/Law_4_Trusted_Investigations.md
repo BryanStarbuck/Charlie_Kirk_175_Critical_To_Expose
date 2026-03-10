@@ -8,6 +8,8 @@ The Charlie Kirk Trusted Investigators Act
 ## Purpose
 To establish independent investigation teams led by designated trusted public figures, embedded within federal law enforcement and intelligence agencies, with full authority to investigate the death of Charlie Kirk -- including all leads identified in the 175 Critical Disclosure Items (Schedule A) -- and to publicly release their findings.
 
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
+
 ## Section 1: Definitions
 
 (a) **"Designated Trusted Investigators"** means the following individuals:
@@ -52,6 +54,8 @@ To establish independent investigation teams led by designated trusted public fi
    - Monitor, surveil, or intercept communications between an employee and a Designated Trusted Investigator regarding team membership
 
 (d) Selected government employees shall be temporarily reassigned to the investigation team with full pay, benefits, and career protections.
+
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
 
 ## Section 4: Authority and Access
 
@@ -104,6 +108,8 @@ To establish independent investigation teams led by designated trusted public fi
 
 (b) Each investigation team shall track and report on each Schedule A item individually, documenting what was investigated, what was found, what was obstructed, and what remains unresolved.
 
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
+
 ## Section 7: Non-Interference
 
 (a) It shall be a federal crime, punishable by up to 15 years imprisonment, for any person to:
@@ -143,6 +149,8 @@ To establish independent investigation teams led by designated trusted public fi
 (b) If only one Designated Trusted Investigator remains, that investigator shall nominate the replacement subject to congressional confirmation.
 
 (c) An investigation team's work shall not be disrupted by the succession process; existing team members shall continue operating under the acting authority of the team's senior government member until the new Designated Trusted Investigator assumes their role.
+
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
 
 ## Section 11: Duration and Reporting
 

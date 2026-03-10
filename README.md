@@ -20,7 +20,7 @@ As a secondary matter, we would like the defense team to add these items as form
 
 
 
-This document does not make any claim that any individual or organization did anything criminal, illegal or immoral. Any references are made for the purpose of laws and legal discovery towards getting information that will get the truth out. No statement in this document is to imply that any person or organization did anything immoral or illegal. This is just to force the public disclosure of the truth (whatever it may be).
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
 
 
 ---
@@ -109,7 +109,7 @@ This includes other information to disclose that may or may not be related.
 * Photos show square object (~2x2") in PERSON_25_REDACTED's front right pocket matching Rode Wireless GO II mic dimensions
 * PERSON_25_REDACTED photographed standing with sound crew and person who miked up Kirk
 * Post-killing photos show PERSON_25_REDACTED's pocket empty
-* Potential involvement of Israeli secret service or Mossad in orchestrating an inside hit, drawing parallels to 2024 pager bombs in Lebanon (see [Israeli Cell Phones](#israeli-cell-phones))
+* Potential involvement of Israeli secret service or Mossad in orchestrating an inside hit, drawing parallels to 2024 pager bombs in Lebanon (see [Israeli Cell Phones](1_DoJ_FBI/Law_1_DoJ_FBI.md#israeli-cell-phones-8791))
 
 ### The Microphone Type
 * Kirk wearing lavalier microphone (wireless)
@@ -144,7 +144,7 @@ This includes other information to disclose that may or may not be related.
 
 
 ### Crime Scene Alteration
-* Crime scene paved over with concrete shortly after incident (see [Surveillance Footage](#surveillance-footage))
+* Crime scene paved over with concrete shortly after incident (see [Surveillance Footage](1_DoJ_FBI/Law_1_DoJ_FBI.md#surveillance-footage-118123))
 * In the crime scene pave over, interestingly the roof above the tent was also redone. Disclose if any possible explosive resdue was attempted to get covered up on that roof above Charlie Kirk
 * Glass fragments and explosive traces reported on grass before paving
 * Did the FBI chose to not take the car that transported Charlie after the shooting to the hospital into evidence. The glass-like fragments were in that car under where Charlie was after the shooting on the drive.

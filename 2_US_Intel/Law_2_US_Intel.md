@@ -8,6 +8,8 @@ The Charlie Kirk Files Forced Disclosure Act - Intelligence Services
 ## Purpose
 To require all United States Intelligence Community agencies to release all information in their possession that could identify the perpetrator(s) of, or provide substantive insight into, the death of Charlie Kirk, including but not limited to the intelligence-related items enumerated in Schedule A of this Act, while protecting only currently active intelligence sources.
 
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
+
 ## Section 1: Definitions
 
 (a) **"Intelligence Community agencies"** means all agencies and elements of the Intelligence Community as defined in 50 U.S.C. 3003(4), including but not limited to: the Central Intelligence Agency (CIA), the National Security Agency (NSA), the Defense Intelligence Agency (DIA), the National Reconnaissance Office (NRO), the National Geospatial-Intelligence Agency (NGA), intelligence elements of the Armed Forces (including Army Intelligence and Security Command, Naval Criminal Investigative Service, Air Force Office of Special Investigations), the FBI's intelligence division, the Department of Homeland Security's intelligence elements, the Office of the Director of National Intelligence (ODNI), the Department of Energy's intelligence element, the Department of Treasury's intelligence element, the Department of State's Bureau of Intelligence and Research (INR), and any other element of the United States government engaged in intelligence activities.
@@ -90,6 +92,8 @@ To require all United States Intelligence Community agencies to release all info
 
 (c) The specific enumeration does not limit the broad catch-all requirement. Both apply concurrently.
 
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
+
 ## Section 4: Sources and Methods Protection
 
 (a) Agencies may redact ONLY the following from disclosed materials:
@@ -128,6 +132,8 @@ To require all United States Intelligence Community agencies to release all info
 
 (d) Agencies that have destroyed records must provide a complete classified accounting to the congressional intelligence committees.
 
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
+
 ## Section 7: Whistleblower Protections
 
 (a) Any employee of the United States government may submit covered information to the designated disclosure body, to any Designated Trusted Investigator under the Charlie Kirk Trusted Investigators Act, or to the congressional intelligence committees.
@@ -155,6 +161,8 @@ To require all United States Intelligence Community agencies to release all info
 (d) The DNI's failure to ensure compliance shall be grounds for contempt of Congress proceedings.
 
 (e) Each of the 175 items in Schedule A that falls within intelligence jurisdiction shall be individually addressed in the compliance report with specific response.
+
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
 
 ## Section 10: Private Right of Action
 
