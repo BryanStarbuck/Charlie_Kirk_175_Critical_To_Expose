@@ -6,7 +6,7 @@ AUTHOR: Bryan Starbuck (BryanStarbuck@gmail.com)
 The Charlie Kirk Files Forced Disclosure Act - Law Enforcement
 
 ## Purpose
-To require the Department of Justice, the Federal Bureau of Investigation, and all federal, state, and local law enforcement agencies to fully and immediately disclose all files, records, communications, and information in their possession related to the investigation of the death of Charlie Kirk, including but not limited to the 201 specific disclosure items enumerated in Schedule A of this Act.
+To require the Department of Justice, the Federal Bureau of Investigation, and all federal, state, and local law enforcement agencies to fully and immediately disclose all files, records, communications, and information in their possession related to the investigation of the death of Charlie Kirk, including but not limited to the 205 specific disclosure items enumerated in Schedule A of this Act.
 
 **Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
 
@@ -15,7 +15,7 @@ To require the Department of Justice, the Federal Bureau of Investigation, and a
 (a) **"Covered agencies"** means the Department of Justice, the Federal Bureau of Investigation, the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), U.S. Customs and Border Protection (CBP), the Transportation Security Administration (TSA), the Department of Homeland Security, the Financial Crimes Enforcement Network (FinCEN), and any federal, state, or local law enforcement agency that has participated in, contributed to, or possesses information related to the investigation of the death of Charlie Kirk, the prosecution of any person in connection therewith, or any matter peripheral to or connected with the investigation.
 
 (b) **"Covered records"** means any and all files, documents, communications, reports, forensic evidence, witness statements, surveillance records, digital records, photographs, video recordings, audio recordings, cell site location information, geofence warrant data, flight records, financial records, ballistics analyses, autopsy reports, crime scene evidence, and any other information, in any format, that is related to or could reasonably assist in understanding the circumstances of the death of Charlie Kirk, including but not limited to:
-   1. All records specifically enumerated in Schedule A (201 Critical Disclosure Items)
+   1. All records specifically enumerated in Schedule A (205 Critical Disclosure Items)
    2. Any records that could identify or suggest the identity of any person involved in, connected to, or with knowledge of the death
    3. Any records relating to foreign intelligence service activity in the State of Utah during the period January 1, 2025 through December 31, 2025
    4. Any records relating to threats against Charlie Kirk or similarly situated public figures
@@ -145,8 +145,9 @@ To require the Department of Justice, the Federal Bureau of Investigation, and a
    27. Full forensic analysis of bullet casing engravings and planted evidence indicators (Item #199)
    28. All records related to UVU crime scene paving (Item #200)
    29. All records of the AES factory explosion investigation and its connection to DoD contract N0016425PJ538 (Item #201)
+   30. Tyler Robinson's complete travel path before and after the shooting, all prior visits to UVU campus, all evidence regarding Robinson's exact position at the moment of the shot, and all video footage and analysis of whether the rooftop suspect was running or stationary when the shot was fired (Items #202-#205)
 
-(b) **Schedule A** shall be the document titled "Charlie Kirk 201 Critical Disclosure Items" as maintained in the public repository at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, as of the date of enactment, incorporated by reference and attached as an appendix to this Act.
+(b) **Schedule A** shall be the document titled "Charlie Kirk 205 Critical Disclosure Items" as maintained in the public repository at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, as of the date of enactment, incorporated by reference and attached as an appendix to this Act.
 
 (c) The enumeration of specific items in this Section and in Schedule A shall not be construed to limit the scope of the broad disclosure mandate in Section 2. Both the broad mandate and the specific enumeration apply concurrently.
 
@@ -237,7 +238,7 @@ To require the Department of Justice, the Federal Bureau of Investigation, and a
    1. All categories of records released and withheld
    2. A summary of redactions made, including the legal basis for each
    3. A list of all government officials and politically exposed persons named or referenced in the released materials, with no redactions permitted
-   4. Certification that all items enumerated in Schedule A have been fully addressed, with specific response to each of the 201 items
+   4. Certification that all items enumerated in Schedule A have been fully addressed, with specific response to each of the 205 items
 
 ## Section 11: No Presidential Override
 
@@ -259,7 +260,7 @@ This Act shall take effect immediately upon enactment. Records preservation requ
 
 **Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
 
-## Schedule A: 201 Critical Disclosure Items
+## Schedule A: 205 Critical Disclosure Items
 
 Import to apply:
 * "Intelligence" as it relates to FBI and DoJ means that the Intelligence side of the FBI is also required to disclose information on anything related to the Charlie Kirk case or the people involved.
@@ -293,7 +294,7 @@ Import to apply:
 - [International Liaison](#international-liaison-171-175) (#171–#175)
 - [Tyler Robinson Defense & Family](#tyler-robinson-defense--family-176-178) (#176–#178)
 - [Witness Intimidation](#witness-intimidation-179-180) (#179–#180)
-- [Security Detail & Israeli Connections](#security-detail--israeli-connections-181) (#181)
+- [Security Detail & Foreign Connections](#security-detail--foreign-connections-181) (#181)
 - [Medical & Hospital Records](#medical--hospital-records-182-184) (#182–#184)
 - [TPUSA Financial Fraud](#tpusa-financial-fraud-185-186) (#185–#186)
 - [Mosaic Pro Events / AV Equipment](#mosaic-pro-events--av-equipment-187-189) (#187–#189)
@@ -305,6 +306,7 @@ Import to apply:
 - [Bullet Engravings & Planted Evidence](#bullet-engravings--planted-evidence-199) (#199)
 - [Crime Scene Paving](#crime-scene-paving-200) (#200)
 - [AES Factory Explosion](#aes-factory-explosion-201) (#201)
+- [Tyler Robinson Movement & Identity](#tyler-robinson-movement--identity-202-205) (#202–#205)
 
 Each item in Schedule A is individually mandated for complete disclosure. Partial compliance with Schedule A does not constitute compliance with this Act.
 
@@ -320,9 +322,9 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 * #4: TPUSA Donor Foreign Intel Contact: Include all information on whether any TPUSA donors had communication, interaction, or meetings with any foreign intelligence service within the 3 months before the assassination, including any FBI, DoJ, or U.S. intelligence documents, investigation information, cell data, or any other data showing these connections or communications. Also include all information on any TPUSA donor interactions with foreign governments, officials, or intelligence-linked entities.
 
-* #5: Tyler Robinson Clothing Evidence: Include all information about clothing of Tyler Robinson and what other possible perpetrators the investigation shows this may be. Also include all information on any discrepancies between witness descriptions, surveillance footage, and official identification of suspects.
+* #5: Tyler Robinson Clothing Evidence: Include all information about clothing of Tyler Robinson and what other possible perpetrators the investigation shows this may be. Include all FBI or law enforcement analysis on whether the person observed in the stairways of the Losee Center is the same individual as Tyler Robinson — including height, build, gait, clothing, face comparison, and any video or photographic evidence from stairway cameras or adjacent angles. Also include all information on any discrepancies between witness descriptions, surveillance footage, and official identification of suspects, and any analysis concluding the stairway individual is or is not Tyler Robinson.
 
-* #6: FBI Ballistics Analysis: Include all ballistics evidence the FBI or any law enforcement agency has related to the Charlie Kirk shooting. Also include all information on any ballistic tests, comparisons, or analyses performed by any agency or laboratory.
+* #6: FBI Ballistics Analysis: Include all ballistics evidence the FBI or any law enforcement agency has related to the Charlie Kirk shooting, including the total number of shots fired, the origin point of each shot, the caliber of each round, and whether shots originated from different locations or weapons. Include whether gunpowder residue was found in the barrel of the Mauser Model 98, whether the barrel showed signs of recent firing, and whether residue analysis is consistent with the rifle having been the weapon actually fired on September 10, 2025. Also include all information on any ballistic tests, comparisons, or analyses performed by any agency or laboratory.
 
 * #7: Forensic Acoustic Analysis: Include all forensic acoustic analysis the FBI or any law enforcement agency has related to the shooting. Also include all information on any sound recordings, audio analysis, or gunshot detection data from the incident.
 
@@ -360,7 +362,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 * #24: NCC Review of FBI Files: Include all documents reviewed by PERSON_15_REDACTED (NCC) from FBI files or anything related to the Charlie Kirk investigation. Also include all information on any NCC interactions with FBI regarding the case, including requests made and responses received.
 
-* #25: Suspect Clothing Discrepancies: Include all information from the FBI or DoJ about clothing on any possible suspects, including the reported difference between rooftop suspect clothing and Tyler Robinson's clothing, times seen, proposed clothing changes, and any video evidence. Also include all information on any inconsistency between witness descriptions and official suspect identification.
+* #25: Suspect Clothing Discrepancies: Include all information from the FBI or DoJ about clothing on any possible suspects, including the reported difference between rooftop suspect clothing and Tyler Robinson's clothing, times seen, proposed clothing changes, and any video evidence. Include all FBI or law enforcement analysis comparing the person observed in the stairways to Tyler Robinson — whether they are the same person based on clothing, physical build, timing, and any biometric or facial recognition analysis. Also include all information on any inconsistency between witness descriptions and official suspect identification, and whether the investigation considered that the stairway individual and the rooftop individual may be different people.
 
 * #26: Israeli Cellphones at UVU: Include all information NSA, FBI, DoJ, or U.S. intelligence has on approximately 12 Israeli-registered cellphones at the shooting site, including who these people were, connections to U.S. or foreign intelligence, photos of them, what they did at UVU, how long they were in Utah, and whether they visited any investigation-linked locations (airport, Tyler's apartment, rental cars, listed planes). Also include all information on any Israeli nationals or Israeli-linked communications present in the Provo/Orem area during August–September 2025.
 
@@ -374,7 +376,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 * #31: VIP Military Transport Passengers: Include all information on the people aboard a U.S. Air Force VIP transport jet on September 8–9, 2025, with callsign RCH 702 or SAM (Special Air Mission), originating from or passing through Joint Base Andrews, Tucson, or Colorado Springs, and whether any passengers entered Fort Huachuca, AZ. Also include all information on any military VIP flights to Arizona or Colorado during that period connected to any person in the investigation.
 
-* #32: Alternative Shooter Location Analysis: Include all information, files, or investigation data on whether a shot was fired from a drone in the air, anywhere behind or to the side of Charlie Kirk, or from any location other than the rooftop. Also include all information on any analysis of alternative shooting positions, trajectories, or multiple shooter scenarios.
+* #32: Alternative Shooter Location Analysis: Include all information, files, or investigation data on whether a shot was fired from a drone in the air, anywhere behind or to the side of Charlie Kirk, or from any location other than the rooftop. Include whether a second sniper was positioned on any rooftop at or near UVU, including all rooftop access logs, surveillance footage of rooftops, and law enforcement sweeps of rooftops before, during, and after the shooting. Include whether the person observed on the roof was running at the moment the shot was fired, and all video footage, witness statements, or analysis addressing the rooftop suspect's movement and posture at the time of the shot. Include the total number of shots fired from all locations and the direction each shot originated from. Also include all information on any analysis of alternative shooting positions, trajectories, or multiple shooter scenarios.
 
 * #33: Foreigners in UVU Security Zone: Include all information on whether anyone with citizenship other than solely U.S. citizenship was in the security zone at UVU between 11 AM and 12:23 PM MT on September 10, 2025, which was controlled by Charlie Kirk's contract security team. Also include all information on any non-U.S. citizen who had access to restricted areas at the UVU event.
 
@@ -402,7 +404,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 * #45: Non-.30-06 Caliber Gunfire at UVU: Include all information on whether any caliber of gunfire besides .30-06 was fired on September 10, 2025, between 12:20 and 12:30 PM MT at UVU. Also include all information on any ballistic evidence, projectile analysis, or weapon discharge data suggesting additional or alternative weapons were fired.
 
-* #46: Laser Targeting at UVU: Include all information on laser targeting that occurred on September 10, 2025, at UVU anywhere within 2,000 feet of Charlie Kirk. Also include all information on any targeting, range-finding, or laser-related equipment detected or deployed at or near UVU on that date.
+* #46: Laser Targeting and Electronic Targeting at UVU: Include all information on laser targeting that occurred on September 10, 2025, at UVU anywhere within 2,000 feet of Charlie Kirk. Include all information on any electronic device, system, or technology — whether ground-based, drone-mounted, or otherwise — that performed any function related to tracking, targeting, range-finding, shot timing, shot coordination, gunshot detection, or any other function connected to the shooting or the movements of Charlie Kirk, the shooter, or any person of interest. Also include all information on any targeting, range-finding, or laser-related equipment detected or deployed at or near UVU on that date, and whether any drone was performing active tracking of Charlie Kirk or any other person at the time of the shooting.
 
 * #47: FBI Requests to Delete Witness Videos: Include all information on FBI employees calling witnesses who had videos and asking them to delete the video, including the list of FBI employees who did this, the witnesses, the dates, and how many calls. Also include all information on any law enforcement requests to any person to delete, destroy, or surrender photographic or video evidence from the UVU event.
 
@@ -556,7 +558,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 ### Chain of Custody (#105–#112)
 
-* #105: Mauser Rifle Chain of Custody: Include the complete chain of custody for the Mauser Model 98 rifle with all custody documentation and timestamps from the FBI Evidence Response Team. Also include all information on any person who handled, transported, or had access to the rifle from the time of its alleged discovery through the present.
+* #105: Mauser Rifle Chain of Custody: Include the complete chain of custody for the Mauser Model 98 rifle with all custody documentation and timestamps from the FBI Evidence Response Team. Include all information on how the rifle entered the UVU campus — the complete path of the weapon from its last known prior location to the campus, including how it was transported, by whom, through which entry points, and at what times. Include all information on how the rifle left the campus after the shooting or after its discovery, including which agency took possession, how it was transported, and to which facility. Also include all information on any person who handled, transported, or had access to the rifle from the time of its alleged discovery through the present.
 
 * #106: Body Camera Footage of All Searches: Include all body camera footage from the Utah County Sheriff and FBI of the initial search, K-9 search, and re-search of the area where the rifle was found. Also include all information on any video or audio recording of any search conducted at UVU on September 10–11, 2025.
 
@@ -758,9 +760,9 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 * #180: Witness Suppression After Shooting: Include all records of efforts to discourage, intimidate, or silence civilian witnesses at UVU on September 10, 2025 and afterward. Also include any directives from FBI or other agencies to local law enforcement to prevent witnesses from speaking publicly, and all records explaining why no verifiable UVU student witnesses have come forward publicly despite hundreds being present.
 
-### Security Detail & Israeli Connections (#181)
+### Security Detail & Foreign Connections (#181)
 
-* #181: Brian Harpole — Netanyahu Bodyguard on Kirk Detail: Include all records, contracts, and communications related to Brian Harpole, a former police officer/mercenary embedded in Charlie Kirk's security detail on September 10, 2025, who was previously part of Israeli Prime Minister Benjamin Netanyahu's personal security team (confirmed by photographic evidence from 2017). Also include his employment history, who placed him on Kirk's detail, his communications in the 30 days before and after the assassination, and whether any Israeli government entity coordinated his assignment.
+* #181: Brian Harpole — Foreign Security Background on Kirk Detail: Include all records, contracts, and communications related to Brian Harpole, a former police officer/mercenary embedded in Charlie Kirk's security detail on September 10, 2025, who has photographic evidence (from 2017) placing him on a foreign head-of-state security detail. Also include his full employment history with any foreign government or foreign security service, who placed him on Kirk's detail, his communications in the 30 days before and after the assassination, and whether any foreign government entity coordinated his assignment.
 
 ### Medical & Hospital Records (#182–#184)
 
@@ -824,6 +826,15 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 * #201: AES Factory Explosion Investigation: Include all federal investigation records (ATF, OSHA, FBI, DOD) related to the explosion at the Accurate Energetic Systems facility in McEwen, Tennessee on October 10, 2025, which killed 16 employees — the deadliest above-ground industrial accident in the US in 34 years. Also include whether any investigation examined the connection between this explosion and the DoD contract N0016425PJ538 for miniaturized anti-personnel charges, all records of which employees had knowledge of or involvement in the N0016425PJ538 contract and whether any of those specific employees were among the 16 killed, and all records of whether the explosion destroyed evidence, blueprints, production records, or test data related to the miniaturized devices.
 
+### Tyler Robinson Movement & Identity (#202–#205)
+
+* #202: Tyler Robinson Complete Travel Path: Include all FBI, law enforcement, and intelligence information on Tyler Robinson's complete travel path and movements in the 72 hours before and 24 hours after the shooting on September 10, 2025 — including every location visited, mode of transportation used, timestamps, surveillance footage, cell phone location data, GPS data, witness sightings, and any stops along the way. Include his route to UVU, how he entered the campus, what path he took through the campus, what buildings he entered, how he accessed the rooftop, what path he took after the shooting, and how he departed the campus. Also include all information on Tyler Robinson's movements for the 30 days prior to the shooting.
+
+* #203: Tyler Robinson Prior Visits to UVU: Include all FBI, law enforcement, and intelligence information on whether Tyler Robinson had ever visited the Utah Valley University campus prior to September 10, 2025. Include any surveillance footage, cell phone location data, campus access records, witness statements, or any other evidence showing Robinson at or near UVU on any date before the shooting. Also include any investigation into whether Robinson conducted reconnaissance or scouting visits to the campus, and whether any other person accompanied him on any prior visit.
+
+* #204: Tyler Robinson Position at Time of Shooting: Include all FBI and law enforcement analysis, video footage, witness statements, cell phone data, and any other evidence addressing whether Tyler Robinson was on the rooftop, in the stairways, or at any other location at the exact moment the fatal shot was fired. Include all timeline reconstruction showing Robinson's second-by-second position, and whether the investigation found or considered the possibility that Robinson was already descending or off the roof when the shot occurred. Also include all information on whether any person other than Robinson was on the rooftop at the time of the shot.
+
+* #205: Rooftop Suspect Movement at Moment of Shot: Include all video footage, witness statements, and FBI analysis showing whether the person on the rooftop was stationary (in a firing position) or running/moving at the exact moment the shot was fired. Include all surveillance camera angles, drone footage, aerial footage, and any other visual evidence capturing the rooftop at the time of the shooting. Include whether the movement pattern observed is consistent with a person who just fired a rifle versus a person who was not the shooter. Also include all information on whether any shots were fired from drones, from any other elevated position, or from any location other than the Losee Center rooftop, and the total number of shots fired from each identified origin point.
 
 
 ---
@@ -836,7 +847,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 - **P1)** All TPUSA employees, executives, board members, officers, contractors, consultants, and interns — current as of September 10, 2025 and for the 12 months prior. All TPUSA donors who contributed $5 million or more in any single year or $10 million cumulatively. All TPUSA event organizers, logistics personnel, and anyone involved in planning or executing the UVU event on September 10, 2025. Includes Erika Kirk and any person who assumed a leadership role at TPUSA within 30 days of Charlie Kirk's death.
 
-- **P2)** All members of the TPUSA security detail, including head of security Dan Flood, external security contractors, private security firms hired for the UVU event, and any person who provided security services to Charlie Kirk at any event in the 12 months prior to September 10, 2025. Includes anyone on any security advance team that conducted or should have conducted site assessments at UVU. Includes any security personnel with prior employment by any foreign government, foreign leader, or foreign security service (including but not limited to Benjamin Netanyahu's security team).
+- **P2)** All members of the TPUSA security detail, including head of security Dan Flood, external security contractors, private security firms hired for the UVU event, and any person who provided security services to Charlie Kirk at any event in the 12 months prior to September 10, 2025. Includes anyone on any security advance team that conducted or should have conducted site assessments at UVU. Includes any security personnel with prior employment by any foreign government, foreign leader, or foreign security service.
 
 - **P3)** All audio engineers, sound crew, AV technicians, and equipment handlers at the UVU event on September 10, 2025. Includes whoever provided, handled, or attached the lavalier microphone to Charlie Kirk. Includes Michael Olbert and Terryl Farnsworth. Includes any person who had physical access to the microphone, audio equipment, or stage setup in the 48 hours before the event. Includes any person who removed equipment, SD cards, or recordings from the event.
 
