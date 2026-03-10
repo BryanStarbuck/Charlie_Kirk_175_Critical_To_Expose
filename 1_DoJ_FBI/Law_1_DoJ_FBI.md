@@ -57,12 +57,12 @@ To require the Department of Justice, the Federal Bureau of Investigation, and a
    2. Cell tower dumps for Tyler Robinson's residence (September 1-15, 2025)
    3. Cell tower dumps for Provo Airport (August 25 - September 15, 2025)
    4. Geofence warrant applications and returns for UVU
-   5. Cell site location information for phones with international roaming (Israeli, Egyptian, French carriers)
+   5. Cell site location information for phones with international roaming (Egyptian, French, Israeli carriers)
    6. FBI analytical reports identifying foreign phones
    7. Subscriber information for all unidentified foreign phones
 
 **Customs and Border Protection Records (Items #74-#80):**
-   1. CBP entry/exit records for Israeli, Egyptian, and French nationals (July-November 2025)
+   1. CBP entry/exit records for Egyptian, French, and Israeli nationals (July-November 2025)
    2. TSA PreCheck and Known Traveler records for foreign nationals with expedited clearance
    3. CBP special clearance records for military contractors
    4. Passenger manifests for international flights to SLC/Provo (September 3-17, 2025)
@@ -76,7 +76,7 @@ To require the Department of Justice, the Federal Bureau of Investigation, and a
    5. Who contracted, paid for, and received data from any surveillance aircraft
 
 **Financial Records (Items #98-#104):**
-   1. International wire transfers to Utah (August-September 2025) from Israeli, Egyptian, or French sources
+   1. International wire transfers to Utah (August-September 2025) from Egyptian, French, or Israeli sources
    2. All Suspicious Activity Reports (SARs) for Utah during the relevant period
    3. All Currency Transaction Reports over $10,000 involving foreign nationals
    4. All payment records (credit card, PayPal, Venmo, Zelle) for rental cars, hotels, and any payments to persons present at UVU
@@ -444,7 +444,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 ### FBI Counterintelligence (#62–#66)
 
-* #62: FBI Foreign Intel Reports on Utah: Include all FBI counterintelligence reports on Mossad, Egyptian GID, French DGSE, and other foreign intelligence operations in Utah from January 2023 to present. Also include all information on any foreign intelligence service activity in the state of Utah during that period.
+* #62: FBI Foreign Intel Reports on Utah: Include all FBI counterintelligence reports on Egyptian GID, French DGSE, Israeli Mossad, and other foreign intelligence operations in Utah from January 2023 to present. Also include all information on any foreign intelligence service activity in the state of Utah during that period.
 
 * #63: FBI Threat Assessments for Kirk: Include all FBI Protective Intelligence threat assessments regarding foreign intelligence targeting of Charlie Kirk. Also include all information on any FBI awareness of foreign threats to Kirk before the assassination.
 
@@ -466,7 +466,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 * #70: Geofence Warrant Data for UVU: Include all geofence warrant applications and returns for UVU from FBI, Google, and Apple, identifying all devices within 500 meters of the shooting location. Also include all information on any location-based data request or return related to the UVU campus on September 10, 2025.
 
-* #71: Foreign Roaming Phone Data: Include cell site location information for all phones with international roaming from Israeli, Egyptian, or French carriers in Utah during the relevant period. Also include all information on any phone with non-U.S. carrier roaming detected at any investigation-related location.
+* #71: Foreign Roaming Phone Data: Include cell site location information for all phones with international roaming from Egyptian, French, or Israeli carriers in Utah during the relevant period. Also include all information on any phone with non-U.S. carrier roaming detected at any investigation-related location.
 
 * #72: FBI Foreign Phone Analysis Reports: Include all FBI Cellular Analysis Survey Team reports and link analysis connecting foreign phones to people and locations. Also include all information on any FBI analytical work product identifying foreign devices in connection with the case.
 
@@ -540,7 +540,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 ### Financial Records (#98–#104)
 
-* #98: International Wire Transfers to Utah: Include all international wire transfers to Utah from August–September 2025 from Israeli, Egyptian, or French sources, as reported by FinCEN and major banks. Also include all information on any foreign-origin financial transfer to any Utah account or entity during that period.
+* #98: International Wire Transfers to Utah: Include all international wire transfers to Utah from August–September 2025 from Egyptian, French, or Israeli sources, as reported by FinCEN and major banks. Also include all information on any foreign-origin financial transfer to any Utah account or entity during that period.
 
 * #99: Utah Suspicious Activity Reports: Include all Suspicious Activity Reports (SARs) filed by Utah banks during the relevant period, as maintained by FinCEN. Also include all information on any unusual financial activity in Utah flagged by any financial institution during 2025.
 
@@ -710,13 +710,13 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 * #161: FBI TPUSA Member Foreign Contact Interviews: Include all FBI Form 302s from interviews with TPUSA members regarding foreign contact. Also include all information on any FBI interview with any TPUSA-affiliated person about foreign intelligence approaches or relationships.
 
-* #162: TPUSA Member Foreign Travel Reports: Include all FBI reports on TPUSA member travel to Israel, Egypt, France, or other countries of interest. Also include all information on any foreign travel by TPUSA leadership or staff that involved contact with foreign government officials or intelligence personnel.
+* #162: TPUSA Member Foreign Travel Reports: Include all FBI reports on TPUSA member travel to Egypt, France, Israel, or other countries of interest. Also include all information on any foreign travel by TPUSA leadership or staff that involved contact with foreign government officials or intelligence personnel.
 
 * #163: Foreign Payments to TPUSA: Include all FBI and FinCEN records of wire transfers and payments from foreign sources to TPUSA. Also include all information on any foreign funding, donation, or financial support to TPUSA from any foreign entity or individual.
 
 * #164: Kirk Security Chief Foreign Intel Links: Include all FBI investigation records of Charlie Kirk's head of security regarding foreign intelligence connections. Also include all information on any person in Kirk's security detail who had contact with or ties to any foreign intelligence service.
 
-* #165: Hampton Meeting Foreign Intel Activity: Include all FBI reports on Israeli communications, threats, or money at the Hampton meeting of August 4–6, 2025. Also include all information on any foreign intelligence activity, influence, or presence at any TPUSA donor or leadership meeting during 2025.
+* #165: Hampton Meeting Foreign Intel Activity: Include all FBI reports on communications, threats, or money from Egyptian, French, or Israeli sources — including any involvement by Benjamin Netanyahu or Emmanuel Macron or their intermediaries — at the Hampton meeting of August 4–6, 2025. Also include all information on any foreign intelligence activity, influence, or presence at any TPUSA donor or leadership meeting during 2025.
 
 ---
 
@@ -736,15 +736,15 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 ### International Liaison (#171–#175)
 
-* #171: FBI Legat Israel Communications: Include all cable traffic from FBI Legal Attaché Tel Aviv to and from Israeli authorities regarding the case. Also include all information on any U.S.–Israel intelligence sharing, liaison activity, or diplomatic communication about the Charlie Kirk investigation.
+* #171: FBI Legat Israel Communications: Include all cable traffic from FBI Legal Attaché Tel Aviv to and from Israeli authorities — including any communications involving Prime Minister Benjamin Netanyahu or his office — regarding the case. Also include all information on any U.S.–Israel intelligence sharing, liaison activity, or diplomatic communication about the Charlie Kirk investigation.
 
-* #172: FBI Legat Egypt Communications: Include all communications from FBI Legal Attaché Cairo regarding Egyptian planes and personnel connected to the case. Also include all information on any U.S.–Egypt intelligence sharing or diplomatic communication about the investigation.
+* #172: FBI Legat Egypt and France Communications: Include all communications from FBI Legal Attaché Cairo regarding Egyptian planes and personnel connected to the case, and all communications from FBI Legal Attaché Paris regarding French intelligence (DGSE), French legionnaires, or any activity directed by or connected to President Emmanuel Macron or his office. Also include all information on any U.S.–Egypt or U.S.–France intelligence sharing or diplomatic communication about the investigation.
 
 * #173: Interpol Communications on Case: Include all FBI and Interpol international law enforcement sharing regarding the case. Also include all information on any international law enforcement cooperation, notice, or request related to the investigation.
 
 * #174: MLAT Requests and Responses: Include all formal Mutual Legal Assistance Treaty requests and responses from the DOJ Office of International Affairs. Also include all information on any international legal cooperation request made or received in connection with the investigation.
 
-* #175: Diplomatic Communications on Case: Include all State Department diplomatic cables about the assassination. Also include all information on any diplomatic communication, protest, inquiry, or notification by any foreign government regarding the Charlie Kirk investigation.
+* #175: Diplomatic Communications on Case: Include all State Department diplomatic cables about the assassination, including any communications with or involving Egyptian President El-Sisi, French President Emmanuel Macron, Israeli Prime Minister Benjamin Netanyahu, or their offices. Also include all information on any diplomatic communication, protest, inquiry, or notification by any foreign government regarding the Charlie Kirk investigation.
 
 ### Tyler Robinson Defense & Family (#176–#178)
 
@@ -865,7 +865,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 - **P10)** All employees, officers, contractors, and agents of any US intelligence agency — including CIA, NSA, DIA, NRO, NCTC, ODNI — who have any knowledge of, involvement in, or have produced any report, analysis, or communication related to the Charlie Kirk investigation, the UVU event, foreign intelligence activity connected to it, or the blocking of any investigation related to it. Includes Joe Kent (NCTC Director), Tulsi Gabbard (DNI), Kash Patel (FBI Director), and any intelligence official who participated in decisions to limit, block, or control the scope of investigation. Includes any person involved in the HADES spy plane program or drone operations on September 10, 2025.
 
-- **P11)** All foreign intelligence officers, agents, contractors, military personnel, diplomats, or foreign nationals identified by any US agency as present in Utah between July 1, 2025 and November 30, 2025, whose presence may be connected to the Charlie Kirk investigation. Includes persons associated with Israeli intelligence (Mossad, Shin Bet), Egyptian intelligence (GIS/Mukhabarat), French intelligence (DGSE/DGSI), or any other foreign intelligence service. Includes all persons carrying Israeli-registered cell phones detected at or near UVU on September 10, 2025 (the 12 phones identified by NSA). Includes any foreign national who entered the US through Provo or Salt Lake City airports in the relevant period.
+- **P11)** All foreign intelligence officers, agents, contractors, military personnel, diplomats, or foreign nationals identified by any US agency as present in Utah between July 1, 2025 and November 30, 2025, whose presence may be connected to the Charlie Kirk investigation. Includes persons associated with Egyptian intelligence (GIS/Mukhabarat), French intelligence (DGSE/DGSI), Israeli intelligence (Mossad, Shin Bet), or any other foreign intelligence service. Includes all persons carrying Israeli-registered cell phones detected at or near UVU on September 10, 2025 (the 12 phones identified by NSA). Includes any foreign national who entered the US through Provo or Salt Lake City airports in the relevant period.
 
 - **P12)** All US military personnel, defense contractors, and Department of Defense civilians involved in any military activity connected to the investigation. Includes crew and mission personnel of aircraft N1098L (HADES spy plane), including pilots, co-pilots, mission engineers, and observers from LASAI Aviation II LLC and Leidos Aviation Services. Includes any military personnel stationed at or visiting Fort Huachuca, AZ between September 1-11, 2025 who had any connection to matters related to Charlie Kirk. Includes personnel involved in DoD contract N0016425PJ538 for miniaturized anti-personnel charges at NSWC Crane and Accurate Energetic Systems (AES). Includes any person aboard US Air Force VIP transport jet 99-0404 (SAM callsign). Includes French legionnaires present in the US August 2-25, 2025.
 
@@ -877,7 +877,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 - **P16)** All airport staff, TSA agents, CBP officers, FBO employees, ground handlers, and air traffic controllers at Provo Municipal Airport (PVU) and Salt Lake City International Airport (SLC) who handled, interacted with, or had knowledge of Egyptian military aircraft, surveillance aircraft, or any aircraft listed in Schedule A. Includes anyone who granted "no-scan priority clearance" or special security exemptions. Includes anyone who modified badge access lists at Provo airport on or around September 11, 2025.
 
-- **P17)** All persons who attended meetings, calls, or confrontations with Charlie Kirk between July 1, 2025 and September 10, 2025, regarding Israel policy, donor pressure, or TPUSA direction. Specifically includes participants in the Hamptons meeting (August 3-6, 2025), including but not limited to Rabbi Pesach Wolicki, Josh Hammer, Seth Dillon, Bill Ackman, and Natasha Hausdorff. Includes any person who participated in the described "intervention" where Charlie Kirk was confronted by pro-Israel figures. Includes Benjamin Netanyahu and Yair Netanyahu and any intermediaries who communicated offers or pressure to Charlie Kirk. Includes participants in the July 31, 2025 White House meeting organized by the Faith & Freedom Coalition, Latino Coalition for Israel, and Philos Project, including Ralph Reed, Luke Moon, Apostle Mario Bramnick, and Yehuda Kaploun.
+- **P17)** All persons who attended meetings, calls, or confrontations with Charlie Kirk between July 1, 2025 and September 10, 2025, regarding Israel policy, donor pressure, or TPUSA direction. Specifically includes participants in the Hamptons meeting (August 3-6, 2025), including but not limited to Rabbi Pesach Wolicki, Josh Hammer, Seth Dillon, Bill Ackman, and Natasha Hausdorff. Includes any person who participated in the described "intervention" where Charlie Kirk was confronted by pro-Israel figures. Includes Benjamin Netanyahu, Yair Netanyahu, Emmanuel Macron, and any intermediaries who communicated offers or pressure to Charlie Kirk. Includes participants in the July 31, 2025 White House meeting organized by the Faith & Freedom Coalition, Latino Coalition for Israel, and Philos Project, including Ralph Reed, Luke Moon, Apostle Mario Bramnick, and Yehuda Kaploun.
 
 - **P18)** All persons to whom Charlie Kirk communicated fears for his life or threats against him. Specifically includes Andrew Kolvet, Frank Turek, Dan Flood, Harrison Smith, and Candace Owens. Includes any person who received texts, Signal messages, Telegram messages, or any other communications from Charlie Kirk expressing concern about being killed or threatened. Includes Blake Neff, Mikey McCoy, Rob McCoy, and any other person in Kirk's inner circle who was present at or communicated about the UVU event.
 
@@ -893,7 +893,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 - **P24)** Tyler Robinson, Lance Twiggs (Robinson's girlfriend/live-in partner), Robinson's parents, Robinson's family members, and any person who communicated with, met with, housed, employed, educated, trained, or provided financial support to Tyler Robinson in the 12 months before September 10, 2025. Includes any person who may have psychologically manipulated, radicalized, handled, or directed Robinson. Includes jail snitch Jaxson Thomas Fox. Includes any person who appeared at Robinson's court hearings in October 2025.
 
-- **P25)** All elected officials, appointed officials, and government employees at federal, state, or local level who had knowledge of, involvement in, or communicated about the Charlie Kirk investigation, the UVU event, or related matters. Specifically includes Governor Spencer Cox (Utah), any member of Congress who received briefings, Mike Huckabee (US Ambassador to Israel), and any White House staff or advisors who communicated about the case. Includes any official who made decisions about the scope of investigation, who intervened to block or limit investigations, or who communicated with foreign governments about the case.
+- **P25)** All elected officials, appointed officials, and government employees at federal, state, or local level who had knowledge of, involvement in, or communicated about the Charlie Kirk investigation, the UVU event, or related matters. Specifically includes Governor Spencer Cox (Utah), any member of Congress who received briefings, Mike Huckabee (US Ambassador to Israel), and any White House staff or advisors who communicated about the case. Includes any official who made decisions about the scope of investigation, who intervened to block or limit investigations, or who communicated with foreign governments — including the offices of Benjamin Netanyahu and Emmanuel Macron — about the case.
 
 - **P26)** All persons affiliated with AIPAC, ADL, Faith & Freedom Coalition, Heritage Foundation, Philos Project, or any other lobbying organization or political advocacy group that communicated about Charlie Kirk's policy positions on Israel, engaged in pressure campaigns directed at Kirk, or had any interaction with any person in this definition related to the investigation. Includes any person connected to the reported "hit" or threats against Candace Owens, Tucker Carlson, or Ian Carroll.
 
