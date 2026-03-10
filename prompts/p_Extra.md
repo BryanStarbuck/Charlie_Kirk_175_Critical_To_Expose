@@ -26,12 +26,11 @@ Your instructions are:
 EXTRA LIST:
 
 1 Biometric analysis from FBI-released surveillance images estimating Tyler Robinson’s age as 20-24, based on facial metrics like angular jaw, skin texture, and build proportions.
-2 Apparel semiotics analysis suggesting dual-signal camouflage in Tyler’s clothing: overt patriotic elements (e.g., American flag patch) masking subversive or tactical intent, with obscurant features like mirrored aviators for anonymity.
 3 Evidence supporting a coordinated cell operation with at least three actors: the shooter (Tyler), a spotter for logistics, and an exfiltration handler, potentially under quasi-governmental or private military contractor auspices.
 4 The motive appearing scripted, with Tyler’s texts and gun engravings resembling an "internet meme salad" mixed with anti-fascist nods, designed to pin blame on the "radical left" while lacking deeper radicalization traces.
 5 Rapid family cooperation in turning Tyler in, with his roommate under protection and multiple confessions, but early FBI/ATF bulletins on "trans ideology bullets" being quietly retracted.
 
-10 Scrutiny of odd text exchanges potentially related to the assassination planning or threats.
+10 Scrutiny of odd instant messages, in-game communication, discord or text exchanges potentially related to the assassination planning or threats.
 11 Investigation into visitors to Tyler Robinson’s home in the lead-up to the event.
 12 Clarification from investigators that a suspicious plane’s transponder was not deliberately turned off, but showed gaps due to incomplete data in rural areas.
 13 The person asking questions to Charlie Kirk was captured on video practicing the same shocked facial expression beforehand. DId that person coordinate or communicate with anyone before this event or after? He was later on CBS with Erika Kirk. Disclose any and all people related to communication and coordination.
@@ -42,6 +41,8 @@ EXTRA LIST:
 * Was there any cause of death or cause of injury that was different than a bullet? Or from a 386 bullet? That hurt Charlie Kirk or caused his death? 
 * Did he have brain or other damage that can be noticed or detected before the bullet or neck and tree wound occurred. 
 * Is there any evidence of any kind of explosion that happened within an hour to an hour and a half or an hour before or after he died? 
+* Did any videos get deleted on mobile phones of witnesses or people at UVU 9/10/2025 that got deleted later?
+* Did the FBI ever ask any witnesses or anyone to delete video from 9/10/2025 in Utah.
 14 Presence of a hatch beneath Charlie Kirk’s seat at the event venue, raising questions about access or staging.
 15 The crime scene being rapidly scrubbed, altered, or cleaned up post-incident, potentially to remove evidence.
 16 An autopsy on Charlie Kirk being declined, limiting forensic insights.
