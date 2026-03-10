@@ -1,13 +1,15 @@
-# Charlie Kirk Assassination — Forced Disclosure
+# Discovery — Charlie Kirk Assassination Investigation
 
-This is about the Charlie Kirk assassination. Citizen investigators find that intelligence-service-level involvement is what investigators keep coming back to.
+We would like to have the defense team formally submit this entire list as formal discovery in the case related to the Charlie Kirk assassination.
 
-Our main push is to get a set of laws passed to force file disclosure in the Charlie Kirk assassination:
+We would like to have the FBI at the federal level and U.S. intelligence both become legally recognized custodial agencies in this matter. We would like to have it established in public documents that [Brady Laws](https://en.wikipedia.org/wiki/Brady_v._Maryland) apply at the FBI federal level and at the U.S. intelligence level — so that the U.S. citizen base can trust in justice, knowing that Brady Laws enforce that these agencies must disclose any and all relevant information. Under Brady Law, they are obligated to hand over all such information to the defense. Any failure to do so constitutes a Brady Law violation.
 
-- [Law 1 — DoJ / FBI Forced Disclosure](1_DoJ_FBI/Law_1_DoJ_FBI.md)
-- [Law 2 — U.S. Intelligence Forced Disclosure](2_US_Intel/Law_2_US_Intel.md)
+Our main push is to get laws passed that force this disclosure outside the court case entirely:
 
-As a secondary matter, we would like the defense team to add these items as formal [discovery](Discovery/README.md) in the court case.
+- [Law 1 — DoJ / FBI Forced Disclosure](../1_DoJ_FBI/Law_1_DoJ_FBI.md)
+- [Law 2 — U.S. Intelligence Forced Disclosure](../2_US_Intel/Law_2_US_Intel.md)
+
+We would also like the defense team to submit the items below as formal discovery within the existing legal proceedings.
 
 ---
 
@@ -1235,11 +1237,3 @@ General Foreign Intel: January 1, 2023 - present
 * Targets with bullet holes found in the defendant's residence
 * Handwritten note found under keyboard stating intent to "take out Charlie Kirk" (including photograph)
 * Statements from the defendant's mother, father, and family friend about events leading to surrender
-
----
-
-## Videos
-
-- [Full Discovery Walkthrough — Charlie Kirk Assassination Investigation](https://github.com/BryanStarbuck/Charlie_Kirk_Dangerous_Investigation/blob/main/Details/FULL_Discovery_1/README.md)
-- [Discovery Part 2 — Continued Evidence and Analysis](https://github.com/BryanStarbuck/Charlie_Kirk_Dangerous_Investigation/blob/main/Details/Discovery_2/README.md)
-- [Discovery Part 1 — Initial Findings and Key Evidence](https://github.com/BryanStarbuck/Charlie_Kirk_Dangerous_Investigation/blob/main/Details/Discovery_1/README.md)
