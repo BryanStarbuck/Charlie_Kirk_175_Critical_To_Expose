@@ -29,3 +29,6 @@ Anything to prevent the law from being rejected by the court later.
 Anything that's greatly, overly broad. Either in the people that have to comply or in what's requested. 
 
 
+
+
+Make sure the claude agent saved out the outputs to the correct one (or more) output files.

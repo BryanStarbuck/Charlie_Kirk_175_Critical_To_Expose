@@ -323,7 +323,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 * #84: CBP Inspection of Egyptian Aircraft: Include all CBP inspection reports and cargo manifests for Egyptian aircraft. Also include all information on any customs inspection, security screening, or cargo declaration for any Egyptian-registered aircraft arriving at any U.S. airport during 2025.
 
-* #85: Egyptian Contractor Security Clearances: Include all State Department and DoD records of Defense Attache badges issued to Egyptian military contractors. Also include all information on any U.S. government authorization, credential, or clearance provided to Egyptian nationals during 2025.
+* #85: Egyptian Contractor Security Clearances: Include all State Department and DoD records of Defense Attaché badges issued to Egyptian military contractors. Also include all information on any U.S. government authorization, credential, or clearance provided to Egyptian nationals during 2025.
 
 * #86: Egyptian Contractor Ground Transportation: Include all rental car and hotel records showing where Egyptian contractors went after arriving. Also include all information on any ground transportation, lodging, or movement by Egyptian nationals who arrived on the listed aircraft.
 
@@ -339,7 +339,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 * #90: Israeli Phone International Roaming Records: Include all international roaming activation and usage patterns from Israeli and U.S. carriers for the identified phones. Also include all information confirming the physical presence of Israeli-registered devices in Utah.
 
-* #91: FBI Communications with Israel on Case: Include all communications between FBI Legal Attache Tel Aviv and Israeli authorities regarding the Israeli phones and the investigation. Also include all information on any FBI request to or response from Israeli government entities about the case.
+* #91: FBI Communications with Israel on Case: Include all communications between FBI Legal Attaché Tel Aviv and Israeli authorities regarding the Israeli phones and the investigation. Also include all information on any FBI request to or response from Israeli government entities about the case.
 
 ---
 
@@ -557,9 +557,9 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 ### International Liaison (#172–#176)
 
-* #172: FBI Legat Israel Communications: Include all cable traffic from FBI Legal Attache Tel Aviv to and from Israeli authorities — including any communications involving Prime Minister Benjamin Netanyahu or his office — regarding the case. Also include all information on any U.S.–Israel intelligence sharing, liaison activity, or diplomatic communication about the Charlie Kirk investigation.
+* #172: FBI Legat Israel Communications: Include all cable traffic from FBI Legal Attaché Tel Aviv to and from Israeli authorities — including any communications involving Prime Minister Benjamin Netanyahu or his office — regarding the case. Also include all information on any U.S.–Israel intelligence sharing, liaison activity, or diplomatic communication about the Charlie Kirk investigation.
 
-* #173: FBI Legat Egypt and France Communications: Include all communications from FBI Legal Attache Cairo regarding Egyptian planes and personnel connected to the case, and all communications from FBI Legal Attache Paris regarding French intelligence (DGSE), French legionnaires, or any activity directed by or connected to President Emmanuel Macron or his office. Also include all information on any U.S.–Egypt or U.S.–France intelligence sharing or diplomatic communication about the investigation.
+* #173: FBI Legat Egypt and France Communications: Include all communications from FBI Legal Attaché Cairo regarding Egyptian planes and personnel connected to the case, and all communications from FBI Legal Attaché Paris regarding French intelligence (DGSE), French legionnaires, or any activity directed by or connected to President Emmanuel Macron or his office. Also include all information on any U.S.–Egypt or U.S.–France intelligence sharing or diplomatic communication about the investigation.
 
 * #174: Interpol Communications on Case: Include all FBI and Interpol international law enforcement sharing regarding the case. Also include all information on any international law enforcement cooperation, notice, or request related to the investigation.
 
@@ -753,7 +753,7 @@ The Congress finds the following:
 
 (a) **Constitutional Authority.** The Congress has authority to enact this legislation pursuant to Article I legislative and oversight powers over the Intelligence Community, the Spending Clause (Article I, Section 8, Clause 1) with respect to intelligence agency appropriations and state and local cooperation, and the Commerce Clause (Article I, Section 8, Clause 3) with respect to financial records and interstate and international communications.
 
-(b) **Inadequacy of Existing Investigations.** The investigation into the death of Charlie Kirk on September 10, 2025, at Utah Valley University in Orem, Utah, has been marked by significant deficiencies including: failure to investigate credible leads regarding foreign intelligence activity, including approximately 12 Israeli-registered cell phones detected at the shooting site, Egyptian military aircraft (SU-BTT, SU-BND) delivering personnel with Defense Attache badges to Provo Municipal Airport, a HADES surveillance aircraft (N1098L) circling 35 minutes before the shooting, Counter-UAS testing at Provo Airport from September 4-10, DoD contract N0016425PJ538 for miniaturized anti-personnel charges, and evidence of electronic signal jamming at the venue. The Intelligence Community has failed to disclose its knowledge of these activities or to conduct adequate counterintelligence assessments.
+(b) **Inadequacy of Existing Investigations.** The investigation into the death of Charlie Kirk on September 10, 2025, at Utah Valley University in Orem, Utah, has been marked by significant deficiencies including: failure to investigate credible leads regarding foreign intelligence activity, including approximately 12 Israeli-registered cell phones detected at the shooting site, Egyptian military aircraft (SU-BTT, SU-BND) delivering personnel with Defense Attaché badges to Provo Municipal Airport, a HADES surveillance aircraft (N1098L) circling 35 minutes before the shooting, Counter-UAS testing at Provo Airport from September 4-10, DoD contract N0016425PJ538 for miniaturized anti-personnel charges, and evidence of electronic signal jamming at the venue. The Intelligence Community has failed to disclose its knowledge of these activities or to conduct adequate counterintelligence assessments.
 
 (c) **Prior Disclosure Law Failures.** The JFK Assassination Records Collection Act of 1992 (Public Law 102-526) failed to achieve full disclosure because successive Presidents exercised override authority to withhold intelligence records for over 30 years, with the Intelligence Community exploiting classification authority to prevent public access. The Epstein Files Transparency Act (Public Law 119-38), while passing 427-1 in the House and by unanimous consent in the Senate, suffered compliance failures when intelligence-related records were withheld on sources and methods grounds without meaningful oversight. This Act is designed to remedy these structural deficiencies by narrowly defining permissible protections and establishing robust independent oversight.
 
@@ -785,26 +785,36 @@ The Congress finds the following:
 
 (h) **"Investigation"** means any federal, state, or local law enforcement inquiry, intelligence assessment, counterintelligence investigation, congressional inquiry, or other governmental examination related to the death of Charlie Kirk, including but not limited to the criminal prosecution in *State of Utah v. Tyler Alexander Robinson* (Case No. 251403576, Fourth Judicial District Court, Utah County).
 
-## Section 4: Sources and Methods Protection
+## Section 4: Sources and Methods Protection / Prohibited Grounds for Withholding
 
-(a) Agencies may redact ONLY the following from disclosed materials:
-   - The true identity of currently active human intelligence sources
-   - Specific technical collection methods currently in active operational use
+(a) No covered information shall be withheld, delayed, or redacted on the basis of:
+   1. Embarrassment, reputational harm, or political sensitivity to any government official, public figure, or foreign dignitary
+   2. Any ongoing investigation (except as narrowly provided below)
+   3. Executive privilege
+   4. Deliberative process privilege
+   5. Intelligence community privilege or "sources and methods" (except as narrowly provided below)
+   6. Diplomatic relations with any foreign government
+   7. Any claim that records were "lost," "destroyed," or "cannot be located" without forensic verification
 
-(b) All redactions must be:
-   - Individually justified in a classified annex provided to the congressional intelligence committees
-   - Subject to review by the independent review board established under this Act
-   - Accompanied by an unclassified summary of the substance of the redacted information
+(b) **Narrow Permitted Redactions.** The only permissible redactions from covered information are:
+   1. The true identity of currently active human intelligence sources whose disclosure would create an imminent threat to life
+   2. Specific technical collection methods currently in active operational use
+   3. Child sexual abuse material as defined under 18 U.S.C. Section 2256
 
 (c) The substance and conclusions of any intelligence must be disclosed even if the source is protected. No redaction of sources shall be used to withhold the analytical conclusions derived from those sources.
 
-(d) No record shall be withheld on the basis of embarrassment, reputational harm, political sensitivity, or diplomatic relations with any foreign government.
+(d) All redactions must be:
+   1. Individually justified in writing, with a classified annex provided to the congressional intelligence committees
+   2. Published in the Federal Register (in summary form sufficient to identify the scope of the redaction)
+   3. Submitted to the Intelligence Committees of both houses of Congress
+   4. Subject to judicial review upon challenge by any party
+   5. Accompanied by an unclassified summary of the substance of the redacted information
 
-(e) **Declassification of Covered Information.** All classification markings on covered information are automatically removed upon enactment of this Act. No covered information may be reclassified after enactment. Covered agencies shall process declassification within the 30-day disclosure window. If an agency cannot complete declassification review within 30 days, the information shall be produced to the review board in classified form, with a public redacted version produced simultaneously, and the full unclassified version produced within 60 days.
+(e) No blanket exemptions or classifications shall be permitted.
 
-(f) No blanket exemptions or classifications shall be permitted.
+(f) **Declassification of Covered Information.** All classification markings on covered information are automatically removed upon enactment of this Act. No covered information may be reclassified after enactment. Covered agencies shall process declassification within the 30-day disclosure window. Classification shall not excuse non-production; if an agency cannot complete declassification review within 30 days, the information shall be produced to the review board in classified form, with a public redacted version produced simultaneously, and the full unclassified version produced within 60 days.
 
-## Section 5: Criminal Prohibition on Obstruction
+## Section 5: Criminal Prohibition on Obstruction and Penalties for Non-Compliance
 
 (a) It shall be a federal crime, punishable by up to 10 years imprisonment, for any person employed by or acting on behalf of the United States Intelligence Community or any branch of the United States government to:
    - Prevent, obstruct, or discourage any government employee from releasing covered information
@@ -819,7 +829,11 @@ The Congress finds the following:
 
 (d) Any agency that fails to comply within the 30-day timeline shall be subject to the following: the relevant appropriations subcommittees are directed to reduce the non-compliant agency's discretionary intelligence funding by 10% per month of non-compliance, up to a maximum cumulative reduction of 50%. Funds specifically appropriated for compliance with this Act are exempt from such reductions. Reductions apply prospectively to new discretionary appropriations, not retroactively to already-obligated funds.
 
-(e) The DNI's failure to ensure compliance shall be grounds for contempt of Congress proceedings. Congress may proceed through civil contempt in federal court. Either chamber may retain independent counsel to prosecute the contempt. The review board may seek judicial enforcement directly.
+(e) Certification under penalty of perjury that all information has been produced, when information is later found to have been withheld, constitutes perjury and is subject to prosecution under 18 U.S.C. Section 1621.
+
+(f) The DNI's failure to ensure compliance shall be grounds for contempt of Congress proceedings. Congress may proceed through civil contempt in federal court, bypassing the requirement of referral to the U.S. Attorney for the District of Columbia. Either chamber may retain independent counsel to prosecute the contempt. The review board may seek judicial enforcement directly.
+
+(g) **DNI Conflict of Interest.** If the review board finds evidence that Intelligence Community personnel are implicated in the investigation — including allegations of evidence destruction, obstruction, or involvement in the events surrounding the death of Charlie Kirk — compliance authority shall transfer to a court-appointed Special Master. The Director of National Intelligence shall recuse from compliance decisions affecting information that could implicate Intelligence Community personnel. The review board, not the DNI, shall have final authority to certify completeness of disclosure.
 
 ## Section 6: Records Preservation
 
@@ -847,13 +861,15 @@ The Congress finds the following:
 
 ## Section 8: No Presidential Override
 
-(a) The President may not order, direct, or authorize the continued withholding of any covered information under this Act.
+(a) **Congressional Finding of Compelling Interest.** Congress finds that the compelling public interest in disclosure of covered information, as established in Section 0, overcomes any claim of executive privilege with respect to such information.
 
-(b) No executive order, presidential memorandum, classification decision, or other presidential directive may suspend, modify, or override the requirements of this Act.
+(b) The President may not order, direct, or authorize the continued withholding of any covered information under this Act.
 
-(c) Any assertion of executive privilege over covered information shall be submitted to the independent review board and reviewed by a federal court within 14 days. There shall be a presumption against privilege. The burden of proof shall be on the asserting party to demonstrate by clear and convincing evidence that disclosure would cause grave and imminent harm to an identified national security interest that outweighs the public interest in disclosure.
+(c) No executive order, presidential memorandum, classification decision, or other presidential directive may suspend, modify, or override the requirements of this Act.
 
-(d) Any presidential delay of disclosure under subsection (c) shall not exceed 30 days beyond the statutory deadline without court approval.
+(d) Any assertion of executive privilege over covered information shall be submitted to the independent review board and reviewed by a federal court within 14 days. There shall be a presumption against privilege. The burden of proof shall be on the asserting party to demonstrate by clear and convincing evidence that disclosure would cause grave and imminent harm to an identified national security interest that outweighs the public interest in disclosure.
+
+(e) Any presidential delay of disclosure under subsection (d) shall not exceed 30 days beyond the statutory deadline without court approval.
 
 ## Section 8A: Prohibition on Classification
 
@@ -913,9 +929,11 @@ If any provision of this Act, or the application thereof to any person or circum
 
 ## Section 12A: State and Local Cooperation
 
-(a) Any state or local agency that possesses intelligence-related covered information shall produce such information within 30 days of enactment.
+(a) Any state or local agency that possesses intelligence-related covered information shall produce such information within 30 days of enactment. Non-compliance shall result in suspension of up to 10% of annual federal intelligence-sharing grants and law enforcement cooperation grants directly related to intelligence sharing.
 
-(b) The DNI shall notify all relevant state and local agencies of their obligations under this Act within 7 days of enactment.
+(b) The DNI shall notify all relevant state and local agencies of their obligations under this Act within 7 days of enactment, specifying which grants are subject to suspension for non-compliance.
+
+(c) Before any grant suspension takes effect, the non-compliant state or local agency shall receive 30 days' written notice identifying the specific non-compliance and shall be afforded a 30-day cure period in which to produce the covered information.
 
 ## Section 13: Effective Date
 

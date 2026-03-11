@@ -39,3 +39,6 @@ For each law, arrange the sections in this order:
 ## Why This Order
 
 Non-lawyers and non-politicians need to read the document and understand what is being accomplished from a political goal and a justice goal before hitting dense legal language. The list is the substance -- it shows what the law forces into the open. The legal reinforcement sections support that list but should not bury it.
+
+
+Make sure the claude agent saved out the outputs to the correct one (or more) output files.

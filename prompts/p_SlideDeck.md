@@ -22,3 +22,9 @@ Your instructions are:
 Read the MD file of the law in the first law directory. Read the Bkup_Charlie_Kirk.txt file, that input_investigation_file. Read those in the context. Come up with this output_file. Grow the contents of that to be a slide deck of what would the contents be of the slides to have this as a video walking through the slides to go introduce this to everybody. Make it 40 slides.
 
 For each slide, include the title text, the points you'll make on there. They don't have to be a bullet list; they could have graphics. You could have three panels; it could have whatever. Output it as a YAML file, hierarchical. There's a top hierarchy, and the second level would be an array of slides underneath there. Have all the properties mapped out that include the title slide, that means the content is structured on slide YAML properties, YAML hierarchy. Have what the speaker speaks through verbally to go with the slide. 
+
+
+
+
+
+Make sure the claude agent saved out the outputs to the correct one (or more) output files.

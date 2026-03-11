@@ -33,3 +33,6 @@ Act as an attorney. Review all 4 laws. There's the output_file.
 Do 20 equal signs. Make sure each one is on a line to be a separator between those four laws. Each section number the ones for that law where you're numbering the problems you're listing out that could and should be fixed in the law itself to be compliant with the goals file. Input_goals_file. 
 
 
+
+
+Make sure the claude agent saved out the outputs to the correct one (or more) output files.

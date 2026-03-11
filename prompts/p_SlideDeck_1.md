@@ -41,3 +41,6 @@ We probably want one slide on the autopsy information. It will massively move fo
 
 There'd be a number of other things. The government data is invaluable, and citizen investigators don't have access to that, and it holds things back. Whatever holds back the most, having a number of those slides is very helpful, and then find a range of slides outside of that. 
 
+
+
+Make sure the claude agent saved out the outputs to the correct one (or more) output files.

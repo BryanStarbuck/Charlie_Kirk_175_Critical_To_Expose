@@ -24,3 +24,6 @@ Act as an attorney. Analyze if this law has any ways to be improved.
 In the output file, list the four laws. Number them, give the title: then the directory path, and then end bullet points, indented bullet points that are there. Say what the scope is for that law. Make sure all four laws are done this way. In the output file, you can read everything in the root dir and everything underneath there to understand. 
 
 Be succinct. 
+
+
+Make sure the claude agent saved out the outputs to the correct one (or more) output files.

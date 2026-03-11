@@ -20,3 +20,9 @@ Your instructions are:
 * Only file to modify or grow is OUTPUT_FILE.
 
 * Search on the INPUT_INVESTIGATION_FILE and see if there's anything that we should add to this list. The goal of this is to find anything beyond the 175 that we may well want to include in this law to have the government disclose. The OUTPUT_FILE will just be the ones that we should consider adding. Also number them 176 and beyond. 
+
+
+
+
+
+Make sure the claude agent saved out the outputs to the correct one (or more) output files.

@@ -51,3 +51,6 @@ EXTRA LIST:
 19 Theory of a potential "camera gun" or other non-traditional gun or weapon used in the assassination, disguised as event equipment.
 20 Witness Eric’s testimony describing the shot sound as resembling a 9mm or "cherry bomb," not a deep rifle report, suggesting a different weapon type.
 
+
+
+Make sure the claude agent saved out the outputs to the correct one (or more) output files.
