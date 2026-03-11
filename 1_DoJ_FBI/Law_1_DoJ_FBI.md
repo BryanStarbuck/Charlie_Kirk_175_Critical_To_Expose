@@ -872,21 +872,33 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 ## Section 6: Whistleblower Protections
 
-(a) Any employee of a covered agency, or any employee of the United States government, may voluntarily submit covered records or information to the designated disclosure body established under this Act, to any Designated Trusted Investigator under the Charlie Kirk Trusted Investigators Act, or directly to the public.
+(a) **Right to Contact Investigation Teams.** Any government employee, government contractor, subcontractor, grantee, or any person who has or has had access to covered information through any relationship with the United States government, may voluntarily submit covered records, information, leads, or evidence to any of the following recipients:
+   - The designated disclosure body (review board) established under this Act
+   - Any Designated Trusted Investigator or investigation team established under the Charlie Kirk Trusted Investigators Act (Law 4)
+   - Any investigation team established under the Charlie Kirk Mandatory Investigation Act (Law 3), including the FBI, CIA, NSA, and DNI-directed teams
+   - The external independent monitor established under the Charlie Kirk Mandatory Investigation Act (Law 3)
+   - The congressional oversight committees (including the Senate and House Judiciary Committees and Intelligence Committees)
+   - Any federal, state, or local law enforcement agency
+   - Directly to the public
 
-(b) It shall be unlawful for any supervisor, manager, agency head, or any other person to retaliate against, terminate, demote, reassign, harass, revoke security clearance of, or in any way persecute any government employee for disclosing information pursuant to this Act.
+This right applies to any information related to the death of Charlie Kirk and to any information about the investigation itself, including but not limited to evidence of obstruction, mismanagement, cover-up, evidence tampering, witness intimidation, or any failure to investigate leads.
 
-(c) Any adverse personnel action taken against a disclosing employee within 2 years of disclosure shall create a rebuttable presumption of retaliation.
+(b) It shall be unlawful for any supervisor, manager, agency head, or any other person to retaliate against, terminate, demote, reassign, harass, revoke security clearance of, or in any way persecute any government employee or contractor for disclosing information pursuant to this Act.
+
+(c) Any adverse personnel action taken against a disclosing employee or contractor within 2 years of disclosure shall create a rebuttable presumption of retaliation.
 
 (d) Violations of subsection (b) shall be punishable by:
    - Criminal penalties of up to 5 years imprisonment
    - Civil liability for damages
    - Mandatory reinstatement of any employee wrongfully affected
+   - Back pay for the full period of any wrongful separation
    - Treble damages for willful violations
 
-(e) **NDA and Secrecy Agreement Override.** No non-disclosure agreement, confidentiality agreement, secrecy agreement, or similar contractual provision — whether entered into with a government agency or a private entity — shall be enforceable to the extent it would prohibit any person from disclosing information related to the death of Charlie Kirk to the review board, Congress, a Designated Trusted Investigator, law enforcement, or the public pursuant to this Act.
+(e) **NDA and Secrecy Agreement Override.** No non-disclosure agreement, confidentiality agreement, secrecy agreement, or similar contractual provision — whether entered into with a government agency or a private entity — shall be enforceable to the extent it would prohibit any person from disclosing information related to the death of Charlie Kirk or the investigation thereof to any recipient listed in subsection (a).
 
-(f) **Private Sector Whistleblower Protections.** The protections of subsections (b), (c), and (d) shall extend to any private sector employee, contractor, or agent who discloses information related to the death of Charlie Kirk pursuant to this Act. No employer may terminate, demote, harass, or otherwise retaliate against any person for making disclosures under this Act. This subsection is modeled on 18 U.S.C. 1514A (Sarbanes-Oxley whistleblower provisions) and shall be construed broadly to protect all persons who provide information.
+(f) **Statutory Secrecy Override.** No provision of any statute — including but not limited to the Espionage Act (18 U.S.C. Sections 793-798), the Intelligence Identities Protection Act (50 U.S.C. Section 3121), the Classified Information Procedures Act, or any agency-specific secrecy statute — shall be construed to prohibit, penalize, or deter any person from disclosing covered information to any recipient listed in subsection (a). Any person who discloses covered information to a listed recipient in good faith shall be immune from criminal prosecution, civil liability, and administrative penalty under any secrecy or classification statute with respect to that disclosure. This subsection does not authorize disclosure of information unrelated to the death of Charlie Kirk or the investigation thereof.
+
+(g) **Private Sector Whistleblower Protections.** The protections of subsections (b), (c), (d), (e), and (f) shall extend to any private sector employee, contractor, subcontractor, or agent who discloses information related to the death of Charlie Kirk or the investigation thereof pursuant to this Act. No employer may terminate, demote, harass, or otherwise retaliate against any person for making disclosures under this Act. This subsection is modeled on 18 U.S.C. 1514A (Sarbanes-Oxley whistleblower provisions) and shall be construed broadly to protect all persons who provide information.
 
 ## Section 7: Penalties for Non-Compliance
 
@@ -916,7 +928,16 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 (d) Board members may not have been employed by any covered agency within the preceding 10 years.
 
-(e) **Special Master.** Upon a finding of non-compliance by any covered agency, any federal district court may appoint a Special Master with authority to: (1) access agency systems, databases, and physical storage facilities; (2) compel production of specific records; (3) report directly to the court and the review board; and (4) be funded by the non-compliant agency's budget. The review board may petition any federal court for appointment of a Special Master without demonstrating individual standing.
+(e) **Public Contact Information.** Within 14 days of the review board's establishment, the board shall publish and maintain the following public contact channels to allow any member of the public, any witness, any whistleblower, or any person with relevant information to communicate directly with the review board:
+   1. A publicly accessible email address, hosted on a .gov domain independent of any covered agency, prominently displayed on the review board's public website
+   2. A physical mailing address for submission of documents and evidence
+   3. A toll-free telephone hotline staffed during business hours, with voicemail available 24 hours
+   4. A secure online submission portal with end-to-end encryption for sensitive documents and tips
+   5. For persons holding active security clearances who wish to submit classified information, the review board shall maintain at least one classified communication channel at an appropriate classification level, accessible through a Sensitive Compartmented Information Facility (SCIF) maintained independently of any covered agency. The existence and access procedures for classified channels shall be published on the review board's public website without revealing technical details that would compromise security.
+
+The review board shall acknowledge receipt of all submissions within 7 days. No covered agency may monitor, intercept, or access communications sent to the review board through any of these channels. Interference with public communications to the review board constitutes obstruction under Section 7(a).
+
+(f) **Special Master.** Upon a finding of non-compliance by any covered agency, any federal district court may appoint a Special Master with authority to: (1) access agency systems, databases, and physical storage facilities; (2) compel production of specific records; (3) report directly to the court and the review board; and (4) be funded by the non-compliant agency's budget. The review board may petition any federal court for appointment of a Special Master without demonstrating individual standing.
 
 ## Section 9: Private Right of Action
 

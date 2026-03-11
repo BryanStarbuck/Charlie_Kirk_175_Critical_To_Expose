@@ -958,21 +958,33 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 ## Section 5: Whistleblower Protections
 
-(a) Any government employee may provide information, leads, or evidence to the investigation teams, to any Designated Trusted Investigator under the Charlie Kirk Trusted Investigators Act, or directly to the public.
+(a) **Right to Contact Investigation Teams.** Any government employee, government contractor, subcontractor, grantee, or any person who has or has had access to covered information through any relationship with the United States government, may voluntarily submit information, leads, documents, or evidence to any of the following recipients:
+   - Any investigation team established under this Act (FBI, CIA, NSA, and DNI-directed teams)
+   - The external independent monitor established under Section 6 of this Act
+   - Any Designated Trusted Investigator or investigation team established under the Charlie Kirk Trusted Investigators Act (Law 4)
+   - The designated disclosure body (review board) established under the Charlie Kirk Files Forced Disclosure Act (Law 1) or the Charlie Kirk Intelligence Services Disclosure Act (Law 2)
+   - The congressional oversight committees (including the Senate and House Judiciary Committees and Intelligence Committees)
+   - Any federal, state, or local law enforcement agency
+   - Directly to the public
 
-(b) It shall be unlawful for any supervisor, manager, agency head, or any other person to retaliate against, terminate, demote, reassign, harass, revoke security clearance of, or in any way persecute any government employee for disclosing information pursuant to this Act or for participating in, supporting, or providing information to the investigation.
+This right applies to any information related to the death of Charlie Kirk and to any information about the investigation itself, including but not limited to evidence of obstruction, mismanagement, cover-up, evidence tampering, witness intimidation, or any failure to investigate leads.
 
-(c) Any adverse personnel action taken against a disclosing employee within 2 years of disclosure shall create a rebuttable presumption of retaliation.
+(b) It shall be unlawful for any supervisor, manager, agency head, or any other person to retaliate against, terminate, demote, reassign, harass, revoke security clearance of, or in any way persecute any government employee or contractor for disclosing information pursuant to this Act or for participating in, supporting, or providing information to the investigation.
+
+(c) Any adverse personnel action taken against a disclosing employee or contractor within 2 years of disclosure shall create a rebuttable presumption of retaliation.
 
 (d) Violations of subsection (b) shall be punishable by:
    - Criminal penalties of up to 5 years imprisonment
    - Civil liability for damages
    - Mandatory reinstatement of any employee wrongfully affected
+   - Back pay for the full period of any wrongful separation
    - Treble damages for willful violations
 
-(e) **NDA and Secrecy Agreement Override.** No non-disclosure agreement, confidentiality agreement, secrecy agreement, or similar contractual provision — whether entered into with a government agency or a private entity — shall be enforceable to the extent it would prohibit any person from disclosing information related to the death of Charlie Kirk to the investigation teams, the external monitor, Congress, a Designated Trusted Investigator, law enforcement, or the public pursuant to this Act.
+(e) **NDA and Secrecy Agreement Override.** No non-disclosure agreement, confidentiality agreement, secrecy agreement, or similar contractual provision — whether entered into with a government agency or a private entity — shall be enforceable to the extent it would prohibit any person from disclosing information related to the death of Charlie Kirk or the investigation thereof to any recipient listed in subsection (a).
 
-(f) **Private Sector Whistleblower Protections.** The protections of subsections (b), (c), and (d) shall extend to any private sector employee, contractor, or agent who discloses information related to the death of Charlie Kirk pursuant to this Act. No employer may terminate, demote, harass, or otherwise retaliate against any person for making disclosures under this Act. This subsection is modeled on 18 U.S.C. 1514A (Sarbanes-Oxley whistleblower provisions) and shall be construed broadly to protect all persons who provide information.
+(f) **Statutory Secrecy Override.** No provision of any statute — including but not limited to the Espionage Act (18 U.S.C. Sections 793-798), the Intelligence Identities Protection Act (50 U.S.C. Section 3121), the Classified Information Procedures Act, or any agency-specific secrecy statute — shall be construed to prohibit, penalize, or deter any person from disclosing covered information to any recipient listed in subsection (a). Any person who discloses covered information to a listed recipient in good faith shall be immune from criminal prosecution, civil liability, and administrative penalty under any secrecy or classification statute with respect to that disclosure. This subsection does not authorize disclosure of information unrelated to the death of Charlie Kirk or the investigation thereof.
+
+(g) **Private Sector Whistleblower Protections.** The protections of subsections (b), (c), (d), (e), and (f) shall extend to any private sector employee, contractor, subcontractor, or agent who discloses information related to the death of Charlie Kirk or the investigation thereof pursuant to this Act. No employer may terminate, demote, harass, or otherwise retaliate against any person for making disclosures under this Act. This subsection is modeled on 18 U.S.C. 1514A (Sarbanes-Oxley whistleblower provisions) and shall be construed broadly to protect all persons who provide information.
 
 ## Section 6: External Independent Monitor
 
@@ -1046,6 +1058,26 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 (d) The head of any covered agency whose agency fails to comply with this Act shall be subject to contempt of Congress proceedings. Congress may proceed through civil contempt in federal court, bypassing the requirement of referral to the U.S. Attorney for the District of Columbia. Either chamber may retain independent counsel to prosecute the contempt. The external monitor may seek judicial enforcement directly.
 
 (e) **Agency Head Conflict of Interest.** If the external monitor finds evidence that personnel of any covered agency are implicated in the death of Charlie Kirk — including allegations of involvement, evidence destruction, witness intimidation, or obstruction — investigation authority for that aspect shall transfer to the independent special commission under Section 4(c), and agency leadership shall recuse from all decisions affecting the investigation. The external monitor, not the agency head, shall have final authority to certify the adequacy and good faith of the investigation.
+
+## Section 7E: Public Contact Information for Investigation Teams
+
+(a) **Mandatory Public Contact Channels.** Within 14 days of each investigation team's establishment under Sections 2, 2A, 2B, and 3, each team shall publish and maintain the following public contact channels to allow any member of the public, any witness, any whistleblower, or any person with relevant information to communicate directly with the investigation team:
+   1. A publicly accessible email address for each of the four investigation teams (FBI, CIA, NSA, and IC via DNI), hosted on a .gov domain independent of the team's host agency, prominently displayed on the team's public website
+   2. A physical mailing address for submission of documents, evidence, and tips for each investigation team
+   3. A toll-free telephone hotline for each investigation team, staffed during business hours with voicemail available 24 hours
+   4. A secure online submission portal with end-to-end encryption for sensitive documents and tips, shared across all four investigation teams with routing to the appropriate team
+
+(b) **Classified Contact Channels.** For persons holding active security clearances who wish to submit classified information:
+   1. Each investigation team shall maintain at least one classified communication channel at an appropriate classification level, accessible through a Sensitive Compartmented Information Facility (SCIF) maintained independently of the team's host agency
+   2. The CIA and NSA investigation teams shall additionally maintain channels at the TOP SECRET/SCI level
+   3. The existence and access procedures for all classified channels shall be published on each team's public website without revealing technical details that would compromise security
+   4. Classified submissions shall be handled exclusively by investigation team members with appropriate clearances, not by the host agency's security staff
+
+(c) **External Monitor Contact.** The external independent monitor established under Section 6 shall maintain its own separate public contact channels — including email, mailing address, phone, and secure portal — independent of all investigation teams and covered agencies.
+
+(d) **Acknowledgment and Protection.** Each investigation team and the external monitor shall acknowledge receipt of all submissions within 7 days. No covered agency may monitor, intercept, or access communications sent to any investigation team or the external monitor through any of these channels. Interference with public communications to any investigation team constitutes obstruction under Section 7D(a).
+
+(e) **International Submissions.** For persons located outside the United States who wish to submit information, including foreign nationals, the investigation teams shall jointly maintain a secure international submission channel accessible without requiring a U.S. security clearance.
 
 ## Section 8: Public Reporting
 

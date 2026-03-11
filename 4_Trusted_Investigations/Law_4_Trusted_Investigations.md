@@ -922,14 +922,44 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 (g) **Individual Official Liability.** Any official who willfully withholds, destroys, conceals, or fails to produce covered records to a Designated Trusted Investigator or investigation team shall be subject to criminal prosecution and imprisonment of up to 10 years.
 
+## Section 7A: Public Contact Information for Designated Trusted Investigators
+
+(a) **Mandatory Public Contact Channels.** Within 14 days of the establishment of investigation teams under Section 2, each Designated Trusted Investigator shall publish and maintain the following public contact channels to allow any member of the public, any witness, any whistleblower, or any person with relevant information to communicate directly with the Designated Trusted Investigator and their teams:
+   1. A publicly accessible email address for each Designated Trusted Investigator (Candace Owens, Dave Smith, and Tucker Carlson), hosted on a .gov domain independent of any covered agency, prominently displayed on each investigator's public website
+   2. A physical mailing address for submission of documents, evidence, and tips for each Designated Trusted Investigator
+   3. A toll-free telephone hotline for each Designated Trusted Investigator, staffed during business hours with voicemail available 24 hours
+   4. A secure online submission portal with end-to-end encryption for sensitive documents and tips, with each Designated Trusted Investigator maintaining their own portal
+
+(b) **Classified Contact Channels.** For persons holding active security clearances who wish to submit classified information to the investigation teams:
+   1. Each Designated Trusted Investigator shall have access to at least one classified communication channel at an appropriate classification level, accessible through a Sensitive Compartmented Information Facility (SCIF) maintained independently of any covered agency
+   2. The Intelligence Community investigation teams shall additionally maintain channels at the TOP SECRET/SCI level
+   3. The existence and access procedures for all classified channels shall be published on each Designated Trusted Investigator's public website without revealing technical details that would compromise security
+   4. Classified submissions shall be handled exclusively by investigation team members with appropriate clearances selected by the Designated Trusted Investigator, not by any covered agency's security staff
+   5. Each Designated Trusted Investigator who does not personally hold a security clearance shall designate a cleared team member to receive and brief them on classified submissions
+
+(c) **Independent Infrastructure.** All contact channels — email servers, phone systems, mailing facilities, and submission portals — shall be established and maintained independently of any covered agency. No covered agency may host, administer, monitor, intercept, or access any communication channel established under this section. Covered agencies shall provide technical and financial support for establishing these channels upon request by any Designated Trusted Investigator, but shall have no ongoing access to or control over the systems.
+
+(d) **Acknowledgment and Protection.** Each Designated Trusted Investigator shall acknowledge receipt of all submissions within 7 days. Interference with public communications to any Designated Trusted Investigator or investigation team constitutes obstruction under Section 7(a), punishable by up to 15 years imprisonment.
+
+(e) **International Submissions.** For persons located outside the United States who wish to submit information, including foreign nationals, the Designated Trusted Investigators shall jointly maintain a secure international submission channel accessible without requiring a U.S. security clearance.
+
 ## Section 8: Whistleblower Channel
 
-(a) Any government employee may submit information, documents, or evidence directly to any Designated Trusted Investigator, any investigation team, the disclosure body established under Law 1, or directly to the public.
+(a) **Right to Contact Investigation Teams.** Any government employee, government contractor, subcontractor, grantee, or any person who has or has had access to covered information through any relationship with the United States government, may voluntarily submit information, documents, leads, or evidence to any of the following recipients:
+   - Any Designated Trusted Investigator or investigation team established under this Act
+   - Any investigation team established under the Charlie Kirk Mandatory Investigation Act (Law 3), including the FBI, CIA, NSA, and DNI-directed teams
+   - The external independent monitor established under the Charlie Kirk Mandatory Investigation Act (Law 3)
+   - The designated disclosure body (review board) established under the Charlie Kirk Files Forced Disclosure Act (Law 1) or the Charlie Kirk Intelligence Services Disclosure Act (Law 2)
+   - The congressional oversight committees (including the Senate and House Judiciary Committees and Intelligence Committees)
+   - Any federal, state, or local law enforcement agency
+   - Directly to the public
 
-(b) It shall be unlawful for any supervisor, manager, agency head, or any other person to retaliate against, terminate, demote, reassign, harass, revoke security clearance of, or in any way persecute any government employee for:
-   - Submitting information to an investigation team
-   - Cooperating with an investigation team
-   - Providing testimony or evidence to an investigation team
+This right applies to any information related to the death of Charlie Kirk and to any information about the investigation itself, including but not limited to evidence of obstruction, mismanagement, cover-up, evidence tampering, witness intimidation, or any failure to investigate leads.
+
+(b) It shall be unlawful for any supervisor, manager, agency head, or any other person to retaliate against, terminate, demote, reassign, harass, revoke security clearance of, or in any way persecute any government employee or contractor for:
+   - Submitting information to any recipient listed in subsection (a)
+   - Cooperating with any investigation team from any of the four companion laws
+   - Providing testimony or evidence to any investigation team or Designated Trusted Investigator
    - Disclosing information pursuant to this Act in any manner
 
 (c) Any adverse personnel action taken within 2 years of submitting information or cooperating creates a rebuttable presumption of retaliation.
@@ -941,9 +971,11 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
    - Back pay for the full period of any wrongful separation
    - Treble damages for willful violations
 
-(e) **NDA and Secrecy Agreement Override.** No non-disclosure agreement, confidentiality agreement, secrecy agreement, or similar contractual provision -- whether entered into with a government agency or a private entity -- shall be enforceable to the extent it would prohibit any person from disclosing information related to the death of Charlie Kirk to any Designated Trusted Investigator, the disclosure body, Congress, law enforcement, or the public pursuant to this Act.
+(e) **NDA and Secrecy Agreement Override.** No non-disclosure agreement, confidentiality agreement, secrecy agreement, or similar contractual provision -- whether entered into with a government agency or a private entity -- shall be enforceable to the extent it would prohibit any person from disclosing information related to the death of Charlie Kirk or the investigation thereof to any recipient listed in subsection (a).
 
-(f) **Private Sector Whistleblower Protections.** The protections of subsections (b), (c), and (d) shall extend to any private sector employee, contractor, or agent who discloses information related to the death of Charlie Kirk pursuant to this Act. No employer may terminate, demote, harass, or otherwise retaliate against any person for making disclosures under this Act. This subsection is modeled on 18 U.S.C. 1514A (Sarbanes-Oxley whistleblower provisions) and shall be construed broadly to protect all persons who provide information.
+(f) **Statutory Secrecy Override.** No provision of any statute — including but not limited to the Espionage Act (18 U.S.C. Sections 793-798), the Intelligence Identities Protection Act (50 U.S.C. Section 3121), the Classified Information Procedures Act, or any agency-specific secrecy statute — shall be construed to prohibit, penalize, or deter any person from disclosing covered information to any recipient listed in subsection (a). Any person who discloses covered information to a listed recipient in good faith shall be immune from criminal prosecution, civil liability, and administrative penalty under any secrecy or classification statute with respect to that disclosure. This subsection does not authorize disclosure of information unrelated to the death of Charlie Kirk or the investigation thereof.
+
+(g) **Private Sector Whistleblower Protections.** The protections of subsections (b), (c), (d), (e), and (f) shall extend to any private sector employee, contractor, subcontractor, or agent who discloses information related to the death of Charlie Kirk or the investigation thereof pursuant to this Act. No employer may terminate, demote, harass, or otherwise retaliate against any person for making disclosures under this Act. This subsection is modeled on 18 U.S.C. 1514A (Sarbanes-Oxley whistleblower provisions) and shall be construed broadly to protect all persons who provide information.
 
 ---
 
