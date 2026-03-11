@@ -77,6 +77,8 @@ The Congress finds the following:
 
 (m) **"Designated Trusted Investigator"** means any individual listed in subsection (a) of this Section, or any replacement appointed under Section 10 of this Act.
 
+(n) **"Final output information"** means all intelligence and investigative products, including but not limited to: raw signals intelligence intercepts and transcripts, satellite imagery, cable traffic, source reports, briefing materials, intelligence assessments, analytical products, forensic data, and any information from which conclusions were or could be drawn. The distinction between raw intelligence and finished intelligence, or between raw investigative data and completed analyses, shall not be used to withhold any covered record or deny access to any investigation team. Designated Trusted Investigators and their teams shall have access to all raw intelligence and raw investigative data, not merely the analytical conclusions derived therefrom. Agencies may not disclose only their own conclusions while withholding the underlying evidence from which those conclusions were derived.
+
 ## Section 2: Establishment of Investigation Teams
 
 (a) Each Designated Trusted Investigator shall be authorized to establish:

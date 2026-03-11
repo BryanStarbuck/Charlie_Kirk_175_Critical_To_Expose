@@ -887,7 +887,9 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 (i) **"Disclosure body"** means the external independent monitor established under Section 6 of this Act.
 
-(j) **"Covered records"** means any and all files, documents, communications, reports, forensic evidence, witness statements, surveillance records, digital records, photographs, video recordings, audio recordings, cell site location information, geofence warrant data, flight records, financial records, ballistics analyses, autopsy reports, crime scene evidence, and any other information, in any format, that is related to or could reasonably assist in understanding the circumstances of the death of Charlie Kirk, including but not limited to:
+(j) **"Final output information"** means all intelligence and investigative products, including but not limited to: raw signals intelligence intercepts and transcripts, satellite imagery, cable traffic, source reports, briefing materials, intelligence assessments, analytical products, forensic data, and any information from which conclusions were or could be drawn. The distinction between raw intelligence and finished intelligence, or between raw investigative data and completed analyses, shall not be used to withhold any covered record. Investigation teams shall have access to all raw intelligence and raw investigative data, not merely the analytical conclusions derived therefrom.
+
+(k) **"Covered records"** means any and all files, documents, communications, reports, forensic evidence, witness statements, surveillance records, digital records, photographs, video recordings, audio recordings, cell site location information, geofence warrant data, flight records, financial records, ballistics analyses, autopsy reports, crime scene evidence, and any other information, in any format, that is related to or could reasonably assist in understanding the circumstances of the death of Charlie Kirk, including but not limited to:
    1. All records specifically enumerated in Schedule A (208 Critical Disclosure Items)
    2. Any records that could identify or suggest the identity of any person involved in, connected to, or with knowledge of the death
    3. Any records relating to foreign intelligence service activity in the State of Utah during the period January 1, 2025 through December 31, 2025
@@ -946,7 +948,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 (f) Any attempt to classify or reclassify covered records after enactment constitutes obstruction under Section 4(b) and is punishable by up to 10 years imprisonment.
 
-(g) Investigation findings, reports, and evidence shall be produced in unclassified form for public release. If an agency asserts that specific technical collection methods currently in active use require protection, the analytical conclusions and factual findings derived from such methods shall nonetheless be disclosed in full.
+(g) Investigation findings, reports, and evidence — including all raw intelligence such as signals intercepts, satellite imagery, cable traffic, and source reports — shall be produced in unclassified form for public release. If an agency asserts that specific technical collection methods currently in active use require protection, the analytical conclusions, factual findings, and underlying raw intelligence from which those conclusions were derived shall nonetheless be disclosed in full. The distinction between raw intelligence and finished intelligence shall not constitute a basis for withholding any covered record.
 
 
 ---

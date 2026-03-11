@@ -773,7 +773,7 @@ The Congress finds the following:
    7. Relate to any of the specific items enumerated in Schedule A, including but not limited to: foreign aircraft activity (Items #1, #81-#86), Israeli cell phones at UVU (Items #26, #87-#91), electronic jamming (Item #11), drone and surveillance operations (Items #8, #9, #12, #15, #155-#160), foreign intelligence contacts with TPUSA personnel (Items #3-#4, #53, #161-#166), psychological operations (Item #38), and international liaison communications (Items #172-#176)
    8. Relate to any aspect of the Charlie Kirk investigation, the prosecution of Tyler Robinson, or any matter that could help establish the full truth about the circumstances of Charlie Kirk's death
 
-(c) **"Final output information"** means the conclusions, assessments, and analytical products derived from intelligence activities, excluding only the specific identity of human intelligence sources and specific technical collection methods currently in active use.
+(c) **"Final output information"** means all intelligence products, including but not limited to: raw signals intelligence intercepts and transcripts, satellite imagery, cable traffic, source reports, briefing materials, intelligence assessments, analytical products, and any information from which conclusions were or could be drawn. The distinction between raw intelligence and finished intelligence shall not be used to withhold any covered information. The only permissible exclusions from final output information are the specific identity of currently active human intelligence sources whose disclosure would create an imminent threat to life, and specific technical collection methods currently in active operational use — but the substantive content, conclusions, and factual findings derived from such sources and methods shall always be disclosed.
 
 (d) **"People Involved"** or **"People Listed"** means the categories of persons defined in Schedule B of this Act, encompassing categories P1 through P35.
 
@@ -801,7 +801,7 @@ The Congress finds the following:
    2. Specific technical collection methods currently in active operational use
    3. Child sexual abuse material as defined under 18 U.S.C. Section 2256
 
-(c) The substance and conclusions of any intelligence must be disclosed even if the source is protected. No redaction of sources shall be used to withhold the analytical conclusions derived from those sources.
+(c) The substance and conclusions of any intelligence must be disclosed even if the source is protected. No redaction of sources shall be used to withhold the analytical conclusions derived from those sources. Furthermore, raw intelligence — including but not limited to signals intercepts, satellite imagery, cable traffic, and source reports — shall be disclosed in full alongside any finished intelligence products. The distinction between raw intelligence and finished intelligence shall not constitute a basis for withholding any covered information.
 
 (d) All redactions must be:
    1. Individually justified in writing, with a classified annex provided to the congressional intelligence committees
@@ -822,6 +822,7 @@ The Congress finds the following:
    - Destroy, alter, or conceal covered information
    - Classify or reclassify information for the purpose of preventing its disclosure under this Act
    - Use the "sources and methods" exception to withhold analytical conclusions or final output information
+   - Invoke the distinction between raw intelligence and finished intelligence to withhold any covered information, including but not limited to signals intercepts, satellite imagery, cable traffic, and source reports
 
 (b) This prohibition applies regardless of the rank, position, or security clearance of the person engaging in obstruction.
 

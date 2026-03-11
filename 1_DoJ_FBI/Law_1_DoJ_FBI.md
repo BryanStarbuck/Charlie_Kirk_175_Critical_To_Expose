@@ -836,6 +836,8 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 (h) **"Disclosure body"** means the independent review board established under Section 8 of this Act.
 
+(i) **"Final output information"** means all intelligence and investigative products, including but not limited to: raw signals intelligence intercepts and transcripts, satellite imagery, cable traffic, source reports, briefing materials, intelligence assessments, analytical products, forensic data, and any information from which conclusions were or could be drawn. The distinction between raw intelligence and finished intelligence, or between raw investigative data and completed analyses, shall not be used to withhold any covered record. Agencies may not disclose only their own conclusions while withholding the underlying evidence from which those conclusions were derived.
+
 ## Section 4: Prohibited Grounds for Withholding
 
 (a) No record shall be withheld, delayed, or redacted on the basis of:
