@@ -22,6 +22,7 @@ The Congress finds the following:
 
 (d) **Public Interest in a Thorough Investigation.** The public has a compelling interest in a thorough, independent investigation into the death of Charlie Kirk, a prominent public figure killed in a public venue, where substantial evidence suggests involvement beyond a single individual. The integrity of public institutions depends upon the government's willingness to investigate itself when evidence suggests government involvement, and to pursue all leads without regard to political sensitivity or institutional embarrassment.
 
+(e) **Necessity of Mandatory Investigation.** Disclosure alone (as provided in Laws 1 and 2 of the Charlie Kirk Files Forced Disclosure Act) is insufficient to achieve justice. Agencies may disclose records while failing to actively investigate the leads those records reveal. This Act mandates that four independent investigation teams — FBI, CIA, NSA, and the broader Intelligence Community via DNI — each conduct thorough, good-faith investigations with dedicated personnel, independent budgets, and enforceable oversight. This four-agency structure ensures that no single agency can suppress investigation into its own potential involvement.
 
 ## Section 2: Mandatory Investigation - FBI
 
@@ -34,12 +35,15 @@ The Congress finds the following:
    - Pursue all leads, including those implicating any government agency, intelligence service, or foreign government
    - Interview all known witnesses and persons of interest
    - Conduct or commission all relevant forensic analyses
+   - Specifically investigate all Schedule A items within the FBI's areas of responsibility, including but not limited to Items #57-#66 (FBI investigation files), #67-#73 (cell phone and digital data), #105-#112 (chain of custody and physical evidence), #118-#123 (surveillance and video evidence), #141-#148 (ballistics and forensics), and #192-#194 (FBI RAV4 and weapon re-search)
    - Produce public disclosure reports every 6 months documenting all findings, all output documents discovered, and as much information as can be provided
    - Operate for a minimum of 2 years from the date of team formation
 
 (c) The investigation team shall operate with independence from FBI leadership on investigative decisions. The team may not be directed to cease any line of inquiry by any person outside the team.
 
 (d) **Team Duration:** All team members shall be committed to the investigation for a minimum of 2 years. Individual team members may request to continue working on the investigation beyond the 2-year minimum, for up to 5 years total. Such requests shall be granted unless the requesting member's continued service would compromise the investigation.
+
+(e) **Compulsory Process for Private Entity Records.** Within 15 days of the FBI investigation team's formation, the team shall issue subpoenas, National Security Letters, or other compulsory process for all records described in Schedule A that are held by private entities — including but not limited to TPUSA, Mosaic Pro Events, rental car companies, hotels, Accurate Energetic Systems (AES), banks, telecommunications providers, and any other entity in possession of relevant records — regardless of whether the FBI previously sought such records. The external independent monitor established under Section 6 shall have independent subpoena power over private entities for any records described in Schedule A. Any private entity that destroys, alters, or conceals records after receiving notice under this subsection shall be subject to the same criminal penalties as government agencies under Section 7D.
 
 ## Section 2A: Mandatory Investigation - CIA
 
@@ -50,7 +54,7 @@ The Congress finds the following:
    - Be led by a senior special agent with relevant investigative experience who has no prior involvement in the case
    - Have an independent budget allocation of no less than $10 million
    - Pursue all leads within the CIA's areas of responsibility, including foreign intelligence connections, foreign operatives, international financial flows, and any CIA involvement or foreknowledge
-   - Specifically investigate all intelligence-related leads in Schedule A
+   - Specifically investigate all intelligence-related leads in Schedule A, including but not limited to Items #1-#56 (intelligence service discovery), #81-#91 (aircraft and surveillance), and #155-#176 (foreign intelligence operations)
    - Produce public disclosure reports every 6 months documenting all findings, all output documents discovered, and as much information as can be provided
    - Operate for a minimum of 2 years from the date of team formation
 
@@ -67,7 +71,7 @@ The Congress finds the following:
    - Be led by a senior special agent with relevant investigative experience who has no prior involvement in the case
    - Have an independent budget allocation of no less than $10 million
    - Pursue all leads within the NSA's areas of responsibility, including signals intelligence, electronic surveillance, communications intercepts, electronic warfare, and any NSA involvement or foreknowledge
-   - Specifically investigate all SIGINT and electronic warfare leads in Schedule A
+   - Specifically investigate all SIGINT and electronic warfare leads in Schedule A, including but not limited to Items #8-#12 (electronic warfare and jamming), #67-#73 (cell phone and digital data), and any intercepted communications relevant to the investigation
    - Produce public disclosure reports every 6 months documenting all findings, all output documents discovered, and as much information as can be provided
    - Operate for a minimum of 2 years from the date of team formation
 
@@ -75,7 +79,28 @@ The Congress finds the following:
 
 (d) **Team Duration:** All team members shall be committed to the investigation for a minimum of 2 years. Individual team members may request to continue working on the investigation beyond the 2-year minimum, for up to 5 years total. Such requests shall be granted unless the requesting member's continued service would compromise the investigation.
 
-(e) **Mandatory Investigation of Schedule A Leads.** Each investigation team under Sections 2, 2A, 2B, and 3 shall specifically and individually investigate each of the following leads from Schedule A, and shall document its findings or explain its inability to investigate each one in its interim and final reports:
+## Section 3: Mandatory Investigation - Intelligence Community (via DNI)
+
+(a) The Director of National Intelligence shall direct all remaining Intelligence Community agencies (beyond the CIA and NSA, which have their own mandates under Sections 2A and 2B) to conduct a parallel intelligence assessment within 60 days of enactment. This includes but is not limited to the DIA, NRO, NGA, armed forces intelligence, FBI intelligence division, DHS intelligence, and DOE/Treasury/State intelligence elements.
+
+(b) The intelligence assessment shall:
+   - Assign a dedicated team of no fewer than 20 special agents across the participating agencies
+   - Be led by a senior special agent with no prior involvement in the case
+   - Have an independent budget allocation of no less than $10 million
+   - Determine whether any foreign or domestic intelligence service had involvement in or knowledge of the death
+   - Review all intercepts, surveillance, and intelligence products for relevant information
+   - Assess whether any U.S. intelligence agency had foreknowledge
+   - Specifically investigate all intelligence-related leads in Schedule A (Items #1-#56, #62-#66, #81-#91, #155-#176)
+   - Produce public disclosure reports every 6 months documenting all findings, all output documents discovered, and as much information as can be provided
+   - Operate for a minimum of 2 years from the date of team formation
+
+(c) The assessment shall be conducted by personnel with no prior involvement in any previous investigation or assessment related to the death.
+
+(d) **Team Duration:** All team members shall be committed to the investigation for a minimum of 2 years. Individual team members may request to continue working on the investigation beyond the 2-year minimum, for up to 5 years total. Such requests shall be granted unless the requesting member's continued service would compromise the investigation.
+
+## Section 3A: Mandatory Investigation of Schedule A Leads
+
+(a) Each investigation team under Sections 2, 2A, 2B, and 3 shall specifically and individually investigate each of the following leads from Schedule A, and shall document its findings or explain its inability to investigate each one in its interim and final reports:
 
 **Exploding Microphone Theory:**
    1. The DoD contract N0016425PJ538 for miniaturized anti-personnel charges, the chain of custody of delivered devices, and any connection to the assassination
@@ -130,25 +155,35 @@ The Congress finds the following:
    1. Electronic jamming of cell/internet signals at UVU in the seconds before the shooting
    2. Drone video feeds -- who received them, from which drones
 
-## Section 3: Mandatory Investigation - Intelligence Community (via DNI)
+**Additional Mandatory Investigation Items (from Law 1 Schedule A summary):**
+   1. All information on planes listed in Schedule A, including location, passengers, cargo, and any connection to the investigation (Items #1, #15, #49)
+   2. All information regarding threats, plans, or actions by any foreign intelligence service toward Charlie Kirk (Item #2)
+   3. All information on distraction persons present at UVU, decisions not to charge them, and blocked FOIA requests related to them (Items #20-#22)
+   4. All information on meetings at Fort Huachuca AZ and One Rodney Square, Wilmington DE (September 1-11, 2025) related to Charlie Kirk (Items #28-#31)
+   5. All records related to Tyler Robinson's family statements and his claim of knowledge of other perpetrators (Items #176-#179)
+   6. All records of witness intimidation including fake therapy sessions and witness suppression (Items #179-#181)
+   7. All records related to Brian Harpole (member of Kirk's security detail with foreign security service background) (Item #182)
+   8. All records related to hospital routing decisions and FBI blocking a surgeon (Items #182-#185)
+   9. All TPUSA financial records including shell company payments and post-assassination board actions (Items #185-#187)
+   10. All records from Mosaic Pro Events, the Rode Wireless PRO microphone audio, and Mikey McCoy's mic-up video (Items #187-#190)
+   11. All records related to Butch Hibbs at UVU and the Heber City to Nashville flight on AES delivery day (Items #190-#192)
+   12. All records of the FBI RAV4 near Robinson and FBI direction of the re-search that "found" the weapon (Items #192-#194)
+   13. All records of the Fort Huachuca pre-assassination meeting (Item #195)
+   14. All records of live stream interruptions at UVU (Item #196)
+   15. All of Kirk's pre-death warnings, records on his parents' legal representation decisions, and his girlfriend (Items #196-#199)
+   16. Full forensic analysis of bullet casing engravings and planted evidence indicators (Item #200)
+   17. All records related to UVU crime scene paving (Item #201)
+   18. All records of the AES factory explosion investigation and its connection to DoD contract N0016425PJ538 (Item #202)
+   19. Tyler Robinson's complete travel path before and after the shooting, all prior visits to UVU campus, all evidence regarding Robinson's exact position at the moment of the shot, and all video footage and analysis of whether the rooftop suspect was running or stationary when the shot was fired (Items #202-#206)
 
-(a) The Director of National Intelligence shall direct all remaining Intelligence Community agencies (beyond the CIA and NSA, which have their own mandates under Sections 2A and 2B) to conduct a parallel intelligence assessment within 60 days of enactment. This includes but is not limited to the DIA, NRO, NGA, armed forces intelligence, FBI intelligence division, DHS intelligence, and DOE/Treasury/State intelligence elements.
+(b) **Schedule A** shall be the document titled "Charlie Kirk 208 Critical Disclosure Items" as maintained in the public repository at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, as of the date of enactment, incorporated by reference and attached as an appendix to this Act.
 
-(b) The intelligence assessment shall:
-   - Assign a dedicated team of no fewer than 20 special agents across the participating agencies
-   - Be led by a senior special agent with no prior involvement in the case
-   - Have an independent budget allocation of no less than $10 million
-   - Determine whether any foreign or domestic intelligence service had involvement in or knowledge of the death
-   - Review all intercepts, surveillance, and intelligence products for relevant information
-   - Assess whether any U.S. intelligence agency had foreknowledge
-   - Specifically investigate all intelligence-related leads in Schedule A (Items #1-#56, #62-#66, #81-#91, #155-#176)
-   - Produce public disclosure reports every 6 months documenting all findings, all output documents discovered, and as much information as can be provided
-   - Operate for a minimum of 2 years from the date of team formation
+(c) The enumeration of specific investigation leads in this Section and in Schedule A shall not be construed to limit the scope of the broad investigation mandate in Sections 2, 2A, 2B, and 3. Both the broad mandate and the specific enumeration apply concurrently. Each investigation team shall pursue all leads that emerge during the course of its investigation, whether or not those leads are specifically enumerated in Schedule A.
 
-(c) The assessment shall be conducted by personnel with no prior involvement in any previous investigation or assessment related to the death.
 
-(d) **Team Duration:** All team members shall be committed to the investigation for a minimum of 2 years. Individual team members may request to continue working on the investigation beyond the 2-year minimum, for up to 5 years total. Such requests shall be granted unless the requesting member's continued service would compromise the investigation.
+---
 
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
 
 ---
 
@@ -483,6 +518,11 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 ---
 
+---
+
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
+
+
 ### Surveillance Footage (#118–#123)
 
 * #118: UVU Campus Security Camera Footage: Include all UVU campus security camera footage from September 9–11, 2025, from all campus cameras. Also include all information on any video recording from any camera at UVU during that period, including cameras that were disabled or repositioned.
@@ -812,11 +852,20 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 - **P35)** Any other person, whether named or unnamed in this Act, who possesses information relevant to understanding the full circumstances of Charlie Kirk's death, including but not limited to: persons who received payments from unknown sources to be present at or near UVU on September 10, 2025; persons who communicated with any foreign intelligence service about Charlie Kirk; persons who participated in any meeting where harm to Charlie Kirk was discussed, planned, or approved; and any person whose identity is known to any covered agency as relevant to the investigation but who has not been publicly identified.
 
 
+
+
+---
+
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
+
+---
+
+
 ## Section 1: Definitions
 
-(a) **"Covered law enforcement agencies"** means the Department of Justice, the Federal Bureau of Investigation, the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), U.S. Customs and Border Protection (CBP), the Transportation Security Administration (TSA), the Department of Homeland Security, the Financial Crimes Enforcement Network (FinCEN), and any federal, state, or local law enforcement agency that has participated in, contributed to, or possesses information related to the investigation of the death of Charlie Kirk, the prosecution of any person in connection therewith, or any matter peripheral to or connected with the investigation.
+(a) **"Covered law enforcement agencies"** means the Federal Bureau of Investigation, the Department of Justice, the Bureau of Alcohol, Tobacco, Firearms and Explosives, U.S. Customs and Border Protection (CBP), the Transportation Security Administration (TSA), the Department of Homeland Security, the Financial Crimes Enforcement Network (FinCEN), and any federal, state, or local law enforcement agency that has participated in, contributed to, or possesses information related to the investigation of the death of Charlie Kirk, the prosecution of any person in connection therewith, or any matter peripheral to or connected with the investigation.
 
-(b) **"Covered intelligence agencies"** means all agencies and elements of the Intelligence Community as defined in 50 U.S.C. 3003(4).
+(b) **"Covered intelligence agencies"** means all agencies and elements of the Intelligence Community as defined in 50 U.S.C. 3003(4), including but not limited to the CIA, NSA, DIA, NRO, NGA, armed forces intelligence, FBI intelligence division, DHS intelligence, ODNI, and DOE/Treasury/State intelligence elements.
 
 (c) **"Good-faith investigation"** means an investigation that:
    - Pursues all reasonable leads without predetermined conclusions
@@ -861,8 +910,6 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 (c) **Conflict of Interest Trigger:** If evidence emerges during the investigation that any covered law enforcement agency or intelligence agency was itself involved in the death of Charlie Kirk, the investigation authority for that aspect shall immediately transfer to an independent special commission appointed by Congress. This commission shall have all the powers of the original investigation team plus the ability to subpoena any government official.
 
-(d) **Compulsory Process for Private Entity Records.** Each investigation team shall have authority to issue subpoenas, compel testimony, and obtain records from any private entity — including but not limited to TPUSA, Mosaic Pro Events, rental car companies, hotels, Accurate Energetic Systems (AES), banks, telecommunications providers, and any other entity in possession of relevant records — regardless of whether any agency previously sought such records. The external monitor established under Section 6 shall have independent subpoena power over private entities for any records described in Schedule A. Any private entity that destroys, alters, or conceals records after receiving notice under this subsection shall be subject to the same criminal penalties as government agencies under Section 7D.
-
 ## Section 4A: Records Preservation
 
 (a) Upon introduction of this bill, all covered law enforcement agencies and covered intelligence agencies shall immediately preserve all covered records and information related to the investigation and issue written preservation orders to all personnel. This preservation duty is enforceable upon enactment.
@@ -873,11 +920,47 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 (d) Agencies that have destroyed records related to the investigation must provide a complete accounting of all destroyed records, including what was destroyed, when, by whom, and under whose authorization.
 
+## Section 4B: Prohibited Grounds for Withholding from Investigation Teams
+
+(a) No record shall be withheld, delayed, or redacted from any investigation team established under this Act on the basis of:
+   1. Embarrassment, reputational harm, or political sensitivity to any government official, public figure, or foreign dignitary
+   2. Any ongoing investigation (except as narrowly provided below)
+   3. Executive privilege
+   4. Deliberative process privilege
+   5. Law enforcement privilege
+   6. Any claim that records were "lost," "destroyed," or "cannot be located" without forensic verification
+
+(b) **Narrow Permitted Redactions.** The only permissible redactions from records provided to the investigation teams are:
+   1. Names of confidential human sources currently active in unrelated ongoing investigations where disclosure would create an imminent threat to life
+   2. Child sexual abuse material as defined under 18 U.S.C. Section 2256
+
+(c) All redactions must be:
+   1. Individually justified in writing
+   2. Published in the Federal Register
+   3. Submitted to the Judiciary Committees of both houses of Congress
+   4. Subject to judicial review upon challenge by any party
+
+(d) No blanket exemptions or classifications shall be permitted.
+
+(e) **Declassification of Covered Records.** All classification markings on covered records are automatically removed upon enactment of this Act. No covered record may be reclassified after enactment. Covered agencies shall process declassification within 30 days of enactment. Classification shall not excuse non-production; if an agency cannot complete declassification review within 30 days, the record shall be produced to the investigation teams and external monitor in classified form, with a public redacted version produced simultaneously, and the full unclassified version produced within 60 days.
+
+(f) Any attempt to classify or reclassify covered records after enactment constitutes obstruction under Section 4(b) and is punishable by up to 10 years imprisonment.
+
+(g) Investigation findings, reports, and evidence shall be produced in unclassified form for public release. If an agency asserts that specific technical collection methods currently in active use require protection, the analytical conclusions and factual findings derived from such methods shall nonetheless be disclosed in full.
+
+
+---
+
+**Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
+
+---
+
+
 ## Section 5: Whistleblower Protections
 
 (a) Any government employee may provide information, leads, or evidence to the investigation teams, to any Designated Trusted Investigator under the Charlie Kirk Trusted Investigators Act, or directly to the public.
 
-(b) It is unlawful for any supervisor, manager, agency head, or any other person to retaliate against, terminate, demote, reassign, harass, revoke security clearance of, or in any way persecute any government employee for disclosing information pursuant to this Act or for participating in, supporting, or providing information to the investigation.
+(b) It shall be unlawful for any supervisor, manager, agency head, or any other person to retaliate against, terminate, demote, reassign, harass, revoke security clearance of, or in any way persecute any government employee for disclosing information pursuant to this Act or for participating in, supporting, or providing information to the investigation.
 
 (c) Any adverse personnel action taken against a disclosing employee within 2 years of disclosure shall create a rebuttable presumption of retaliation.
 
@@ -893,20 +976,19 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 ## Section 6: External Independent Monitor
 
-(a) **Appointment.** Congress shall appoint an independent monitor (not an inspector from within any covered agency) within 30 days of enactment by joint resolution of both chambers. If no joint resolution is adopted within 30 days, the monitor shall be appointed jointly by the chairs of the Senate Judiciary Committee and the House Judiciary Committee within 15 additional days. The monitor shall have real-time access to all four investigations. The monitor shall serve for a term of 4 years and may be removed only for cause by a vote of both chambers. The President shall have no role in appointing, confirming, or removing the monitor.
+(a) **Appointment.** Congress shall appoint an independent monitor (not an inspector from within any covered agency) within 30 days of enactment by joint resolution of both chambers. If no joint resolution is adopted within 30 days, the monitor shall be appointed jointly by the chairs of the Senate Judiciary Committee and the House Judiciary Committee within 15 additional days. The monitor shall have real-time access to all four investigations. The President shall have no role in appointing, confirming, or removing the monitor.
 
 (b) The monitor shall:
-   - Have full access to agency systems and files to verify cooperation with investigation teams
    - Verify that each investigation is pursuing all leads including those in Schedule A
    - Flag any lead that is not being adequately investigated
-   - Have authority to compel production of additional records from any covered agency
-   - Have subpoena power, including over private entities holding records described in Schedule A
    - Report monthly to Congress on each investigation's thoroughness and independence
-   - Publish public reports on its findings
    - Have authority to direct investigators to pursue specific leads that are being neglected
    - Certify whether each investigation constitutes "good-faith" investigation as defined in Section 1(c)
+   - Have subpoena power over any covered agency, private entity, or individual for records and testimony related to the investigation
+   - Have authority to compel production of additional records from any covered agency
+   - Publish public reports on its findings
 
-(c) The monitor shall have appropriate security clearances, independent legal counsel, and access to independent forensic experts. The monitor shall retain such experts as necessary to verify the integrity and thoroughness of the investigations. The monitor shall be permanent and shall continue to operate until it certifies that all investigations have been completed in good faith and all Schedule A items have been fully investigated.
+(c) The monitor shall have appropriate security clearances, independent legal counsel, and access to independent forensic experts. The monitor shall retain such experts as necessary to verify the integrity and thoroughness of the investigations.
 
 (d) **Board Composition.** The monitor may not have been employed by any covered law enforcement agency or covered intelligence agency within the preceding 10 years.
 
@@ -914,52 +996,24 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 ## Section 7: Congressional Oversight
 
-(a) The investigation teams shall brief the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate monthly.
+(a) The investigation teams shall brief the relevant congressional committees monthly.
 
 (b) The briefings shall include specific status updates on each category of leads from Schedule A.
 
-(c) Not later than 15 days after each 6-month disclosure report required under Section 8, the head of each covered agency shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report containing:
-   1. All categories of leads investigated and any leads not yet pursued, with explanation
-   2. A summary of any redactions made to public reports, including the legal basis for each
-   3. A list of all government officials and politically exposed persons identified during the investigation, with no redactions permitted
-   4. Certification that all items enumerated in Schedule A have been actively investigated, with specific status for each of the 208 items
-   5. Any instances of non-cooperation, obstruction, or interference encountered by the investigation teams
-   6. Any evidence of agency conflict of interest as described in Section 4(c)
+## Section 7A: Prohibition on Classification
 
-## Section 7A: Prohibited Grounds for Withholding and Prohibition on Classification
-
-(a) **Prohibited Grounds for Withholding.** No covered agency may refuse to investigate, withhold records from investigation teams, delay production, or redact investigation materials on the basis of:
-   1. Embarrassment, reputational harm, or political sensitivity to any government official, public figure, or foreign dignitary
-   2. Any ongoing investigation (except as narrowly provided below)
-   3. Executive privilege
-   4. Deliberative process privilege
-   5. Law enforcement privilege
-   6. Any claim that records were "lost," "destroyed," or "cannot be located" without forensic verification
-
-(b) **Narrow Permitted Redactions.** The only permissible redactions from covered records and investigation materials are:
-   1. Names of confidential human sources currently active in unrelated ongoing investigations where disclosure would create an imminent threat to life
-   2. Child sexual abuse material as defined under 18 U.S.C. Section 2256
-
-(c) All redactions must be:
-   1. Individually justified in writing
-   2. Published in the Federal Register
-   3. Submitted to the Judiciary Committees of both houses of Congress
-   4. Subject to judicial review upon challenge by any party
-
-(d) No blanket exemptions or classifications shall be permitted.
-
-(e) **Prohibition on Classification.** No information related to the Charlie Kirk investigation may be classified, reclassified, or withheld under any classification authority if it pertains to, reveals, or suggests the involvement of, foreknowledge by, or connection to any of the following:
+(a) No information related to the Charlie Kirk investigation may be classified, reclassified, or withheld under any classification authority if it pertains to, reveals, or suggests the involvement of, foreknowledge by, or connection to any of the following:
    1. Any foreign country
    2. Any foreign intelligence service
    3. Any U.S. intelligence service (including but not limited to the CIA and NSA)
    4. The FBI
    5. Any branch or component of the U.S. military
 
-(f) **Declassification of Covered Records.** All classification markings on covered records are automatically removed upon enactment of this Act. No covered record may be reclassified after enactment. Covered agencies shall process declassification within 30 days of enactment. Classification shall not excuse non-production; if an agency cannot complete declassification review within 30 days, the record shall be produced to the external monitor in classified form, with a public redacted version produced simultaneously, and the full unclassified version produced within 60 days.
+(b) Any existing classification on covered records is automatically void upon enactment of this Act.
 
-(g) Any attempt to classify or reclassify covered records after enactment constitutes obstruction under Section 4(b) and is punishable by up to 10 years imprisonment.
+(c) Any attempt to classify or reclassify covered records after enactment constitutes obstruction under Section 4(b) and is punishable by up to 10 years imprisonment.
 
-(h) Investigation findings, reports, and evidence shall be produced in unclassified form for public release. If an agency asserts that specific technical collection methods currently in active use require protection, the analytical conclusions and factual findings derived from such methods shall nonetheless be disclosed in full.
+(d) Investigation findings, reports, and evidence shall be produced in unclassified form for public release. If an agency asserts that specific technical collection methods currently in active use require protection, the analytical conclusions and factual findings derived from such methods shall nonetheless be disclosed in full.
 
 ## Section 7B: No Presidential Override
 
@@ -1009,15 +1063,23 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 (e) A final comprehensive report shall be released by each team upon the conclusion of its investigation.
 
+(f) **Report to Congress.** Not later than 15 days after each 6-month disclosure report, the head of each covered agency hosting an investigation team shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report containing:
+   1. All categories of records produced to and withheld from the investigation team
+   2. A summary of any redactions made, including the legal basis for each
+   3. A list of all government officials and politically exposed persons identified during the investigation, with no redactions permitted
+   4. Certification that all items enumerated in Schedule A have been actively investigated, with specific status on each of the 208 items
+
 ## Section 9: Authorization of Appropriations
 
 (a) There is authorized to be appropriated $10,000,000 for each of the four investigation teams (FBI, CIA, NSA, IC via DNI) as mandated by Sections 2, 2A, 2B, and 3.
 
 (b) There is authorized to be appropriated $5,000,000 annually for the external independent monitor established under Section 6, including staff, forensic auditors, legal counsel, and administrative costs.
 
-(c) Funds appropriated under this section shall be available immediately upon enactment and shall remain available until expended.
+(c) There is authorized to be appropriated such sums as may be necessary for covered agencies to comply with the investigation and records production requirements of this Act.
 
-(d) Investigation team budgets shall be administered independently of the host agency's budget process. No agency may redirect, withhold, or condition access to funds appropriated for investigation teams under this Act.
+(d) Funds appropriated under this section shall be available immediately upon enactment and shall remain available until expended.
+
+(e) Investigation team budgets shall be administered independently of the host agency's budget process. No agency may redirect, withhold, or condition access to funds appropriated for investigation teams under this Act.
 
 ## Section 9A: State and Local Cooperation
 
@@ -1040,7 +1102,7 @@ This Act shall take effect immediately upon enactment. All criminal penalties un
 
 ---
 
-Each item in Schedule A is individually mandated for complete disclosure. Partial compliance with Schedule A does not constitute compliance with this Act.
+Each item in Schedule A is individually mandated for complete investigation. Partial investigation of Schedule A does not constitute compliance with this Act.
 
 ---
 
