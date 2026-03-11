@@ -966,6 +966,29 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 If any provision of this Act, or the application thereof to any person or circumstance, is held invalid by a court of competent jurisdiction, the remainder of this Act and the application of such provision to other persons or circumstances shall not be affected thereby.
 
+## Section 14A: Personal Liability of Agency Heads
+
+(a) **Personal Responsibility.** The head of each covered agency is personally responsible for that agency's compliance with this Act. Delegation of compliance duties to subordinates does not relieve the agency head of personal liability for non-compliance.
+
+(b) **Rebuttable Presumption of Willful Obstruction.** If a covered agency fails to achieve substantial compliance with the disclosure requirements of this Act within 30 days of enactment, the agency head shall be presumed to have willfully obstructed compliance. The agency head may rebut this presumption only by demonstrating, by clear and convincing evidence, that: (1) the agency head took specific, documented, affirmative steps to ensure compliance; (2) the agency head personally directed the production of all covered records known to the agency; and (3) the failure was due to circumstances genuinely beyond the agency head's control despite good-faith efforts.
+
+(c) **Referral for Prosecution.** The review board established under Section 8 may refer any agency head to the Department of Justice for criminal prosecution under Section 7(a) without requiring proof of the agency head's specific knowledge of specific withheld records. The rebuttable presumption established in subsection (b) shall apply in any such prosecution. If the Department of Justice declines prosecution within 60 days of referral, the review board may appoint independent counsel to prosecute.
+
+(d) **Liability Survives Resignation or Removal.** An agency head who resigns, retires, or is removed from office before full compliance is achieved remains subject to prosecution for obstruction occurring during the period of their tenure. No resignation, retirement, or removal shall moot or extinguish liability under this section.
+
+(e) **Acting Officials.** Any individual serving in an acting capacity as head of a covered agency bears the same personal liability as a Senate-confirmed appointee. Rotating acting officials to avoid the 30-day compliance deadline constitutes obstruction under Section 7(a).
+
+(f) **48-Hour Emergency Response for Evidence Destruction.** Notwithstanding the 30-day compliance timeline elsewhere in this section, in any case involving active or imminent destruction of evidence, active concealment of covered records, witness intimidation, or any other exigent circumstance requiring immediate action:
+
+   1. Any member of the review board established under Section 8, any member of a congressional oversight committee, or any citizen with reasonable basis to believe that covered records are being or are about to be destroyed, concealed, or altered, may report the exigent circumstance to the review board, to Congress, or to any federal district court.
+   2. Upon receipt of such a report, the agency head shall have **48 hours** to halt all destruction, concealment, or alteration and to preserve all records identified in the report. This 48-hour deadline is absolute and may not be extended by any official, court, or other authority.
+   3. Failure to comply within 48 hours triggers an **immediate** rebuttable presumption of willful obstruction under subsection (b), without waiting for the standard 30-day period.
+   4. The review board or any congressional oversight committee may immediately refer the agency head for prosecution under subsection (c) upon expiration of the 48-hour period.
+   5. Any federal district court may issue emergency preservation orders under this subsection and shall rule on emergency petitions within 48 hours of filing. Violation of such orders constitutes criminal contempt punishable by imprisonment of up to 5 years per violation.
+   6. This subsection applies to all covered agencies and to any person acting on behalf of a covered agency, regardless of rank or position.
+
+(g) **Certification Requirement.** Within 30 days of enactment, each agency head shall personally certify under penalty of perjury that all covered records have been identified, preserved, and produced. A false certification constitutes perjury under 18 U.S.C. Section 1621 and obstruction under Section 7(a) of this Act.
+
 ## Section 15: Effective Date
 
 This Act shall take effect immediately upon enactment. All criminal penalties under this Act apply prospectively from the date of enactment. Records preservation requirements (Section 5) take effect upon introduction of this bill, with enforcement as provided in Section 5(b).

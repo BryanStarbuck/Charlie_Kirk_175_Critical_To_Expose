@@ -927,6 +927,31 @@ The Congress finds the following:
 
 If any provision of this Act, or the application thereof to any person or circumstance, is held invalid by a court of competent jurisdiction, the remainder of this Act and the application of such provision to other persons or circumstances shall not be affected thereby.
 
+## Section 12B: Personal Liability of Agency Heads
+
+(a) **Personal Responsibility.** The head of each covered intelligence agency is personally responsible for that agency's compliance with this Act. Delegation of compliance duties to subordinates, including general counsels, classification officers, or deputy directors, does not relieve the agency head of personal liability for non-compliance.
+
+(b) **Rebuttable Presumption of Willful Obstruction.** If a covered intelligence agency fails to achieve substantial compliance with the disclosure requirements of this Act within 30 days of enactment, the agency head shall be presumed to have willfully obstructed compliance. The agency head may rebut this presumption only by demonstrating, by clear and convincing evidence, that: (1) the agency head took specific, documented, affirmative steps to ensure compliance; (2) the agency head personally directed the production of all covered records known to the agency; and (3) the failure was due to circumstances genuinely beyond the agency head's control despite good-faith efforts. Reliance on classification review timelines or counsel's advice regarding sources and methods shall not constitute a valid rebuttal absent a showing that the agency head personally reviewed the claimed exemptions.
+
+(c) **Referral for Prosecution.** The congressional intelligence oversight committees, acting jointly or individually, may refer any agency head to the Department of Justice for criminal prosecution under Section 5 without requiring proof of the agency head's specific knowledge of specific withheld records. The rebuttable presumption established in subsection (b) shall apply in any such prosecution. If the Department of Justice declines prosecution within 60 days of referral, the referring committee may appoint independent counsel to prosecute.
+
+(d) **Liability Survives Resignation or Removal.** An agency head who resigns, retires, or is removed from office before full compliance is achieved remains subject to prosecution for obstruction occurring during the period of their tenure. No resignation, retirement, or removal shall moot or extinguish liability under this section.
+
+(e) **Acting Officials.** Any individual serving in an acting capacity as head of a covered intelligence agency bears the same personal liability as a Senate-confirmed appointee. Rotating acting officials to avoid the 30-day compliance deadline constitutes obstruction under Section 5 of this Act.
+
+(f) **48-Hour Emergency Response for Evidence Destruction.** Notwithstanding the 30-day compliance timeline elsewhere in this section, in any case involving active or imminent destruction of evidence, active concealment of covered records, witness intimidation, or any other exigent circumstance requiring immediate action:
+
+   1. Any member of the congressional intelligence oversight committees, any member of the review board established under companion legislation (Law 1), or any citizen with reasonable basis to believe that covered intelligence records are being or are about to be destroyed, concealed, or altered, may report the exigent circumstance to the oversight committees, to the review board, or to any federal district court.
+   2. Upon receipt of such a report, the intelligence agency head shall have **48 hours** to halt all destruction, concealment, or alteration and to preserve all records identified in the report. This 48-hour deadline is absolute and may not be extended by any official, court, or other authority. Classification review timelines do not excuse non-compliance with this emergency preservation requirement.
+   3. Failure to comply within 48 hours triggers an **immediate** rebuttable presumption of willful obstruction under subsection (b), without waiting for the standard 30-day period.
+   4. The congressional intelligence oversight committees may immediately refer the agency head for prosecution under subsection (c) upon expiration of the 48-hour period.
+   5. Any federal district court may issue emergency preservation orders under this subsection and shall rule on emergency petitions within 48 hours of filing. Violation of such orders constitutes criminal contempt punishable by imprisonment of up to 5 years per violation. The existence of classified information shall not delay the court's ruling; the court may issue the preservation order under seal if necessary, but shall not delay issuance.
+   6. This subsection applies to all covered intelligence agencies and to any person acting on behalf of a covered intelligence agency, regardless of rank, position, or security clearance level.
+
+(g) **Certification Requirement.** Within 30 days of enactment, each intelligence agency head shall personally certify under penalty of perjury that all covered records have been identified, preserved, and produced. Any claim that records are exempt under Section 4 (sources and methods) must be personally reviewed and approved by the agency head, not delegated to subordinate classification authorities. A false certification constitutes perjury under 18 U.S.C. Section 1621 and obstruction under Section 5 of this Act.
+
+(h) **Director of National Intelligence.** The Director of National Intelligence bears personal liability for compliance across all Intelligence Community elements under the DNI's coordination authority. The DNI may not claim that component agency autonomy relieves the DNI of responsibility for ensuring community-wide compliance.
+
 ## Section 12A: State and Local Cooperation
 
 (a) Any state or local agency that possesses intelligence-related covered information shall produce such information within 30 days of enactment. Non-compliance shall result in suspension of up to 10% of annual federal intelligence-sharing grants and law enforcement cooperation grants directly related to intelligence sharing.

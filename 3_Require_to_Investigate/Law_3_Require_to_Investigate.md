@@ -1095,6 +1095,29 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 If any provision of this Act, or the application thereof to any person or circumstance, is held invalid by a court of competent jurisdiction, the remainder of this Act and the application of such provision to other persons or circumstances shall not be affected thereby.
 
+## Section 10A: Personal Liability of Agency Heads
+
+(a) **Personal Responsibility.** The head of each covered agency — including the Attorney General, the Director of the FBI, the Director of National Intelligence, the Director of the CIA, and the Director of the NSA — is personally responsible for that agency's compliance with the investigation mandates of this Act. Delegation of compliance or cooperation duties to subordinates does not relieve the agency head of personal liability.
+
+(b) **Rebuttable Presumption of Willful Obstruction.** If a covered agency fails to achieve substantial compliance with the investigation requirements of this Act within 30 days of enactment — including failure to assign mandated personnel, failure to provide mandated access to investigation teams, or failure to cooperate with the external independent monitor — the agency head shall be presumed to have willfully obstructed. The agency head may rebut this presumption only by demonstrating, by clear and convincing evidence, that: (1) the agency head took specific, documented, affirmative steps to ensure full cooperation; (2) the agency head personally directed compliance with all mandates under Sections 2, 2A, 2B, 3, and 3A; and (3) the failure was due to circumstances genuinely beyond the agency head's control despite good-faith efforts.
+
+(c) **Referral for Prosecution.** The external independent monitor established under Section 6, or the congressional oversight committees, may refer any agency head to the Department of Justice for criminal prosecution under Section 7D without requiring proof of the agency head's specific knowledge of specific obstructive acts by subordinates. The rebuttable presumption established in subsection (b) shall apply in any such prosecution. If the Department of Justice declines prosecution within 60 days of referral, the referring party may appoint independent counsel to prosecute.
+
+(d) **Liability Survives Resignation or Removal.** An agency head who resigns, retires, or is removed from office before the investigation teams have completed their work remains subject to prosecution for obstruction occurring during the period of their tenure. No resignation, retirement, or removal shall moot or extinguish liability under this section.
+
+(e) **Acting Officials.** Any individual serving in an acting capacity as head of a covered agency bears the same personal liability as a Senate-confirmed appointee. Rotating acting officials to avoid compliance deadlines constitutes obstruction under Section 7D.
+
+(f) **48-Hour Emergency Response for Evidence Destruction.** Notwithstanding the 30-day compliance timeline elsewhere in this section, in any case involving active or imminent destruction of evidence, active concealment of covered records, witness intimidation, interference with investigation teams, or any other exigent circumstance requiring immediate action:
+
+   1. Any investigation team member, the external independent monitor established under Section 6, any member of the congressional oversight committees, or any citizen with reasonable basis to believe that covered records are being or are about to be destroyed, concealed, or altered, or that investigation teams are being actively obstructed, may report the exigent circumstance to the external independent monitor, to Congress, or to any federal district court.
+   2. Upon receipt of such a report, the agency head shall have **48 hours** to halt all destruction, concealment, or alteration, preserve all records identified in the report, and cease any interference with investigation teams. This 48-hour deadline is absolute and may not be extended by any official, court, or other authority.
+   3. Failure to comply within 48 hours triggers an **immediate** rebuttable presumption of willful obstruction under subsection (b), without waiting for the standard 30-day period.
+   4. The external independent monitor or any congressional oversight committee may immediately refer the agency head for prosecution under subsection (c) upon expiration of the 48-hour period.
+   5. Any federal district court may issue emergency preservation and non-interference orders under this subsection and shall rule on emergency petitions within 48 hours of filing. Violation of such orders constitutes criminal contempt punishable by imprisonment of up to 5 years per violation.
+   6. This subsection applies to all covered agencies and to any person acting on behalf of a covered agency, regardless of rank or position.
+
+(g) **Certification Requirement.** Within 30 days of enactment, each agency head shall personally certify under penalty of perjury that: (1) all mandated investigation personnel have been assigned; (2) all investigation teams have been granted full access as required by this Act; (3) all covered records have been preserved and made available; and (4) no interference with investigation teams has occurred or been authorized. A false certification constitutes perjury under 18 U.S.C. Section 1621 and obstruction under Section 7D of this Act.
+
 ## Section 11: Effective Date
 
 This Act shall take effect immediately upon enactment. All criminal penalties under this Act apply prospectively from the date of enactment. Records preservation requirements (Section 4A) take effect upon introduction of this bill, with enforcement as provided in Section 4A(b).

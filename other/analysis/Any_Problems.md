@@ -392,6 +392,10 @@
 
 **Solution:** Add strict personal liability for agency heads: the head of each covered agency is personally responsible for compliance. Failure to achieve substantial compliance within 30 days creates a rebuttable presumption that the agency head willfully obstructed. The review board may refer agency heads for prosecution without requiring proof of specific knowledge of specific withheld records. Agency heads who resign before compliance is achieved remain subject to prosecution for the period of their tenure.
 
+**Status: RESOLVED.** All four laws now contain Personal Liability of Agency Heads sections (Law 1 Section 14A, Law 2 Section 12B, Law 3 Section 10A, Law 4 Section 14A) with: personal responsibility, rebuttable presumption of willful obstruction after 30 days, referral for prosecution without requiring proof of specific knowledge, liability surviving resignation/removal, acting official liability, and certification under penalty of perjury.
+
+**Additional Fix Applied — 48-Hour Emergency Escalation for Evidence Destruction:** In any case involving destruction of evidence, active concealment, witness intimidation, or any other situation requiring fast turnaround, the standard 30-day compliance timeline is replaced with a **48-hour emergency response requirement**. If any review board member, oversight committee member, investigation team, Designated Trusted Investigator, or citizen with reasonable basis reports active or imminent evidence destruction, the agency head must halt the destruction and preserve all records within 48 hours. Failure to comply within 48 hours triggers immediate rebuttable presumption of willful obstruction, immediate referral eligibility for prosecution, and immediate eligibility for emergency court orders. This 48-hour emergency provision has been added to all four laws' Personal Liability sections.
+
 ---
 
 ### C-7. Private Right of Action Is Too Slow for Emergency Situations
