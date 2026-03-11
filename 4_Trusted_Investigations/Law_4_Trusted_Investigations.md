@@ -24,130 +24,6 @@ The Congress finds the following:
 
 (e) **Public Interest in Transparent Investigation.** The public has a compelling interest in a thorough, transparent, and independent investigation into the death of Charlie Kirk, a prominent public figure killed in a public venue, where substantial evidence suggests involvement beyond a single individual. The integrity of public institutions depends upon transparency and accountability.
 
-## Section 1: Definitions
-
-(a) **"Designated Trusted Investigators"** means the following individuals:
-   1. Candace Owens
-   2. Dave Smith
-   3. Joe Kent
-   4. Tulsi Gabbard
-   5. Tucker Carlson
-   6. Steve Bannon
-   7. Marjorie Taylor Greene
-   8. Jon Bray
-   9. Ian Carroll
-   10. Thomas Massie
-   11. Matt Gaetz
-   12. Glenn Greenwald
-   13. Collin Campbell
-   14. Baron Coleman
-   15. Ryan Matta
-   16. Bryan Starbuck
-   17. Megyn Kelly
-
-(b) **"Investigation Team"** means the government employees selected to work with a Designated Trusted Investigator.
-
-(c) **"FBI Investigation Team"** means the team embedded within the Federal Bureau of Investigation.
-
-(d) **"Intelligence Investigation Team"** means the team embedded within the relevant Intelligence Community agencies.
-
-(e) **"Schedule A"** means the document titled "Charlie Kirk 208 Critical Disclosure Items" as maintained at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, incorporated by reference and attached as an appendix to this Act.
-
-(f) **"Death of Charlie Kirk"** means the killing of Charles J. Kirk on September 10, 2025, at Utah Valley University, Orem, Utah, and all events, planning, coordination, and circumstances leading to, surrounding, and following that event.
-
-(g) **"Investigation"** means any federal, state, or local law enforcement inquiry, intelligence assessment, counterintelligence investigation, congressional inquiry, or other governmental examination related to the death of Charlie Kirk, including but not limited to the criminal prosecution in *State of Utah v. Tyler Alexander Robinson* (Case No. 251403576, Fourth Judicial District Court, Utah County).
-
-(h) **"People Involved"** or **"People Listed"** means the categories of persons defined in Schedule B of this Act, encompassing categories P1 through P35.
-
-(i) **"Disclosure body"** means the review board established under the Charlie Kirk Files Forced Disclosure Act (Law 1), if enacted, or any Designated Trusted Investigator under this Act.
-
-(j) **"Covered records"** or **"Covered information"** means any and all files, documents, communications, reports, forensic evidence, witness statements, surveillance records, digital records, photographs, video recordings, audio recordings, cell site location information, geofence warrant data, flight records, financial records, ballistics analyses, autopsy reports, crime scene evidence, and any other information, in any format, that is related to or could reasonably assist in understanding the circumstances of the death of Charlie Kirk, including but not limited to:
-   1. All records specifically enumerated in Schedule A (208 Critical Disclosure Items)
-   2. Any records that could identify or suggest the identity of any person involved in, connected to, or with knowledge of the death
-   3. Any records relating to foreign intelligence service activity in the State of Utah during the period January 1, 2025 through December 31, 2025
-   4. Any records relating to threats against Charlie Kirk or similarly situated public figures
-   5. Any records relating to the activities, communications, or movements of any person of interest in the investigation
-   6. Any records that contradict, supplement, or provide context to the official investigation narrative
-   7. Any internal communications regarding the investigation, including charging decisions, case strategy, investigative priorities, and decisions regarding what information to withhold from defense counsel or the public
-   8. Any records relating to evidence collection, preservation, alteration, or destruction at the crime scene or any related location
-
-(k) **"Covered agencies"** means all agencies covered by the Charlie Kirk Files Forced Disclosure Act (Law 1) and the Charlie Kirk Intelligence Services Disclosure Act (Law 2), including but not limited to: the Department of Justice, the Federal Bureau of Investigation, the Bureau of Alcohol, Tobacco, Firearms and Explosives, U.S. Customs and Border Protection, the Transportation Security Administration, the Department of Homeland Security, the Financial Crimes Enforcement Network, the Central Intelligence Agency, the National Security Agency, the Defense Intelligence Agency, the National Reconnaissance Office, the National Geospatial-Intelligence Agency, the Office of the Director of National Intelligence, all armed forces intelligence components, and any federal, state, or local agency that has participated in, contributed to, or possesses information related to the investigation.
-
-## Section 2: Establishment of Investigation Teams
-
-(a) Each Designated Trusted Investigator shall be authorized to establish:
-   1. One FBI Investigation Team, embedded within the Federal Bureau of Investigation
-   2. One Intelligence Investigation Team, embedded within the relevant Intelligence Community agencies
-
-(b) This creates a total of thirty-four (34) investigation teams (seventeen FBI teams and seventeen Intelligence Community teams), each operating independently under their respective Designated Trusted Investigator.
-
-(c) Each Designated Trusted Investigator and their team members shall receive appropriate security clearances within 30 days of enactment. No agency may delay, deny, or revoke these clearances to obstruct the investigation.
-
-(d) Each investigation team shall have an independent budget appropriated for the purpose, including funds for independent legal counsel, forensic experts, and security protection.
-
-## Section 3: Team Composition and Selection
-
-(a) Each Designated Trusted Investigator has sole authority to select which government employees they want on their team and which they do not.
-
-(b) Any government employee may submit a request to join any investigation team. Such requests shall be:
-   - Submitted directly to the Designated Trusted Investigator
-   - Not routed through or reviewed by the employee's chain of command
-   - Confidential until the employee is selected
-
-(c) It is unlawful for any manager, supervisor, agency head, or any other person to:
-   - Prevent a government employee from submitting a request to join a team
-   - Retaliate against any employee for requesting to join, joining, or serving on a team
-   - Interfere with the transfer or assignment of a selected employee to a team
-   - Pressure any employee to decline selection or leave a team
-   - Monitor, surveil, or intercept communications between an employee and a Designated Trusted Investigator regarding team membership
-
-(d) Selected government employees shall be temporarily reassigned to the investigation team with full pay, benefits, and career protections.
-
-## Section 3A: Records Preservation
-
-(a) Upon introduction of this bill, all covered agencies shall immediately preserve all covered records and issue written preservation orders to all personnel. This preservation duty is enforceable upon enactment.
-
-(b) Upon enactment, any person who destroyed, altered, concealed, or removed any covered record after the date this bill was introduced in Congress shall be subject to criminal prosecution and imprisonment of up to 15 years. Destruction of covered records after the date of introduction shall create an adverse inference in any proceeding under this Act that the destroyed records contained information favorable to full disclosure and adverse to the destroying agency's position.
-
-(c) Each covered agency shall conduct a digital forensic audit of its document management systems to verify that no records have been deleted, altered, or moved after September 10, 2025, and shall provide the audit results to each Designated Trusted Investigator and to Congress.
-
-(d) Agencies that have destroyed records related to the investigation must provide a complete accounting of all destroyed records, including what was destroyed, when, by whom, and under whose authorization.
-
-## Section 4: Authority and Access
-
-(a) Each investigation team shall have:
-   - Full access to all files, records, databases, and systems of their host agency and any other covered agency under Laws 1 and 2
-   - Full access to all records produced under the DoJ/FBI Forced Disclosure Act (Law 1) and the Intelligence Services Disclosure Act (Law 2)
-   - Full access to all 208 items in Schedule A and all records responsive to Schedule A
-   - Authority to interview any government employee
-   - Authority to compel production of any document or record
-   - Authority to conduct forensic analysis of any evidence
-   - Authority to conduct forensic audits of agency document management systems
-   - Independent office space and secure communications
-   - Authority to engage independent forensic experts, ballistics experts, explosives experts, audio/video analysts, and any other specialists
-
-(b) No person or agency may:
-   - Deny access to any information, facility, or system
-   - Direct, limit, or influence the scope or direction of the investigation
-   - Require approval from any agency official for any investigative action
-   - Monitor, surveil, or interfere with team communications
-   - Withhold any record on the basis of classification, privilege, or any other exemption (subject only to the narrow source protection in Section 5(b))
-
-## Section 5: Public Release of Findings
-
-(a) Each Designated Trusted Investigator has the authority to publicly release the findings, conclusions, and supporting evidence from their investigation.
-
-(b) Prior to public release, classified information shall be reviewed solely to redact:
-   - The identity of currently active human intelligence sources
-   - Specific technical collection methods currently in active operational use
-
-(c) Redaction shall be limited to the narrowest possible scope. The substance, conclusions, and analytical findings must be disclosed in all cases.
-
-(d) Disputes over redactions shall be resolved by a panel of three federal judges appointed by the Chief Justice, with a presumption in favor of disclosure. The panel shall rule within 14 days.
-
-(e) Each Designated Trusted Investigator may release interim findings at any time without prior approval from any government official.
-
-(f) Each Designated Trusted Investigator may publicly address any and all items in Schedule A, reporting what they have found, what remains unresolved, and what obstruction they have encountered.
 
 ## Section 6: Mandatory Investigation of Schedule A
 
@@ -180,114 +56,6 @@ The Congress finds the following:
 
 (b) Each investigation team shall track and report on each Schedule A item individually, documenting what was investigated, what was found, what was obstructed, and what remains unresolved.
 
-## Section 7: Non-Interference
-
-(a) It shall be a federal crime, punishable by up to 15 years imprisonment, for any person to:
-   - Obstruct, impede, or interfere with any investigation team
-   - Destroy, alter, conceal, or withhold information from any investigation team
-   - Threaten, intimidate, or retaliate against any Designated Trusted Investigator or team member
-   - Attempt to influence, direct, or limit any investigation
-   - Monitor, surveil, or intercept communications of any Designated Trusted Investigator or team member
-
-(b) Attempted violations carry the same penalties as completed violations.
-
-## Section 8: Whistleblower Channel
-
-(a) Any government employee may submit information, documents, or evidence directly to any Designated Trusted Investigator or investigation team for public disclosure.
-
-(b) It shall be unlawful for any supervisor, manager, agency head, or any other person to retaliate against, terminate, demote, reassign, harass, revoke security clearance of, or in any way persecute any government employee for:
-   - Submitting information to an investigation team
-   - Cooperating with an investigation team
-   - Providing testimony or evidence to an investigation team
-
-(c) Violations carry criminal penalties of up to 5 years imprisonment, mandatory reinstatement, back pay, and civil damages including treble damages.
-
-(d) Any adverse personnel action taken within 2 years of submitting information or cooperating creates a rebuttable presumption of retaliation.
-
-(e) **NDA and Secrecy Agreement Override.** No non-disclosure agreement, confidentiality agreement, secrecy agreement, or similar contractual provision — whether entered into with a government agency or a private entity — shall be enforceable to the extent it would prohibit any person from disclosing information related to the death of Charlie Kirk to any Designated Trusted Investigator, the disclosure body, Congress, law enforcement, or the public pursuant to this Act.
-
-(f) **Private Sector Whistleblower Protections.** The protections of subsections (b), (c), and (d) shall extend to any private sector employee, contractor, or agent who discloses information related to the death of Charlie Kirk pursuant to this Act. No employer may terminate, demote, harass, or otherwise retaliate against any person for making disclosures under this Act. This subsection is modeled on 18 U.S.C. 1514A (Sarbanes-Oxley whistleblower provisions) and shall be construed broadly to protect all persons who provide information.
-
-## Section 9: Personal Security
-
-(a) Each Designated Trusted Investigator and key team members shall be provided with a dedicated security detail funded by the investigation budget, independent of any agency being investigated.
-
-(b) No covered agency may conduct surveillance of, attempt to monitor, or gather intelligence on any Designated Trusted Investigator or their family members.
-
-(c) Violations of this section constitute a federal crime punishable by up to 10 years imprisonment.
-
-## Section 10: Succession
-
-(a) If a Designated Trusted Investigator is unable to serve (due to incapacity, death, or voluntary withdrawal), the remaining Designated Trusted Investigators shall jointly nominate a replacement, subject to confirmation by the relevant congressional committees within 14 days.
-
-(b) If only one Designated Trusted Investigator remains, that investigator shall nominate the replacement subject to congressional confirmation.
-
-(c) An investigation team's work shall not be disrupted by the succession process; existing team members shall continue operating under the acting authority of the team's senior government member until the new Designated Trusted Investigator assumes their role.
-
-## Section 10A: Prohibition on Classification
-
-(a) No information related to the Charlie Kirk investigation may be classified, reclassified, or withheld under any classification authority if it pertains to, reveals, or suggests the involvement of, foreknowledge by, or connection to any of the following:
-   1. Any foreign country
-   2. Any foreign intelligence service
-   3. Any U.S. intelligence service (including but not limited to the CIA and NSA)
-   4. The FBI
-   5. Any branch or component of the U.S. military
-
-(b) Any existing classification of such information is automatically void upon enactment of this Act.
-
-(c) Any attempt to classify or reclassify such information after enactment constitutes obstruction under Section 7 of this Act and is subject to the criminal penalties therein.
-
-## Section 10B: No Presidential Override
-
-(a) The President may not terminate, limit, suspend, or interfere with any investigation conducted under this Act or the authority of any Designated Trusted Investigator.
-
-(b) No executive order, presidential memorandum, or other presidential directive may suspend, override, or modify the requirements of this Act.
-
-(c) Any assertion of executive privilege over covered records shall be submitted to a federal court for review within 14 days. There shall be a presumption against privilege. The burden of proof shall be on the asserting party to demonstrate by clear and convincing evidence that disclosure would cause grave and imminent harm to an identified national security interest that outweighs the public interest in disclosure.
-
-## Section 10C: Private Right of Action
-
-(a) Any citizen of the United States may bring an action in the United States District Court for the District of Columbia to compel compliance with this Act, including to compel any covered agency to provide access, records, or cooperation required under this Act to any Designated Trusted Investigator or investigation team.
-
-(b) Courts shall apply a presumption in favor of investigation access and disclosure in any proceeding under this Act.
-
-(c) Prevailing plaintiffs shall be entitled to reasonable attorney's fees and costs.
-
-## Section 11: Duration and Reporting
-
-(a) Investigation teams shall operate for a minimum of 24 months, extendable by the Designated Trusted Investigator.
-
-(b) Each team shall produce:
-   - Interim public reports at least every 90 days, addressing Schedule A items
-   - A comprehensive final public report addressing all 208 items individually
-
-(c) The investigation may not be terminated by any government official. Only the Designated Trusted Investigator may conclude their team's investigation.
-
-## Section 12: Coordination
-
-(a) A voluntary coordination mechanism (shared findings database) shall be available to all thirty-four (34) investigation teams.
-
-(b) Each team is free to share or withhold findings from other teams at the Designated Trusted Investigator's discretion.
-
-(c) Independent investigations by multiple teams create redundancy that makes suppression of findings virtually impossible.
-
-## Section 13: Authorization of Appropriations
-
-(a) There is authorized to be appropriated $5,000,000 for each Designated Trusted Investigator's combined investigation teams (FBI + Intelligence Community), for a total authorization of $85,000,000 for all seventeen Designated Trusted Investigators.
-
-(b) There is authorized to be appropriated such additional sums as may be necessary for independent legal counsel, forensic experts, security details, and administrative costs for each investigation team.
-
-(c) Funds appropriated under this section shall be available immediately upon enactment and shall remain available until expended.
-
-(d) Budgets shall be administered independently of the host agency. No covered agency may control, delay, or restrict the expenditure of funds appropriated for investigation teams under this Act.
-
-## Section 14: Severability
-
-If any provision of this Act, or the application thereof to any person or circumstance, is held invalid by a court of competent jurisdiction, the remainder of this Act and the application of such provision to other persons or circumstances shall not be affected thereby.
-
-## Section 15: Effective Date
-
-This Act shall take effect immediately upon enactment. All criminal penalties under this Act apply prospectively from the date of enactment. Records preservation requirements (Section 3A) take effect upon introduction of this bill, with enforcement as provided in Section 3A(b).
 
 ---
 
@@ -955,6 +723,241 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 ---
 
 Each item in Schedule A is individually mandated for complete disclosure. Partial compliance with Schedule A does not constitute compliance with this Act.
+
+
+## Section 1: Definitions
+
+(a) **"Designated Trusted Investigators"** means the following individuals:
+   1. Candace Owens
+   2. Dave Smith
+   3. Joe Kent
+   4. Tulsi Gabbard
+   5. Tucker Carlson
+   6. Steve Bannon
+   7. Marjorie Taylor Greene
+   8. Jon Bray
+   9. Ian Carroll
+   10. Thomas Massie
+   11. Matt Gaetz
+   12. Glenn Greenwald
+   13. Collin Campbell
+   14. Baron Coleman
+   15. Ryan Matta
+   16. Bryan Starbuck
+   17. Megyn Kelly
+
+(b) **"Investigation Team"** means the government employees selected to work with a Designated Trusted Investigator.
+
+(c) **"FBI Investigation Team"** means the team embedded within the Federal Bureau of Investigation.
+
+(d) **"Intelligence Investigation Team"** means the team embedded within the relevant Intelligence Community agencies.
+
+(e) **"Schedule A"** means the document titled "Charlie Kirk 208 Critical Disclosure Items" as maintained at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, incorporated by reference and attached as an appendix to this Act.
+
+(f) **"Death of Charlie Kirk"** means the killing of Charles J. Kirk on September 10, 2025, at Utah Valley University, Orem, Utah, and all events, planning, coordination, and circumstances leading to, surrounding, and following that event.
+
+(g) **"Investigation"** means any federal, state, or local law enforcement inquiry, intelligence assessment, counterintelligence investigation, congressional inquiry, or other governmental examination related to the death of Charlie Kirk, including but not limited to the criminal prosecution in *State of Utah v. Tyler Alexander Robinson* (Case No. 251403576, Fourth Judicial District Court, Utah County).
+
+(h) **"People Involved"** or **"People Listed"** means the categories of persons defined in Schedule B of this Act, encompassing categories P1 through P35.
+
+(i) **"Disclosure body"** means the review board established under the Charlie Kirk Files Forced Disclosure Act (Law 1), if enacted, or any Designated Trusted Investigator under this Act.
+
+(j) **"Covered records"** or **"Covered information"** means any and all files, documents, communications, reports, forensic evidence, witness statements, surveillance records, digital records, photographs, video recordings, audio recordings, cell site location information, geofence warrant data, flight records, financial records, ballistics analyses, autopsy reports, crime scene evidence, and any other information, in any format, that is related to or could reasonably assist in understanding the circumstances of the death of Charlie Kirk, including but not limited to:
+   1. All records specifically enumerated in Schedule A (208 Critical Disclosure Items)
+   2. Any records that could identify or suggest the identity of any person involved in, connected to, or with knowledge of the death
+   3. Any records relating to foreign intelligence service activity in the State of Utah during the period January 1, 2025 through December 31, 2025
+   4. Any records relating to threats against Charlie Kirk or similarly situated public figures
+   5. Any records relating to the activities, communications, or movements of any person of interest in the investigation
+   6. Any records that contradict, supplement, or provide context to the official investigation narrative
+   7. Any internal communications regarding the investigation, including charging decisions, case strategy, investigative priorities, and decisions regarding what information to withhold from defense counsel or the public
+   8. Any records relating to evidence collection, preservation, alteration, or destruction at the crime scene or any related location
+
+(k) **"Covered agencies"** means all agencies covered by the Charlie Kirk Files Forced Disclosure Act (Law 1) and the Charlie Kirk Intelligence Services Disclosure Act (Law 2), including but not limited to: the Department of Justice, the Federal Bureau of Investigation, the Bureau of Alcohol, Tobacco, Firearms and Explosives, U.S. Customs and Border Protection, the Transportation Security Administration, the Department of Homeland Security, the Financial Crimes Enforcement Network, the Central Intelligence Agency, the National Security Agency, the Defense Intelligence Agency, the National Reconnaissance Office, the National Geospatial-Intelligence Agency, the Office of the Director of National Intelligence, all armed forces intelligence components, and any federal, state, or local agency that has participated in, contributed to, or possesses information related to the investigation.
+
+## Section 2: Establishment of Investigation Teams
+
+(a) Each Designated Trusted Investigator shall be authorized to establish:
+   1. One FBI Investigation Team, embedded within the Federal Bureau of Investigation
+   2. One Intelligence Investigation Team, embedded within the relevant Intelligence Community agencies
+
+(b) This creates a total of thirty-four (34) investigation teams (seventeen FBI teams and seventeen Intelligence Community teams), each operating independently under their respective Designated Trusted Investigator.
+
+(c) Each Designated Trusted Investigator and their team members shall receive appropriate security clearances within 30 days of enactment. No agency may delay, deny, or revoke these clearances to obstruct the investigation.
+
+(d) Each investigation team shall have an independent budget appropriated for the purpose, including funds for independent legal counsel, forensic experts, and security protection.
+
+## Section 3: Team Composition and Selection
+
+(a) Each Designated Trusted Investigator has sole authority to select which government employees they want on their team and which they do not.
+
+(b) Any government employee may submit a request to join any investigation team. Such requests shall be:
+   - Submitted directly to the Designated Trusted Investigator
+   - Not routed through or reviewed by the employee's chain of command
+   - Confidential until the employee is selected
+
+(c) It is unlawful for any manager, supervisor, agency head, or any other person to:
+   - Prevent a government employee from submitting a request to join a team
+   - Retaliate against any employee for requesting to join, joining, or serving on a team
+   - Interfere with the transfer or assignment of a selected employee to a team
+   - Pressure any employee to decline selection or leave a team
+   - Monitor, surveil, or intercept communications between an employee and a Designated Trusted Investigator regarding team membership
+
+(d) Selected government employees shall be temporarily reassigned to the investigation team with full pay, benefits, and career protections.
+
+## Section 3A: Records Preservation
+
+(a) Upon introduction of this bill, all covered agencies shall immediately preserve all covered records and issue written preservation orders to all personnel. This preservation duty is enforceable upon enactment.
+
+(b) Upon enactment, any person who destroyed, altered, concealed, or removed any covered record after the date this bill was introduced in Congress shall be subject to criminal prosecution and imprisonment of up to 15 years. Destruction of covered records after the date of introduction shall create an adverse inference in any proceeding under this Act that the destroyed records contained information favorable to full disclosure and adverse to the destroying agency's position.
+
+(c) Each covered agency shall conduct a digital forensic audit of its document management systems to verify that no records have been deleted, altered, or moved after September 10, 2025, and shall provide the audit results to each Designated Trusted Investigator and to Congress.
+
+(d) Agencies that have destroyed records related to the investigation must provide a complete accounting of all destroyed records, including what was destroyed, when, by whom, and under whose authorization.
+
+## Section 4: Authority and Access
+
+(a) Each investigation team shall have:
+   - Full access to all files, records, databases, and systems of their host agency and any other covered agency under Laws 1 and 2
+   - Full access to all records produced under the DoJ/FBI Forced Disclosure Act (Law 1) and the Intelligence Services Disclosure Act (Law 2)
+   - Full access to all 208 items in Schedule A and all records responsive to Schedule A
+   - Authority to interview any government employee
+   - Authority to compel production of any document or record
+   - Authority to conduct forensic analysis of any evidence
+   - Authority to conduct forensic audits of agency document management systems
+   - Independent office space and secure communications
+   - Authority to engage independent forensic experts, ballistics experts, explosives experts, audio/video analysts, and any other specialists
+
+(b) No person or agency may:
+   - Deny access to any information, facility, or system
+   - Direct, limit, or influence the scope or direction of the investigation
+   - Require approval from any agency official for any investigative action
+   - Monitor, surveil, or interfere with team communications
+   - Withhold any record on the basis of classification, privilege, or any other exemption (subject only to the narrow source protection in Section 5(b))
+
+## Section 5: Public Release of Findings
+
+(a) Each Designated Trusted Investigator has the authority to publicly release the findings, conclusions, and supporting evidence from their investigation.
+
+(b) Prior to public release, classified information shall be reviewed solely to redact:
+   - The identity of currently active human intelligence sources
+   - Specific technical collection methods currently in active operational use
+
+(c) Redaction shall be limited to the narrowest possible scope. The substance, conclusions, and analytical findings must be disclosed in all cases.
+
+(d) Disputes over redactions shall be resolved by a panel of three federal judges appointed by the Chief Justice, with a presumption in favor of disclosure. The panel shall rule within 14 days.
+
+(e) Each Designated Trusted Investigator may release interim findings at any time without prior approval from any government official.
+
+(f) Each Designated Trusted Investigator may publicly address any and all items in Schedule A, reporting what they have found, what remains unresolved, and what obstruction they have encountered.
+
+## Section 7: Non-Interference
+
+(a) It shall be a federal crime, punishable by up to 15 years imprisonment, for any person to:
+   - Obstruct, impede, or interfere with any investigation team
+   - Destroy, alter, conceal, or withhold information from any investigation team
+   - Threaten, intimidate, or retaliate against any Designated Trusted Investigator or team member
+   - Attempt to influence, direct, or limit any investigation
+   - Monitor, surveil, or intercept communications of any Designated Trusted Investigator or team member
+
+(b) Attempted violations carry the same penalties as completed violations.
+
+## Section 8: Whistleblower Channel
+
+(a) Any government employee may submit information, documents, or evidence directly to any Designated Trusted Investigator or investigation team for public disclosure.
+
+(b) It shall be unlawful for any supervisor, manager, agency head, or any other person to retaliate against, terminate, demote, reassign, harass, revoke security clearance of, or in any way persecute any government employee for:
+   - Submitting information to an investigation team
+   - Cooperating with an investigation team
+   - Providing testimony or evidence to an investigation team
+
+(c) Violations carry criminal penalties of up to 5 years imprisonment, mandatory reinstatement, back pay, and civil damages including treble damages.
+
+(d) Any adverse personnel action taken within 2 years of submitting information or cooperating creates a rebuttable presumption of retaliation.
+
+(e) **NDA and Secrecy Agreement Override.** No non-disclosure agreement, confidentiality agreement, secrecy agreement, or similar contractual provision — whether entered into with a government agency or a private entity — shall be enforceable to the extent it would prohibit any person from disclosing information related to the death of Charlie Kirk to any Designated Trusted Investigator, the disclosure body, Congress, law enforcement, or the public pursuant to this Act.
+
+(f) **Private Sector Whistleblower Protections.** The protections of subsections (b), (c), and (d) shall extend to any private sector employee, contractor, or agent who discloses information related to the death of Charlie Kirk pursuant to this Act. No employer may terminate, demote, harass, or otherwise retaliate against any person for making disclosures under this Act. This subsection is modeled on 18 U.S.C. 1514A (Sarbanes-Oxley whistleblower provisions) and shall be construed broadly to protect all persons who provide information.
+
+## Section 9: Personal Security
+
+(a) Each Designated Trusted Investigator and key team members shall be provided with a dedicated security detail funded by the investigation budget, independent of any agency being investigated.
+
+(b) No covered agency may conduct surveillance of, attempt to monitor, or gather intelligence on any Designated Trusted Investigator or their family members.
+
+(c) Violations of this section constitute a federal crime punishable by up to 10 years imprisonment.
+
+## Section 10: Succession
+
+(a) If a Designated Trusted Investigator is unable to serve (due to incapacity, death, or voluntary withdrawal), the remaining Designated Trusted Investigators shall jointly nominate a replacement, subject to confirmation by the relevant congressional committees within 14 days.
+
+(b) If only one Designated Trusted Investigator remains, that investigator shall nominate the replacement subject to congressional confirmation.
+
+(c) An investigation team's work shall not be disrupted by the succession process; existing team members shall continue operating under the acting authority of the team's senior government member until the new Designated Trusted Investigator assumes their role.
+
+## Section 10A: Prohibition on Classification
+
+(a) No information related to the Charlie Kirk investigation may be classified, reclassified, or withheld under any classification authority if it pertains to, reveals, or suggests the involvement of, foreknowledge by, or connection to any of the following:
+   1. Any foreign country
+   2. Any foreign intelligence service
+   3. Any U.S. intelligence service (including but not limited to the CIA and NSA)
+   4. The FBI
+   5. Any branch or component of the U.S. military
+
+(b) Any existing classification of such information is automatically void upon enactment of this Act.
+
+(c) Any attempt to classify or reclassify such information after enactment constitutes obstruction under Section 7 of this Act and is subject to the criminal penalties therein.
+
+## Section 10B: No Presidential Override
+
+(a) The President may not terminate, limit, suspend, or interfere with any investigation conducted under this Act or the authority of any Designated Trusted Investigator.
+
+(b) No executive order, presidential memorandum, or other presidential directive may suspend, override, or modify the requirements of this Act.
+
+(c) Any assertion of executive privilege over covered records shall be submitted to a federal court for review within 14 days. There shall be a presumption against privilege. The burden of proof shall be on the asserting party to demonstrate by clear and convincing evidence that disclosure would cause grave and imminent harm to an identified national security interest that outweighs the public interest in disclosure.
+
+## Section 10C: Private Right of Action
+
+(a) Any citizen of the United States may bring an action in the United States District Court for the District of Columbia to compel compliance with this Act, including to compel any covered agency to provide access, records, or cooperation required under this Act to any Designated Trusted Investigator or investigation team.
+
+(b) Courts shall apply a presumption in favor of investigation access and disclosure in any proceeding under this Act.
+
+(c) Prevailing plaintiffs shall be entitled to reasonable attorney's fees and costs.
+
+## Section 11: Duration and Reporting
+
+(a) Investigation teams shall operate for a minimum of 24 months, extendable by the Designated Trusted Investigator.
+
+(b) Each team shall produce:
+   - Interim public reports at least every 90 days, addressing Schedule A items
+   - A comprehensive final public report addressing all 208 items individually
+
+(c) The investigation may not be terminated by any government official. Only the Designated Trusted Investigator may conclude their team's investigation.
+
+## Section 12: Coordination
+
+(a) A voluntary coordination mechanism (shared findings database) shall be available to all thirty-four (34) investigation teams.
+
+(b) Each team is free to share or withhold findings from other teams at the Designated Trusted Investigator's discretion.
+
+(c) Independent investigations by multiple teams create redundancy that makes suppression of findings virtually impossible.
+
+## Section 13: Authorization of Appropriations
+
+(a) There is authorized to be appropriated $5,000,000 for each Designated Trusted Investigator's combined investigation teams (FBI + Intelligence Community), for a total authorization of $85,000,000 for all seventeen Designated Trusted Investigators.
+
+(b) There is authorized to be appropriated such additional sums as may be necessary for independent legal counsel, forensic experts, security details, and administrative costs for each investigation team.
+
+(c) Funds appropriated under this section shall be available immediately upon enactment and shall remain available until expended.
+
+(d) Budgets shall be administered independently of the host agency. No covered agency may control, delay, or restrict the expenditure of funds appropriated for investigation teams under this Act.
+
+## Section 14: Severability
+
+If any provision of this Act, or the application thereof to any person or circumstance, is held invalid by a court of competent jurisdiction, the remainder of this Act and the application of such provision to other persons or circumstances shall not be affected thereby.
+
+## Section 15: Effective Date
+
+This Act shall take effect immediately upon enactment. All criminal penalties under this Act apply prospectively from the date of enactment. Records preservation requirements (Section 3A) take effect upon introduction of this bill, with enforcement as provided in Section 3A(b).
 
 ---
 

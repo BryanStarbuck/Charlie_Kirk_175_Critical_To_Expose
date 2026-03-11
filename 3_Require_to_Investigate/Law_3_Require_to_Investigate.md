@@ -22,41 +22,6 @@ The Congress finds the following:
 
 (d) **Public Interest in a Thorough Investigation.** The public has a compelling interest in a thorough, independent investigation into the death of Charlie Kirk, a prominent public figure killed in a public venue, where substantial evidence suggests involvement beyond a single individual. The integrity of public institutions depends upon the government's willingness to investigate itself when evidence suggests government involvement, and to pursue all leads without regard to political sensitivity or institutional embarrassment.
 
-## Section 1: Definitions
-
-(a) **"Covered law enforcement agencies"** means the Federal Bureau of Investigation, the Department of Justice, the Bureau of Alcohol, Tobacco, Firearms and Explosives, and any federal or state law enforcement agency with jurisdiction or relevant capabilities.
-
-(b) **"Covered intelligence agencies"** means all agencies and elements of the Intelligence Community as defined in 50 U.S.C. 3003(4).
-
-(c) **"Good-faith investigation"** means an investigation that:
-   - Pursues all reasonable leads without predetermined conclusions
-   - Employs all available investigative tools and resources
-   - Does not exclude any suspect, theory, or line of inquiry without documented justification reviewed by the independent monitor
-   - Is conducted with the same rigor as any investigation of the death of a prominent public figure
-   - Specifically investigates all leads and theories identified in Schedule A (208 Critical Disclosure Items), including but not limited to: the exploding microphone theory, foreign intelligence service involvement, evidence of cover-up, alternative shooters, evidence planting, and electronic warfare
-   - Does not treat any government agency, intelligence service, or foreign government as exempt from suspicion
-
-(d) **"Schedule A"** means the document titled "Charlie Kirk 208 Critical Disclosure Items" as maintained at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, incorporated by reference and attached as an appendix to this Act.
-
-(e) **"Death of Charlie Kirk"** means the killing of Charles J. Kirk on September 10, 2025, at Utah Valley University, Orem, Utah, and all events, planning, coordination, and circumstances leading to, surrounding, and following that event.
-
-(f) **"Investigation"** means any federal, state, or local law enforcement inquiry, intelligence assessment, counterintelligence investigation, congressional inquiry, or other governmental examination related to the death of Charlie Kirk, including but not limited to the criminal prosecution in *State of Utah v. Tyler Alexander Robinson* (Case No. 251403576, Fourth Judicial District Court, Utah County).
-
-(g) **"People Involved"** or **"People Listed"** means the categories of persons defined in Schedule B of this Act, encompassing categories P1 through P35.
-
-(h) **"Designated Trusted Investigator"** means an investigator designated under the Charlie Kirk Trusted Investigators Act, if enacted; or, if such Act has not been enacted, any independent investigator appointed by the external monitor established under Section 6 of this Act.
-
-(i) **"Disclosure body"** means the external independent monitor established under Section 6 of this Act.
-
-(j) **"Covered records"** means any and all files, documents, communications, reports, forensic evidence, witness statements, surveillance records, digital records, photographs, video recordings, audio recordings, cell site location information, geofence warrant data, flight records, financial records, ballistics analyses, autopsy reports, crime scene evidence, and any other information, in any format, that is related to or could reasonably assist in understanding the circumstances of the death of Charlie Kirk, including but not limited to:
-   1. All records specifically enumerated in Schedule A (208 Critical Disclosure Items)
-   2. Any records that could identify or suggest the identity of any person involved in, connected to, or with knowledge of the death
-   3. Any records relating to foreign intelligence service activity in the State of Utah during the period January 1, 2025 through December 31, 2025
-   4. Any records relating to threats against Charlie Kirk or similarly situated public figures
-   5. Any records relating to the activities, communications, or movements of any person of interest in the investigation
-   6. Any records that contradict, supplement, or provide context to the official investigation narrative
-   7. Any internal communications regarding the investigation, including charging decisions, case strategy, investigative priorities, and decisions regarding what information to withhold from defense counsel or the public
-   8. Any records relating to evidence collection, preservation, alteration, or destruction at the crime scene or any related location
 
 ## Section 2: Mandatory Investigation - FBI
 
@@ -184,135 +149,6 @@ The Congress finds the following:
 
 (d) **Team Duration:** All team members shall be committed to the investigation for a minimum of 2 years. Individual team members may request to continue working on the investigation beyond the 2-year minimum, for up to 5 years total. Such requests shall be granted unless the requesting member's continued service would compromise the investigation.
 
-## Section 4: Independence and Non-Interference
-
-(a) No person, regardless of rank or position, may direct, influence, or pressure investigators to:
-   - Close or narrow any line of inquiry
-   - Exclude any suspect or theory
-   - Alter or suppress any finding
-   - Delay or withhold any report
-   - Avoid investigating any government agency, intelligence service, or foreign government
-
-(b) Violations of subsection (a) constitute obstruction of justice and are punishable by up to 10 years imprisonment.
-
-(c) **Conflict of Interest Trigger:** If evidence emerges during the investigation that any covered law enforcement agency or intelligence agency was itself involved in the death of Charlie Kirk, the investigation authority for that aspect shall immediately transfer to an independent special commission appointed by Congress. This commission shall have all the powers of the original investigation team plus the ability to subpoena any government official.
-
-## Section 4A: Records Preservation
-
-(a) Upon introduction of this bill, all covered law enforcement agencies and covered intelligence agencies shall immediately preserve all covered records and information related to the investigation and issue written preservation orders to all personnel. This preservation duty is enforceable upon enactment.
-
-(b) Upon enactment, any person who destroyed, altered, concealed, or removed any covered record after the date this bill was introduced in Congress shall be subject to criminal prosecution and imprisonment of up to 15 years. Destruction of covered records after the date of introduction shall create an adverse inference in any proceeding under this Act that the destroyed records contained information favorable to full investigation and adverse to the destroying agency's position. Existing federal law, including 18 U.S.C. 1519 (obstruction by destruction of records), applies independently to any pre-enactment destruction.
-
-(c) Each covered law enforcement agency and covered intelligence agency shall conduct a digital forensic audit of its document management systems to verify that no records have been deleted, altered, or moved after September 10, 2025, and shall provide the audit results to Congress and the external independent monitor.
-
-(d) Agencies that have destroyed records related to the investigation must provide a complete accounting of all destroyed records, including what was destroyed, when, by whom, and under whose authorization.
-
-## Section 5: Whistleblower Protections
-
-(a) Any government employee may provide information, leads, or evidence to the investigation teams, to any Designated Trusted Investigator under the Charlie Kirk Trusted Investigators Act, or directly to the public.
-
-(b) It is unlawful for any supervisor, manager, agency head, or any other person to retaliate against, terminate, demote, reassign, harass, revoke security clearance of, or in any way persecute any government employee for disclosing information pursuant to this Act or for participating in, supporting, or providing information to the investigation.
-
-(c) Criminal penalties of up to 5 years imprisonment, mandatory reinstatement, and civil liability including treble damages for retaliation.
-
-(d) Any adverse personnel action taken against a disclosing employee within 2 years of disclosure shall create a rebuttable presumption of retaliation.
-
-(e) **NDA and Secrecy Agreement Override.** No non-disclosure agreement, confidentiality agreement, secrecy agreement, or similar contractual provision — whether entered into with a government agency or a private entity — shall be enforceable to the extent it would prohibit any person from disclosing information related to the death of Charlie Kirk to the investigation teams, the external monitor, Congress, a Designated Trusted Investigator, law enforcement, or the public pursuant to this Act.
-
-(f) **Private Sector Whistleblower Protections.** The protections of subsections (b), (c), and (d) shall extend to any private sector employee, contractor, or agent who discloses information related to the death of Charlie Kirk pursuant to this Act. No employer may terminate, demote, harass, or otherwise retaliate against any person for making disclosures under this Act. This subsection is modeled on 18 U.S.C. 1514A (Sarbanes-Oxley whistleblower provisions) and shall be construed broadly to protect all persons who provide information.
-
-## Section 6: External Independent Monitor
-
-(a) **Appointment.** Congress shall appoint an independent monitor (not an inspector from within any covered agency) within 30 days of enactment by joint resolution of both chambers. If no joint resolution is adopted within 30 days, the monitor shall be appointed jointly by the chairs of the Senate Judiciary Committee and the House Judiciary Committee within 15 additional days. The monitor shall have real-time access to all four investigations.
-
-(b) The monitor shall:
-   - Verify that each investigation is pursuing all leads including those in Schedule A
-   - Flag any lead that is not being adequately investigated
-   - Report monthly to Congress on each investigation's thoroughness and independence
-   - Have authority to direct investigators to pursue specific leads that are being neglected
-   - Certify whether each investigation constitutes "good-faith" investigation as defined in Section 1(c)
-   - Have subpoena power over any covered agency, private entity, or individual for records and testimony related to the investigation
-
-(c) The monitor shall have appropriate security clearances, independent legal counsel, and access to independent forensic experts. The monitor shall retain such experts as necessary to verify the integrity and thoroughness of the investigations.
-
-(d) **Board Composition.** The monitor may not have been employed by any covered law enforcement agency or covered intelligence agency within the preceding 10 years.
-
-(e) **Special Master.** Upon a finding by the monitor that any investigation team is not conducting a good-faith investigation, any federal district court may appoint a Special Master with authority to: (1) access agency systems, databases, and physical storage facilities; (2) compel production of specific records; (3) direct investigators to pursue specific leads; (4) report directly to the court, the monitor, and Congress; and (5) be funded by the non-compliant agency's budget. The monitor may petition any federal court for appointment of a Special Master without demonstrating individual standing.
-
-## Section 7: Congressional Oversight
-
-(a) The investigation teams shall brief the relevant congressional committees monthly.
-
-(b) The briefings shall include specific status updates on each category of leads from Schedule A.
-
-## Section 7A: Prohibition on Classification
-
-(a) No information related to the Charlie Kirk investigation may be classified, reclassified, or withheld under any classification authority if it pertains to, reveals, or suggests the involvement of, foreknowledge by, or connection to any of the following:
-   1. Any foreign country
-   2. Any foreign intelligence service
-   3. Any U.S. intelligence service (including but not limited to the CIA and NSA)
-   4. The FBI
-   5. Any branch or component of the U.S. military
-
-(b) Any existing classification on covered records is automatically void upon enactment of this Act.
-
-(c) Any attempt to classify or reclassify covered records after enactment constitutes obstruction under Section 4(b) and is punishable by up to 10 years imprisonment.
-
-(d) Investigation findings, reports, and evidence shall be produced in unclassified form for public release. If an agency asserts that specific technical collection methods currently in active use require protection, the analytical conclusions and factual findings derived from such methods shall nonetheless be disclosed in full.
-
-## Section 7B: No Presidential Override
-
-(a) The President may not order, direct, or authorize the termination, limitation, or interference with any investigation under this Act.
-
-(b) No executive order, presidential memorandum, or other presidential directive may suspend or override the requirements of this Act.
-
-(c) Any presidential assertion of executive privilege over investigation materials shall be submitted to the external monitor and reviewed by a federal court within 14 days. There shall be a presumption against privilege. The burden of proof shall be on the asserting party to demonstrate by clear and convincing evidence that disclosure would cause grave and imminent harm to an identified national security interest that outweighs the public interest in the investigation.
-
-(d) Congress finds that the compelling public interest in a thorough investigation, as established in Section 0, overcomes any claim of executive privilege with respect to investigation materials.
-
-## Section 7C: Private Right of Action
-
-(a) Any citizen of the United States may bring an action in federal court to compel compliance with the investigation mandates of this Act, provided that: (1) the citizen has provided 60 days' written notice to the non-compliant agency and the Attorney General specifying the alleged non-compliance; (2) the 60-day investigation commencement deadline under Sections 2, 2A, 2B, and 3 has passed; and (3) the alleged non-compliance has not been fully remedied during the notice period. The injury cognizable under this section is the denial of the statutory right to a thorough investigation as mandated by this Act.
-
-(b) Courts shall apply a presumption in favor of investigation and disclosure in any proceeding under this Act.
-
-(c) Prevailing plaintiffs shall be entitled to reasonable attorney's fees and costs.
-
-(d) Courts may dismiss claims that are frivolous or filed in bad faith, with sanctions available under Federal Rule of Civil Procedure 11.
-
-## Section 8: Public Reporting
-
-(a) All reports produced under this Act shall be made publicly available, with only the narrow redactions permitted under the companion Intelligence Services Disclosure Act (Law 2).
-
-(b) Each of the four investigation teams (FBI, CIA, NSA, and IC via DNI) shall produce and publicly release a disclosure report every 6 months. Each report shall document:
-   - All findings to date
-   - All output documents discovered during the reporting period
-   - As much information as can be provided regarding each line of inquiry
-   - Status of each of the 208 Schedule A items
-
-(c) Reports shall continue for the duration of each team's operation (minimum 2 years, up to 5 years if team members request extension under Sections 2(d), 2A(d), 2B(d), and 3(d)).
-
-(d) Each report shall include a section addressing each of the 208 items in Schedule A, documenting what was investigated, what was found, and what remains unresolved.
-
-(e) A final comprehensive report shall be released by each team upon the conclusion of its investigation.
-
-## Section 9: Authorization of Appropriations
-
-(a) There is authorized to be appropriated $10,000,000 for each of the four investigation teams (FBI, CIA, NSA, IC via DNI) as mandated by Sections 2, 2A, 2B, and 3.
-
-(b) There is authorized to be appropriated $5,000,000 annually for the external independent monitor established under Section 6, including staff, forensic auditors, legal counsel, and administrative costs.
-
-(c) Funds appropriated under this section shall be available immediately upon enactment and shall remain available until expended.
-
-(d) Investigation team budgets shall be administered independently of the host agency's budget process. No agency may redirect, withhold, or condition access to funds appropriated for investigation teams under this Act.
-
-## Section 10: Severability
-
-If any provision of this Act, or the application thereof to any person or circumstance, is held invalid by a court of competent jurisdiction, the remainder of this Act and the application of such provision to other persons or circumstances shall not be affected thereby.
-
-## Section 11: Effective Date
-
-This Act shall take effect immediately upon enactment. All criminal penalties under this Act apply prospectively from the date of enactment. Records preservation requirements (Section 4A) take effect upon introduction of this bill, with enforcement as provided in Section 4A(b).
 
 ---
 
@@ -975,6 +811,172 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 - **P35)** Any other person, whether named or unnamed in this Act, who possesses information relevant to understanding the full circumstances of Charlie Kirk's death, including but not limited to: persons who received payments from unknown sources to be present at or near UVU on September 10, 2025; persons who communicated with any foreign intelligence service about Charlie Kirk; persons who participated in any meeting where harm to Charlie Kirk was discussed, planned, or approved; and any person whose identity is known to any covered agency as relevant to the investigation but who has not been publicly identified.
 
+
+## Section 1: Definitions
+
+(a) **"Covered law enforcement agencies"** means the Federal Bureau of Investigation, the Department of Justice, the Bureau of Alcohol, Tobacco, Firearms and Explosives, and any federal or state law enforcement agency with jurisdiction or relevant capabilities.
+
+(b) **"Covered intelligence agencies"** means all agencies and elements of the Intelligence Community as defined in 50 U.S.C. 3003(4).
+
+(c) **"Good-faith investigation"** means an investigation that:
+   - Pursues all reasonable leads without predetermined conclusions
+   - Employs all available investigative tools and resources
+   - Does not exclude any suspect, theory, or line of inquiry without documented justification reviewed by the independent monitor
+   - Is conducted with the same rigor as any investigation of the death of a prominent public figure
+   - Specifically investigates all leads and theories identified in Schedule A (208 Critical Disclosure Items), including but not limited to: the exploding microphone theory, foreign intelligence service involvement, evidence of cover-up, alternative shooters, evidence planting, and electronic warfare
+   - Does not treat any government agency, intelligence service, or foreign government as exempt from suspicion
+
+(d) **"Schedule A"** means the document titled "Charlie Kirk 208 Critical Disclosure Items" as maintained at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, incorporated by reference and attached as an appendix to this Act.
+
+(e) **"Death of Charlie Kirk"** means the killing of Charles J. Kirk on September 10, 2025, at Utah Valley University, Orem, Utah, and all events, planning, coordination, and circumstances leading to, surrounding, and following that event.
+
+(f) **"Investigation"** means any federal, state, or local law enforcement inquiry, intelligence assessment, counterintelligence investigation, congressional inquiry, or other governmental examination related to the death of Charlie Kirk, including but not limited to the criminal prosecution in *State of Utah v. Tyler Alexander Robinson* (Case No. 251403576, Fourth Judicial District Court, Utah County).
+
+(g) **"People Involved"** or **"People Listed"** means the categories of persons defined in Schedule B of this Act, encompassing categories P1 through P35.
+
+(h) **"Designated Trusted Investigator"** means an investigator designated under the Charlie Kirk Trusted Investigators Act, if enacted; or, if such Act has not been enacted, any independent investigator appointed by the external monitor established under Section 6 of this Act.
+
+(i) **"Disclosure body"** means the external independent monitor established under Section 6 of this Act.
+
+(j) **"Covered records"** means any and all files, documents, communications, reports, forensic evidence, witness statements, surveillance records, digital records, photographs, video recordings, audio recordings, cell site location information, geofence warrant data, flight records, financial records, ballistics analyses, autopsy reports, crime scene evidence, and any other information, in any format, that is related to or could reasonably assist in understanding the circumstances of the death of Charlie Kirk, including but not limited to:
+   1. All records specifically enumerated in Schedule A (208 Critical Disclosure Items)
+   2. Any records that could identify or suggest the identity of any person involved in, connected to, or with knowledge of the death
+   3. Any records relating to foreign intelligence service activity in the State of Utah during the period January 1, 2025 through December 31, 2025
+   4. Any records relating to threats against Charlie Kirk or similarly situated public figures
+   5. Any records relating to the activities, communications, or movements of any person of interest in the investigation
+   6. Any records that contradict, supplement, or provide context to the official investigation narrative
+   7. Any internal communications regarding the investigation, including charging decisions, case strategy, investigative priorities, and decisions regarding what information to withhold from defense counsel or the public
+   8. Any records relating to evidence collection, preservation, alteration, or destruction at the crime scene or any related location
+
+## Section 4: Independence and Non-Interference
+
+(a) No person, regardless of rank or position, may direct, influence, or pressure investigators to:
+   - Close or narrow any line of inquiry
+   - Exclude any suspect or theory
+   - Alter or suppress any finding
+   - Delay or withhold any report
+   - Avoid investigating any government agency, intelligence service, or foreign government
+
+(b) Violations of subsection (a) constitute obstruction of justice and are punishable by up to 10 years imprisonment.
+
+(c) **Conflict of Interest Trigger:** If evidence emerges during the investigation that any covered law enforcement agency or intelligence agency was itself involved in the death of Charlie Kirk, the investigation authority for that aspect shall immediately transfer to an independent special commission appointed by Congress. This commission shall have all the powers of the original investigation team plus the ability to subpoena any government official.
+
+## Section 4A: Records Preservation
+
+(a) Upon introduction of this bill, all covered law enforcement agencies and covered intelligence agencies shall immediately preserve all covered records and information related to the investigation and issue written preservation orders to all personnel. This preservation duty is enforceable upon enactment.
+
+(b) Upon enactment, any person who destroyed, altered, concealed, or removed any covered record after the date this bill was introduced in Congress shall be subject to criminal prosecution and imprisonment of up to 15 years. Destruction of covered records after the date of introduction shall create an adverse inference in any proceeding under this Act that the destroyed records contained information favorable to full investigation and adverse to the destroying agency's position. Existing federal law, including 18 U.S.C. 1519 (obstruction by destruction of records), applies independently to any pre-enactment destruction.
+
+(c) Each covered law enforcement agency and covered intelligence agency shall conduct a digital forensic audit of its document management systems to verify that no records have been deleted, altered, or moved after September 10, 2025, and shall provide the audit results to Congress and the external independent monitor.
+
+(d) Agencies that have destroyed records related to the investigation must provide a complete accounting of all destroyed records, including what was destroyed, when, by whom, and under whose authorization.
+
+## Section 5: Whistleblower Protections
+
+(a) Any government employee may provide information, leads, or evidence to the investigation teams, to any Designated Trusted Investigator under the Charlie Kirk Trusted Investigators Act, or directly to the public.
+
+(b) It is unlawful for any supervisor, manager, agency head, or any other person to retaliate against, terminate, demote, reassign, harass, revoke security clearance of, or in any way persecute any government employee for disclosing information pursuant to this Act or for participating in, supporting, or providing information to the investigation.
+
+(c) Criminal penalties of up to 5 years imprisonment, mandatory reinstatement, and civil liability including treble damages for retaliation.
+
+(d) Any adverse personnel action taken against a disclosing employee within 2 years of disclosure shall create a rebuttable presumption of retaliation.
+
+(e) **NDA and Secrecy Agreement Override.** No non-disclosure agreement, confidentiality agreement, secrecy agreement, or similar contractual provision — whether entered into with a government agency or a private entity — shall be enforceable to the extent it would prohibit any person from disclosing information related to the death of Charlie Kirk to the investigation teams, the external monitor, Congress, a Designated Trusted Investigator, law enforcement, or the public pursuant to this Act.
+
+(f) **Private Sector Whistleblower Protections.** The protections of subsections (b), (c), and (d) shall extend to any private sector employee, contractor, or agent who discloses information related to the death of Charlie Kirk pursuant to this Act. No employer may terminate, demote, harass, or otherwise retaliate against any person for making disclosures under this Act. This subsection is modeled on 18 U.S.C. 1514A (Sarbanes-Oxley whistleblower provisions) and shall be construed broadly to protect all persons who provide information.
+
+## Section 6: External Independent Monitor
+
+(a) **Appointment.** Congress shall appoint an independent monitor (not an inspector from within any covered agency) within 30 days of enactment by joint resolution of both chambers. If no joint resolution is adopted within 30 days, the monitor shall be appointed jointly by the chairs of the Senate Judiciary Committee and the House Judiciary Committee within 15 additional days. The monitor shall have real-time access to all four investigations.
+
+(b) The monitor shall:
+   - Verify that each investigation is pursuing all leads including those in Schedule A
+   - Flag any lead that is not being adequately investigated
+   - Report monthly to Congress on each investigation's thoroughness and independence
+   - Have authority to direct investigators to pursue specific leads that are being neglected
+   - Certify whether each investigation constitutes "good-faith" investigation as defined in Section 1(c)
+   - Have subpoena power over any covered agency, private entity, or individual for records and testimony related to the investigation
+
+(c) The monitor shall have appropriate security clearances, independent legal counsel, and access to independent forensic experts. The monitor shall retain such experts as necessary to verify the integrity and thoroughness of the investigations.
+
+(d) **Board Composition.** The monitor may not have been employed by any covered law enforcement agency or covered intelligence agency within the preceding 10 years.
+
+(e) **Special Master.** Upon a finding by the monitor that any investigation team is not conducting a good-faith investigation, any federal district court may appoint a Special Master with authority to: (1) access agency systems, databases, and physical storage facilities; (2) compel production of specific records; (3) direct investigators to pursue specific leads; (4) report directly to the court, the monitor, and Congress; and (5) be funded by the non-compliant agency's budget. The monitor may petition any federal court for appointment of a Special Master without demonstrating individual standing.
+
+## Section 7: Congressional Oversight
+
+(a) The investigation teams shall brief the relevant congressional committees monthly.
+
+(b) The briefings shall include specific status updates on each category of leads from Schedule A.
+
+## Section 7A: Prohibition on Classification
+
+(a) No information related to the Charlie Kirk investigation may be classified, reclassified, or withheld under any classification authority if it pertains to, reveals, or suggests the involvement of, foreknowledge by, or connection to any of the following:
+   1. Any foreign country
+   2. Any foreign intelligence service
+   3. Any U.S. intelligence service (including but not limited to the CIA and NSA)
+   4. The FBI
+   5. Any branch or component of the U.S. military
+
+(b) Any existing classification on covered records is automatically void upon enactment of this Act.
+
+(c) Any attempt to classify or reclassify covered records after enactment constitutes obstruction under Section 4(b) and is punishable by up to 10 years imprisonment.
+
+(d) Investigation findings, reports, and evidence shall be produced in unclassified form for public release. If an agency asserts that specific technical collection methods currently in active use require protection, the analytical conclusions and factual findings derived from such methods shall nonetheless be disclosed in full.
+
+## Section 7B: No Presidential Override
+
+(a) The President may not order, direct, or authorize the termination, limitation, or interference with any investigation under this Act.
+
+(b) No executive order, presidential memorandum, or other presidential directive may suspend or override the requirements of this Act.
+
+(c) Any presidential assertion of executive privilege over investigation materials shall be submitted to the external monitor and reviewed by a federal court within 14 days. There shall be a presumption against privilege. The burden of proof shall be on the asserting party to demonstrate by clear and convincing evidence that disclosure would cause grave and imminent harm to an identified national security interest that outweighs the public interest in the investigation.
+
+(d) Congress finds that the compelling public interest in a thorough investigation, as established in Section 0, overcomes any claim of executive privilege with respect to investigation materials.
+
+## Section 7C: Private Right of Action
+
+(a) Any citizen of the United States may bring an action in federal court to compel compliance with the investigation mandates of this Act, provided that: (1) the citizen has provided 60 days' written notice to the non-compliant agency and the Attorney General specifying the alleged non-compliance; (2) the 60-day investigation commencement deadline under Sections 2, 2A, 2B, and 3 has passed; and (3) the alleged non-compliance has not been fully remedied during the notice period. The injury cognizable under this section is the denial of the statutory right to a thorough investigation as mandated by this Act.
+
+(b) Courts shall apply a presumption in favor of investigation and disclosure in any proceeding under this Act.
+
+(c) Prevailing plaintiffs shall be entitled to reasonable attorney's fees and costs.
+
+(d) Courts may dismiss claims that are frivolous or filed in bad faith, with sanctions available under Federal Rule of Civil Procedure 11.
+
+## Section 8: Public Reporting
+
+(a) All reports produced under this Act shall be made publicly available, with only the narrow redactions permitted under the companion Intelligence Services Disclosure Act (Law 2).
+
+(b) Each of the four investigation teams (FBI, CIA, NSA, and IC via DNI) shall produce and publicly release a disclosure report every 6 months. Each report shall document:
+   - All findings to date
+   - All output documents discovered during the reporting period
+   - As much information as can be provided regarding each line of inquiry
+   - Status of each of the 208 Schedule A items
+
+(c) Reports shall continue for the duration of each team's operation (minimum 2 years, up to 5 years if team members request extension under Sections 2(d), 2A(d), 2B(d), and 3(d)).
+
+(d) Each report shall include a section addressing each of the 208 items in Schedule A, documenting what was investigated, what was found, and what remains unresolved.
+
+(e) A final comprehensive report shall be released by each team upon the conclusion of its investigation.
+
+## Section 9: Authorization of Appropriations
+
+(a) There is authorized to be appropriated $10,000,000 for each of the four investigation teams (FBI, CIA, NSA, IC via DNI) as mandated by Sections 2, 2A, 2B, and 3.
+
+(b) There is authorized to be appropriated $5,000,000 annually for the external independent monitor established under Section 6, including staff, forensic auditors, legal counsel, and administrative costs.
+
+(c) Funds appropriated under this section shall be available immediately upon enactment and shall remain available until expended.
+
+(d) Investigation team budgets shall be administered independently of the host agency's budget process. No agency may redirect, withhold, or condition access to funds appropriated for investigation teams under this Act.
+
+## Section 10: Severability
+
+If any provision of this Act, or the application thereof to any person or circumstance, is held invalid by a court of competent jurisdiction, the remainder of this Act and the application of such provision to other persons or circumstances shall not be affected thereby.
+
+## Section 11: Effective Date
+
+This Act shall take effect immediately upon enactment. All criminal penalties under this Act apply prospectively from the date of enactment. Records preservation requirements (Section 4A) take effect upon introduction of this bill, with enforcement as provided in Section 4A(b).
 
 
 ---

@@ -16,29 +16,26 @@ INPUT_GOALS_FILE is file {ROOT_DIR}/other/List_Of_Laws.md
 
 OUTPUT_FILE is file {ROOT_DIR}/other/analysis/Laws_Not_Complying.md
 
-Your instructions are:
-* Read all of this into the context window: INPUT_INVESTIGATION_FILE
+Your goal is to reorder each of the 4 law documents so that citizens can read and understand what is being accomplished -- politically and for justice -- before encountering the legal plumbing.
 
-* Only file to modify or grow is OUTPUT_FILE.
+## Instructions
 
-* Read in this INPUT_GOALS_FILE.  That is the list of goals for the laws. THis is the primary charter and more definitive to the goals than any other file.
+1. Read INPUT_INVESTIGATION_FILE and INPUT_GOALS_FILE into context.
+2. For each of the 4 law directories, read the law file and reorder it to match the structure below.
+3. Do NOT change the content of the list items (1 to 207) or the legal sections themselves. Only change their ordering within each document.
+4. Write the reordered law back to the same file.
 
-Act as an attorney. Analyze if this law has any ways to be improved. 
+## Required Document Order (top to bottom)
 
-Act as an attorney. Review all 4 laws. There's the output_file.
- Build that if there are any areas where one of the laws is not compliant with the charter for the law. 
+For each law, arrange the sections in this order:
 
- Output as many as possible problems. That are materially important enough. Stack them by importance. Make sure each one is indicated and numbered. Indicate which law it's a problem with. Group them in sections by the law.
+1. **Title** -- The name of the law
+2. **Author / Sponsor** -- Who it's by
+3. **Introduction** -- The introductory paragraph explaining the law's purpose
+4. **Scope & Overview** -- The broad overview of what the law covers, including the umbrella categories and areas of investigation. This introduces and frames both the specific list and the broader mandate.
+5. **The List (Schedule A items)** -- The numbered items (1 to 207). This is the core of what citizens need to see: the specific things being demanded.
+6. **Legal Sections & Enforcement** -- All the legal plumbing: definitions, enforcement mechanisms, penalties, whistleblower protections, budget reductions, effective dates, cross-references, and other statutory provisions. Move these below the list.
 
-Do 20 equal signs. Make sure each one is on a line to be a separator between those four laws. Each section number the ones for that law where you're numbering the problems you're listing out that could and should be fixed in the law itself to be compliant with the goals file. Input_goals_file. 
+## Why This Order
 
-
-
-This prompt's goal is to change the ordering of the 4 laws. Not within that list (the 1 to 207 items), but putting the legal sections lower below it. To accomplish that goal when citizens read it to understand what it's accomplishing for the investigation and towards justice. 
-
-When it comes to ordering them, the key output documents. We want to have:
-- The title
-- Who it's by
-- The introduction paragraph
-When there are laws, we want to get that overview to introduce it and the scope. That will not just cover the list below but also broad umbrellas in those areas.
-Then it'll get to the section that has the list. When it comes to parts of the law, sections of it to do reinforcing, we'll put that underneath the list, so normally with that, so that the legal plumbing is below the list. We want to have it in that order so that non-lawyers, non-politicians can read it and understand what is being accomplished from a political goal, from a justice goal.
+Non-lawyers and non-politicians need to read the document and understand what is being accomplished from a political goal and a justice goal before hitting dense legal language. The list is the substance -- it shows what the law forces into the open. The legal reinforcement sections support that list but should not bury it.

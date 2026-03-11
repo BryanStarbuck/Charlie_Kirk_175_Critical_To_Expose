@@ -10,44 +10,6 @@ To require all United States Intelligence Community agencies to release all info
 
 **Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
 
-## Section 0: Congressional Findings
-
-The Congress finds the following:
-
-(a) **Constitutional Authority.** The Congress has authority to enact this legislation pursuant to Article I legislative and oversight powers over the Intelligence Community, the Spending Clause (Article I, Section 8, Clause 1) with respect to intelligence agency appropriations and state and local cooperation, and the Commerce Clause (Article I, Section 8, Clause 3) with respect to financial records and interstate and international communications.
-
-(b) **Inadequacy of Existing Investigations.** The investigation into the death of Charlie Kirk on September 10, 2025, at Utah Valley University in Orem, Utah, has been marked by significant deficiencies including: failure to investigate credible leads regarding foreign intelligence activity, including approximately 12 Israeli-registered cell phones detected at the shooting site, Egyptian military aircraft (SU-BTT, SU-BND) delivering personnel with Defense Attache badges to Provo Municipal Airport, a HADES surveillance aircraft (N1098L) circling 35 minutes before the shooting, Counter-UAS testing at Provo Airport from September 4-10, DoD contract N0016425PJ538 for miniaturized anti-personnel charges, and evidence of electronic signal jamming at the venue. The Intelligence Community has failed to disclose its knowledge of these activities or to conduct adequate counterintelligence assessments.
-
-(c) **Prior Disclosure Law Failures.** The JFK Assassination Records Collection Act of 1992 (Public Law 102-526) failed to achieve full disclosure because successive Presidents exercised override authority to withhold intelligence records for over 30 years, with the Intelligence Community exploiting classification authority to prevent public access. The Epstein Files Transparency Act (Public Law 119-38), while passing 427-1 in the House and by unanimous consent in the Senate, suffered compliance failures when intelligence-related records were withheld on sources and methods grounds without meaningful oversight. This Act is designed to remedy these structural deficiencies by narrowly defining permissible protections and establishing robust independent oversight.
-
-(d) **Public Interest in Transparency.** The public has a compelling interest in full disclosure of all intelligence records related to the death of Charlie Kirk, a prominent public figure killed in a public venue, where substantial evidence suggests foreign intelligence involvement and potential complicity by elements of the U.S. Intelligence Community. The integrity of the Intelligence Community and democratic governance depends upon transparency and accountability.
-
-## Section 1: Definitions
-
-(a) **"Intelligence Community agencies"** means all agencies and elements of the Intelligence Community as defined in 50 U.S.C. 3003(4), including but not limited to: the Central Intelligence Agency (CIA), the National Security Agency (NSA), the Defense Intelligence Agency (DIA), the National Reconnaissance Office (NRO), the National Geospatial-Intelligence Agency (NGA), intelligence elements of the Armed Forces (including Army Intelligence and Security Command, Naval Criminal Investigative Service, Air Force Office of Special Investigations), the FBI's intelligence division, the Department of Homeland Security's intelligence elements, the Office of the Director of National Intelligence (ODNI), the Department of Energy's intelligence element, the Department of Treasury's intelligence element, the Department of State's Bureau of Intelligence and Research (INR), and any other element of the United States government engaged in intelligence activities.
-
-(b) **"Covered information"** means any intelligence product, analysis, report, communication intercept, surveillance data, satellite imagery, signals intelligence, human intelligence reporting, assessment, cable traffic, or any other information, in any format, that could:
-   1. Identify or suggest the identity of any person involved in the death of Charlie Kirk
-   2. Provide context, motive, or operational details related to the death
-   3. Reveal any government awareness, foreknowledge, or involvement
-   4. Contradict or supplement the official investigation narrative
-   5. Relate to any foreign intelligence service activity in the State of Utah during the period January 1, 2025 through December 31, 2025
-   6. Relate to threats against Charlie Kirk or similarly situated public figures by any foreign or domestic entity
-   7. Relate to any of the specific items enumerated in Schedule A, including but not limited to: foreign aircraft activity (Items #1, #81-#86), Israeli cell phones at UVU (Items #26, #87-#91), electronic jamming (Item #11), drone and surveillance operations (Items #8, #9, #12, #15, #155-#160), foreign intelligence contacts with TPUSA personnel (Items #3-#4, #53, #161-#166), psychological operations (Item #38), and international liaison communications (Items #172-#176)
-   8. Relate to any aspect of the Charlie Kirk investigation, the prosecution of Tyler Robinson, or any matter that could help establish the full truth about the circumstances of Charlie Kirk's death
-
-(c) **"Final output information"** means the conclusions, assessments, and analytical products derived from intelligence activities, excluding only the specific identity of human intelligence sources and specific technical collection methods currently in active use.
-
-(d) **"People Involved"** or **"People Listed"** means the categories of persons defined in Schedule B of this Act, encompassing categories P1 through P35.
-
-(e) **"Designated Trusted Investigator"** means an investigator designated under the Charlie Kirk Trusted Investigators Act, if enacted; or, if such Act has not been enacted, any independent investigator appointed by the review board established under Section 9 of this Act.
-
-(f) **"Disclosure body"** means the independent review board established under Section 9 of this Act.
-
-(g) **"Death of Charlie Kirk"** means the killing of Charles J. Kirk on September 10, 2025, at Utah Valley University, Orem, Utah, and all events, planning, coordination, and circumstances leading to, surrounding, and following that event.
-
-(h) **"Investigation"** means any federal, state, or local law enforcement inquiry, intelligence assessment, counterintelligence investigation, congressional inquiry, or other governmental examination related to the death of Charlie Kirk, including but not limited to the criminal prosecution in *State of Utah v. Tyler Alexander Robinson* (Case No. 251403576, Fourth Judicial District Court, Utah County).
-
 ## Section 2: Broad Mandatory Disclosure
 
 (a) **Catch-All Requirement.** Within 30 days of enactment, all Intelligence Community agencies shall produce and make publicly available ALL final output information as defined in this Act. This requirement extends to any and all intelligence products, analyses, assessments, and information that could in any way assist in understanding the circumstances of Charlie Kirk's death. This requirement is not limited to the specific items enumerated in this Act or in Schedule A.
@@ -115,142 +77,6 @@ The Congress finds the following:
 (b) **Schedule A** shall be the document titled "Charlie Kirk 208 Critical Disclosure Items" as maintained at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, as of the date of enactment, incorporated by reference and attached as an appendix to this Act.
 
 (c) The specific enumeration does not limit the broad catch-all requirement. Both apply concurrently.
-
-## Section 4: Sources and Methods Protection
-
-(a) Agencies may redact ONLY the following from disclosed materials:
-   - The true identity of currently active human intelligence sources
-   - Specific technical collection methods currently in active operational use
-
-(b) All redactions must be:
-   - Individually justified in a classified annex provided to the congressional intelligence committees
-   - Subject to review by the independent review board established under this Act
-   - Accompanied by an unclassified summary of the substance of the redacted information
-
-(c) The substance and conclusions of any intelligence must be disclosed even if the source is protected. No redaction of sources shall be used to withhold the analytical conclusions derived from those sources.
-
-(d) No record shall be withheld on the basis of embarrassment, reputational harm, political sensitivity, or diplomatic relations with any foreign government.
-
-(e) **Declassification of Covered Information.** All classification markings on covered information are automatically removed upon enactment of this Act. No covered information may be reclassified after enactment. Covered agencies shall process declassification within the 30-day disclosure window. If an agency cannot complete declassification review within 30 days, the information shall be produced to the review board in classified form, with a public redacted version produced simultaneously, and the full unclassified version produced within 60 days.
-
-(f) No blanket exemptions or classifications shall be permitted.
-
-## Section 5: Criminal Prohibition on Obstruction
-
-(a) It shall be a federal crime, punishable by up to 10 years imprisonment, for any person employed by or acting on behalf of the United States Intelligence Community or any branch of the United States government to:
-   - Prevent, obstruct, or discourage any government employee from releasing covered information
-   - Order, direct, or pressure any person to withhold covered information
-   - Destroy, alter, or conceal covered information
-   - Classify or reclassify information for the purpose of preventing its disclosure under this Act
-   - Use the "sources and methods" exception to withhold analytical conclusions or final output information
-
-(b) This prohibition applies regardless of the rank, position, or security clearance of the person engaging in obstruction.
-
-(c) Attempted violations carry the same penalties as completed violations.
-
-(d) Any agency that fails to comply within the 30-day timeline shall be subject to the following: the relevant appropriations subcommittees are directed to reduce the non-compliant agency's discretionary intelligence funding by 10% per month of non-compliance, up to a maximum cumulative reduction of 50%. Funds specifically appropriated for compliance with this Act are exempt from such reductions. Reductions apply prospectively to new discretionary appropriations, not retroactively to already-obligated funds.
-
-(e) The DNI's failure to ensure compliance shall be grounds for contempt of Congress proceedings. Congress may proceed through civil contempt in federal court. Either chamber may retain independent counsel to prosecute the contempt. The review board may seek judicial enforcement directly.
-
-## Section 6: Records Preservation
-
-(a) Upon introduction of this bill, all Intelligence Community agencies shall immediately preserve all covered information and issue written preservation orders to all personnel with access to relevant systems.
-
-(b) It shall be a federal crime, punishable by up to 15 years imprisonment, to destroy, alter, conceal, or remove any covered information after the date this bill is introduced. Destruction of covered information after the date of introduction shall create an adverse inference in any proceeding under this Act that the destroyed records contained information favorable to full disclosure and adverse to the destroying agency's position. Existing federal law, including 18 U.S.C. 1519 (obstruction by destruction of records), applies independently to any pre-enactment destruction.
-
-(c) Each agency shall conduct a forensic audit of its classified and unclassified systems to verify no records have been deleted or altered after September 10, 2025.
-
-(d) Agencies that have destroyed records must provide a complete classified accounting to the congressional intelligence committees, including what was destroyed, when, by whom, and under whose authorization.
-
-## Section 7: Whistleblower Protections
-
-(a) Any employee of the United States government may submit covered information to the designated disclosure body, to any Designated Trusted Investigator under the Charlie Kirk Trusted Investigators Act, or to the congressional intelligence committees.
-
-(b) No person shall retaliate against, terminate, demote, reassign, revoke security clearance of, harass, or in any way persecute any government employee for disclosing information pursuant to this Act.
-
-(c) Security clearance revocation or any adverse personnel action taken against a disclosing employee within 2 years of disclosure shall create a rebuttable presumption of retaliation.
-
-(d) Violations carry criminal penalties of up to 5 years imprisonment, mandatory reinstatement, and civil liability including treble damages.
-
-(e) **NDA and Secrecy Agreement Override.** No non-disclosure agreement, confidentiality agreement, secrecy agreement, or similar contractual provision — whether entered into with a government agency or a private entity — shall be enforceable to the extent it would prohibit any person from disclosing information related to the death of Charlie Kirk to the review board, Congress, a Designated Trusted Investigator, law enforcement, or the public pursuant to this Act.
-
-(f) **Private Sector Whistleblower Protections.** The protections of subsections (b), (c), and (d) shall extend to any private sector employee, contractor, or agent who discloses information related to the death of Charlie Kirk pursuant to this Act. No employer may terminate, demote, harass, or otherwise retaliate against any person for making disclosures under this Act. This subsection is modeled on 18 U.S.C. 1514A (Sarbanes-Oxley whistleblower provisions) and shall be construed broadly to protect all persons who provide information.
-
-## Section 8: No Presidential Override
-
-(a) The President may not order, direct, or authorize the continued withholding of any covered information under this Act.
-
-(b) No executive order, presidential memorandum, classification decision, or other presidential directive may suspend, modify, or override the requirements of this Act.
-
-(c) Any assertion of executive privilege over covered information shall be submitted to the independent review board and reviewed by a federal court within 14 days. There shall be a presumption against privilege. The burden of proof shall be on the asserting party to demonstrate by clear and convincing evidence that disclosure would cause grave and imminent harm to an identified national security interest that outweighs the public interest in disclosure.
-
-(d) Any presidential delay of disclosure under subsection (c) shall not exceed 30 days beyond the statutory deadline without court approval.
-
-## Section 8A: Prohibition on Classification
-
-(a) No information related to the Charlie Kirk investigation may be classified, reclassified, or withheld under any classification authority if it pertains to, reveals, or suggests the involvement of, foreknowledge by, or connection to any of the following: any foreign country, any foreign intelligence service, any U.S. intelligence service (including but not limited to the CIA and NSA), the FBI, or any branch or component of the U.S. military. Any existing classification of such information is automatically void upon enactment. Any attempt to classify or reclassify such information constitutes obstruction under Section 5.
-
-## Section 9: Congressional Oversight
-
-(a) **Establishment and Appointment.** An independent review board of 5 members shall be established within 30 days of enactment to verify completeness of disclosures. Members shall be appointed as follows: 2 members by the Speaker of the House of Representatives, 2 members by the Senate Majority Leader, and 1 member by the Senate Minority Leader. Members shall have demonstrated expertise in law, intelligence oversight, national security, forensic investigation, or government accountability. Members shall serve for terms of 4 years and may be removed only for cause. A quorum of 3 members is required for official action. The board's functions are advisory, investigatory, and reporting in nature. The President shall have no role in appointing, confirming, or removing board members.
-
-(b) The review board shall:
-   1. Have full access to agency systems, databases, and files — including classified systems — to verify compliance
-   2. Have authority to compel production of additional records
-   3. Have subpoena power, including over private entities holding records described in Schedule A
-   4. Report to Congress monthly on compliance status
-   5. Publish public reports on its findings
-   6. Have authority to direct Intelligence Community agencies to pursue specific investigative leads or records production that the board determines have been neglected
-
-(c) The review board shall be permanent and shall continue to operate until it certifies that full compliance has been achieved.
-
-(d) Board members may not have been employed by any Intelligence Community agency or covered agency within the preceding 10 years.
-
-(e) **Special Master.** Upon a finding of non-compliance by any covered agency, any federal district court may appoint a Special Master with authority to: (1) access agency systems, databases, and physical storage facilities, including classified compartments; (2) compel production of specific records; (3) report directly to the court and the review board; and (4) be funded by the non-compliant agency's budget. The review board may petition any federal court for appointment of a Special Master without demonstrating individual standing.
-
-(f) Each of the 208 items in Schedule A that falls within intelligence jurisdiction shall be individually addressed in the compliance report with specific response.
-
-(g) Monthly compliance reports shall be provided to Congress.
-
-## Section 10: Private Right of Action
-
-(a) Any citizen of the United States may bring an action in the United States District Court for the District of Columbia to compel compliance with this Act, provided that: (1) the citizen has provided 60 days' written notice to the non-compliant agency and the Director of National Intelligence specifying the alleged non-compliance; (2) the 30-day disclosure deadline under Section 2 has passed; and (3) the alleged non-compliance has not been fully remedied during the notice period. The injury cognizable under this section is the denial of the statutory right to receive covered information disclosed under this Act.
-
-(b) Courts shall apply a presumption in favor of disclosure in any proceeding under this Act.
-
-(c) Prevailing plaintiffs shall receive reasonable attorney's fees and costs.
-
-(d) Courts may dismiss claims that are frivolous or filed in bad faith, with sanctions available under Federal Rule of Civil Procedure 11.
-
-## Section 10A: Report to Congress
-
-(a) Not later than 15 days after completion of the release required under Section 2, the Director of National Intelligence shall submit to the congressional intelligence committees a report containing:
-   1. All categories of information released and withheld
-   2. A summary of redactions made, including the legal basis for each
-   3. A list of all government officials and foreign government officials named or referenced in the released materials, with no redactions permitted
-   4. Certification that all 208 Schedule A items have been fully addressed, with specific response to each item
-
-## Section 11: Authorization of Appropriations
-
-(a) There is authorized to be appropriated $10,000,000 annually for the operations of the independent review board established under Section 9, including staff, forensic auditors, legal counsel, and administrative costs.
-
-(b) There is authorized to be appropriated such sums as may be necessary for covered agencies to comply with the disclosure requirements of this Act.
-
-(c) Funds appropriated under this section shall be available immediately upon enactment and shall remain available until expended.
-
-## Section 12: Severability
-
-If any provision of this Act, or the application thereof to any person or circumstance, is held invalid by a court of competent jurisdiction, the remainder of this Act and the application of such provision to other persons or circumstances shall not be affected thereby.
-
-## Section 12A: State and Local Cooperation
-
-(a) Any state or local agency that possesses intelligence-related covered information shall produce such information within 30 days of enactment.
-
-(b) The DNI shall notify all relevant state and local agencies of their obligations under this Act within 7 days of enactment.
-
-## Section 13: Effective Date
-
-This Act shall take effect immediately upon enactment. All criminal penalties under this Act apply prospectively from the date of enactment. Records preservation requirements (Section 6) take effect upon introduction of this bill, with enforcement as provided in Section 6(b).
 
 ---
 
@@ -837,6 +663,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 * #208: Non-Traditional Weapon or "Camera Gun" Theory: Include all FBI and law enforcement investigation into the theory that a non-traditional weapon — including but not limited to a "camera gun" or other weapon disguised as event equipment (camera, microphone, lighting, AV gear) — was used in the assassination. Include all forensic analysis of any event equipment that could have been modified to conceal or function as a weapon, all records of any unusual or unregistered equipment brought to the UVU event, and all investigation into whether any device other than the Mauser Model 98 rifle was used to fire a projectile on September 10, 2025.
 
+
 ---
 
 ## Schedule B: List of People
@@ -918,6 +745,182 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 ---
 
 Each item in Schedule A is individually mandated for complete disclosure. Partial compliance with Schedule A does not constitute compliance with this Act.
+
+
+## Section 0: Congressional Findings
+
+The Congress finds the following:
+
+(a) **Constitutional Authority.** The Congress has authority to enact this legislation pursuant to Article I legislative and oversight powers over the Intelligence Community, the Spending Clause (Article I, Section 8, Clause 1) with respect to intelligence agency appropriations and state and local cooperation, and the Commerce Clause (Article I, Section 8, Clause 3) with respect to financial records and interstate and international communications.
+
+(b) **Inadequacy of Existing Investigations.** The investigation into the death of Charlie Kirk on September 10, 2025, at Utah Valley University in Orem, Utah, has been marked by significant deficiencies including: failure to investigate credible leads regarding foreign intelligence activity, including approximately 12 Israeli-registered cell phones detected at the shooting site, Egyptian military aircraft (SU-BTT, SU-BND) delivering personnel with Defense Attache badges to Provo Municipal Airport, a HADES surveillance aircraft (N1098L) circling 35 minutes before the shooting, Counter-UAS testing at Provo Airport from September 4-10, DoD contract N0016425PJ538 for miniaturized anti-personnel charges, and evidence of electronic signal jamming at the venue. The Intelligence Community has failed to disclose its knowledge of these activities or to conduct adequate counterintelligence assessments.
+
+(c) **Prior Disclosure Law Failures.** The JFK Assassination Records Collection Act of 1992 (Public Law 102-526) failed to achieve full disclosure because successive Presidents exercised override authority to withhold intelligence records for over 30 years, with the Intelligence Community exploiting classification authority to prevent public access. The Epstein Files Transparency Act (Public Law 119-38), while passing 427-1 in the House and by unanimous consent in the Senate, suffered compliance failures when intelligence-related records were withheld on sources and methods grounds without meaningful oversight. This Act is designed to remedy these structural deficiencies by narrowly defining permissible protections and establishing robust independent oversight.
+
+(d) **Public Interest in Transparency.** The public has a compelling interest in full disclosure of all intelligence records related to the death of Charlie Kirk, a prominent public figure killed in a public venue, where substantial evidence suggests foreign intelligence involvement and potential complicity by elements of the U.S. Intelligence Community. The integrity of the Intelligence Community and democratic governance depends upon transparency and accountability.
+
+## Section 1: Definitions
+
+(a) **"Intelligence Community agencies"** means all agencies and elements of the Intelligence Community as defined in 50 U.S.C. 3003(4), including but not limited to: the Central Intelligence Agency (CIA), the National Security Agency (NSA), the Defense Intelligence Agency (DIA), the National Reconnaissance Office (NRO), the National Geospatial-Intelligence Agency (NGA), intelligence elements of the Armed Forces (including Army Intelligence and Security Command, Naval Criminal Investigative Service, Air Force Office of Special Investigations), the FBI's intelligence division, the Department of Homeland Security's intelligence elements, the Office of the Director of National Intelligence (ODNI), the Department of Energy's intelligence element, the Department of Treasury's intelligence element, the Department of State's Bureau of Intelligence and Research (INR), and any other element of the United States government engaged in intelligence activities.
+
+(b) **"Covered information"** means any intelligence product, analysis, report, communication intercept, surveillance data, satellite imagery, signals intelligence, human intelligence reporting, assessment, cable traffic, or any other information, in any format, that could:
+   1. Identify or suggest the identity of any person involved in the death of Charlie Kirk
+   2. Provide context, motive, or operational details related to the death
+   3. Reveal any government awareness, foreknowledge, or involvement
+   4. Contradict or supplement the official investigation narrative
+   5. Relate to any foreign intelligence service activity in the State of Utah during the period January 1, 2025 through December 31, 2025
+   6. Relate to threats against Charlie Kirk or similarly situated public figures by any foreign or domestic entity
+   7. Relate to any of the specific items enumerated in Schedule A, including but not limited to: foreign aircraft activity (Items #1, #81-#86), Israeli cell phones at UVU (Items #26, #87-#91), electronic jamming (Item #11), drone and surveillance operations (Items #8, #9, #12, #15, #155-#160), foreign intelligence contacts with TPUSA personnel (Items #3-#4, #53, #161-#166), psychological operations (Item #38), and international liaison communications (Items #172-#176)
+   8. Relate to any aspect of the Charlie Kirk investigation, the prosecution of Tyler Robinson, or any matter that could help establish the full truth about the circumstances of Charlie Kirk's death
+
+(c) **"Final output information"** means the conclusions, assessments, and analytical products derived from intelligence activities, excluding only the specific identity of human intelligence sources and specific technical collection methods currently in active use.
+
+(d) **"People Involved"** or **"People Listed"** means the categories of persons defined in Schedule B of this Act, encompassing categories P1 through P35.
+
+(e) **"Designated Trusted Investigator"** means an investigator designated under the Charlie Kirk Trusted Investigators Act, if enacted; or, if such Act has not been enacted, any independent investigator appointed by the review board established under Section 9 of this Act.
+
+(f) **"Disclosure body"** means the independent review board established under Section 9 of this Act.
+
+(g) **"Death of Charlie Kirk"** means the killing of Charles J. Kirk on September 10, 2025, at Utah Valley University, Orem, Utah, and all events, planning, coordination, and circumstances leading to, surrounding, and following that event.
+
+(h) **"Investigation"** means any federal, state, or local law enforcement inquiry, intelligence assessment, counterintelligence investigation, congressional inquiry, or other governmental examination related to the death of Charlie Kirk, including but not limited to the criminal prosecution in *State of Utah v. Tyler Alexander Robinson* (Case No. 251403576, Fourth Judicial District Court, Utah County).
+
+## Section 4: Sources and Methods Protection
+
+(a) Agencies may redact ONLY the following from disclosed materials:
+   - The true identity of currently active human intelligence sources
+   - Specific technical collection methods currently in active operational use
+
+(b) All redactions must be:
+   - Individually justified in a classified annex provided to the congressional intelligence committees
+   - Subject to review by the independent review board established under this Act
+   - Accompanied by an unclassified summary of the substance of the redacted information
+
+(c) The substance and conclusions of any intelligence must be disclosed even if the source is protected. No redaction of sources shall be used to withhold the analytical conclusions derived from those sources.
+
+(d) No record shall be withheld on the basis of embarrassment, reputational harm, political sensitivity, or diplomatic relations with any foreign government.
+
+(e) **Declassification of Covered Information.** All classification markings on covered information are automatically removed upon enactment of this Act. No covered information may be reclassified after enactment. Covered agencies shall process declassification within the 30-day disclosure window. If an agency cannot complete declassification review within 30 days, the information shall be produced to the review board in classified form, with a public redacted version produced simultaneously, and the full unclassified version produced within 60 days.
+
+(f) No blanket exemptions or classifications shall be permitted.
+
+## Section 5: Criminal Prohibition on Obstruction
+
+(a) It shall be a federal crime, punishable by up to 10 years imprisonment, for any person employed by or acting on behalf of the United States Intelligence Community or any branch of the United States government to:
+   - Prevent, obstruct, or discourage any government employee from releasing covered information
+   - Order, direct, or pressure any person to withhold covered information
+   - Destroy, alter, or conceal covered information
+   - Classify or reclassify information for the purpose of preventing its disclosure under this Act
+   - Use the "sources and methods" exception to withhold analytical conclusions or final output information
+
+(b) This prohibition applies regardless of the rank, position, or security clearance of the person engaging in obstruction.
+
+(c) Attempted violations carry the same penalties as completed violations.
+
+(d) Any agency that fails to comply within the 30-day timeline shall be subject to the following: the relevant appropriations subcommittees are directed to reduce the non-compliant agency's discretionary intelligence funding by 10% per month of non-compliance, up to a maximum cumulative reduction of 50%. Funds specifically appropriated for compliance with this Act are exempt from such reductions. Reductions apply prospectively to new discretionary appropriations, not retroactively to already-obligated funds.
+
+(e) The DNI's failure to ensure compliance shall be grounds for contempt of Congress proceedings. Congress may proceed through civil contempt in federal court. Either chamber may retain independent counsel to prosecute the contempt. The review board may seek judicial enforcement directly.
+
+## Section 6: Records Preservation
+
+(a) Upon introduction of this bill, all Intelligence Community agencies shall immediately preserve all covered information and issue written preservation orders to all personnel with access to relevant systems.
+
+(b) It shall be a federal crime, punishable by up to 15 years imprisonment, to destroy, alter, conceal, or remove any covered information after the date this bill is introduced. Destruction of covered information after the date of introduction shall create an adverse inference in any proceeding under this Act that the destroyed records contained information favorable to full disclosure and adverse to the destroying agency's position. Existing federal law, including 18 U.S.C. 1519 (obstruction by destruction of records), applies independently to any pre-enactment destruction.
+
+(c) Each agency shall conduct a forensic audit of its classified and unclassified systems to verify no records have been deleted or altered after September 10, 2025.
+
+(d) Agencies that have destroyed records must provide a complete classified accounting to the congressional intelligence committees, including what was destroyed, when, by whom, and under whose authorization.
+
+## Section 7: Whistleblower Protections
+
+(a) Any employee of the United States government may submit covered information to the designated disclosure body, to any Designated Trusted Investigator under the Charlie Kirk Trusted Investigators Act, or to the congressional intelligence committees.
+
+(b) No person shall retaliate against, terminate, demote, reassign, revoke security clearance of, harass, or in any way persecute any government employee for disclosing information pursuant to this Act.
+
+(c) Security clearance revocation or any adverse personnel action taken against a disclosing employee within 2 years of disclosure shall create a rebuttable presumption of retaliation.
+
+(d) Violations carry criminal penalties of up to 5 years imprisonment, mandatory reinstatement, and civil liability including treble damages.
+
+(e) **NDA and Secrecy Agreement Override.** No non-disclosure agreement, confidentiality agreement, secrecy agreement, or similar contractual provision — whether entered into with a government agency or a private entity — shall be enforceable to the extent it would prohibit any person from disclosing information related to the death of Charlie Kirk to the review board, Congress, a Designated Trusted Investigator, law enforcement, or the public pursuant to this Act.
+
+(f) **Private Sector Whistleblower Protections.** The protections of subsections (b), (c), and (d) shall extend to any private sector employee, contractor, or agent who discloses information related to the death of Charlie Kirk pursuant to this Act. No employer may terminate, demote, harass, or otherwise retaliate against any person for making disclosures under this Act. This subsection is modeled on 18 U.S.C. 1514A (Sarbanes-Oxley whistleblower provisions) and shall be construed broadly to protect all persons who provide information.
+
+## Section 8: No Presidential Override
+
+(a) The President may not order, direct, or authorize the continued withholding of any covered information under this Act.
+
+(b) No executive order, presidential memorandum, classification decision, or other presidential directive may suspend, modify, or override the requirements of this Act.
+
+(c) Any assertion of executive privilege over covered information shall be submitted to the independent review board and reviewed by a federal court within 14 days. There shall be a presumption against privilege. The burden of proof shall be on the asserting party to demonstrate by clear and convincing evidence that disclosure would cause grave and imminent harm to an identified national security interest that outweighs the public interest in disclosure.
+
+(d) Any presidential delay of disclosure under subsection (c) shall not exceed 30 days beyond the statutory deadline without court approval.
+
+## Section 8A: Prohibition on Classification
+
+(a) No information related to the Charlie Kirk investigation may be classified, reclassified, or withheld under any classification authority if it pertains to, reveals, or suggests the involvement of, foreknowledge by, or connection to any of the following: any foreign country, any foreign intelligence service, any U.S. intelligence service (including but not limited to the CIA and NSA), the FBI, or any branch or component of the U.S. military. Any existing classification of such information is automatically void upon enactment. Any attempt to classify or reclassify such information constitutes obstruction under Section 5.
+
+## Section 9: Congressional Oversight
+
+(a) **Establishment and Appointment.** An independent review board of 5 members shall be established within 30 days of enactment to verify completeness of disclosures. Members shall be appointed as follows: 2 members by the Speaker of the House of Representatives, 2 members by the Senate Majority Leader, and 1 member by the Senate Minority Leader. Members shall have demonstrated expertise in law, intelligence oversight, national security, forensic investigation, or government accountability. Members shall serve for terms of 4 years and may be removed only for cause. A quorum of 3 members is required for official action. The board's functions are advisory, investigatory, and reporting in nature. The President shall have no role in appointing, confirming, or removing board members.
+
+(b) The review board shall:
+   1. Have full access to agency systems, databases, and files — including classified systems — to verify compliance
+   2. Have authority to compel production of additional records
+   3. Have subpoena power, including over private entities holding records described in Schedule A
+   4. Report to Congress monthly on compliance status
+   5. Publish public reports on its findings
+   6. Have authority to direct Intelligence Community agencies to pursue specific investigative leads or records production that the board determines have been neglected
+
+(c) The review board shall be permanent and shall continue to operate until it certifies that full compliance has been achieved.
+
+(d) Board members may not have been employed by any Intelligence Community agency or covered agency within the preceding 10 years.
+
+(e) **Special Master.** Upon a finding of non-compliance by any covered agency, any federal district court may appoint a Special Master with authority to: (1) access agency systems, databases, and physical storage facilities, including classified compartments; (2) compel production of specific records; (3) report directly to the court and the review board; and (4) be funded by the non-compliant agency's budget. The review board may petition any federal court for appointment of a Special Master without demonstrating individual standing.
+
+(f) Each of the 208 items in Schedule A that falls within intelligence jurisdiction shall be individually addressed in the compliance report with specific response.
+
+(g) Monthly compliance reports shall be provided to Congress.
+
+## Section 10: Private Right of Action
+
+(a) Any citizen of the United States may bring an action in the United States District Court for the District of Columbia to compel compliance with this Act, provided that: (1) the citizen has provided 60 days' written notice to the non-compliant agency and the Director of National Intelligence specifying the alleged non-compliance; (2) the 30-day disclosure deadline under Section 2 has passed; and (3) the alleged non-compliance has not been fully remedied during the notice period. The injury cognizable under this section is the denial of the statutory right to receive covered information disclosed under this Act.
+
+(b) Courts shall apply a presumption in favor of disclosure in any proceeding under this Act.
+
+(c) Prevailing plaintiffs shall receive reasonable attorney's fees and costs.
+
+(d) Courts may dismiss claims that are frivolous or filed in bad faith, with sanctions available under Federal Rule of Civil Procedure 11.
+
+## Section 10A: Report to Congress
+
+(a) Not later than 15 days after completion of the release required under Section 2, the Director of National Intelligence shall submit to the congressional intelligence committees a report containing:
+   1. All categories of information released and withheld
+   2. A summary of redactions made, including the legal basis for each
+   3. A list of all government officials and foreign government officials named or referenced in the released materials, with no redactions permitted
+   4. Certification that all 208 Schedule A items have been fully addressed, with specific response to each item
+
+## Section 11: Authorization of Appropriations
+
+(a) There is authorized to be appropriated $10,000,000 annually for the operations of the independent review board established under Section 9, including staff, forensic auditors, legal counsel, and administrative costs.
+
+(b) There is authorized to be appropriated such sums as may be necessary for covered agencies to comply with the disclosure requirements of this Act.
+
+(c) Funds appropriated under this section shall be available immediately upon enactment and shall remain available until expended.
+
+## Section 12: Severability
+
+If any provision of this Act, or the application thereof to any person or circumstance, is held invalid by a court of competent jurisdiction, the remainder of this Act and the application of such provision to other persons or circumstances shall not be affected thereby.
+
+## Section 12A: State and Local Cooperation
+
+(a) Any state or local agency that possesses intelligence-related covered information shall produce such information within 30 days of enactment.
+
+(b) The DNI shall notify all relevant state and local agencies of their obligations under this Act within 7 days of enactment.
+
+## Section 13: Effective Date
+
+This Act shall take effect immediately upon enactment. All criminal penalties under this Act apply prospectively from the date of enactment. Records preservation requirements (Section 6) take effect upon introduction of this bill, with enforcement as provided in Section 6(b).
+
 
 ---
 
