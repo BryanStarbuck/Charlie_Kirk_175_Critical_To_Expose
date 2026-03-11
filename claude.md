@@ -41,34 +41,21 @@ Establishes independent investigation teams led by three Designated Trusted Inve
 - **original/README.md**: The original 175-item list as initially drafted by Bryan Starbuck.
 - **Each law directory contains a `more/` subdirectory** with Human_Requirements.md (the plain-language intent), Notes_{law}.md (legal research, precedent analysis, pros/cons), and Output_Analysis.md.
 
-## The 175 Discovery Items (Schedule A Categories)
 
-The 175 items are organized into these categories:
-- **#1-#56**: Intelligence Service Discovery (foreign aircraft, Israeli cell phones, surveillance planes, electronic jamming, drones, foreign intelligence contacts, DoD contracts, pre-planning meetings, TPUSA security, financial connections, psychological operations, cover-up evidence)
-- **#57-#61**: FBI 302 Reports
-- **#62-#66**: FBI Counterintelligence
-- **#67-#73**: Cell Phone Data
-- **#74-#80**: Airport/CBP Records
-- **#81-#86**: Egyptian Planes
-- **#87-#91**: Israeli Cell Phones
-- **#92-#97**: Provo Airport
-- **#98-#104**: Financial Records
-- **#105-#112**: Chain of Custody
-- **#113-#117**: Threat Assessments
-- **#118-#123**: Surveillance Footage
-- **#124-#129**: Rental Car Records
-- **#130-#134**: Hotel Records
-- **#135-#140**: Digital Forensics
-- **#141-#147**: Ballistics
-- **#148-#154**: Distraction People
-- **#155-#159**: Drones
-- **#160-#165**: TPUSA Intel
-- **#166-#170**: Autopsy/Medical
-- **#171-#175**: International Liaison
 
-## Key Investigative Theories
+The output product is the Four Laws and the Discovery document. 
 
-The project explores several theories that the 175 items are designed to investigate:
+In the key output documents, we have this disclaimer. It often appears at the start and then appears at the 25%, 50%, and 75% mark in the key output documents. In between, it is a natural fit as different sections wrap up and another one is going to start. That's to make sure we get out of any defamation problems. 
+
+When it comes to ordering them, the key output documents. We want to have:
+- The title
+- Who it's by
+- The introduction paragraph
+When there are laws, we want to get that overview to introduce it and the scope. That will not just cover the list below but also broad umbrellas in those areas.
+Then it'll get to the section that has the list. When it comes to parts of the law, sections of it to do reinforcing, we'll put that underneath the list, so normally with that, so that the legal plumbing is below the list. We want to have it in that order so that non-lawyers, non-politicians can read it and understand what is being accomplished from a political goal, from a justice goal.
+
+
+
 
 1. **Exploding Microphone Theory**: A DoD contract (N0016425PJ538) for miniaturized anti-personnel charges, a flight from Heber City to Nashville near the AES facility, and the AES factory explosion on October 10, 2025 (killing 16 employees) that may have destroyed evidence.
 
