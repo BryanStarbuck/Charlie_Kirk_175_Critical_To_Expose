@@ -14,7 +14,7 @@ To establish independent investigation teams led by designated trusted public fi
 
 The Congress finds the following:
 
-(a) **Constitutional Authority.** The Congress has authority to enact this legislation pursuant to Article I legislative and oversight powers, the Necessary and Proper Clause (Article I, Section 8, Clause 18), and the inherent power of Congress to investigate matters of public concern and ensure government accountability.
+(a) **Constitutional Authority.** The Congress has authority to enact this legislation pursuant to Article I legislative and oversight powers, the Necessary and Proper Clause (Article I, Section 8, Clause 18), the Spending Clause (Article I, Section 8, Clause 1) with respect to state and local cooperation, the Commerce Clause (Article I, Section 8, Clause 3) with respect to financial records and interstate communications, and the inherent power of Congress to investigate matters of public concern and ensure government accountability.
 
 (b) **Inadequacy of Existing Investigations.** The investigation into the death of Charlie Kirk on September 10, 2025, at Utah Valley University in Orem, Utah, has been marked by significant deficiencies including: allegations of evidence destruction, crime scene alteration, witness intimidation, blocked FOIA requests, and failure to investigate credible leads regarding foreign intelligence activity, including approximately 12 Israeli-registered cell phones detected at the shooting site, Egyptian military aircraft delivering personnel with Defense Attache badges to Provo Municipal Airport, and a HADES surveillance aircraft circling 35 minutes before the shooting.
 
@@ -762,7 +762,9 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 (i) **"Disclosure body"** means the review board established under the Charlie Kirk Files Forced Disclosure Act (Law 1), if enacted, or any Designated Trusted Investigator under this Act.
 
-(j) **"Covered records"** or **"Covered information"** means any and all files, documents, communications, reports, forensic evidence, witness statements, surveillance records, digital records, photographs, video recordings, audio recordings, cell site location information, geofence warrant data, flight records, financial records, ballistics analyses, autopsy reports, crime scene evidence, and any other information, in any format, that is related to or could reasonably assist in understanding the circumstances of the death of Charlie Kirk, including but not limited to:
+(j) **"Good-faith compliance"** means the genuine and diligent effort to identify, locate, and provide every covered record, cooperate fully with investigation teams, and facilitate the work of Designated Trusted Investigators without evasion, delay, or use of technicalities to withhold material information or obstruct investigative access.
+
+(k) **"Covered records"** or **"Covered information"** means any and all files, documents, communications, reports, forensic evidence, witness statements, surveillance records, digital records, photographs, video recordings, audio recordings, cell site location information, geofence warrant data, flight records, financial records, ballistics analyses, autopsy reports, crime scene evidence, and any other information, in any format, that is related to or could reasonably assist in understanding the circumstances of the death of Charlie Kirk, including but not limited to:
    1. All records specifically enumerated in Schedule A (208 Critical Disclosure Items)
    2. Any records that could identify or suggest the identity of any person involved in, connected to, or with knowledge of the death
    3. Any records relating to foreign intelligence service activity in the State of Utah during the period January 1, 2025 through December 31, 2025
@@ -772,7 +774,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
    7. Any internal communications regarding the investigation, including charging decisions, case strategy, investigative priorities, and decisions regarding what information to withhold from defense counsel or the public
    8. Any records relating to evidence collection, preservation, alteration, or destruction at the crime scene or any related location
 
-(k) **"Covered agencies"** means all agencies covered by the Charlie Kirk Files Forced Disclosure Act (Law 1) and the Charlie Kirk Intelligence Services Disclosure Act (Law 2), including but not limited to: the Department of Justice, the Federal Bureau of Investigation, the Bureau of Alcohol, Tobacco, Firearms and Explosives, U.S. Customs and Border Protection, the Transportation Security Administration, the Department of Homeland Security, the Financial Crimes Enforcement Network, the Central Intelligence Agency, the National Security Agency, the Defense Intelligence Agency, the National Reconnaissance Office, the National Geospatial-Intelligence Agency, the Office of the Director of National Intelligence, all armed forces intelligence components, and any federal, state, or local agency that has participated in, contributed to, or possesses information related to the investigation.
+(l) **"Covered agencies"** means all agencies covered by the Charlie Kirk Files Forced Disclosure Act (Law 1) and the Charlie Kirk Intelligence Services Disclosure Act (Law 2), including but not limited to: the Department of Justice, the Federal Bureau of Investigation, the Bureau of Alcohol, Tobacco, Firearms and Explosives, U.S. Customs and Border Protection, the Transportation Security Administration, the Department of Homeland Security, the Financial Crimes Enforcement Network, the Central Intelligence Agency, the National Security Agency, the Defense Intelligence Agency, the National Reconnaissance Office, the National Geospatial-Intelligence Agency, the Office of the Director of National Intelligence, all armed forces intelligence components, and any federal, state, or local agency that has participated in, contributed to, or possesses information related to the investigation.
 
 ## Section 2: Establishment of Investigation Teams
 
@@ -808,7 +810,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 (a) Upon introduction of this bill, all covered agencies shall immediately preserve all covered records and issue written preservation orders to all personnel. This preservation duty is enforceable upon enactment.
 
-(b) Upon enactment, any person who destroyed, altered, concealed, or removed any covered record after the date this bill was introduced in Congress shall be subject to criminal prosecution and imprisonment of up to 15 years. Destruction of covered records after the date of introduction shall create an adverse inference in any proceeding under this Act that the destroyed records contained information favorable to full disclosure and adverse to the destroying agency's position.
+(b) Upon enactment, any person who destroyed, altered, concealed, or removed any covered record after the date this bill was introduced in Congress shall be subject to criminal prosecution and imprisonment of up to 15 years. Destruction of covered records after the date of introduction shall create an adverse inference in any proceeding under this Act that the destroyed records contained information favorable to full disclosure and adverse to the destroying agency's position. Existing federal law, including 18 U.S.C. 1519 (obstruction by destruction of records), applies independently to any pre-enactment destruction.
 
 (c) Each covered agency shall conduct a digital forensic audit of its document management systems to verify that no records have been deleted, altered, or moved after September 10, 2025, and shall provide the audit results to each Designated Trusted Investigator and to Congress.
 
@@ -826,13 +828,40 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
    - Authority to conduct forensic audits of agency document management systems
    - Independent office space and secure communications
    - Authority to engage independent forensic experts, ballistics experts, explosives experts, audio/video analysts, and any other specialists
+   - Independent subpoena power over private entities for any records described in Schedule A, including but not limited to TPUSA, Mosaic Pro Events, rental car companies, hotels, Accurate Energetic Systems (AES), banks, telecommunications providers, and any other entity in possession of relevant records
 
-(b) No person or agency may:
+(b) **Compulsory Process for Private Entity Records.** Each Designated Trusted Investigator shall have authority to issue subpoenas for all records described in Schedule A that are held by private entities. Any private entity that destroys, alters, or conceals records after receiving a subpoena under this subsection shall be subject to the same criminal penalties as government agencies under Section 7.
+
+(c) No person or agency may:
    - Deny access to any information, facility, or system
    - Direct, limit, or influence the scope or direction of the investigation
    - Require approval from any agency official for any investigative action
    - Monitor, surveil, or interfere with team communications
    - Withhold any record on the basis of classification, privilege, or any other exemption (subject only to the narrow source protection in Section 5(b))
+
+## Section 4A: Prohibited Grounds for Withholding from Investigation Teams
+
+(a) No record shall be withheld, delayed, or redacted from any Designated Trusted Investigator or investigation team on the basis of:
+   1. Embarrassment, reputational harm, or political sensitivity to any government official, public figure, or foreign dignitary
+   2. Any ongoing investigation (except as narrowly provided below)
+   3. Executive privilege
+   4. Deliberative process privilege
+   5. Law enforcement privilege
+   6. Any claim that records were "lost," "destroyed," or "cannot be located" without forensic verification
+
+(b) **Narrow Permitted Redactions.** The only permissible redactions from records provided to investigation teams are:
+   1. Names of confidential human sources currently active in unrelated ongoing investigations where disclosure would create an imminent threat to life
+   2. Child sexual abuse material as defined under 18 U.S.C. Section 2256
+
+(c) All redactions must be:
+   1. Individually justified in writing to the relevant Designated Trusted Investigator
+   2. Published in the Federal Register
+   3. Submitted to the Judiciary Committees of both houses of Congress
+   4. Subject to judicial review upon challenge by any Designated Trusted Investigator, any party, or any citizen under Section 10C
+
+(d) No blanket exemptions or classifications shall be permitted.
+
+(e) **Declassification of Covered Records.** All classification markings on covered records are automatically removed upon enactment of this Act. No covered record may be reclassified after enactment. Covered agencies shall process declassification within 30 days. Classification shall not excuse non-production to investigation teams; if an agency cannot complete declassification review within 30 days, the record shall be produced to the Designated Trusted Investigator in classified form immediately, with a public version produced within 60 days.
 
 ## Section 5: Public Release of Findings
 
@@ -850,7 +879,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 (f) Each Designated Trusted Investigator may publicly address any and all items in Schedule A, reporting what they have found, what remains unresolved, and what obstruction they have encountered.
 
-## Section 7: Non-Interference
+## Section 7: Non-Interference and Penalties for Non-Compliance
 
 (a) It shall be a federal crime, punishable by up to 15 years imprisonment, for any person to:
    - Obstruct, impede, or interfere with any investigation team
@@ -861,9 +890,17 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 (b) Attempted violations carry the same penalties as completed violations.
 
+(c) **Budget Reductions for Non-Compliance.** Any agency that fails to provide access, records, or cooperation required under this Act within the timelines specified shall be subject to the following: the relevant appropriations subcommittees are directed to reduce the non-compliant agency's discretionary funding by 10% per month of non-compliance, up to a maximum cumulative reduction of 50%. Funds specifically appropriated for compliance with this Act are exempt from such reductions. Reductions apply prospectively to new discretionary appropriations, not retroactively to already-obligated funds.
+
+(d) **Perjury.** Certification under penalty of perjury that all records have been produced or that full cooperation has been provided, when records are later found to have been withheld or cooperation was obstructed, constitutes perjury and is subject to prosecution under 18 U.S.C. Section 1621.
+
+(e) **Contempt of Congress.** The failure of any agency head to comply with this Act shall be grounds for contempt of Congress proceedings. Congress may proceed through civil contempt in federal court, bypassing the requirement of referral to the U.S. Attorney for the District of Columbia. Either chamber may retain independent counsel to prosecute the contempt. Any Designated Trusted Investigator may petition Congress to initiate contempt proceedings based on documented non-compliance.
+
+(f) **Agency Conflict of Interest.** If any Designated Trusted Investigator finds evidence that a covered agency was itself involved in the death of Charlie Kirk — including allegations of evidence destruction, witness intimidation, obstruction, or operational participation — the Designated Trusted Investigator shall have authority to: (1) refer the matter to a court-appointed Special Master; (2) request transfer of investigation authority to an independent congressional commission; and (3) publicly disclose the conflict of interest. The implicated agency shall recuse from all decisions affecting the investigation. The Designated Trusted Investigator, not the agency, shall have final authority regarding investigative access and direction within the scope of the conflict.
+
 ## Section 8: Whistleblower Channel
 
-(a) Any government employee may submit information, documents, or evidence directly to any Designated Trusted Investigator or investigation team for public disclosure.
+(a) Any government employee may submit information, documents, or evidence directly to any Designated Trusted Investigator, any investigation team, the disclosure body established under Law 1, or directly to the public.
 
 (b) It shall be unlawful for any supervisor, manager, agency head, or any other person to retaliate against, terminate, demote, reassign, harass, revoke security clearance of, or in any way persecute any government employee for:
    - Submitting information to an investigation team
@@ -885,6 +922,16 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 (b) No covered agency may conduct surveillance of, attempt to monitor, or gather intelligence on any Designated Trusted Investigator or their family members.
 
 (c) Violations of this section constitute a federal crime punishable by up to 10 years imprisonment.
+
+## Section 9A: Independent Oversight and Special Master
+
+(a) **Coordination with Review Board.** The independent review board established under Section 8 of the Charlie Kirk Files Forced Disclosure Act (Law 1), if enacted, shall have authority to receive and act upon reports from Designated Trusted Investigators regarding agency non-compliance, obstruction, or conflicts of interest.
+
+(b) **Special Master.** Upon a finding of non-compliance or obstruction by any covered agency documented by any Designated Trusted Investigator, any federal district court may appoint a Special Master with authority to: (1) access agency systems, databases, and physical storage facilities; (2) compel production of specific records to investigation teams; (3) report directly to the court, the review board, and the affected Designated Trusted Investigator; and (4) be funded by the non-compliant agency's budget.
+
+(c) Any Designated Trusted Investigator may petition any federal court for appointment of a Special Master without demonstrating individual standing. The petition shall include documentation of the non-compliance or obstruction encountered.
+
+(d) The Special Master shall have authority to impose daily fines of up to $100,000 on non-compliant agencies until compliance is achieved.
 
 ## Section 10: Succession
 
@@ -909,19 +956,23 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 ## Section 10B: No Presidential Override
 
-(a) The President may not terminate, limit, suspend, or interfere with any investigation conducted under this Act or the authority of any Designated Trusted Investigator.
+(a) **Congressional Finding of Compelling Interest.** Congress finds that the compelling public interest in a thorough, independent investigation into the death of Charlie Kirk, as established in Section 0, overcomes any claim of executive privilege with respect to covered records or the authority of Designated Trusted Investigators.
 
-(b) No executive order, presidential memorandum, or other presidential directive may suspend, override, or modify the requirements of this Act.
+(b) The President may not terminate, limit, suspend, or interfere with any investigation conducted under this Act or the authority of any Designated Trusted Investigator. The President may not unilaterally delay provision of any covered record to any investigation team beyond the timelines established in this Act.
 
-(c) Any assertion of executive privilege over covered records shall be submitted to a federal court for review within 14 days. There shall be a presumption against privilege. The burden of proof shall be on the asserting party to demonstrate by clear and convincing evidence that disclosure would cause grave and imminent harm to an identified national security interest that outweighs the public interest in disclosure.
+(c) No executive order, presidential memorandum, or other presidential directive may suspend, override, or modify the requirements of this Act.
+
+(d) Any assertion of executive privilege over covered records shall be submitted to a federal court for review within 14 days. There shall be a presumption against privilege. The burden of proof shall be on the asserting party to demonstrate by clear and convincing evidence that disclosure would cause grave and imminent harm to an identified national security interest that outweighs the public interest in disclosure. Any presidential delay of disclosure or access under this subsection shall not exceed 30 days without court approval.
 
 ## Section 10C: Private Right of Action
 
-(a) Any citizen of the United States may bring an action in the United States District Court for the District of Columbia to compel compliance with this Act, including to compel any covered agency to provide access, records, or cooperation required under this Act to any Designated Trusted Investigator or investigation team.
+(a) Any citizen of the United States may bring an action in the United States District Court for the District of Columbia to compel compliance with this Act, including to compel any covered agency to provide access, records, or cooperation required under this Act to any Designated Trusted Investigator or investigation team, provided that: (1) the citizen has provided 60 days' written notice to the non-compliant agency and the Attorney General specifying the alleged non-compliance; (2) the alleged non-compliance has not been fully remedied during the notice period. The injury cognizable under this section is the denial of the statutory right to a thorough independent investigation and the public disclosure of its findings. Any Designated Trusted Investigator may also bring an action under this section without the 60-day notice requirement.
 
 (b) Courts shall apply a presumption in favor of investigation access and disclosure in any proceeding under this Act.
 
 (c) Prevailing plaintiffs shall be entitled to reasonable attorney's fees and costs.
+
+(d) Courts may dismiss claims that are frivolous or filed in bad faith, with sanctions available under Federal Rule of Civil Procedure 11.
 
 ## Section 11: Duration and Reporting
 
@@ -932,6 +983,14 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
    - A comprehensive final public report addressing all 208 items individually
 
 (c) The investigation may not be terminated by any government official. Only the Designated Trusted Investigator may conclude their team's investigation.
+
+## Section 11A: State and Local Cooperation
+
+(a) Any state or local law enforcement agency that has received federal law enforcement funding and possesses covered records shall provide full access and cooperation to any Designated Trusted Investigator and investigation team upon request. Non-compliance shall result in suspension of up to 10% of annual federal law enforcement grants directly related to law enforcement cooperation, specifically Edward Byrne Memorial Justice Assistance Grants (Byrne JAG) and Community Oriented Policing Services (COPS) grants.
+
+(b) The Attorney General shall notify all state and local agencies of their obligations under this Act within 7 days of enactment, specifying which grants are subject to suspension for non-compliance.
+
+(c) Before any grant suspension takes effect, the non-compliant state or local agency shall receive 30 days' written notice identifying the specific non-compliance and shall be afforded a 30-day cure period in which to provide the required access or records.
 
 ## Section 12: Coordination
 

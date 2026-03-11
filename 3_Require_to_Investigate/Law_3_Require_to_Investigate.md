@@ -814,7 +814,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 ## Section 1: Definitions
 
-(a) **"Covered law enforcement agencies"** means the Federal Bureau of Investigation, the Department of Justice, the Bureau of Alcohol, Tobacco, Firearms and Explosives, and any federal or state law enforcement agency with jurisdiction or relevant capabilities.
+(a) **"Covered law enforcement agencies"** means the Department of Justice, the Federal Bureau of Investigation, the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), U.S. Customs and Border Protection (CBP), the Transportation Security Administration (TSA), the Department of Homeland Security, the Financial Crimes Enforcement Network (FinCEN), and any federal, state, or local law enforcement agency that has participated in, contributed to, or possesses information related to the investigation of the death of Charlie Kirk, the prosecution of any person in connection therewith, or any matter peripheral to or connected with the investigation.
 
 (b) **"Covered intelligence agencies"** means all agencies and elements of the Intelligence Community as defined in 50 U.S.C. 3003(4).
 
@@ -861,6 +861,8 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 (c) **Conflict of Interest Trigger:** If evidence emerges during the investigation that any covered law enforcement agency or intelligence agency was itself involved in the death of Charlie Kirk, the investigation authority for that aspect shall immediately transfer to an independent special commission appointed by Congress. This commission shall have all the powers of the original investigation team plus the ability to subpoena any government official.
 
+(d) **Compulsory Process for Private Entity Records.** Each investigation team shall have authority to issue subpoenas, compel testimony, and obtain records from any private entity — including but not limited to TPUSA, Mosaic Pro Events, rental car companies, hotels, Accurate Energetic Systems (AES), banks, telecommunications providers, and any other entity in possession of relevant records — regardless of whether any agency previously sought such records. The external monitor established under Section 6 shall have independent subpoena power over private entities for any records described in Schedule A. Any private entity that destroys, alters, or conceals records after receiving notice under this subsection shall be subject to the same criminal penalties as government agencies under Section 7D.
+
 ## Section 4A: Records Preservation
 
 (a) Upon introduction of this bill, all covered law enforcement agencies and covered intelligence agencies shall immediately preserve all covered records and information related to the investigation and issue written preservation orders to all personnel. This preservation duty is enforceable upon enactment.
@@ -877,9 +879,13 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 (b) It is unlawful for any supervisor, manager, agency head, or any other person to retaliate against, terminate, demote, reassign, harass, revoke security clearance of, or in any way persecute any government employee for disclosing information pursuant to this Act or for participating in, supporting, or providing information to the investigation.
 
-(c) Criminal penalties of up to 5 years imprisonment, mandatory reinstatement, and civil liability including treble damages for retaliation.
+(c) Any adverse personnel action taken against a disclosing employee within 2 years of disclosure shall create a rebuttable presumption of retaliation.
 
-(d) Any adverse personnel action taken against a disclosing employee within 2 years of disclosure shall create a rebuttable presumption of retaliation.
+(d) Violations of subsection (b) shall be punishable by:
+   - Criminal penalties of up to 5 years imprisonment
+   - Civil liability for damages
+   - Mandatory reinstatement of any employee wrongfully affected
+   - Treble damages for willful violations
 
 (e) **NDA and Secrecy Agreement Override.** No non-disclosure agreement, confidentiality agreement, secrecy agreement, or similar contractual provision — whether entered into with a government agency or a private entity — shall be enforceable to the extent it would prohibit any person from disclosing information related to the death of Charlie Kirk to the investigation teams, the external monitor, Congress, a Designated Trusted Investigator, law enforcement, or the public pursuant to this Act.
 
@@ -887,17 +893,20 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 ## Section 6: External Independent Monitor
 
-(a) **Appointment.** Congress shall appoint an independent monitor (not an inspector from within any covered agency) within 30 days of enactment by joint resolution of both chambers. If no joint resolution is adopted within 30 days, the monitor shall be appointed jointly by the chairs of the Senate Judiciary Committee and the House Judiciary Committee within 15 additional days. The monitor shall have real-time access to all four investigations.
+(a) **Appointment.** Congress shall appoint an independent monitor (not an inspector from within any covered agency) within 30 days of enactment by joint resolution of both chambers. If no joint resolution is adopted within 30 days, the monitor shall be appointed jointly by the chairs of the Senate Judiciary Committee and the House Judiciary Committee within 15 additional days. The monitor shall have real-time access to all four investigations. The monitor shall serve for a term of 4 years and may be removed only for cause by a vote of both chambers. The President shall have no role in appointing, confirming, or removing the monitor.
 
 (b) The monitor shall:
+   - Have full access to agency systems and files to verify cooperation with investigation teams
    - Verify that each investigation is pursuing all leads including those in Schedule A
    - Flag any lead that is not being adequately investigated
+   - Have authority to compel production of additional records from any covered agency
+   - Have subpoena power, including over private entities holding records described in Schedule A
    - Report monthly to Congress on each investigation's thoroughness and independence
+   - Publish public reports on its findings
    - Have authority to direct investigators to pursue specific leads that are being neglected
    - Certify whether each investigation constitutes "good-faith" investigation as defined in Section 1(c)
-   - Have subpoena power over any covered agency, private entity, or individual for records and testimony related to the investigation
 
-(c) The monitor shall have appropriate security clearances, independent legal counsel, and access to independent forensic experts. The monitor shall retain such experts as necessary to verify the integrity and thoroughness of the investigations.
+(c) The monitor shall have appropriate security clearances, independent legal counsel, and access to independent forensic experts. The monitor shall retain such experts as necessary to verify the integrity and thoroughness of the investigations. The monitor shall be permanent and shall continue to operate until it certifies that all investigations have been completed in good faith and all Schedule A items have been fully investigated.
 
 (d) **Board Composition.** The monitor may not have been employed by any covered law enforcement agency or covered intelligence agency within the preceding 10 years.
 
@@ -905,44 +914,84 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 ## Section 7: Congressional Oversight
 
-(a) The investigation teams shall brief the relevant congressional committees monthly.
+(a) The investigation teams shall brief the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate monthly.
 
 (b) The briefings shall include specific status updates on each category of leads from Schedule A.
 
-## Section 7A: Prohibition on Classification
+(c) Not later than 15 days after each 6-month disclosure report required under Section 8, the head of each covered agency shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report containing:
+   1. All categories of leads investigated and any leads not yet pursued, with explanation
+   2. A summary of any redactions made to public reports, including the legal basis for each
+   3. A list of all government officials and politically exposed persons identified during the investigation, with no redactions permitted
+   4. Certification that all items enumerated in Schedule A have been actively investigated, with specific status for each of the 208 items
+   5. Any instances of non-cooperation, obstruction, or interference encountered by the investigation teams
+   6. Any evidence of agency conflict of interest as described in Section 4(c)
 
-(a) No information related to the Charlie Kirk investigation may be classified, reclassified, or withheld under any classification authority if it pertains to, reveals, or suggests the involvement of, foreknowledge by, or connection to any of the following:
+## Section 7A: Prohibited Grounds for Withholding and Prohibition on Classification
+
+(a) **Prohibited Grounds for Withholding.** No covered agency may refuse to investigate, withhold records from investigation teams, delay production, or redact investigation materials on the basis of:
+   1. Embarrassment, reputational harm, or political sensitivity to any government official, public figure, or foreign dignitary
+   2. Any ongoing investigation (except as narrowly provided below)
+   3. Executive privilege
+   4. Deliberative process privilege
+   5. Law enforcement privilege
+   6. Any claim that records were "lost," "destroyed," or "cannot be located" without forensic verification
+
+(b) **Narrow Permitted Redactions.** The only permissible redactions from covered records and investigation materials are:
+   1. Names of confidential human sources currently active in unrelated ongoing investigations where disclosure would create an imminent threat to life
+   2. Child sexual abuse material as defined under 18 U.S.C. Section 2256
+
+(c) All redactions must be:
+   1. Individually justified in writing
+   2. Published in the Federal Register
+   3. Submitted to the Judiciary Committees of both houses of Congress
+   4. Subject to judicial review upon challenge by any party
+
+(d) No blanket exemptions or classifications shall be permitted.
+
+(e) **Prohibition on Classification.** No information related to the Charlie Kirk investigation may be classified, reclassified, or withheld under any classification authority if it pertains to, reveals, or suggests the involvement of, foreknowledge by, or connection to any of the following:
    1. Any foreign country
    2. Any foreign intelligence service
    3. Any U.S. intelligence service (including but not limited to the CIA and NSA)
    4. The FBI
    5. Any branch or component of the U.S. military
 
-(b) Any existing classification on covered records is automatically void upon enactment of this Act.
+(f) **Declassification of Covered Records.** All classification markings on covered records are automatically removed upon enactment of this Act. No covered record may be reclassified after enactment. Covered agencies shall process declassification within 30 days of enactment. Classification shall not excuse non-production; if an agency cannot complete declassification review within 30 days, the record shall be produced to the external monitor in classified form, with a public redacted version produced simultaneously, and the full unclassified version produced within 60 days.
 
-(c) Any attempt to classify or reclassify covered records after enactment constitutes obstruction under Section 4(b) and is punishable by up to 10 years imprisonment.
+(g) Any attempt to classify or reclassify covered records after enactment constitutes obstruction under Section 4(b) and is punishable by up to 10 years imprisonment.
 
-(d) Investigation findings, reports, and evidence shall be produced in unclassified form for public release. If an agency asserts that specific technical collection methods currently in active use require protection, the analytical conclusions and factual findings derived from such methods shall nonetheless be disclosed in full.
+(h) Investigation findings, reports, and evidence shall be produced in unclassified form for public release. If an agency asserts that specific technical collection methods currently in active use require protection, the analytical conclusions and factual findings derived from such methods shall nonetheless be disclosed in full.
 
 ## Section 7B: No Presidential Override
 
-(a) The President may not order, direct, or authorize the termination, limitation, or interference with any investigation under this Act.
+(a) **Congressional Finding of Compelling Interest.** Congress finds that the compelling public interest in a thorough investigation, as established in Section 0, overcomes any claim of executive privilege with respect to investigation materials.
 
-(b) No executive order, presidential memorandum, or other presidential directive may suspend or override the requirements of this Act.
+(b) The President may not order, direct, or authorize the termination, limitation, or interference with any investigation under this Act. The President may not unilaterally delay, narrow, or suspend any investigation beyond the timelines established in Sections 2, 2A, 2B, and 3.
 
-(c) Any presidential assertion of executive privilege over investigation materials shall be submitted to the external monitor and reviewed by a federal court within 14 days. There shall be a presumption against privilege. The burden of proof shall be on the asserting party to demonstrate by clear and convincing evidence that disclosure would cause grave and imminent harm to an identified national security interest that outweighs the public interest in the investigation.
+(c) No executive order, presidential memorandum, or other presidential directive may suspend or override the requirements of this Act.
 
-(d) Congress finds that the compelling public interest in a thorough investigation, as established in Section 0, overcomes any claim of executive privilege with respect to investigation materials.
+(d) Any presidential assertion of executive privilege over investigation materials shall be submitted to the external monitor and reviewed by a federal court within 14 days. There shall be a presumption against privilege. The burden of proof shall be on the asserting party to demonstrate by clear and convincing evidence that disclosure would cause grave and imminent harm to an identified national security interest that outweighs the public interest in the investigation. Any presidential delay of investigation access under this subsection shall not exceed 30 days beyond the statutory deadline without court approval.
 
 ## Section 7C: Private Right of Action
 
-(a) Any citizen of the United States may bring an action in federal court to compel compliance with the investigation mandates of this Act, provided that: (1) the citizen has provided 60 days' written notice to the non-compliant agency and the Attorney General specifying the alleged non-compliance; (2) the 60-day investigation commencement deadline under Sections 2, 2A, 2B, and 3 has passed; and (3) the alleged non-compliance has not been fully remedied during the notice period. The injury cognizable under this section is the denial of the statutory right to a thorough investigation as mandated by this Act.
+(a) Any citizen of the United States may bring an action in the United States District Court for the District of Columbia to compel compliance with the investigation mandates of this Act, provided that: (1) the citizen has provided 60 days' written notice to the non-compliant agency and the Attorney General specifying the alleged non-compliance; (2) the 60-day investigation commencement deadline under Sections 2, 2A, 2B, and 3 has passed; and (3) the alleged non-compliance has not been fully remedied during the notice period. The injury cognizable under this section is the denial of the statutory right to a thorough investigation as mandated by this Act.
 
 (b) Courts shall apply a presumption in favor of investigation and disclosure in any proceeding under this Act.
 
 (c) Prevailing plaintiffs shall be entitled to reasonable attorney's fees and costs.
 
 (d) Courts may dismiss claims that are frivolous or filed in bad faith, with sanctions available under Federal Rule of Civil Procedure 11.
+
+## Section 7D: Penalties for Non-Compliance
+
+(a) Any official who willfully obstructs, delays, limits, or fails to support the investigations mandated by this Act, or who withholds, destroys, conceals, or fails to produce covered records requested by investigation teams, shall be subject to criminal prosecution and imprisonment of up to 10 years.
+
+(b) Any agency that fails to establish its investigation team within the 60-day timeline, or that fails to provide adequate resources, access, or cooperation to its investigation team, shall be subject to the following: the relevant appropriations subcommittees are directed to reduce the non-compliant agency's discretionary funding by 10% per month of non-compliance, up to a maximum cumulative reduction of 50%. Funds specifically appropriated for investigation teams under this Act are exempt from such reductions. Reductions apply prospectively to new discretionary appropriations, not retroactively to already-obligated funds.
+
+(c) Certification under penalty of perjury that an agency is fully cooperating with its investigation team, when cooperation is later found to have been withheld, constitutes perjury and is subject to prosecution under 18 U.S.C. Section 1621.
+
+(d) The head of any covered agency whose agency fails to comply with this Act shall be subject to contempt of Congress proceedings. Congress may proceed through civil contempt in federal court, bypassing the requirement of referral to the U.S. Attorney for the District of Columbia. Either chamber may retain independent counsel to prosecute the contempt. The external monitor may seek judicial enforcement directly.
+
+(e) **Agency Head Conflict of Interest.** If the external monitor finds evidence that personnel of any covered agency are implicated in the death of Charlie Kirk — including allegations of involvement, evidence destruction, witness intimidation, or obstruction — investigation authority for that aspect shall transfer to the independent special commission under Section 4(c), and agency leadership shall recuse from all decisions affecting the investigation. The external monitor, not the agency head, shall have final authority to certify the adequacy and good faith of the investigation.
 
 ## Section 8: Public Reporting
 
@@ -969,6 +1018,16 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 (c) Funds appropriated under this section shall be available immediately upon enactment and shall remain available until expended.
 
 (d) Investigation team budgets shall be administered independently of the host agency's budget process. No agency may redirect, withhold, or condition access to funds appropriated for investigation teams under this Act.
+
+## Section 9A: State and Local Cooperation
+
+(a) Any state or local law enforcement agency that has received federal law enforcement funding and possesses covered records or information relevant to the investigation shall cooperate fully with the investigation teams established under this Act, including producing all covered records within 30 days and making personnel available for interviews. Non-compliance shall result in suspension of up to 10% of annual federal law enforcement grants directly related to law enforcement cooperation, specifically Edward Byrne Memorial Justice Assistance Grants (Byrne JAG) and Community Oriented Policing Services (COPS) grants.
+
+(b) The Attorney General shall notify all state and local agencies of their obligations under this Act within 7 days of enactment, specifying which grants are subject to suspension for non-compliance.
+
+(c) Before any grant suspension takes effect, the non-compliant state or local agency shall receive 30 days' written notice identifying the specific non-compliance and shall be afforded a 30-day cure period in which to produce the covered records or cooperate with the investigation teams.
+
+(d) State and local agencies shall preserve all records related to the investigation in accordance with Section 4A. The investigation teams shall have the same access to state and local records as they have to federal records.
 
 ## Section 10: Severability
 
