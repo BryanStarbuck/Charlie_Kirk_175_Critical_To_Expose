@@ -812,7 +812,23 @@ The Congress finds the following:
 
 (e) No blanket exemptions or classifications shall be permitted.
 
-(f) **Declassification of Covered Information.** All classification markings on covered information are automatically removed upon enactment of this Act. No covered information may be reclassified after enactment. Covered agencies shall process declassification within the 30-day disclosure window. Classification shall not excuse non-production; if an agency cannot complete declassification review within 30 days, the information shall be produced to the review board in classified form, with a public redacted version produced simultaneously, and the full unclassified version produced within 60 days.
+(f) **Third Party Rule Override and Foreign Liaison Information.** The Third Party Rule — the intelligence-sharing convention under which information received from a foreign government or foreign intelligence service may not be disclosed without that partner's consent — shall not apply to any covered information under this Act. Congress, exercising its constitutional authority over national security oversight and its power to compel disclosure of all information in the possession of the United States government, hereby overrides any agreement, memorandum of understanding, intelligence-sharing compact, or informal arrangement between any Intelligence Community agency and any foreign government, foreign intelligence service, or international organization that would restrict disclosure of covered information. This override applies to all forms of intelligence received from any foreign source, including but not limited to:
+   1. The State of Israel and the Mossad, Shin Bet, and Aman — including any intelligence related to the approximately 12 Israeli-registered cell phones detected at or near Utah Valley University on or around September 10, 2025
+   2. The Arab Republic of Egypt and the Egyptian General Intelligence Directorate (GID) — including any intelligence related to Egyptian-registered aircraft (SU-BTT, SU-BND) and military contractors with Defense Attache badges observed in the Provo, Utah area
+   3. The United Kingdom and MI5, MI6, and GCHQ
+   4. All Five Eyes partners: Australia (ASIS, ASD), Canada (CSIS, CSE), and New Zealand (NZSIS, GCSB)
+   5. Any other foreign government, foreign intelligence service, or international organization from whom any covered information was received or with whom any covered information was shared
+
+No Intelligence Community agency may withhold, delay, or redact any covered information on the ground that it was received from, shared with, or originated from a foreign partner. Any invocation of the Third Party Rule, any foreign disclosure restriction, or any intelligence-sharing agreement to justify withholding covered information constitutes obstruction under Section 5.
+
+(g) **Mandatory Foreign Liaison Disclosure Request.** Within 14 days of enactment, the Director of National Intelligence shall:
+   1. Formally request all foreign liaison partners from whom covered information was received to authorize full public disclosure of that information
+   2. Identify all foreign liaison partners who possess information related to the death of Charlie Kirk, whether or not such information has been shared with the United States
+   3. Request all identified foreign partners to produce any information in their possession related to the death of Charlie Kirk
+   4. Report to the congressional intelligence committees within 14 days of the requests, disclosing: which partners were contacted, which authorized disclosure, which refused, which did not respond, and the nature and scope of information known to be held by each partner
+   5. Regardless of whether foreign partners authorize disclosure, all covered information in the possession of the United States shall be disclosed as required by this Act
+
+(h) **Declassification of Covered Information.** All classification markings on covered information are automatically removed upon enactment of this Act. No covered information may be reclassified after enactment. Covered agencies shall process declassification within the 30-day disclosure window. Classification shall not excuse non-production; if an agency cannot complete declassification review within 30 days, the information shall be produced to the review board in classified form, with a public redacted version produced simultaneously, and the full unclassified version produced within 60 days.
 
 ## Section 5: Criminal Prohibition on Obstruction and Penalties for Non-Compliance
 
