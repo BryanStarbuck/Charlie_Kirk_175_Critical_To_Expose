@@ -792,9 +792,10 @@ The Congress finds the following:
    2. Any ongoing investigation (except as narrowly provided below)
    3. Executive privilege
    4. Deliberative process privilege
-   5. Intelligence community privilege or "sources and methods" (except as narrowly provided below)
-   6. Diplomatic relations with any foreign government
-   7. Any claim that records were "lost," "destroyed," or "cannot be located" without forensic verification
+   5. The inter-agency or intra-agency memorandums or letters exemption (5 U.S.C. § 552(b)(5)) — no covered information shall be withheld on the ground that it constitutes an inter-agency or intra-agency memorandum or letter that would not be available by law to a party other than an agency in litigation with the agency; all such memorandums and letters in the possession of any Intelligence Community agency that relate to the death of Charlie Kirk or any person involved shall be disclosed in full
+   6. Intelligence community privilege or "sources and methods" (except as narrowly provided below)
+   7. Diplomatic relations with any foreign government
+   8. Any claim that records were "lost," "destroyed," or "cannot be located" without forensic verification
 
 (b) **Narrow Permitted Redactions.** The only permissible redactions from covered information are:
    1. The true identity of currently active human intelligence sources whose disclosure would create an imminent threat to life

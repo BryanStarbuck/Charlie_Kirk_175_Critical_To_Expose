@@ -929,8 +929,9 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
    2. Any ongoing investigation (except as narrowly provided below)
    3. Executive privilege
    4. Deliberative process privilege
-   5. Law enforcement privilege
-   6. Any claim that records were "lost," "destroyed," or "cannot be located" without forensic verification
+   5. The inter-agency or intra-agency memorandums or letters exemption (5 U.S.C. § 552(b)(5)) — no record shall be withheld from any investigation team on the ground that it constitutes an inter-agency or intra-agency memorandum or letter that would not be available by law to a party other than an agency in litigation with the agency; all such memorandums and letters in the possession of any covered agency that relate to the death of Charlie Kirk or any person involved shall be produced to the investigation teams in full
+   6. Law enforcement privilege
+   7. Any claim that records were "lost," "destroyed," or "cannot be located" without forensic verification
 
 (b) **Narrow Permitted Redactions.** The only permissible redactions from records provided to the investigation teams are:
    1. Names of confidential human sources currently active in unrelated ongoing investigations where disclosure would create an imminent threat to life
