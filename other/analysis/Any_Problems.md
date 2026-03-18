@@ -2,7 +2,7 @@
 
 **Analyzed by:** Attorney review of all four laws against the primary charter (`other/List_Of_Laws.md`)
 **Date:** March 11, 2026
-**Updated:** March 18, 2026 — Fixed items moved to `Fixed/Any_Problems.md`. Items below remain unfixed.
+**Updated:** March 18, 2026 — Fixed items moved to `Fixed/Any_Problems.md`. 5 partially-fixed items moved back from Fixed on March 18. Items below remain unfixed or partially fixed.
 **Method:** Threat analysis from the perspective of those who want to keep the investigation covered up.
 
 ---
@@ -42,6 +42,14 @@
 **Problem:** Section 8(a) has all five review board members appointed by congressional leadership (Speaker, Majority Leader, Minority Leader). If leadership wants to suppress the investigation, they appoint compliant members.
 
 **What remains:** No appointments by independent authorities (e.g., Chief Justice, GAO Comptroller General). The review board remains entirely under congressional leadership control.
+
+---
+
+### 5. No Mandatory Forensic Audit Before Agencies Certify Compliance — PARTIALLY FIXED
+
+**What's fixed:** Section 5(c) requires agencies to "conduct a digital forensic audit" and Section 12H provides enforcement for forensic audits. Agencies self-audit and provide results to Congress and review board.
+
+**What remains:** The audit is still conducted by the agency itself rather than by review board-contracted independent experts. Law 2 is actually stronger here — its Section 12H(c) mandates "Forensic auditors shall be selected by the review board and shall operate independently of the audited agency." Law 1 should adopt Law 2's independent-auditor language.
 
 ---
 
@@ -112,6 +120,22 @@
 **Problem:** No provision requiring CIA, NSA, DIA, DNI directors to testify under oath in public session before congressional intelligence committees. The law relies only on written disclosures and review board authority.
 
 **What remains:** Need mandatory public testimony requirement for agency heads, with criminal contempt for refusal.
+
+---
+
+### 6. DNI Coordination Role Creates Centralized Chokepoint — PARTIALLY FIXED
+
+**What's fixed:** The law avoids giving DNI broad coordination authority to filter disclosures. The DNI is assigned specific tasks (foreign liaison requests) rather than general coordination. Individual agency disclosure remains independent.
+
+**What remains:** Section 12B(h) still assigns DNI "personal liability for compliance across all Intelligence Community elements under the DNI's coordination authority" — which reintroduces the chokepoint concern by framing the DNI as having coordination authority over all IC compliance. Need to clarify that DNI liability is for DNI's own office compliance only, not coordination authority over other agencies' independent disclosure obligations.
+
+---
+
+### 9. No Provision for Intercepting Real-Time Intelligence Destruction — PARTIALLY FIXED
+
+**What's fixed:** Section 6(f) establishes "48-Hour Emergency Response for Evidence Destruction" requiring immediate halt of all destruction upon report.
+
+**What remains:** Prospective collection of new intelligence after enactment with 72-hour production is not explicitly mandated. Need provision requiring agencies to collect and produce any newly generated intelligence related to Schedule A items on a rolling 72-hour basis post-enactment.
 
 ---
 
@@ -191,6 +215,14 @@
 
 **File:** `4_Trusted_Investigations/Law_4_Trusted_Investigations.md`
 
+### 1. Named Investigators Can Be Threatened, Incapacitated, or Killed — PARTIALLY FIXED
+
+**What's fixed:** Section 10(a)-(b): succession by remaining investigators nominating replacement with 14-day congressional confirmation. Section 10(c): acting authority through senior government team member.
+
+**What remains:** No pre-approved successors pre-confirmed by Congress, and no dead-man's switch transferring to congressional commission if 3+ investigators incapacitated within 90 days. Need pre-confirmed deputy investigators and automatic transfer provision.
+
+---
+
 ### 2. Security Clearance Bottleneck Can Be Weaponized
 
 **Problem:** Section 2(c) requires clearances within 30 days but contains no interim clearance provision. No immediate TOP SECRET/SCI access pending background investigation. No three-judge panel for clearance denials.
@@ -228,6 +260,14 @@
 **Problem:** Section 9(b) prohibits surveillance of investigators and family but NOT of investigator-source communications. No criminalization of source surveillance. No agency-proof secure communications.
 
 **What remains:** Need: unauthorized surveillance of investigator-source communications as federal crime (15 years), independent agency-proof secure communication devices.
+
+---
+
+### 9. No Provision for Trusted Investigators to Conduct International Investigations — PARTIALLY FIXED
+
+**What's fixed:** Section 4A(f) requires Secretary of State to invoke MLATs, permits independent foreign government records requests with 7-day transmission. Section 4B(b) coordinates with Interpol.
+
+**What remains:** Explicit international travel authority and diplomatic security funding are not clearly mandated. Need provision granting investigators authority to travel internationally with diplomatic security detail, funded from investigation budget, and diplomatic passport/immunity provisions for investigative travel.
 
 ---
 

@@ -10,12 +10,6 @@
 
 ## LAW 1: The Charlie Kirk Files Forced Disclosure Act -- Law Enforcement
 
-### 5. No Mandatory Forensic Audit Before Agencies Certify Compliance — PARTIALLY FIXED
-
-Section 5(c) requires agencies to "conduct a digital forensic audit" and Section 12H provides enforcement for forensic audits. Agencies self-audit and provide results to Congress and review board. However, the audit is still conducted by the agency itself rather than by review board-contracted independent experts.
-
----
-
 ### 6. No Protection Against "Slow Rolling" -- Producing Records in Unusable Format — FIXED
 
 Section 12D provides detailed technical specifications: text-searchable PDF with OCR, machine-readable index in CSV/JSON/XML, bulk download capability. Review board has authority to reject non-compliant productions and order re-production within 7 days.
@@ -44,21 +38,9 @@ Section 1(e) (Third Party Rule Override) explicitly overrides any agreement, MOU
 
 ---
 
-### 6. DNI Coordination Role Creates Centralized Chokepoint — PARTIALLY FIXED
-
-The law avoids giving DNI broad coordination authority to filter disclosures. The DNI is assigned specific tasks (foreign liaison requests) rather than general coordination. Individual agency disclosure remains independent.
-
----
-
 ### 8. No Provision Addressing Compartmented Access Programs (SAPs/SCIFs) — FIXED
 
 Section 1(f) explicitly extends whistleblower immunity to Top Secret, SCI, and SAP disclosures. Section 6(e) requires the review board to maintain independent SCIF access at appropriate classification levels.
-
----
-
-### 9. No Provision for Intercepting Real-Time Intelligence Destruction — PARTIALLY FIXED
-
-Section 6(f) establishes "48-Hour Emergency Response for Evidence Destruction" requiring immediate halt of all destruction upon report. However, prospective collection of new intelligence after enactment with 72-hour production is not explicitly mandated.
 
 ---
 
@@ -82,12 +64,6 @@ Section 4(c): entire investigation transfers (not just agency-involvement aspect
 
 ## LAW 4: The Charlie Kirk Trusted Investigators Act
 
-### 1. Named Investigators Can Be Threatened, Incapacitated, or Killed — PARTIALLY FIXED
-
-Section 10(a)-(b): succession by remaining investigators nominating replacement with 14-day congressional confirmation. Section 10(c): acting authority through senior government team member. However, no pre-approved successors pre-confirmed by Congress, and no dead-man's switch transferring to congressional commission if 3+ investigators incapacitated within 90 days.
-
----
-
 ### 6. No Explicit Subpoena Power for Trusted Investigators Over Private Entities — FIXED
 
 Section 3(c) grants independent subpoena authority. Section 4(a) explicitly lists private entity subpoena power (TPUSA, Mosaic Pro Events, rental companies, hotels, AES, banks, telecoms). Non-compliance triggers same criminal penalties as government agencies.
@@ -97,12 +73,6 @@ Section 3(c) grants independent subpoena authority. Section 4(a) explicitly list
 ### 8. Budget Administered Independently but No Mechanism to Receive Funds — FIXED
 
 Section 13(d): budgets administered independently of host agency. No covered agency may control, delay, or restrict expenditure of appropriated funds.
-
----
-
-### 9. No Provision for Trusted Investigators to Conduct International Investigations — PARTIALLY FIXED
-
-Section 4A(f) requires Secretary of State to invoke MLATs, permits independent foreign government records requests with 7-day transmission. Section 4B(b) coordinates with Interpol. However, explicit international travel authority and diplomatic security funding not clearly mandated.
 
 ---
 
