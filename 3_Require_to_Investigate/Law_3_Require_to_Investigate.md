@@ -1195,7 +1195,7 @@ If any provision of this Act, or the application thereof to any person or circum
 
 ## Section 10B: Statute of Limitations
 
-(a) The statute of limitations for any criminal offense under this Act — including obstruction, destruction of records, witness intimidation, perjury, and contempt — shall be 15 years from the date of discovery of the offense, or 15 years from the date of enactment of this Act, whichever is later.
+(a) The statute of limitations for any criminal offense under this Act — including obstruction, destruction of records, witness intimidation, perjury, and contempt — shall be 45 years from the date of discovery of the offense, or 45 years from the date of enactment of this Act, whichever is later.
 
 (b) No statute of limitations shall bar prosecution of any person who engaged in a continuing course of obstruction or concealment. The limitations period for a continuing offense shall not begin to run until the last act constituting the offense is committed.
 

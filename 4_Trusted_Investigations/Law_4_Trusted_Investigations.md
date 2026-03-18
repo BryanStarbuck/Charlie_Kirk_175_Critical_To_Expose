@@ -1127,9 +1127,9 @@ This Act shall take effect immediately upon enactment. All criminal penalties un
 
 ## Section 15A: Statute of Limitations
 
-(a) Any criminal prosecution under this Act shall be commenced within 15 years from the date of discovery of the offense by any Designated Trusted Investigator, any investigation team, or any law enforcement authority.
+(a) Any criminal prosecution under this Act shall be commenced within 45 years from the date of discovery of the offense by any Designated Trusted Investigator, any investigation team, or any law enforcement authority.
 
-(b) Any civil action under this Act, including actions under Section 10C, shall be commenced within 15 years from the date of discovery of the violation.
+(b) Any civil action under this Act, including actions under Section 10C, shall be commenced within 45 years from the date of discovery of the violation.
 
 (c) For purposes of this section, "date of discovery" means the date on which the violation or offense was first discovered or reasonably should have been discovered by any Designated Trusted Investigator, investigation team, or law enforcement authority.
 

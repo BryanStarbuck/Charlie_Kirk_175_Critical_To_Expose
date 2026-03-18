@@ -1032,7 +1032,7 @@ The review board shall acknowledge receipt of all submissions within 7 days. No 
 
 ## Section 12E: Statute of Limitations for Criminal Penalties
 
-(a) No prosecution under this Act shall be barred by the passage of time. The statute of limitations for any offense under this Act shall be 15 years from the date the offense is discovered by the review board, Congress, or any law enforcement authority.
+(a) No prosecution under this Act shall be barred by the passage of time. The statute of limitations for any offense under this Act shall be 45 years from the date the offense is discovered by the review board, Congress, or any law enforcement authority.
 
 (b) For purposes of this section, an offense is "discovered" when sufficient facts are known to establish probable cause, regardless of when the underlying conduct occurred.
 

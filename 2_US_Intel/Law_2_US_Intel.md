@@ -1031,7 +1031,7 @@ If any provision of this Act, or the application thereof to any person or circum
 
 ## Section 12C: Statute of Limitations
 
-The statute of limitations for any criminal offense under this Act shall be 15 years from the date the offense is discovered by any person with standing to report or prosecute the offense. Discovery occurs when facts sufficient to reasonably indicate the offense become known to any member of the review board, any member of Congress, or any person who files a complaint. This extended limitations period applies regardless of any shorter limitations period that would otherwise apply under federal law.
+The statute of limitations for any criminal offense under this Act shall be 45 years from the date the offense is discovered by any person with standing to report or prosecute the offense. Discovery occurs when facts sufficient to reasonably indicate the offense become known to any member of the review board, any member of Congress, or any person who files a complaint. This extended limitations period applies regardless of any shorter limitations period that would otherwise apply under federal law.
 
 ## Section 12D: Pending Criminal Prosecution
 
