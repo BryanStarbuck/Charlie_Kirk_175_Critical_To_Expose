@@ -18,7 +18,7 @@ The Congress finds the following:
 
 (a) **Constitutional Authority.** The Congress has authority to enact this legislation pursuant to Article I legislative and oversight powers, the Spending Clause (Article I, Section 8, Clause 1) with respect to state and local cooperation, and the Commerce Clause (Article I, Section 8, Clause 3) with respect to financial records and interstate communications.
 
-(b) **Inadequacy of Existing Investigations.** The investigation into the death of Charlie Kirk on September 10, 2025, at Utah Valley University in Orem, Utah, has been marked by significant deficiencies including: allegations of evidence destruction, crime scene alteration, witness intimidation, blocked FOIA requests, failure to investigate credible leads regarding foreign intelligence activity — including approximately 12 Israeli-registered cell phones detected at the shooting site, Egyptian military aircraft delivering personnel with Defense Attache badges to Provo Municipal Airport, and a HADES surveillance aircraft circling 35 minutes before the shooting — and a systematic failure by federal agencies to pursue leads implicating intelligence services or foreign governments. No thorough, good-faith investigation has been conducted by any agency with the mandate, resources, and independence necessary to determine the full truth.
+(b) **Inadequacy of Existing Investigations.** The investigation into the death of Charlie Kirk on September 10, 2025, at Utah Valley University in Orem, Utah, has been marked by significant deficiencies including: allegations of evidence destruction, crime scene alteration, witness intimidation, blocked FOIA requests, failure to investigate credible leads regarding foreign intelligence activity — including approximately 12 foreign-registered cell phones detected at the shooting site, foreign military aircraft delivering personnel with Defense Attache badges to Provo Municipal Airport, and a HADES surveillance aircraft circling 35 minutes before the shooting — and a systematic failure by federal agencies to pursue leads implicating intelligence services or foreign governments. No thorough, good-faith investigation has been conducted by any agency with the mandate, resources, and independence necessary to determine the full truth.
 
 (c) **Prior Disclosure and Investigation Law Failures.** The JFK Assassination Records Collection Act of 1992 (Public Law 102-526) failed to achieve full disclosure because successive Presidents exercised override authority to withhold records for over 30 years. The Epstein Files Transparency Act (Public Law 119-38), while passing 427-1 in the House and by unanimous consent in the Senate, suffered compliance failures when the Department of Justice released only approximately 12,285 documents out of potentially 6+ million pages by the statutory deadline, with no Special Master mechanism to compel compliance. Past investigations into high-profile assassinations have been compromised by agency conflicts of interest, limited mandates, and political interference. This Act is designed to remedy these structural deficiencies by mandating independent investigations with enforceable oversight.
 
@@ -200,7 +200,7 @@ The Congress finds the following:
 
 **Foreign Intelligence Pre-Operational Surveillance:**
    1. Any foreign intelligence digital surveillance, IP targeting, reconnaissance, or electronic monitoring of investigation-related personnel before September 10, 2025
-   2. Israeli IP addresses systematically targeting Timpanogos Hospital surgeons, medical examiner, defense counsel, crime scene contractors, and hospital CEO Andrew Zenger — including the origin, timing, frequency, and purpose of such targeting
+   2. Foreign IP addresses systematically targeting Timpanogos Hospital surgeons, medical examiner, defense counsel, crime scene contractors, and hospital CEO Andrew Zenger — including the origin, timing, frequency, and purpose of such targeting
    3. Any foreign intelligence pre-operational mapping of the UVU campus, surrounding buildings, rooftop access points, sight lines, and security vulnerabilities
    4. Any foreign intelligence monitoring of Charlie Kirk's security detail, travel patterns, event schedules, or communications in the months before the assassination
    5. Any cyber intrusion, network penetration, or electronic surveillance targeting any person, entity, or system connected to the investigation before September 10, 2025
@@ -1037,11 +1037,11 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 ## Section 4B: Foreign Government Records
 
-(a) **MLAT Invocation.** Within 15 days of enactment, the Secretary of State shall formally invoke Mutual Legal Assistance Treaties (MLATs) with the Arab Republic of Egypt, the State of Israel, and the French Republic, requesting the production of all records in the possession of those governments related to the death of Charlie Kirk, including intelligence files, diplomatic communications, personnel records for nationals present in Utah during the relevant period, and any records relating to any person listed in Schedule B.
+(a) **MLAT Invocation.** Within 15 days of enactment, the Secretary of State shall formally invoke Mutual Legal Assistance Treaties (MLATs) with any foreign government identified as possessing relevant records, including but not limited to the Arab Republic of Egypt and the French Republic, requesting the production of all records in the possession of those governments related to the death of Charlie Kirk, including intelligence files, diplomatic communications, personnel records for nationals present in Utah during the relevant period, and any records relating to any person listed in Schedule B.
 
 (b) **Interpol Coordination.** Each investigation team established under Sections 2, 2A, 2B, and 3 shall coordinate with Interpol to issue Red Notices, Blue Notices, or other appropriate instruments for any foreign national identified as a person of interest in the investigation who is located outside the United States.
 
-(c) **Disclosure of Prior Diplomatic Communications.** The Secretary of State shall produce to all investigation teams and the external independent oversight board all diplomatic communications between the United States and the governments of Egypt, Israel, and France from January 1, 2025 through the date of enactment that relate in any way to Charlie Kirk, TPUSA, the UVU event, or any person listed in Schedule B.
+(c) **Disclosure of Prior Diplomatic Communications.** The Secretary of State shall produce to all investigation teams and the external independent oversight board all diplomatic communications between the United States and any foreign government from January 1, 2025 through the date of enactment that relate in any way to Charlie Kirk, TPUSA, the UVU event, or any person listed in Schedule B.
 
 (d) **Public Reporting of Refusals.** If any foreign government fails to respond to an MLAT request within 60 days, or refuses to produce requested records, the Secretary of State shall publicly report the refusal to Congress and to the external independent oversight board within 7 days. The report shall identify the specific records requested and the foreign government's stated basis for refusal, if any.
 
@@ -1104,17 +1104,17 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 (d) **Concurrent Penalties.** The penalties under this Section are in addition to, and do not replace, the budget reduction penalties under Section 7D-1 and the penalties for non-compliance under Section 7D.
 
-## Section 4C-2: No Israel Exception
+## Section 4C-2: No Foreign Government Exception
 
-(a) No investigation team shall decline to pursue, narrow, or deprioritize any investigative lead on the basis that it relates to, implicates, or could affect relations with the State of Israel, Israeli intelligence services (including Mossad, Shin Bet, and Aman), or any entity acting on behalf of or in coordination with Israel.
+(a) No investigation team shall decline to pursue, narrow, or deprioritize any investigative lead on the basis that it relates to, implicates, or could affect relations with any foreign government, any foreign intelligence service, or any entity acting on behalf of or in coordination with any foreign government.
 
-(b) The documented pattern of suppressing Israel-related investigations in the JFK and Epstein cases shall not be repeated.
+(b) The documented pattern of suppressing foreign-government-related investigations in the JFK and Epstein cases shall not be repeated.
 
-(c) This prohibition extends to leads implicating the Arab Republic of Egypt and the French Republic where those nations may be acting as proxies for Israeli intelligence.
+(c) This prohibition extends to leads implicating any foreign government or foreign intelligence service, including but not limited to any foreign government that may be acting through proxies or in coordination with other foreign intelligence services.
 
-(d) Failure to investigate Israel-related leads (including but not limited to Schedule A Items #2, #26, #55, #62-#66, #87-#91, #172-#176) is a per se indicator of bad faith that triggers mandatory oversight board intervention under Section 6.
+(d) Failure to investigate foreign-government-related leads (including but not limited to Schedule A Items #2, #26, #55, #62-#66, #87-#91, #172-#176) is a per se indicator of bad faith that triggers mandatory oversight board intervention under Section 6.
 
-(e) Any person who directs an investigation team to avoid Israel-related leads commits obstruction under Section 7D.
+(e) Any person who directs an investigation team to avoid foreign-government-related leads commits obstruction under Section 7D.
 
 ## Section 4D: Mandatory Investigation Infrastructure
 
@@ -1169,7 +1169,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 (b) The oversight board, not the agency, makes the good-faith determination.
 
-(c) Failure to investigate Israel-related leads (Items #2, #26, #55, #62-#66, #87-#91, #172-#176) is a per se bad-faith indicator triggering mandatory oversight board intervention.
+(c) Failure to investigate foreign-government-related leads (Items #2, #26, #55, #62-#66, #87-#91, #172-#176) is a per se bad-faith indicator triggering mandatory oversight board intervention.
 
 (d) The investigation of each Schedule A item shall include documented steps taken, evidence reviewed, witnesses interviewed, and conclusions reached.
 
@@ -1277,7 +1277,7 @@ This right applies to any information related to the death of Charlie Kirk and t
 
 (b) The President may not order, direct, or authorize the termination, limitation, or interference with any investigation under this Act. The President may not unilaterally delay, narrow, or suspend any investigation beyond the timelines established in Sections 2, 2A, 2B, and 3.
 
-(c) No executive order, presidential memorandum, or other presidential directive may suspend or override the requirements of this Act.
+(c) No executive order, presidential memorandum, classification decision, or other presidential directive may suspend or override the requirements of this Act.
 
 (d) Any presidential assertion of executive privilege over investigation materials shall be submitted to the external oversight board and reviewed by a federal court within 14 days. There shall be a presumption against privilege. The burden of proof shall be on the asserting party to demonstrate by clear and convincing evidence that disclosure would cause grave and imminent harm to an identified national security interest that outweighs the public interest in the investigation. Any presidential delay of investigation access under this subsection shall not exceed 30 days beyond the statutory deadline without court approval.
 
@@ -1311,6 +1311,8 @@ This right applies to any information related to the death of Charlie Kirk and t
 ## Section 7C: Private Right of Action
 
 (a) Any citizen of the United States may bring an action in the United States District Court for the District of Columbia to compel compliance with the investigation mandates of this Act, provided that: (1) the citizen has provided 60 days' written notice to the non-compliant agency and the Attorney General specifying the alleged non-compliance; (2) the 60-day investigation commencement deadline under Sections 2, 2A, 2B, and 3 has passed; and (3) the alleged non-compliance has not been fully remedied during the notice period. The injury cognizable under this section is the denial of the statutory right to a thorough investigation as mandated by this Act.
+
+(a-1) **Emergency Injunction for Imminent Evidence Destruction.** Notwithstanding the 60-day notice requirement of subsection (a), any citizen may file an emergency action without prior notice when the citizen has a reasonable basis to believe that covered records are being destroyed, concealed, altered, or transferred in a manner that would frustrate the purposes of this Act. The court shall hold a hearing within 48 hours of filing and may issue a temporary restraining order or preliminary injunction to preserve records without bond. The standard for such emergency relief shall be a showing that: (1) there is a reasonable basis to believe evidence destruction or concealment is imminent or ongoing; and (2) the records at issue are or may be covered records under this Act.
 
 (b) Courts shall apply a presumption in favor of investigation and disclosure in any proceeding under this Act.
 

@@ -83,9 +83,9 @@ To require all United States Intelligence Community agencies to release all info
 (a) In addition to the broad catch-all requirement, the following categories are specifically mandated for disclosure, cross-referencing Schedule A items:
 
 **Foreign Intelligence Service Activity in Utah (Items #2, #26, #55, #62-#66):**
-   1. All intelligence regarding threats, plans, or actions by any foreign intelligence service (including but not limited to Mossad, Egyptian General Intelligence Directorate, French DGSE) toward the assassination of Charlie Kirk
+   1. All intelligence regarding threats, plans, or actions by any foreign intelligence service toward the assassination of Charlie Kirk
    2. All intelligence regarding foreign intelligence service activity in Utah from January 2023 to present
-   3. All intelligence regarding the approximately 12 Israeli-registered cell phones at UVU on September 10, 2025, including NSA tracking data, subscriber identification, and location history
+   3. All intelligence regarding the approximately 12 foreign-registered cell phones at UVU on September 10, 2025, including NSA tracking data, subscriber identification, and location history
    4. All intelligence regarding threats or consideration of harm to similarly situated individuals (Marjorie Taylor Greene, Matt Gaetz, Andrew Breitbart, Candace Owens, Tucker Carlson, Thomas Massie)
    5. All SIGINT, HUMINT, IMINT, and MASINT products related to foreign intelligence operations in the Utah area
 
@@ -100,7 +100,7 @@ To require all United States Intelligence Community agencies to release all info
    1. All intelligence regarding electronic jamming of cell or internet signals at UVU on September 10, 2025
    2. All NSA or signals intelligence products related to communications intercepts at UVU
    3. All intelligence regarding cell tower anomalies or signal disruption in the UVU area
-   4. NSA shall produce the analytical conclusions regarding the approximately 12 Israeli-registered cell phones at UVU — including the identities of the phone holders, their locations, who they called, and their activities — even if the specific collection technique is protected under Section 4(b)(2). NSA shall produce any subscriber identification obtained through MLAT with Israeli carriers. The existence of foreign intelligence collection capabilities that are already publicly known or widely reported shall not be grounds for withholding.
+   4. NSA shall produce the analytical conclusions regarding the approximately 12 foreign-registered cell phones at UVU — including the identities of the phone holders, their locations, who they called, and their activities — even if the specific collection technique is protected under Section 4(b)(2). NSA shall produce any subscriber identification obtained through MLAT with foreign carriers. The existence of foreign intelligence collection capabilities that are already publicly known or widely reported shall not be grounds for withholding.
 
 **Meetings and Pre-Planning (Items #28-#31, #50, #195):**
    1. All intelligence regarding meetings at Fort Huachuca, AZ (September 1-11, 2025) related to Charlie Kirk
@@ -125,7 +125,7 @@ To require all United States Intelligence Community agencies to release all info
    3. All intelligence regarding any weaponized microphone or explosive device technology
 
 **International Communications (Items #172-#176):**
-   1. All communications between U.S. intelligence and Israeli intelligence regarding the case
+   1. All communications between U.S. intelligence and any foreign intelligence service regarding the case
    2. All communications between U.S. intelligence and Egyptian intelligence regarding Egyptian aircraft or personnel
    3. All Interpol communications regarding the case
    4. All MLAT requests or responses
@@ -141,7 +141,7 @@ To require all United States Intelligence Community agencies to release all info
 
 (a) **Mandatory SIGINT Queries.** Within 30 days of enactment, the National Security Agency shall conduct targeted queries of XKeyscore and all comparable mass surveillance, signals intelligence, and communications intelligence tools, databases, and systems for:
    1. All persons listed in Schedule B (categories P1 through P35), using all known names, aliases, phone numbers, email addresses, and device identifiers
-   2. All phone numbers and device identifiers referenced in Schedule A, including but not limited to the approximately 12 Israeli-registered cell phones, all foreign roaming phones, and all phones identified through cell tower dumps
+   2. All phone numbers and device identifiers referenced in Schedule A, including but not limited to the approximately 12 foreign-registered cell phones, all foreign roaming phones, and all phones identified through cell tower dumps
    3. All aircraft tail numbers listed in Schedule A: SU-BTT, SU-BND, SU-BTU, SU-BTV, SU-BGM, N1098L, N888KG, N59906, N560TW, N102DZ, N40JD, N872RA, 99-0404, T7ELL, EJM36, N55906, and N582MM
    4. All addresses and locations referenced in Schedule A, including Fort Huachuca AZ, One Rodney Square Wilmington DE, UVU campus, Provo Municipal Airport, and the AES facility in Nashville
    5. All financial account numbers, wire transfer identifiers, and transaction records referenced in Schedule A
@@ -891,7 +891,7 @@ The Congress finds the following:
    4. Contradict or supplement the official investigation narrative
    5. Relate to any foreign intelligence service activity in the State of Utah during the period January 1, 2025 through December 31, 2025
    6. Relate to threats against Charlie Kirk or similarly situated public figures by any foreign or domestic entity
-   7. Relate to any of the specific items enumerated in Schedule A, including but not limited to: foreign aircraft activity (Items #1, #81-#86), Israeli cell phones at UVU (Items #26, #87-#91), electronic jamming (Item #11), drone and surveillance operations (Items #8, #9, #12, #15, #155-#160), foreign intelligence contacts with TPUSA personnel (Items #3-#4, #53, #161-#166), psychological operations (Item #38), and international liaison communications (Items #172-#176)
+   7. Relate to any of the specific items enumerated in Schedule A, including but not limited to: foreign aircraft activity (Items #1, #81-#86), foreign cell phones at UVU (Items #26, #87-#91), electronic jamming (Item #11), drone and surveillance operations (Items #8, #9, #12, #15, #155-#160), foreign intelligence contacts with TPUSA personnel (Items #3-#4, #53, #161-#166), psychological operations (Item #38), and international liaison communications (Items #172-#176)
    8. Relate to any aspect of the Charlie Kirk investigation, the prosecution of Tyler Robinson, or any matter that could help establish the full truth about the circumstances of Charlie Kirk's death
 
 (c) **"Final output information"** means all intelligence products, including but not limited to: raw signals intelligence intercepts and transcripts, satellite imagery, cable traffic, source reports, briefing materials, intelligence assessments, analytical products, and any information from which conclusions were or could be drawn. The distinction between raw intelligence and finished intelligence shall not be used to withhold any covered information. The only permissible exclusions from final output information are the specific identity of currently active human intelligence sources whose disclosure would create an imminent threat to life, and specific technical collection methods currently in active operational use — but the substantive content, conclusions, and factual findings derived from such sources and methods shall always be disclosed.
@@ -940,7 +940,7 @@ The Congress finds the following:
 (e) No blanket exemptions or classifications shall be permitted.
 
 (f) **Third Party Rule Override and Foreign Liaison Information.** The Third Party Rule — the intelligence-sharing convention under which information received from a foreign government or foreign intelligence service may not be disclosed without that partner's consent — shall not apply to any covered information under this Act. Congress, exercising its constitutional authority over national security oversight and its power to compel disclosure of all information in the possession of the United States government, hereby overrides any agreement, memorandum of understanding, intelligence-sharing compact, or informal arrangement between any Intelligence Community agency and any foreign government, foreign intelligence service, or international organization that would restrict disclosure of covered information. This override applies to all forms of intelligence received from any foreign source, including but not limited to:
-   1. The State of Israel and the Mossad, Shin Bet, and Aman — including any intelligence related to the approximately 12 Israeli-registered cell phones detected at or near Utah Valley University on or around September 10, 2025
+   1. Any foreign government and its intelligence services — including any intelligence related to the approximately 12 foreign-registered cell phones detected at or near Utah Valley University on or around September 10, 2025
    2. The Arab Republic of Egypt and the Egyptian General Intelligence Directorate (GID) — including any intelligence related to Egyptian-registered aircraft (SU-BTT, SU-BND) and military contractors with Defense Attache badges observed in the Provo, Utah area
    3. The United Kingdom and MI5, MI6, and GCHQ
    4. All Five Eyes partners: Australia (ASIS, ASD), Canada (CSIS, CSE), and New Zealand (NZSIS, GCSB)
@@ -956,17 +956,17 @@ No Intelligence Community agency may withhold, delay, or redact any covered info
    5. Regardless of whether foreign partners authorize disclosure, all covered information in the possession of the United States shall be disclosed as required by this Act
 
 (h) **Foreign Government Records and Diplomatic Channels.** Within 15 days of enactment:
-   1. The Secretary of State shall invoke all applicable Mutual Legal Assistance Treaties (MLATs) with the Arab Republic of Egypt, the State of Israel, and the French Republic, formally requesting production of all records in those governments' possession related to the death of Charlie Kirk, including intelligence files, diplomatic communications, military contractor records, and aircraft operations
-   2. The Director of National Intelligence shall submit formal requests through intelligence liaison channels to the intelligence services of Egypt (GID), Israel (Mossad, Shin Bet, Aman), France (DGSE, DGSI), the United Kingdom (MI5, MI6, GCHQ), and all Five Eyes partners for production of all information related to the death of Charlie Kirk
+   1. The Secretary of State shall invoke all applicable Mutual Legal Assistance Treaties (MLATs) with any foreign government identified as possessing relevant records, including but not limited to the Arab Republic of Egypt and the French Republic, formally requesting production of all records in those governments' possession related to the death of Charlie Kirk, including intelligence files, diplomatic communications, military contractor records, and aircraft operations
+   2. The Director of National Intelligence shall submit formal requests through intelligence liaison channels to the intelligence services of all foreign governments identified as possessing relevant records, including but not limited to Egypt (GID), France (DGSE, DGSI), the United Kingdom (MI5, MI6, GCHQ), and all Five Eyes partners for production of all information related to the death of Charlie Kirk
    3. Each covered agency shall disclose all prior diplomatic or intelligence-sharing communications with any foreign government regarding the investigation, including communications predating enactment of this Act
    4. If any foreign government refuses to comply with a request under this subsection or fails to respond within 60 days, the Director of National Intelligence shall publicly report that refusal or non-response, including the scope of information believed to be held by that government, within 7 days of the refusal or the expiration of the 60-day period
    5. **No Diplomatic Immunity for Evidence.** No claim of diplomatic immunity, sovereign immunity, or act-of-state doctrine may be used to withhold records from the review board or any investigation team. Any person claiming diplomatic immunity to avoid producing covered records shall be reported to Congress within 7 days.
 
 (i) **Declassification of Covered Information.** All classification markings on covered information are automatically removed upon enactment of this Act. No covered information may be reclassified after disclosure under this Act. Covered agencies shall process declassification within the 30-day disclosure window. Classification shall not excuse non-production; if an agency cannot complete declassification review within 30 days, the information shall be produced to the review board in classified form, with a public version produced simultaneously, and the full unclassified version produced within 60 days. Any agency seeking to maintain classification on specific covered records must petition the review board established under Section 9 within 7 days of enactment, identifying each record with particularity and demonstrating by clear and convincing evidence that disclosure would cause grave and imminent harm to an identified national security interest. The burden of proof rests entirely on the petitioning agency. The review board shall rule on all such petitions within 14 days. Failure to petition within 7 days constitutes a waiver of any classification claim.
 
-## Section 4A: No Israel Exception
+## Section 4A: No Foreign Government Exception
 
-(a) No covered information shall be withheld on the basis that it relates to, was received from, or could affect relations with the State of Israel, Israeli intelligence services (including Mossad, Shin Bet, and Aman), or any entity acting on behalf of or in coordination with Israel. (b) The documented pattern of suppressing Israel-related records in the JFK Assassination Records Collection Act (100,000+ documents relating to Israeli involvement remain unreleased after 60+ years) and the Epstein Files Transparency Act (records connecting Epstein to Mossad operations heavily redacted) shall not be repeated under this Act. (c) This prohibition extends to records relating to the Arab Republic of Egypt, the Egyptian General Intelligence Directorate, and the French Republic and DGSE, where those nations may be acting as proxies for or in coordination with Israeli intelligence. (d) Any invocation of Israeli relations, Israeli intelligence cooperation, or Israeli diplomatic sensitivities to justify withholding constitutes obstruction under Section 5.
+(a) No covered information shall be withheld on the basis that it relates to, was received from, or could affect relations with any foreign government, any foreign intelligence service, or any entity acting on behalf of or in coordination with any foreign government. (b) The documented pattern of suppressing foreign-government-related records in the JFK Assassination Records Collection Act (100,000+ documents relating to foreign government involvement remain unreleased after 60+ years) and the Epstein Files Transparency Act (records connecting Epstein to foreign intelligence operations heavily redacted) shall not be repeated under this Act. (c) This prohibition extends to records relating to any foreign government or foreign intelligence service, including but not limited to any foreign government that may be acting through proxies or in coordination with other foreign intelligence services. (d) Any invocation of foreign government relations, foreign intelligence cooperation, or foreign diplomatic sensitivities to justify withholding constitutes obstruction under Section 5.
 
 ## Section 5: Criminal Prohibition on Obstruction and Penalties for Non-Compliance
 
@@ -1078,7 +1078,7 @@ The review board shall acknowledge receipt of all submissions within 7 days. No 
 
 (f) **Special Master.** Upon a finding of non-compliance by any covered agency, any federal district court may appoint a Special Master with authority to: (1) access agency systems, databases, and physical storage facilities, including classified compartments; (2) compel production of specific records; (3) report directly to the court and the review board; and (4) be funded by the non-compliant agency's budget. The review board may petition any federal court for appointment of a Special Master without demonstrating individual standing.
 
-(g) Each of the 219 items in Schedule A that falls within intelligence jurisdiction shall be individually addressed in the compliance report with specific response.
+(g) Each of the 220 items in Schedule A that falls within intelligence jurisdiction shall be individually addressed in the compliance report with specific response.
 
 (h) Monthly compliance reports shall be provided to Congress.
 
@@ -1106,6 +1106,8 @@ The review board shall acknowledge receipt of all submissions within 7 days. No 
 
 (a) Any citizen of the United States may bring an action in the United States District Court for the District of Columbia to compel compliance with this Act, provided that: (1) the citizen has provided 60 days' written notice to the non-compliant agency and the Director of National Intelligence specifying the alleged non-compliance; (2) the 30-day disclosure deadline under Section 2 has passed; and (3) the alleged non-compliance has not been fully remedied during the notice period. The injury cognizable under this section is the denial of the statutory right to receive covered information disclosed under this Act.
 
+(a-1) **Emergency Injunction for Imminent Evidence Destruction.** Notwithstanding the 60-day notice requirement of subsection (a), any citizen may file an emergency action without prior notice when the citizen has a reasonable basis to believe that covered records are being destroyed, concealed, altered, or transferred in a manner that would frustrate the purposes of this Act. The court shall hold a hearing within 48 hours of filing and may issue a temporary restraining order or preliminary injunction to preserve records without bond. The standard for such emergency relief shall be a showing that: (1) there is a reasonable basis to believe evidence destruction or concealment is imminent or ongoing; and (2) the records at issue are or may be covered records under this Act.
+
 (b) Courts shall apply a presumption in favor of disclosure in any proceeding under this Act.
 
 (c) Prevailing plaintiffs shall receive reasonable attorney's fees and costs.
@@ -1118,7 +1120,7 @@ The review board shall acknowledge receipt of all submissions within 7 days. No 
    1. All categories of information released and withheld
    2. A summary of redactions made, including the legal basis for each
    3. A list of all government officials and foreign government officials named or referenced in the released materials, with no redactions permitted
-   4. Certification that all 219 Schedule A items have been fully addressed, with specific response to each item
+   4. Certification that all 220 Schedule A items have been fully addressed, with specific response to each item
 
 ## Section 11: Mandatory Appropriations and Funding Protection
 
@@ -1202,7 +1204,7 @@ The statute of limitations for any criminal offense under this Act shall be 45 y
 (a) This Act is one of four companion statutes addressing the death of Charlie Kirk:
    1. **Law 1: Charlie Kirk Files Forced Disclosure Act — Law Enforcement** (requiring DoJ, FBI, ATF, CBP, TSA, DHS, FinCEN, and all federal, state, and local law enforcement agencies to disclose all files related to the investigation)
    2. **Law 2: This Act** (requiring all Intelligence Community agencies to disclose all intelligence-related files)
-   3. **Law 3: Charlie Kirk Mandatory Investigation Act** (requiring the FBI and Intelligence Community to conduct a thorough, good-faith investigation of all 219 Schedule A items)
+   3. **Law 3: Charlie Kirk Mandatory Investigation Act** (requiring the FBI and Intelligence Community to conduct a thorough, good-faith investigation of all 220 Schedule A items)
    4. **Law 4: Charlie Kirk Trusted Investigators Act** (establishing independent investigation teams led by Designated Trusted Investigators with full access to all agency files)
 
 (b) **Independent Operation and Standalone Fallback.** This Act shall be fully operative and enforceable regardless of whether any companion legislation is enacted, funded, or remains in effect. No provision of this Act is contingent upon the enactment or continued operation of any other statute. References to Designated Trusted Investigators shall, if the Charlie Kirk Trusted Investigators Act (Law 4) is not enacted, vest equivalent authority in the Congressional Review Board established under Section 9 of this Act, including all investigative powers, access rights, and reporting obligations that would otherwise be exercised by Designated Trusted Investigators. References to investigation teams under the Charlie Kirk Mandatory Investigation Act (Law 3) shall, if that Act is not enacted, vest equivalent investigative authority in the review board, which may appoint independent investigators with the same powers. If a companion statute is enacted, definitions, Schedule A, and Schedule B shall be construed consistently across all companion statutes, with the broader definition controlling in any case of conflict.
@@ -1275,7 +1277,7 @@ The following definitions supplement and are consistent with the definitions pro
 
 (c) **"Disclosure body"** means the independent review board established under Section 9 of this Act, including any Special Master appointed under Section 9(f), and any successor body exercising the review board's functions.
 
-(d) **"People Involved"** or **"People Listed"** means the categories of persons defined in Schedule B of this Act, encompassing all 35 categories (a through ii) of persons with potential knowledge of or involvement in matters addressed by this Act, as enumerated in categories P1 through P35.
+(d) **"People Involved"** or **"People Listed"** means the categories of persons defined in Schedule B of this Act, encompassing all 35 categories (P1 through P35) of persons with potential knowledge of or involvement in matters addressed by this Act.
 
 ---
 
