@@ -8,7 +8,7 @@ AUTHOR: Bryan Starbuck (BryanStarbuck@gmail.com)
 The Charlie Kirk Mandatory Investigation Act
 
 ## Purpose
-To require the Federal Bureau of Investigation, the Central Intelligence Agency, the National Security Agency, and the United States Intelligence Community (via the Director of National Intelligence) to each conduct independent, thorough, complete, and good-faith investigations into the death of Charlie Kirk, pursuing all leads including those identified in the 217 Critical Disclosure Items (Schedule A), and to make the findings of such investigations publicly available through mandatory disclosure reports every 6 months.
+To require the Federal Bureau of Investigation, the Central Intelligence Agency, the National Security Agency, and the United States Intelligence Community (via the Director of National Intelligence) to each conduct independent, thorough, complete, and good-faith investigations into the death of Charlie Kirk, pursuing all leads including those identified in the 220 Critical Disclosure Items (Schedule A), and to make the findings of such investigations publicly available through mandatory disclosure reports every 6 months.
 
 ## Section 0: Congressional Findings
 
@@ -187,7 +187,7 @@ The Congress finds the following:
    3. Electronic equipment installed at or directed at Lance Twiggs' residence
 
 **Pre-Planning and Foreknowledge:**
-   1. Meetings at Fort Huachuca, AZ (September 1-11, 2025) -- attendees, topics, connection to Kirk
+   1. Meetings at Fort Huachuca, AZ (September 1-11, 2025) -- attendees, topics, connection to Kirk, and aircraft N582MM's documented presence at Fort Huachuca on October 4–5, 2025
    2. Meetings at One Rodney Square, Wilmington, DE (September 1-11, 2025)
    3. TPUSA security planning for UVU -- the planning window timeline compared to standard practice for comparable events
    4. Charlie Kirk's communications expressing fear for his life -- who he told, when, exact content
@@ -245,7 +245,7 @@ The Congress finds the following:
    18. All records of the AES factory explosion investigation and its connection to DoD contract N0016425PJ538 (Item #202)
    19. Tyler Robinson's complete travel path before and after the shooting, all prior visits to UVU campus, all evidence regarding Robinson's exact position at the moment of the shot, and all video footage and analysis of whether the rooftop suspect was running or stationary when the shot was fired (Items #202-#206)
 
-(b) **Schedule A** shall be the document titled "Charlie Kirk 217 Critical Disclosure Items" as maintained in the public repository at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, as of the date of enactment, incorporated by reference and attached as an appendix to this Act.
+(b) **Schedule A** shall be the document titled "Charlie Kirk 220 Critical Disclosure Items" as maintained in the public repository at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, as of the date of enactment, incorporated by reference and attached as an appendix to this Act.
 
 (b-1) **Schedule A Count Reconciliation.** In the event of any discrepancy between the Schedule A item count referenced in this Act and the Schedule A item count in any companion Act (the Charlie Kirk Files Forced Disclosure Act, the Charlie Kirk Intelligence Services Disclosure Act, or the Charlie Kirk Trusted Investigators Act), the higher count controls, and the most comprehensive version of each individual item across all four Acts shall be deemed incorporated.
 
@@ -254,7 +254,7 @@ The Congress finds the following:
 
 ---
 
-## Schedule A: 217 Critical Disclosure Items
+## Schedule A: 220 Critical Disclosure Items
 
 Construction and Application:
 
@@ -310,7 +310,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 ### Intelligence Service Discovery (#1–#56)
 
-* #1: Aircraft Records for Listed Planes: The investigation teams shall investigate and produce all records relating to the following aircraft: SU-BTT, SU-BND, SU-BTU, SU-BTV, SU-BGM, N1098L, N888KG, N59906, N560TW, N102DZ, N40JD, N872RA, 99-0404, T7ELL, EJM36, and N55906 — including location, passengers, crew, cargo, and anyone who flew on them within 2 weeks before or on the day of the assassination. The investigation shall encompass all records related to investigating the assassination or anything peripheral, or any connection to anyone in the Charlie Kirk investigation.
+* #1: Aircraft Records for Listed Planes: The investigation teams shall investigate and produce all records relating to the following aircraft: SU-BTT, SU-BND, SU-BTU, SU-BTV, SU-BGM, N1098L, N888KG, N59906, N560TW, N102DZ, N40JD, N872RA, 99-0404, T7ELL, EJM36, N55906, and N582MM — including location, passengers, crew, cargo, and anyone who flew on them within 2 weeks before or on the day of the assassination. The investigation shall encompass all records related to investigating the assassination or anything peripheral, or any connection to anyone in the Charlie Kirk investigation.
 
 * #2: Foreign Threats Against Charlie Kirk: The investigation teams shall investigate and produce all records relating to threats, plans, or actions by any foreign intelligence service or country toward assassination of Charlie Kirk, including consideration of such actions, or hiring contractors to carry them out. The investigation shall encompass all records relating to any foreign government or entity that discussed, planned, or considered harm to Charlie Kirk in any capacity.
 
@@ -366,7 +366,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 * #28: Wilmington DE Meetings (Sept 1–11): The investigation teams shall investigate and produce all records relating to who attended and what was discussed at any meeting at the One Rodney Square building (920 North King St, Wilmington, DE) from September 1–11, 2025, including anything about Charlie Kirk, UVU, or someone being killed, whether in Suite 404 or elsewhere. The investigation shall encompass all records relating to any meeting at that location during that period involving any person connected to the investigation.
 
-* #29: Fort Huachuca Meetings (Sept 1–11): The investigation teams shall investigate and produce all records relating to who attended and what was discussed at any meeting at Fort Huachuca, AZ, from September 1–11, 2025 (especially September 9), including anything about Charlie Kirk, UVU, or someone being killed. The investigation shall encompass all records relating to any intelligence or military meeting at Fort Huachuca during that period related to domestic targets or operations.
+* #29: Fort Huachuca Meetings (Sept 1–11): The investigation teams shall investigate and produce all records relating to who attended and what was discussed at any meeting at Fort Huachuca, AZ, from September 1–11, 2025 (especially September 9), including anything about Charlie Kirk, UVU, or someone being killed. The investigation shall encompass all records relating to any intelligence or military meeting at Fort Huachuca during that period related to domestic targets or operations. The investigation teams shall specifically investigate aircraft N582MM — a plane frequently used by TPUSA insiders — including its October 4–5, 2025 presence at Fort Huachuca followed by an immediate flight to Kalispell, Montana coinciding with a TPUSA security team gathering in the same area, and all records of who was aboard this aircraft for any flight to or from Fort Huachuca at any time.
 
 * #30: Fort Huachuca Attendee Identification: The investigation teams shall investigate and produce all records relating to whether PERSON_10_REDACTED or PERSON_7_REDACTED attended any meeting at Fort Huachuca, AZ, from September 1–11, 2025, especially September 9. The investigation shall encompass all records relating to any person connected to Charlie Kirk or TPUSA who was present at Fort Huachuca during that period.
 
@@ -490,7 +490,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 ### Egyptian Planes (#81–#86)
 
-* #81: Egyptian Plane SU-BTT Flight Records: The investigation teams shall investigate and produce all flight records for Egyptian plane SU-BTT, including flight plans and arrival records for the September 4, 2025, Provo arrival. The investigation shall encompass all records relating to any flight by this aircraft to or within the United States during 2025.
+* #81: Egyptian Plane SU-BTT Flight Records: The investigation teams shall investigate and produce all flight records for Egyptian plane SU-BTT, including flight plans and arrival records for the September 4, 2025, Provo arrival. The investigation shall encompass all records relating to any flight by this aircraft to or within the United States during 2025 and 2026. The investigation teams shall specifically investigate the return of Egyptian-registered aircraft to Provo, Utah in March 2026, including passenger manifests, cargo, purpose of travel, and any connection to the timing of Brigitte Macron's concurrent visit to Washington D.C., and whether a pattern exists between Egyptian aircraft movements and French diplomatic travel.
 
 * #82: Egyptian Plane SU-BND Flight Records: The investigation teams shall investigate and produce all flight records for Egyptian plane SU-BND, including transponder activation records around September 15, 2025. The investigation shall encompass all records relating to any flight by this aircraft to or within the United States during 2025.
 
@@ -850,6 +850,18 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 * #211: Independent Ballistics and Forensic Testing: The external independent oversight board established under Section 6 is hereby granted explicit authority to commission independent ballistics testing, acoustic analysis, explosive residue testing, metallurgical examination, and any other forensic testing it deems necessary, using experts selected by the oversight board and not by any covered agency. The investigation teams shall produce all existing ballistics analyses, acoustic analyses, explosive residue tests, and metallurgical examinations. The oversight board may conduct independent testing to verify, supplement, or challenge any existing agency analysis, including but not limited to: (1) independent determination of whether a 9mm weapon was fired; (2) independent analysis of whether the microphone or other equipment contained explosive material; (3) acoustic analysis of gunshot origin and trajectory; and (4) metallurgical analysis of all fragments recovered from the scene or from Charlie Kirk's body. No covered agency may obstruct, delay, or interfere with independent testing authorized under this item.
 
+### TPUSA Insider Aircraft N582MM (#218)
+
+* #218: TPUSA Insider Aircraft N582MM: The investigation teams shall investigate and produce all flight records, passenger manifests, crew lists, fuel purchase records, and FBO service records for aircraft N582MM from January 1, 2025, through the present, including but not limited to: (1) the September 10, 2025 flight from Chicago to Provo on the day of Charlie Kirk's assassination — who was aboard, who arranged the flight, and the purpose of travel; (2) the October 4–5, 2025 flights to and from Fort Huachuca, AZ, including who was aboard, the purpose of the visit, and the immediate subsequent flight to Kalispell, Montana; (3) any connection between the Kalispell flight and the TPUSA security team gathering in the same area; (4) all flights to or from any location referenced in Schedule A; (5) the complete flight history showing all destinations and passengers; and (6) the identity of all persons who chartered, paid for, or arranged flights on this aircraft. The investigation shall encompass all records relating to any TPUSA-affiliated person who traveled on any private aircraft to Provo, Utah on September 10, 2025, and the purpose of their travel.
+
+### Egyptian Aircraft Return to Provo (#219)
+
+* #219: Egyptian Aircraft Return to Provo in 2026: The investigation teams shall investigate and produce all records relating to the return of Egyptian-registered aircraft (SU-BTT, SU-BND, SU-BTU, SU-BTV, SU-BGM, and any other Egyptian-registered aircraft) to Provo, Utah, or any Utah airport in 2026, including but not limited to: (1) all flight records, passenger manifests, crew lists, and cargo manifests; (2) the purpose of travel and all ground activities of passengers after arrival; (3) any correlation between the timing of Egyptian aircraft arrivals in Utah and French diplomatic visits to the United States, including Brigitte Macron's March 2026 visit to Washington D.C.; (4) all records establishing a pattern of coordinated movement between Egyptian aircraft and French diplomatic travel; and (5) all intelligence or investigative assessments of the operational significance of repeated Egyptian military aircraft visits to Provo. The investigation shall encompass all records relating to any Egyptian-registered aircraft visiting any U.S. airport within 48 hours before or after any diplomatic visit by any French official during 2025–2026.
+
+### TPUSA Employee and Contractor Unusual Payments (#220)
+
+* #220: TPUSA Employee and Contractor Payment Audit: The investigation teams shall investigate and produce all financial records — including bank records, wire transfers, checks, digital payments, trust distributions, insurance payouts, real estate transactions, gifts, and any other transfer of value — received by any employee, contractor, consultant, board member, or officer of TPUSA (including but not limited to Erika Kirk) during the period from May 10, 2025 (four months before the assassination) through January 10, 2026 (four months after the assassination). This investigation shall specifically identify any single payment or series of related payments exceeding $100,000 from any source. Excluded from this disclosure requirement are: (1) regular W-2 salary payments from TPUSA at the recipient's established pay rate; and (2) distributions from companies in which the recipient holds an ownership interest that are consistent with the company's historical distribution pattern. All other payments exceeding $100,000 — including but not limited to consulting fees, bonuses, life insurance proceeds, severance, trust distributions from trusts in which the recipient is a beneficiary but not the grantor, real estate sale proceeds, gifts, loans, and any payment routed through intermediary entities — shall be investigated and disclosed with full documentation of the source, amount, date, stated purpose, and the identity of the payor. The investigation teams shall also obtain all FinCEN records, Suspicious Activity Reports, and Currency Transaction Reports related to any TPUSA-connected individual during this period.
+
 ---
 
 ## Schedule B: List of People
@@ -940,10 +952,10 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
    - Employs all available investigative tools and resources
    - Does not exclude any suspect, theory, or line of inquiry without documented justification reviewed by the external independent oversight board
    - Is conducted with the same rigor as any investigation of the death of a prominent public figure
-   - Specifically investigates all leads and theories identified in Schedule A (217 Critical Disclosure Items), including but not limited to: the exploding microphone theory, foreign intelligence service involvement, evidence of cover-up, alternative shooters, evidence planting, and electronic warfare
+   - Specifically investigates all leads and theories identified in Schedule A (220 Critical Disclosure Items), including but not limited to: the exploding microphone theory, foreign intelligence service involvement, evidence of cover-up, alternative shooters, evidence planting, and electronic warfare
    - Does not treat any government agency, intelligence service, or foreign government as exempt from suspicion
 
-(d) **"Schedule A"** means the document titled "Charlie Kirk 217 Critical Disclosure Items" as maintained at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, incorporated by reference and attached as an appendix to this Act.
+(d) **"Schedule A"** means the document titled "Charlie Kirk 220 Critical Disclosure Items" as maintained at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, incorporated by reference and attached as an appendix to this Act.
 
 (e) **"Death of Charlie Kirk"** means the killing of Charles J. Kirk on September 10, 2025, at Utah Valley University, Orem, Utah, and all events, planning, coordination, and circumstances leading to, surrounding, and following that event.
 
@@ -958,7 +970,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 (j) **"Final output information"** means all intelligence and investigative products, including but not limited to: raw signals intelligence intercepts and transcripts, satellite imagery, cable traffic, source reports, briefing materials, intelligence assessments, analytical products, forensic data, and any information from which conclusions were or could be drawn. The distinction between raw intelligence and finished intelligence, or between raw investigative data and completed analyses, shall not be used to withhold any covered record. Investigation teams shall have access to all raw intelligence and raw investigative data, not merely the analytical conclusions derived therefrom.
 
 (k) **"Covered records"** means any and all files, documents, communications, reports, forensic evidence, witness statements, surveillance records, digital records, photographs, video recordings, audio recordings, cell site location information, geofence warrant data, flight records, financial records, ballistics analyses, autopsy reports, crime scene evidence, and any other information, in any format, that is related to or could reasonably assist in understanding the circumstances of the death of Charlie Kirk, including but not limited to:
-   1. All records specifically enumerated in Schedule A (217 Critical Disclosure Items)
+   1. All records specifically enumerated in Schedule A (220 Critical Disclosure Items)
    2. Any records that could identify or suggest the identity of any person involved in, connected to, or with knowledge of the death
    3. Any records relating to foreign intelligence service activity in the State of Utah during the period January 1, 2025 through December 31, 2025
    4. Any records relating to threats against Charlie Kirk or similarly situated public figures
