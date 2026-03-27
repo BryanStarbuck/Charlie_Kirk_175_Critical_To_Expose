@@ -7,7 +7,7 @@ AUTHOR: Bryan Starbuck (BryanStarbuck@gmail.com)
 This Act may be cited as the **"Charlie Kirk Trusted Investigators Act."**
 
 ## Purpose
-To establish independent investigation teams led by designated trusted public figures, embedded within federal law enforcement and intelligence agencies, with full authority to investigate the death of Charlie Kirk -- including all leads identified in the 208 Critical Disclosure Items (Schedule A) -- and to publicly release their findings.
+To establish independent investigation teams led by designated trusted public figures, embedded within federal law enforcement and intelligence agencies, with full authority to investigate the death of Charlie Kirk -- including all leads identified in the 217 Critical Disclosure Items (Schedule A) -- and to publicly release their findings.
 
 **Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
 
@@ -43,10 +43,9 @@ The Congress finds the following:
    13. Collin Campbell
    14. Baron Coleman
    15. Ryan Matta
-   16. Bryan Starbuck
-   17. Megyn Kelly
+   16. Megyn Kelly
 
-(a-1) **Government Employee Resignation or Leave Requirement.** Any Designated Trusted Investigator named in subsection (a) who holds a federal, state, or local government position — including but not limited to Joe Kent (Director of the National Counterterrorism Center) and Tulsi Gabbard (Director of National Intelligence) — shall, prior to assuming the duties of Designated Trusted Investigator, either resign from their government position or take a formal unpaid leave of absence for the duration of their service under this Act. No person may simultaneously serve as a Designated Trusted Investigator and hold any government position that could create a constitutional conflict under the Appointments Clause or the Incompatibility Clause (Article I, Section 6, Clause 2) or any conflict of interest with the investigation. The resignation or leave requirement shall be completed within 14 days of enactment. Failure to comply within 14 days shall result in the automatic succession of the pre-confirmed deputy investigator under Section 10.
+(a-1) **Government Employee Resignation or Leave Requirement.** Any Designated Trusted Investigator named in subsection (a) who holds a federal, state, or local government position — including but not limited to Joe Kent (Director of the National Counterterrorism Center) and Tulsi Gabbard (Director of National Intelligence) — shall, prior to assuming the duties of Designated Trusted Investigator, either resign from their government position or take a formal unpaid leave of absence for the duration of their service under this Act. No person may simultaneously serve as a Designated Trusted Investigator and hold any government position that could create a constitutional conflict under the Appointments Clause or the Incompatibility Clause (Article I, Section 6, Clause 2) or any conflict of interest with the investigation. The resignation or leave requirement shall be completed within 14 days of enactment. Failure to comply within 14 days shall result in the automatic succession of the pre-confirmed deputy investigator under Section 10. Government employees who resign or take unpaid leave under this subsection shall retain all existing security clearances, system access, facility access, and institutional credentials until the interim clearances under Section 2(c) are processed and fully activated, with no gap in access. No agency may revoke, suspend, or administratively process the termination of an existing security clearance for any person who resigns under this subsection until the interim clearance under Section 2(c) is confirmed active.
 
 (b) **"Investigation Team"** means the government employees selected to work with a Designated Trusted Investigator.
 
@@ -54,7 +53,7 @@ The Congress finds the following:
 
 (d) **"Intelligence Investigation Team"** means the team embedded within the relevant Intelligence Community agencies.
 
-(e) **"Schedule A"** means the document titled "Charlie Kirk 208 Critical Disclosure Items" as maintained at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, incorporated by reference and attached as an appendix to this Act.
+(e) **"Schedule A"** means the document titled "Charlie Kirk 217 Critical Disclosure Items" as maintained at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, incorporated by reference and attached as an appendix to this Act. In the event of any discrepancy between the Schedule A item count referenced in this Act and the Schedule A item count in any companion Act, the higher count controls, and the most comprehensive version of each individual item across all four Acts shall be deemed incorporated.
 
 (f) **"Death of Charlie Kirk"** means the killing of Charles J. Kirk on September 10, 2025, at Utah Valley University, Orem, Utah, and all events, planning, coordination, and circumstances leading to, surrounding, and following that event.
 
@@ -67,7 +66,7 @@ The Congress finds the following:
 (j) **"Good-faith compliance"** means the genuine and diligent effort to identify, locate, and provide every covered record, cooperate fully with investigation teams, and facilitate the work of Designated Trusted Investigators without evasion, delay, or use of technicalities to withhold material information or obstruct investigative access.
 
 (k) **"Covered records"** or **"Covered information"** means any and all files, documents, communications, reports, forensic evidence, witness statements, surveillance records, digital records, photographs, video recordings, audio recordings, cell site location information, geofence warrant data, flight records, financial records, ballistics analyses, autopsy reports, crime scene evidence, and any other information, in any format, that is related to or could reasonably assist in understanding the circumstances of the death of Charlie Kirk, including but not limited to:
-   1. All records specifically enumerated in Schedule A (208 Critical Disclosure Items)
+   1. All records specifically enumerated in Schedule A (217 Critical Disclosure Items)
    2. Any records that could identify or suggest the identity of any person involved in, connected to, or with knowledge of the death
    3. Any records relating to foreign intelligence service activity in the State of Utah during the period January 1, 2025 through December 31, 2025
    4. Any records relating to threats against Charlie Kirk or similarly situated public figures
@@ -88,9 +87,11 @@ The Congress finds the following:
    1. One FBI Investigation Team, embedded within the Federal Bureau of Investigation
    2. One Intelligence Investigation Team, embedded within the relevant Intelligence Community agencies
 
-(b) The authorization under subsection (a) shall result in a total of thirty-four (34) investigation teams (seventeen FBI teams and seventeen Intelligence Community teams), each operating independently under their respective Designated Trusted Investigator.
+(b) The authorization under subsection (a) shall result in a total of thirty-two (32) investigation teams (sixteen FBI teams and sixteen Intelligence Community teams), each operating independently under their respective Designated Trusted Investigator.
 
-(c) **Immediate Interim Security Clearances.** Each Designated Trusted Investigator and their selected team members shall receive immediate interim TOP SECRET/SCI security clearances upon appointment, effective on the date of appointment, with full access to all classified information, facilities, and systems required for the investigation. Background investigations shall proceed in parallel but shall not delay or restrict access. No agency may delay, deny, or revoke these clearances to obstruct the investigation. If any agency denies or revokes a security clearance for any Designated Trusted Investigator or team member, the denial or revocation shall be subject to expedited judicial review by a three-judge panel of the United States District Court for the District of Columbia, which shall rule within 14 days. There shall be a presumption that the clearance is validly granted under this Act, and the burden shall be on the denying agency to demonstrate by clear and convincing evidence that the individual poses a specific, articulable, and imminent threat to national security unrelated to the investigation.
+(c) **Immediate Interim Security Clearances.** Each Designated Trusted Investigator and their selected team members shall receive immediate interim TOP SECRET/SCI security clearances upon appointment, effective on the date of appointment, with full access to all classified information, facilities, and systems required for the investigation. Background investigations shall proceed in parallel but shall not delay or restrict access. No agency may delay, deny, or revoke these clearances to obstruct the investigation. If any agency denies or revokes a security clearance for any Designated Trusted Investigator or team member, the denial or revocation shall be subject to expedited judicial review by a three-judge panel of the United States District Court for the District of Columbia, which shall rule within 14 days. There shall be a presumption that the clearance is validly granted under this Act, and the burden shall be on the denying agency to demonstrate by clear and convincing evidence that the individual poses a specific, articulable, and imminent threat to national security unrelated to the investigation. No agency may delay clearance processing for more than 72 hours. Any denial must be made publicly and the stated reason must be published in the Federal Register. Automatic sanctions — including a fine of $100,000 per day and referral for criminal prosecution under Section 7(a) — shall apply to any agency official who files a frivolous or bad-faith clearance denial designed to obstruct the investigation.
+
+No denial of a security clearance for any single Designated Trusted Investigator or team member shall delay, limit, or affect the operations, authority, or access of any other Designated Trusted Investigator or investigation team. Clearance denials are individual matters that do not affect the authority or operations of any other investigation team. No agency may use a clearance denial for one investigator as a basis to restrict access for any other investigator or team.
 
 (d) Each investigation team shall have an independent budget appropriated for the purpose, including funds for independent legal counsel, forensic experts, and security protection.
 
@@ -115,8 +116,16 @@ The Congress finds the following:
 (e) **Positive Incentives for Government Volunteers.** In addition to the protections provided in subsections (b), (c), and (d), the following positive incentives shall apply to government employees who serve on investigation teams:
    1. **Guaranteed Promotion.** Upon completion of service on an investigation team and return to their home agency, each government employee shall receive a promotion of one General Schedule (GS) grade or equivalent grade in their pay system, effective on the date of return. The home agency shall process this promotion within 30 days; failure to do so constitutes a violation of this Act.
    2. **Reduction in Force Protection.** Each government employee who serves on an investigation team shall receive priority placement protection from any reduction in force (RIF) for a period of 5 years following completion of their service. During this period, the employee shall not be subject to involuntary separation, furlough, or downgrading due to RIF actions.
-   3. **Performance Awards for Investigative Breakthroughs.** Designated Trusted Investigators shall have authority to award mandatory performance bonuses of up to $1,000,000 per individual for significant investigative breakthroughs, funded from the investigation budget. A "significant investigative breakthrough" means any finding that identifies previously unknown perpetrators, uncovers evidence of government involvement or cover-up, or materially advances the investigation on any Schedule A item. The Designated Trusted Investigator shall have sole discretion in determining eligibility.
-   4. **Whistleblower Bounty Program.** There is hereby established an SEC-style whistleblower bounty program for information leading to major findings in the investigation. Any person — including government employees serving on investigation teams — who provides original information that leads to a significant finding shall be eligible for an award of 10% to 30% of any fine, penalty, or budget reduction imposed as a result of the finding, with a minimum award of $100,000. The Designated Trusted Investigator shall determine bounty eligibility and amounts.
+   3. **Service Awards for Investigative Contributions.** The Independent Oversight and Special Master established under Section 9A shall have authority to award service awards of up to $250,000 per individual for significant investigative contributions, funded from the investigation budget. A "significant investigative contribution" means any finding that identifies previously unknown perpetrators, uncovers evidence of government involvement or cover-up, or materially advances the investigation on any Schedule A item. Awards over $100,000 require approval by the Independent Oversight and Special Master. All awards require independent verification of the finding by the Independent Oversight and Special Master before issuance. The Designated Trusted Investigator shall nominate individuals for awards, but the Independent Oversight and Special Master shall make the final determination.
+   4. **Whistleblower Bounty Program.** There is hereby established an SEC-style whistleblower bounty program for information leading to major findings in the investigation. Any person — including government employees serving on investigation teams — who provides original information that leads to a significant finding shall be eligible for an award of 10% to 30% of any fine, penalty, or budget reduction imposed as a result of the finding, with a minimum award of $100,000. For information identifying foreign intelligence service involvement in the death of Charlie Kirk, the minimum award shall be $1,000,000. Any whistleblower who provides information identifying foreign intelligence service involvement and who faces credible threats to personal safety shall be eligible for witness protection, including relocation and new identity, funded from the investigation budget. The Designated Trusted Investigator shall coordinate with the U.S. Marshals Service Witness Security Program to provide protection to any whistleblower facing credible threats. The Designated Trusted Investigator shall determine bounty eligibility and amounts.
+
+(f) **Anonymous Application Channels.** The investigation teams shall maintain anonymous application channels — including secure websites hosted outside government systems and physical drop locations — through which government employees may contact Designated Trusted Investigators without routing through agency IT systems or chain of command. These channels shall be established within 14 days of enactment and shall be publicly advertised through means independent of covered agencies.
+
+(g) **Criminal Penalties for Manager Surveillance.** Any manager, supervisor, or agency official who monitors, surveils, tracks, or attempts to identify employees who volunteer for or communicate with investigation teams shall be subject to criminal prosecution and imprisonment of up to 10 years. This prohibition includes monitoring of agency email systems, badge access logs, network activity, phone records, or any other means of identifying employees who have contacted Designated Trusted Investigators. The prohibition in this subsection is in addition to the unlawful conduct described in subsection (c).
+
+(h) **Mandatory Polygraph for Investigation Team Members.** All investigation team members — including agents, analysts, support staff, and any person with access to investigation materials — shall undergo a polygraph examination prior to assignment and annually thereafter. The polygraph shall specifically address: (1) whether the individual has had any prior contact, communication, or relationship with any intelligence service — domestic or foreign — regarding the Charlie Kirk case; (2) whether the individual has been directed, requested, or encouraged by any person to influence, delay, or obstruct any investigation under this Act; and (3) whether the individual has disclosed or intends to disclose investigation strategy, findings, or materials to any person not authorized to receive them. Polygraph examiners shall be selected by the Independent Oversight and Special Master established under Section 9A, not by the host agency. No host agency polygraph examiner may administer these examinations. Failure to submit to a polygraph or deceptive results shall result in immediate removal from the investigation team.
+
+(i) **Unrestricted At-Will Removal Authority.** Each Designated Trusted Investigator may remove any team member at will, without cause or explanation, at any time. This at-will removal authority is absolute and may not be constrained by civil service protections, union agreements, grievance procedures, or any other employment protection during the period of investigation team service. If a Designated Trusted Investigator develops any suspicion — however informal — that a team member may be compromised, the investigator may act immediately. Removed team members shall be reassigned to duties unrelated to the Charlie Kirk investigation, shall have no further access to investigation materials, and shall be debriefed under polygraph regarding any information they may have transmitted to unauthorized persons during their service.
 
 ## Section 3A: Broad Investigative Mandate
 
@@ -143,7 +152,7 @@ The Congress finds the following:
 (a) Each investigation team shall have:
    - Full access to all files, records, databases, and systems of their host agency and any other covered agency under Laws 1 and 2
    - Full access to all records produced under the DoJ/FBI Forced Disclosure Act (Law 1) and the Intelligence Services Disclosure Act (Law 2)
-   - Full access to all 208 items in Schedule A and all records responsive to Schedule A
+   - Full access to all 217 items in Schedule A and all records responsive to Schedule A
    - Authority to interview any government employee
    - Authority to compel production of any document or record
    - Authority to conduct forensic analysis of any evidence
@@ -158,6 +167,14 @@ The Congress finds the following:
    - Require approval from any agency official for any investigative action
    - Monitor, surveil, or interfere with team communications
    - Withhold any record on the basis of classification, privilege, or any other exemption (subject only to the narrow source protection in Section 5(b))
+
+(c) **Investigator-Selected IT Support.** Agency IT support staff assigned to investigation teams shall be selected by the Designated Trusted Investigator, not the host agency. Investigation teams shall have their own database search tools and analytical software, procured independently and funded from the investigation budget under Section 13. No agency IT staff member may be assigned to an investigation team without the express written approval of the Designated Trusted Investigator.
+
+(d) **No Minders.** No "liaison officer," "minder," or agency monitor may be assigned to or embedded within any investigation team. Investigation teams operate independently within agency facilities. Any agency that assigns or attempts to assign a monitor, liaison, or minder to an investigation team without the Designated Trusted Investigator's request commits a violation of Section 7(a).
+
+(e) **24/7 Access.** Investigation teams shall have 24/7 access to all facilities, systems, and databases — access may not be limited to business hours. Each investigation team shall be provided with independent badge access, key cards, and credentials granting unrestricted entry to all areas of all covered agency facilities at all times, including weekends and holidays.
+
+(f) **Authority to Compel Testimony of Foreign Nationals.** Each Designated Trusted Investigator and investigation team shall have authority to issue subpoenas to any person physically present in the United States, regardless of citizenship or immigration status. For persons claiming diplomatic immunity, the Secretary of State shall request a waiver of immunity from the sending state within 14 days of the Designated Trusted Investigator's written request. If the sending state refuses the waiver, the Secretary of State shall publicly report the refusal to Congress and all Designated Trusted Investigators within 7 days. Refusal by a foreign government to waive diplomatic immunity shall trigger automatic congressional review of all aid, intelligence-sharing, and diplomatic agreements with that government.
 
 ## Section 4A: Prohibited Grounds for Withholding from Investigation Teams
 
@@ -184,6 +201,10 @@ The Congress finds the following:
 
 (e) **Third Party Rule Override and Foreign Liaison Information.** The Third Party Rule — the intelligence-sharing convention under which information received from a foreign government or foreign intelligence service may not be disclosed without that partner's consent — shall not apply to any covered record provided to or sought by any Designated Trusted Investigator or investigation team under this Act. Congress hereby overrides any agreement, memorandum of understanding, intelligence-sharing compact, or informal arrangement between any covered agency and any foreign government, foreign intelligence service, or international organization that would restrict the production of covered records to Designated Trusted Investigators or their teams. This override applies to information received from any foreign source, including but not limited to: the State of Israel and Mossad, the Arab Republic of Egypt and the Egyptian General Intelligence Directorate (GID), the United Kingdom and MI5/MI6/GCHQ, and all Five Eyes partners (Australia, Canada, New Zealand). No covered agency may withhold, delay, or redact any covered record from any Designated Trusted Investigator or investigation team on the ground that it was received from or shared with a foreign partner. Each Designated Trusted Investigator shall have full access to all foreign-sourced intelligence in the possession of any covered agency relevant to the investigation. Within 14 days of enactment, the Director of National Intelligence shall formally request all foreign liaison partners to authorize disclosure and to produce any additional information in their possession related to the death of Charlie Kirk. The results of all such requests shall be reported to Congress and shared with all Designated Trusted Investigators within 14 days. Regardless of whether foreign partners authorize disclosure, all covered records shall be produced to Designated Trusted Investigators and disclosed publicly as required by this Act. Any invocation of the Third Party Rule or any foreign disclosure restriction to justify withholding covered records from a Designated Trusted Investigator constitutes obstruction under Section 7(a), punishable by up to 15 years imprisonment.
 
+(e-1) **No Israel Exception.** No record shall be withheld, and no investigative lead shall be declined, narrowed, or deprioritized on the basis that it relates to, implicates, or could affect relations with the State of Israel, Israeli intelligence services (including Mossad, Shin Bet, and Aman), or any entity acting on behalf of Israel. The documented pattern of suppressing Israel-related records in the JFK and Epstein investigations shall not be repeated. This prohibition extends to the Arab Republic of Egypt and the French Republic where acting as proxies for Israeli intelligence.
+
+(e-2) **No Diplomatic Immunity for Evidence.** No claim of diplomatic immunity, sovereign immunity, act-of-state doctrine, or any other immunity recognized under international or domestic law may be used to withhold records from any Designated Trusted Investigator or investigation team. Any person or foreign government claiming diplomatic immunity to avoid producing covered records shall be reported to Congress by the Secretary of State within 7 days, and such refusal shall trigger automatic congressional review of all aid and intelligence-sharing agreements with the claiming government.
+
 (f) **Foreign Government Records.** The Secretary of State shall, within 15 days of enactment, invoke Mutual Legal Assistance Treaties (MLATs) with the Arab Republic of Egypt, the State of Israel, and the French Republic to request the production of all records in the possession of those governments related to the death of Charlie Kirk, including all intelligence assessments, communications intercepts, surveillance records, personnel records, diplomatic cables, and any other information. Each Designated Trusted Investigator may independently request foreign government records through diplomatic channels by written request to the Secretary of State, who shall transmit the request within 7 days of receipt. If any foreign government refuses to comply with an MLAT request or a Designated Trusted Investigator's request, the Secretary of State shall publicly report the refusal to Congress and to all Designated Trusted Investigators within 14 days, identifying the specific records requested and the stated basis for refusal. The Secretary of State shall additionally invoke MLATs or other applicable international agreements with any other nation identified by any Designated Trusted Investigator as possessing relevant records.
 
 (f-1) **International Travel Authority.** Each Designated Trusted Investigator and their investigation team members shall have explicit authority to travel internationally for investigative purposes, including but not limited to conducting interviews, inspecting sites, reviewing foreign-held records, and coordinating with foreign authorities. The following provisions shall apply:
@@ -196,7 +217,7 @@ The Congress finds the following:
 
 ## Section 6: Mandatory Investigation of Schedule A
 
-(a) Each investigation team shall specifically pursue the leads and information identified in Schedule A (208 Critical Disclosure Items), including but not limited to:
+(a) Each investigation team shall specifically pursue the leads and information identified in Schedule A (217 Critical Disclosure Items), including but not limited to:
 
    1. **Exploding Microphone Theory:** The DoD contract, the AES facility, the August 25 flight, the microphone evidence, explosive residue, wound characteristics, and the AES factory explosion
    2. **Foreign Intelligence Involvement:** Israeli cell phones at UVU, Egyptian aircraft and military contractors, surveillance planes, Counter-UAS testing, foreign nationals in the security zone
@@ -222,6 +243,7 @@ The Congress finds the following:
    22. **AES Factory Explosion:** Connection between factory explosion and DoD contract N0016425PJ538
    23. **Tyler Robinson Movement & Identity:** Complete travel path, prior visits to UVU, position at time of shooting, rooftop suspect movement analysis
    24. **Venue Access & Non-Traditional Weapons:** Hatch beneath Kirk's seat, non-traditional weapon or "camera gun" theory
+   25. **Gag Order Origin Investigation:** Investigate all communications between Judge Tony F. Graf Jr. and any federal agency, intelligence service, intermediary, or any other person regarding the Charlie Kirk case, including any ex parte communications, and whether the December 16, 2025 gag order was suggested, requested, or influenced by any government entity. Investigate the timing and circumstances of Judge Robert Lunnen's retirement and Judge Graf's appointment to this case. Investigate whether any government agency, intelligence service, or federal official influenced any judicial order restricting disclosure, limiting discovery, or controlling the flow of information in *State of Utah v. Tyler Alexander Robinson*.
 
 (b) Each investigation team shall track and report on each Schedule A item individually, documenting what was investigated, what was found, what was obstructed, and what remains unresolved.
 
@@ -232,7 +254,7 @@ The Congress finds the following:
 
 ---
 
-## Schedule A: 208 Critical Disclosure Items
+## Schedule A: 217 Critical Disclosure Items
 
 Application Notes:
 
@@ -816,6 +838,18 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 * #208: Non-Traditional Weapon or "Camera Gun" Theory: The investigation teams shall investigate and produce all FBI and law enforcement investigation into the theory that a non-traditional weapon — including but not limited to a "camera gun" or other weapon disguised as event equipment (camera, microphone, lighting, AV gear) — was used in the assassination. The investigation teams shall investigate and produce all forensic analysis of any event equipment that could have been modified to conceal or function as a weapon, all records of any unusual or unregistered equipment brought to the UVU event, and all investigation into whether any device other than the Mauser Model 98 rifle was used to fire a projectile on September 10, 2025.
 
+### Hospital Bomb Threat and Diversion (#209)
+
+* #209: Hospital Bomb Threat and Planned Diversion: The investigation teams shall investigate all records related to any bomb threat, bomb scare, or security incident at any hospital within 20 miles of Utah Valley University on September 10, 2025, including but not limited to Intermountain Health Utah Valley Regional Medical Center. The investigation shall include all 911 call records, caller identification data, call timing and duration, law enforcement dispatch records, hospital security logs, and all non-disclosure agreements (NDAs) signed by hospital staff in connection with any such bomb threat. The investigation teams shall specifically investigate whether the bomb threat was coordinated with the assassination to divert Charlie Kirk away from the closer hospital to a controlled facility, and shall pursue all leads regarding the identity of the caller and any coordination with other persons or entities.
+
+### Carbyne 911 System Data (#210)
+
+* #210: Carbyne 911 System Intelligence Access: The investigation teams shall investigate all records related to the Carbyne 911 system — an Israeli intelligence-linked 911 technology platform co-founded by Ehud Barak with Epstein-connected funding — deployed across Utah, including all Carbyne system data for the Provo/Orem area on September 10, 2025. The investigation shall include all 911 calls processed through the Carbyne system, all location pings, audio recordings, metadata, and data transmissions to any domestic or foreign server. The investigation teams shall specifically investigate whether any foreign entity, foreign government, or foreign intelligence service had access to Carbyne 911 data, and whether the Carbyne system provided real-time intelligence access to any foreign service during the events of September 10, 2025.
+
+### Independent Ballistics and Forensic Testing Authority (#211)
+
+* #211: Independent Ballistics and Forensic Testing: Each Designated Trusted Investigator is hereby granted explicit authority to commission independent ballistics testing, acoustic analysis, explosive residue testing, metallurgical examination, and any other forensic testing deemed necessary, using experts selected by the Designated Trusted Investigator and not by any covered agency. The investigation teams shall produce all existing ballistics analyses, acoustic analyses, explosive residue tests, and metallurgical examinations. Each Designated Trusted Investigator may conduct independent testing to verify, supplement, or challenge any existing agency analysis, including but not limited to: (1) independent determination of whether a 9mm weapon was fired; (2) independent analysis of whether the microphone or other equipment contained explosive material; (3) acoustic analysis of gunshot origin and trajectory; and (4) metallurgical analysis of all fragments recovered from the scene or from Charlie Kirk's body. No covered agency may obstruct, delay, or interfere with independent testing authorized under this item.
+
 ---
 
 ## Schedule B: List of People
@@ -938,7 +972,11 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 (f-1) **Individual Official Recusal.** If any Designated Trusted Investigator finds evidence that any individual government official -- including but not limited to agency heads, supervisors, prosecutors, judges, intelligence officers, or elected officials -- is personally implicated in, has a conflict of interest regarding, or may have participated in or had foreknowledge of the death of Charlie Kirk, the obstruction of the investigation, or the destruction of evidence, the Designated Trusted Investigator shall issue a written recusal demand to that official. Upon receipt of a recusal demand: (1) the official shall immediately recuse from all decisions, actions, and communications related to the investigation under this Act and companion laws; (2) the official shall not access, review, alter, or destroy any covered records; (3) the official shall not communicate with any person regarding the investigation except through counsel; (4) the official's duties with respect to the investigation shall be transferred to a non-conflicted designee approved by the Designated Trusted Investigator who issued the demand; (5) failure to comply with a recusal demand constitutes obstruction under Section 7(a), punishable by up to 15 years imprisonment. The recusal demand shall be reported to Congress and published in the Federal Register. Any recused official may seek judicial review of the recusal demand within 14 days, but the recusal shall remain in effect during pendency of review.
 
-(g) **Individual Official Liability.** Any official who willfully withholds, destroys, conceals, or fails to produce covered records to a Designated Trusted Investigator or investigation team shall be subject to criminal prosecution and imprisonment of up to 10 years.
+(g) **Escalating Penalties for Non-Cooperation.** Agencies that fail to cooperate with investigation teams shall face weekly escalating budget reductions: 5% in week 1, 10% in week 2, 15% in week 3, 25% per week thereafter, applied to new discretionary appropriations. These escalating reductions apply in addition to, and do not replace, the monthly reductions in subsection (c). The reductions under this subsection begin upon certification by any Designated Trusted Investigator that an agency has failed to cooperate, and continue until the Designated Trusted Investigator certifies that cooperation has been restored.
+
+(h) **Real-Time Compliance Dashboard.** Each covered agency shall maintain a publicly accessible, internet-available dashboard showing cooperation status with each investigation team, updated no less than daily. The dashboard shall display: (1) the status of each document production request from each Designated Trusted Investigator; (2) the number of records produced and the number outstanding; (3) the status of facility and system access for each investigation team; (4) any pending disputes or redaction claims. Failure to establish or maintain the dashboard within 30 days of enactment constitutes non-cooperation subject to the escalating penalties of subsection (g).
+
+(i) **Individual Official Liability.** Any official who willfully withholds, destroys, conceals, or fails to produce covered records to a Designated Trusted Investigator or investigation team shall be subject to criminal prosecution and imprisonment of up to 10 years.
 
 ## Section 7A: Public Contact Information for Designated Trusted Investigators
 
@@ -1009,7 +1047,13 @@ This right applies to any information related to the death of Charlie Kirk and t
 
 (b-1) **Independent Secure Communication Devices.** Each Designated Trusted Investigator and their investigation team members shall be provided with independent, agency-proof secure communication devices — including encrypted phones, encrypted laptops, and secure messaging systems — funded from the investigation budget under Section 13. These devices shall be procured from vendors selected by the Designated Trusted Investigators, not by any covered agency. No covered agency shall have access to the encryption keys, device identifiers, or communications transmitted on these devices. Tampering with, intercepting, or attempting to compromise these devices constitutes obstruction under Section 7(a), punishable by up to 15 years imprisonment.
 
-(c) Violations of this section constitute a federal crime punishable by up to 15 years imprisonment.
+(c) **Domestic Security Detail.** In addition to the international diplomatic security provided in Section 4A(f-1), each Designated Trusted Investigator shall be provided a U.S. Marshals Service protective detail for domestic operations, funded from the investigation budget under Section 13, independent of any covered agency. The U.S. Marshals Service shall assign protective personnel upon request by any Designated Trusted Investigator; refusal to assign such personnel constitutes non-cooperation under this Act.
+
+(d) **Explicit Threat Penalties.** Any person who threatens, intimidates, stalks, or engages in any conduct intended to frighten or deter a Designated Trusted Investigator, investigation team member, or their family members shall be subject to imprisonment of up to 15 years. This subsection applies regardless of whether the threat is communicated directly, through intermediaries, or through any electronic or other medium.
+
+(e) **Counter-Surveillance.** Each investigation team shall be provided with counter-surveillance capabilities and secure communications equipment, funded from the investigation budget under Section 13. Counter-surveillance capabilities shall include technical surveillance countermeasures (TSCM) sweeps of investigation team offices, residences of Designated Trusted Investigators, and meeting locations, conducted by specialists selected by the Designated Trusted Investigator and independent of any covered agency.
+
+(f) Violations of this section constitute a federal crime punishable by up to 15 years imprisonment.
 
 ## Section 9A: Independent Oversight and Special Master
 
@@ -1066,6 +1110,18 @@ This right applies to any information related to the death of Charlie Kirk and t
 
 (c) **No Contempt for Compliance with This Act.** No person shall be held in contempt of any court for disclosing covered information to a Designated Trusted Investigator, an investigation team, or Congress as authorized by this Act, regardless of any preexisting judicial order.
 
+## Section 10B-2: Judicial Protections Against Suppression
+
+(a) **Exclusive Jurisdiction.** Jurisdiction for all challenges to the investigation authority, access provisions, or disclosure requirements of this Act lies with a three-judge panel of the United States District Court for the District of Columbia, drawn by random lot from the active judges of that court.
+
+(b) **No Stay of Investigation or Disclosure.** No court may stay, enjoin, or suspend any investigation activity or disclosure requirement under this Act pending litigation. Investigation teams shall continue operating with full access and authority during any judicial proceeding.
+
+(c) **Public Proceedings.** All proceedings under this section shall be conducted in open court and on the public record. No proceeding challenging this Act or the authority of any Designated Trusted Investigator may be sealed, conducted in camera, or otherwise shielded from public view, except to the narrow extent required to protect the identity of currently active human intelligence sources under Section 4A(b).
+
+(d) **Mandamus.** Any person may seek a writ of mandamus from the United States Court of Appeals for the District of Columbia Circuit to compel compliance with this Act. Reasonable attorney's fees and costs shall be awarded to any person who prevails on a mandamus petition.
+
+(e) **60-Day Maximum Judicial Delay.** There is a statutory presumption that no judicial order — including temporary restraining orders, preliminary injunctions, stays pending appeal, or any other form of judicial relief — may delay the commencement or continuation of any investigation or disclosure under this Act for more than 60 days total from the date of enactment. Any judicial proceeding that has not been fully resolved within 60 days of enactment shall not prevent investigation or disclosure activities from proceeding. The burden is on the party seeking continued delay to demonstrate, by clear and convincing evidence, that immediate investigation or disclosure would create an imminent threat to the physical safety of an identified individual. Generalized claims of national security, diplomatic embarrassment, or institutional harm do not satisfy this standard.
+
 ## Section 10C: Private Right of Action
 
 (a) Any citizen of the United States may bring an action in the United States District Court for the District of Columbia to compel compliance with this Act, including to compel any covered agency to provide access, records, or cooperation required under this Act to any Designated Trusted Investigator or investigation team, provided that: (1) the citizen has provided 60 days' written notice to the non-compliant agency and the Attorney General specifying the alleged non-compliance; (2) the alleged non-compliance has not been fully remedied during the notice period. The injury cognizable under this section is the denial of the statutory right to a thorough independent investigation and the public disclosure of its findings. Any Designated Trusted Investigator may also bring an action under this section without the 60-day notice requirement.
@@ -1076,13 +1132,31 @@ This right applies to any information related to the death of Charlie Kirk and t
 
 (d) Courts may dismiss claims that are frivolous or filed in bad faith, with sanctions available under Federal Rule of Civil Procedure 11.
 
+## Section 10C-1: Self-Executing Enforcement
+
+(a) **Self-Executing Mechanisms.** Every enforcement mechanism in this Act is self-executing and does not require any additional implementing regulation, executive order, or agency action to take effect. Budget reductions, criminal penalties, adverse inferences, and all other enforcement provisions operate automatically upon the triggering conditions specified in this Act.
+
+(b) **Automatic Special Counsel Appointment.** Upon a finding of non-cooperation by any Designated Trusted Investigator — documented in writing and submitted to the Chief Judge of the United States District Court for the District of Columbia — a Special Counsel shall be automatically appointed by that court to investigate and prosecute the non-cooperation, independent of the Department of Justice. The Special Counsel shall have full prosecutorial authority, including the authority to convene a grand jury, issue subpoenas, and bring criminal charges. The Department of Justice may not supervise, direct, or terminate the Special Counsel.
+
+(c) **Qui Tam Actions.** Any citizen of the United States may bring a qui tam action against any person or agency that violates this Act. A citizen who prevails in a qui tam action shall be entitled to treble damages, including 25% of any fine, penalty, or budget reduction imposed as a result of the action. Qui tam actions under this subsection shall be filed under seal for 60 days, during which any Designated Trusted Investigator may elect to intervene.
+
+(d) **Structural Funding Defense.** The enforcement provisions of this Act — including Sections 7, 10C, and this Section 10C-1 — are funded through mandatory appropriations under Section 13 that do not require annual reauthorization. Any legislation that would amend, repeal, or weaken any enforcement provision of this Act shall require a two-thirds supermajority vote in both chambers of Congress. Congress declares its intent that the mandatory funding established by this Act shall continue for a minimum of 10 years from the date of enactment.
+
+## Section 10C-2: Immunity and Anti-SLAPP
+
+(a) **Official Acts Immunity.** Each Designated Trusted Investigator shall have immunity from civil and criminal liability for all acts performed in their official capacity under this Act, comparable to the Speech or Debate Clause immunity (Article I, Section 6) afforded to members of Congress for legislative acts. This immunity extends to all statements, publications, reports, subpoenas, interviews, depositions, and any other action taken in furtherance of the investigation. Investigation team members shall have qualified immunity for all acts performed in their official capacity under this Act.
+
+(b) **Anti-SLAPP.** Any lawsuit filed against a Designated Trusted Investigator, investigation team member, or their family members in connection with duties under this Act shall be subject to a mandatory anti-SLAPP motion. The court shall dismiss such lawsuits within 30 days of filing unless the plaintiff demonstrates by clear and convincing evidence that the claim is not retaliatory and has substantial merit independent of the investigative activity. Attorney's fees and costs shall be awarded to the defendant. Any person who files a retaliatory lawsuit against a Designated Trusted Investigator or investigation team member shall be subject to sanctions, including treble attorney's fees and referral for prosecution for obstruction under Section 7(a).
+
+(c) **Findings of Fact.** Investigation team reports shall be structured as findings of fact with supporting evidence, and shall be presumptively admissible in any judicial or legislative proceeding. Courts shall take judicial notice of findings published by Designated Trusted Investigators unless a party demonstrates by clear and convincing evidence that a specific finding is erroneous.
+
 ## Section 10D: Report to Congress
 
 (a) Not later than 15 days after each 90-day interim report under Section 11, each Designated Trusted Investigator may submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report containing:
    1. All categories of records obtained and withheld
    2. A summary of obstructions encountered, including the agency involved and the basis cited
    3. A list of all government officials and politically exposed persons who obstructed, delayed, or interfered with the investigation, with no redactions permitted
-   4. Certification regarding which of the 208 items in Schedule A have been fully investigated, with specific response to each item
+   4. Certification regarding which of the 217 items in Schedule A have been fully investigated, with specific response to each item
 
 ## Section 11: Duration and Reporting
 
@@ -1090,11 +1164,17 @@ This right applies to any information related to the death of Charlie Kirk and t
 
 (b) Each team shall produce:
    - Interim public reports at least every 90 days, addressing Schedule A items
-   - A comprehensive final public report addressing all 208 items individually
+   - A comprehensive final public report addressing all 217 items individually
 
 (c) The investigation may not be terminated by any government official. Only the Designated Trusted Investigator may conclude their team's investigation.
 
-(d) **Interim Document Production Milestones.** Covered agencies shall provide records to the Designated Trusted Investigators and their investigation teams according to the following mandatory timeline from the date of enactment:
+(d) **Automatic Extension.** The investigation shall continue until each Designated Trusted Investigator certifies in writing that their work is complete; there is no maximum duration. The 24-month minimum in subsection (a) establishes a floor, not a ceiling. Any Designated Trusted Investigator may continue their investigation indefinitely until they are personally satisfied that all Schedule A items have been thoroughly investigated and all findings have been publicly reported.
+
+(e) **Affirmative Legislation Required to Terminate.** The investigation may not be terminated by executive action, appropriations riders, agency decisions, government shutdown, continuing resolution limitations, or any means other than affirmative legislation signed into law that specifically and expressly terminates the investigation under this Act by name. No general appropriations bill, omnibus legislation, or continuing resolution may include any provision that directly or indirectly defunds, restricts, or terminates the investigation.
+
+(f) **Permanent Public Archive.** All findings, evidence, work product, reports, and any other material produced by any investigation team under this Act shall be permanently archived in a public repository maintained by the Government Publishing Office or an independent host selected by the Designated Trusted Investigators. This archive may not be sealed, classified, redacted, removed, or destroyed by any person or agency. The archive shall be freely accessible to the public without charge, registration, or restriction, in perpetuity.
+
+(g) **Interim Document Production Milestones.** Covered agencies shall provide records to the Designated Trusted Investigators and their investigation teams according to the following mandatory timeline from the date of enactment:
    1. **7 days:** All records previously compiled, indexed, or produced in response to any prior FOIA, GRAMA, congressional, or litigation request related to the death of Charlie Kirk
    2. **14 days:** All records specifically identified by any Designated Trusted Investigator in a written production request, and all FBI 302 reports, case opening documents, and investigative plans
    3. **21 days:** All cell tower dumps, geofence warrant returns, surveillance footage, flight records, and financial records enumerated in Schedule A
@@ -1112,31 +1192,43 @@ This right applies to any information related to the death of Charlie Kirk and t
 
 ## Section 12: Coordination
 
-(a) A voluntary coordination mechanism (shared findings database) shall be available to all thirty-four (34) investigation teams.
+(a) A voluntary coordination mechanism (shared findings database) shall be available to all thirty-two (32) investigation teams.
 
 (b) Each team may share or withhold findings from other teams at the Designated Trusted Investigator's discretion.
 
 (c) Independent investigations by multiple teams create redundancy that substantially reduces the risk of suppression of findings.
 
+(d) **Shared Secure Database.** A shared secure database shall be established where all investigation teams deposit findings, accessible to all Designated Trusted Investigators. The database shall be hosted on infrastructure independent of any covered agency, with access controls managed by the Designated Trusted Investigators collectively. Each Designated Trusted Investigator shall have the ability to deposit findings and to view all findings deposited by other investigators.
+
+(e) **Regular Coordination Meetings.** Designated Trusted Investigators shall hold regular coordination meetings — no less than monthly — to share findings and avoid duplication, without restricting any investigator's independence. Any Designated Trusted Investigator may call an additional coordination meeting at any time. Attendance is voluntary; no Designated Trusted Investigator may be compelled to attend or to share findings at any particular time.
+
+(f) **Disagreements as Strength.** Different investigators reaching different conclusions on any matter is evidence of independence, not a deficiency. No Designated Trusted Investigator may be pressured to conform their findings to those of another investigator. Divergent findings shall be published side by side in public reports, allowing the public and Congress to evaluate the evidence independently.
+
 ## Section 12A: Coordination with Law 3 Investigation Teams
 
 (a) **Full Access to Law 3 Findings.** Each Designated Trusted Investigator and their investigation teams shall have full and unrestricted access to all findings, work product, evidence, reports, interview transcripts, forensic analyses, and any other material gathered by investigation teams established under the Charlie Kirk Mandatory Investigation Act (Law 3), including the FBI investigation team, the CIA team, the NSA team, and the DNI-directed team. No Law 3 investigation team may withhold, delay, or restrict access to any finding or work product requested by any Designated Trusted Investigator.
 
-(b) **Mandatory Monthly Coordination Meetings.** Beginning 30 days after enactment, the 34 Trusted Investigator teams established under this Act and the 4 agency investigation teams established under Law 3 shall hold mandatory monthly coordination meetings. At minimum, each meeting shall include: (1) a status report from each team on Schedule A items investigated; (2) identification of areas of overlap and complementary findings; (3) identification of leads requiring inter-team cooperation; (4) discussion of obstruction encountered and strategies to overcome it. Any Designated Trusted Investigator may call additional coordination meetings as needed.
+(b) **Mandatory Monthly Coordination Meetings.** Beginning 30 days after enactment, the 32 Trusted Investigator teams established under this Act and the 4 agency investigation teams established under Law 3 shall hold mandatory monthly coordination meetings. At minimum, each meeting shall include: (1) a status report from each team on Schedule A items investigated; (2) identification of areas of overlap and complementary findings; (3) identification of leads requiring inter-team cooperation; (4) discussion of obstruction encountered and strategies to overcome it. Any Designated Trusted Investigator may call additional coordination meetings as needed.
 
 (c) **No Team May Deny Access to Findings.** No investigation team — whether established under this Act or under Law 3 — may deny access to findings, evidence, or work product requested by any other investigation team. Refusal to share findings upon request constitutes a violation of this Act. All findings shared between teams shall be treated as covered information subject to the security and anti-surveillance protections of Section 9.
 
 (d) **Independent Monitor Access.** The external independent monitor established under Law 3, if enacted, shall have full access to all findings of all Designated Trusted Investigator teams, and each Designated Trusted Investigator shall have full access to all reports and communications of the external monitor.
 
-## Section 13: Authorization of Appropriations
+## Section 13: Mandatory Appropriations and Funding Protection
 
-(a) There is authorized to be appropriated $10,000,000 for each Designated Trusted Investigator's combined investigation teams ($5,000,000 per FBI Investigation Team and $5,000,000 per Intelligence Investigation Team), for a total authorization of $170,000,000 for all seventeen Designated Trusted Investigators. This funding level is consistent with the $10,000,000 appropriated for each investigation team under the Charlie Kirk Mandatory Investigation Act (Law 3).
+(a) **Mandatory Appropriation — Investigation Teams.** There is hereby appropriated, out of any money in the Treasury not otherwise appropriated, $10,000,000 for each Designated Trusted Investigator's combined investigation teams ($5,000,000 per FBI Investigation Team and $5,000,000 per Intelligence Investigation Team), for a total of $160,000,000 for all sixteen Designated Trusted Investigators. This appropriation is mandatory and self-executing — it does not require inclusion in any annual appropriations bill, continuing resolution, or omnibus spending bill. This funding level is consistent with the $10,000,000 appropriated for each investigation team under the Charlie Kirk Mandatory Investigation Act (Law 3). Each Designated Trusted Investigator's budget shall be held in a separate account established at the United States Treasury within 14 days of enactment, with the Designated Trusted Investigator as sole signatory. No covered agency's Chief Financial Officer or budget office shall have access to, authority over, or visibility into these accounts. The Treasury Department shall process the account establishment as a priority matter.
 
-(b) There is authorized to be appropriated such additional sums as may be necessary for independent legal counsel, forensic experts, security details, and administrative costs for each investigation team.
+(a-1) **Shared Investigation Infrastructure.** The Independent Oversight and Special Master shall establish and maintain: (1) a shared evidence database accessible to all Designated Trusted Investigators containing all documents, records, and evidence obtained by any investigation team; (2) a shared witness scheduling system to prevent conflicts when multiple teams seek to interview the same witness; and (3) monthly coordination meetings among all Designated Trusted Investigators to share findings, coordinate strategy, and prevent duplication of effort. The shared infrastructure shall be funded from a separate mandatory appropriation of $5,000,000.
 
-(c) Funds appropriated under this section shall be available immediately upon enactment and shall remain available until expended.
+(b) **Additional Mandatory Funding.** There is hereby appropriated such additional sums as may be necessary for independent legal counsel, forensic experts, security details, and administrative costs for each investigation team.
 
-(d) Budgets shall be administered independently of the host agency. No covered agency may control, delay, or restrict the expenditure of funds appropriated for investigation teams under this Act.
+(c) **Immediate Availability.** Funds appropriated under this section shall be available immediately upon enactment and shall remain available until expended.
+
+(d) **Independent Budget Administration.** Budgets shall be administered independently of the host agency. No covered agency may control, delay, or restrict the expenditure of funds appropriated for investigation teams under this Act.
+
+(e) **Appropriations Protection.** No appropriations bill, continuing resolution, or omnibus spending bill may include any provision that reduces, restricts, conditions, or eliminates funding for compliance with or enforcement of this Act. Any such provision included in any legislation shall have no force or effect with respect to the mandatory appropriations established by this section.
+
+(f) **Discharge Petition Mechanism.** If the committee of jurisdiction in the House of Representatives does not report this bill within 60 calendar days of introduction, any 218 Members of the House may file a discharge petition to bring the bill directly to the floor for a vote. If the committee of jurisdiction in the Senate does not report this bill within 60 calendar days of introduction, any 30 Senators may move to discharge the committee, and the motion shall be non-debatable and decided by simple majority vote.
 
 ## Section 14: Severability
 
@@ -1201,11 +1293,15 @@ This Act shall take effect immediately upon enactment. All criminal penalties un
 
 (d) **Enforcement.** Willful failure by any Designated Trusted Investigator to comply with this section shall be grounds for removal. Willful failure by any government agency to facilitate disclosure under this section constitutes obstruction under Section 7(a). The defense team may petition any federal court to compel disclosure under this section.
 
+(e) **Brady Compliance Officer.** Each investigation team shall designate a Brady compliance officer who reviews all findings for exculpatory material relevant to the defense of Tyler Robinson in *State of Utah v. Tyler Alexander Robinson* (Case No. 251403576). Any exculpatory material shall be produced to Robinson's defense counsel within 5 days of discovery. Failure to designate a Brady compliance officer or to produce exculpatory material within 5 days constitutes obstruction under Section 7(a).
+
 ## Section 15B-2: Exhumation and Independent Forensic Examination Authority
 
 (a) **Exhumation Authority.** Each Designated Trusted Investigator shall have authority to petition the appropriate court of competent jurisdiction for an order authorizing the exhumation of Charlie Kirk's remains for comprehensive forensic examination, including but not limited to: independent autopsy, wound trajectory analysis, toxicology, explosive residue testing, foreign substance analysis, and any other forensic examination deemed necessary by the Designated Trusted Investigator.
 
-(b) **Independent Forensic Pathologists.** Any forensic examination conducted under this section shall be performed by independent forensic pathologists and specialists selected by the Designated Trusted Investigator, who shall not be affiliated with any federal, state, or local government agency, any military entity, or any entity connected to the original investigation. The Designated Trusted Investigator may engage internationally recognized forensic experts.
+(a-1) **Unilateral Exhumation Authority.** Any single Designated Trusted Investigator may authorize exhumation without family consent if they document the forensic necessity in a written determination. The written determination shall specify the forensic questions to be answered and why exhumation is necessary to answer them. Courts shall grant exhumation orders within 7 days of petition and shall apply a presumption in favor of exhumation where a Designated Trusted Investigator has documented forensic necessity.
+
+(b) **Independent Forensic Pathologists.** Any forensic examination conducted under this section shall be performed by independent forensic pathologists and specialists selected by the Designated Trusted Investigator, not by any government agency. The selected pathologists and specialists shall not be affiliated with any federal, state, or local government agency, any military entity, or any entity connected to the original investigation. The Designated Trusted Investigator may engage internationally recognized forensic experts.
 
 (c) **Funding.** All costs of exhumation and forensic examination under this section shall be funded from the investigation budget under Section 13.
 
@@ -1220,6 +1316,12 @@ This Act shall take effect immediately upon enactment. All criminal penalties un
 (c) **Petition for Independent Defense Counsel.** If a Designated Trusted Investigator's findings indicate defense counsel compromise, the Designated Trusted Investigator may petition the presiding court for appointment of independent defense counsel not affiliated with or selected by any government agency, with funding provided independently of the state prosecution apparatus. The court shall rule on such a petition within 30 days.
 
 (d) **Scope of Investigation.** The investigation under this section shall include but not be limited to: whether any agency recommended, suggested, or arranged for the appointment of specific defense counsel; whether defense counsel received any communication, instruction, or pressure from any government agency regarding case strategy, plea negotiations, or which defenses to pursue or avoid; whether defense counsel failed to investigate or pursue leads that an independent attorney would have pursued; and whether defense counsel had any financial, personal, or professional relationship with any person or entity connected to the prosecution or the investigation.
+
+(e) **Amicus Standing.** Any Designated Trusted Investigator shall have standing to file amicus curiae briefs in *State of Utah v. Tyler Alexander Robinson* (Case No. 251403576). The court shall accept and consider such briefs. Any Designated Trusted Investigator may present investigation findings to the court through amicus filings regardless of whether defense counsel requests or supports the filing.
+
+(f) **Petition for Independent Counsel Upon Finding of Compromise.** If evidence of defense counsel compromise is found, any Designated Trusted Investigator may petition the court for appointment of independent counsel for Tyler Robinson, funded independently of the state prosecution apparatus and selected without input from any government agency implicated in the investigation. The court shall rule on such a petition within 14 days.
+
+(g) **Introduction of Investigation Findings.** Investigation findings produced under this Act may be introduced into evidence in *State of Utah v. Tyler Alexander Robinson* through amicus filing, court appointment, or any other procedural mechanism, regardless of whether defense counsel requests or consents to their introduction. The court shall consider such findings to the fullest extent permitted by applicable rules of evidence.
 
 ## Section 15C: Technical Specifications for Public Releases
 
@@ -1315,7 +1417,7 @@ The following definitions supplement and reinforce the definitions established i
 
 (c) **"Disclosure body"** means the independent review board established under the Charlie Kirk Files Forced Disclosure Act (Law 1), if enacted, or any Designated Trusted Investigator and their investigation teams established under this Act, or the external independent monitor established under the Charlie Kirk Mandatory Investigation Act (Law 3). This term is defined in Section 1(i) and is restated here for completeness.
 
-(d) **"Designated Trusted Investigator"** means any individual listed in Section 1(a) of this Act -- specifically Candace Owens, Dave Smith, Joe Kent, Tulsi Gabbard, Tucker Carlson, Steve Bannon, Marjorie Taylor Greene, Jon Bray, Ian Carroll, Thomas Massie, Matt Gaetz, Glenn Greenwald, Collin Campbell, Baron Coleman, Ryan Matta, Bryan Starbuck, and Megyn Kelly -- or any successor appointed under the succession process established in Section 10 of this Act. This term is defined in Section 1(m) and is restated here for completeness.
+(d) **"Designated Trusted Investigator"** means any individual listed in Section 1(a) of this Act -- specifically Candace Owens, Dave Smith, Joe Kent, Tulsi Gabbard, Tucker Carlson, Steve Bannon, Marjorie Taylor Greene, Jon Bray, Ian Carroll, Thomas Massie, Matt Gaetz, Glenn Greenwald, Collin Campbell, Baron Coleman, Ryan Matta, and Megyn Kelly -- or any successor appointed under the succession process established in Section 10 of this Act. This term is defined in Section 1(m) and is restated here for completeness.
 
 (e) **"People Involved"** or **"People Listed"** means the categories of persons defined in Schedule B of this Act, encompassing all 35 categories (P1 through P35) of persons with potential knowledge of or involvement in matters addressed by this Act, including but not limited to TPUSA personnel, security teams, AV crews, FBI and DOJ personnel, intelligence community personnel, foreign operatives, military contractors, witnesses, financial persons, and all other categories enumerated in Schedule B. This term is defined in Section 1(h) and is restated here for completeness.
 

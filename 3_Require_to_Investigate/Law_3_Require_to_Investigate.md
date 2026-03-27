@@ -8,7 +8,7 @@ AUTHOR: Bryan Starbuck (BryanStarbuck@gmail.com)
 The Charlie Kirk Mandatory Investigation Act
 
 ## Purpose
-To require the Federal Bureau of Investigation, the Central Intelligence Agency, the National Security Agency, and the United States Intelligence Community (via the Director of National Intelligence) to each conduct independent, thorough, complete, and good-faith investigations into the death of Charlie Kirk, pursuing all leads including those identified in the 208 Critical Disclosure Items (Schedule A), and to make the findings of such investigations publicly available through mandatory disclosure reports every 6 months.
+To require the Federal Bureau of Investigation, the Central Intelligence Agency, the National Security Agency, and the United States Intelligence Community (via the Director of National Intelligence) to each conduct independent, thorough, complete, and good-faith investigations into the death of Charlie Kirk, pursuing all leads including those identified in the 217 Critical Disclosure Items (Schedule A), and to make the findings of such investigations publicly available through mandatory disclosure reports every 6 months.
 
 ## Section 0: Congressional Findings
 
@@ -47,6 +47,8 @@ The Congress finds the following:
 
 (e) **Compulsory Process for Private Entity Records.** Within 15 days of the FBI investigation team's formation, the team shall issue subpoenas, National Security Letters, or other compulsory process for all records described in Schedule A that are held by private entities — including but not limited to TPUSA, Mosaic Pro Events, rental car companies, hotels, Accurate Energetic Systems (AES), banks, telecommunications providers, and any other entity in possession of relevant records — regardless of whether the FBI previously sought such records. The external independent oversight board established under Section 6 shall have independent subpoena power over private entities for any records described in Schedule A. Any private entity that destroys, alters, or conceals records after receiving notice under this subsection shall be subject to the same criminal penalties as government agencies under Section 7D.
 
+(f) **Independent Budget Control.** The $10 million budget shall be held in a separate account controlled by the investigation team leader, not by the FBI's budget office. The account shall be established at the United States Treasury within 14 days of enactment, with the investigation team leader as sole signatory. The host agency's Chief Financial Officer shall have no access to or authority over the account. The Treasury Department shall process the account establishment as a priority matter. The investigation team shall have independent procurement authority not subject to FBI approval. The oversight board shall receive monthly financial reports and flag any pattern of budget underutilization. Any agency that obstructs spending of investigation funds through slow procurement, denied requests, or administrative barriers triggers automatic budget reduction penalties under Section 7D-1.
+
 ## Section 2A: Mandatory Investigation - CIA
 
 (a) The Central Intelligence Agency shall open and actively pursue a full investigation into the death of Charlie Kirk within 60 days of enactment.
@@ -64,6 +66,8 @@ The Congress finds the following:
 
 (d) **Team Duration:** All team members shall be committed to the investigation for a minimum of 2 years. Individual team members may request to continue working on the investigation beyond the 2-year minimum, for up to 5 years total. Such requests shall be granted unless the requesting member's continued service would compromise the investigation.
 
+(e) **Independent Budget Control.** The $10 million budget shall be held in a separate account controlled by the investigation team leader, not by the CIA's budget office. The account shall be established at the United States Treasury within 14 days of enactment, with the investigation team leader as sole signatory. The host agency's Chief Financial Officer shall have no access to or authority over the account. The Treasury Department shall process the account establishment as a priority matter. The investigation team shall have independent procurement authority not subject to CIA approval. The oversight board shall receive monthly financial reports and flag any pattern of budget underutilization. Any agency that obstructs spending of investigation funds through slow procurement, denied requests, or administrative barriers triggers automatic budget reduction penalties under Section 7D-1.
+
 ## Section 2B: Mandatory Investigation - NSA
 
 (a) The National Security Agency shall open and actively pursue a full investigation into the death of Charlie Kirk within 60 days of enactment.
@@ -80,6 +84,20 @@ The Congress finds the following:
 (c) The investigation team shall operate with independence from NSA leadership on investigative decisions. The team may not be directed to cease any line of inquiry by any person outside the team.
 
 (d) **Team Duration:** All team members shall be committed to the investigation for a minimum of 2 years. Individual team members may request to continue working on the investigation beyond the 2-year minimum, for up to 5 years total. Such requests shall be granted unless the requesting member's continued service would compromise the investigation.
+
+(e) **Independent Budget Control.** The $10 million budget shall be held in a separate account controlled by the investigation team leader, not by the NSA's budget office. The account shall be established at the United States Treasury within 14 days of enactment, with the investigation team leader as sole signatory. The host agency's Chief Financial Officer shall have no access to or authority over the account. The Treasury Department shall process the account establishment as a priority matter. The investigation team shall have independent procurement authority not subject to NSA approval. The oversight board shall receive monthly financial reports and flag any pattern of budget underutilization. Any agency that obstructs spending of investigation funds through slow procurement, denied requests, or administrative barriers triggers automatic budget reduction penalties under Section 7D-1.
+
+(f) **Mandatory SIGINT Database Queries.** Within 30 days of the NSA investigation team's formation, the team shall conduct targeted queries of XKeyscore and all comparable mass surveillance, signals intelligence, and communications intelligence tools, databases, and systems for: (1) all persons listed in Schedule B (categories P1 through P35), using all known names, aliases, phone numbers, email addresses, and device identifiers; (2) all phone numbers and device identifiers referenced in Schedule A; (3) all aircraft tail numbers listed in Schedule A; (4) all addresses and locations referenced in Schedule A; and (5) all financial account numbers and transaction records referenced in Schedule A. NSA may not claim "no responsive records exist" if the responsive data exists within its databases but has not been queried. The obligation under this subsection is to conduct the queries — not merely to search existing analytical products.
+
+## Section 2E: Definition of Prior Involvement and Team Leader Approval
+
+(a) "Prior involvement in the case" means any person who: (1) received briefings about the case, (2) participated in any decision regarding the investigation, (3) communicated with any person about the case in an official capacity, (4) has personal or professional relationships with any person listed in Schedule B, or (5) participated in decisions to suppress or limit the investigation.
+
+(b) The oversight board shall approve all team leader selections. Any Designated Trusted Investigator may challenge a team leader appointment with cause.
+
+(c) **Mandatory Polygraph for Investigation Team Members.** All investigation team members — including team leaders, agents, analysts, support staff, and any person with access to investigation materials — shall undergo a polygraph examination prior to assignment and annually thereafter. The polygraph shall specifically address: (1) whether the individual has had any prior contact, communication, or relationship with any intelligence service — domestic or foreign — regarding the Charlie Kirk case; (2) whether the individual has been directed, requested, or encouraged by any person to influence, delay, or obstruct any investigation under this Act; and (3) whether the individual has disclosed or intends to disclose investigation strategy, findings, or materials to any person not authorized to receive them. Polygraph examiners shall be selected by the external independent oversight board established under Section 6, not by the host agency. No host agency polygraph examiner may administer these examinations. Failure to submit to a polygraph or deceptive results shall result in immediate removal from the investigation team.
+
+(d) **At-Will Removal of Investigation Team Members.** The external independent oversight board established under Section 6 may remove any investigation team member — including team leaders — at will, without cause or explanation, upon a majority vote of the board. Any Designated Trusted Investigator under the Charlie Kirk Trusted Investigators Act (Law 4) may petition the oversight board for removal of any team member, and the board shall act on such petition within 7 days. This at-will removal authority exists to protect against infiltration by compromised insiders and may not be constrained by civil service protections, union agreements, or any other employment protection during the period of investigation team service. Removed team members shall be reassigned to duties unrelated to the Charlie Kirk investigation and shall have no further access to investigation materials.
 
 ## Section 3: Mandatory Investigation - Intelligence Community (via DNI)
 
@@ -99,6 +117,8 @@ The Congress finds the following:
 (c) The assessment shall be conducted by personnel with no prior involvement in any previous investigation or assessment related to the death.
 
 (d) **Team Duration:** All team members shall be committed to the investigation for a minimum of 2 years. Individual team members may request to continue working on the investigation beyond the 2-year minimum, for up to 5 years total. Such requests shall be granted unless the requesting member's continued service would compromise the investigation.
+
+(e) **Independent Budget Control.** The $10 million budget shall be held in a separate account controlled by the investigation team leader, not by the host agency's budget office. The account shall be established at the United States Treasury within 14 days of enactment, with the investigation team leader as sole signatory. The host agency's Chief Financial Officer shall have no access to or authority over the account. The Treasury Department shall process the account establishment as a priority matter. The investigation team shall have independent procurement authority not subject to host agency approval. The oversight board shall receive monthly financial reports and flag any pattern of budget underutilization. Any agency that obstructs spending of investigation funds through slow procurement, denied requests, or administrative barriers triggers automatic budget reduction penalties under Section 7D-1.
 
 ## Section 3B: Cross-Agency Staffing to Address Self-Investigation Conflict
 
@@ -192,10 +212,11 @@ The Congress finds the following:
    4. Investigate whether the failure to perform an autopsy was intended to prevent discovery of evidence inconsistent with the official narrative, including evidence of explosion, non-ballistic trauma, or multiple projectile wounds
 
 **Gag Order and Judicial Influence:**
-   1. Investigate whether any government agency, intelligence service, or federal official influenced Judge Tony F. Graf Jr. or any other judicial officer regarding the December 16, 2025 gag order in *State of Utah v. Tyler Alexander Robinson*
-   2. Investigate whether any government agency, intelligence service, or federal official influenced any other judicial order restricting disclosure, limiting discovery, or controlling the flow of information in the Robinson case
-   3. Investigate all communications between any federal agency or intelligence service and any judicial officer, court administrator, or judicial staff regarding this case
-   4. Investigate the timing and circumstances of Judge Robert Lunnen's retirement and Judge Graf's appointment to this case
+   1. Investigate all communications between Judge Tony F. Graf Jr. and any federal agency, intelligence service, intermediary, or any other person regarding the Charlie Kirk case, including any ex parte communications
+   2. Investigate whether the December 16, 2025 gag order was suggested, requested, or influenced by any government entity
+   3. Investigate whether any government agency, intelligence service, or federal official influenced any other judicial order restricting disclosure, limiting discovery, or controlling the flow of information in the Robinson case
+   4. Investigate all communications between any federal agency or intelligence service and any judicial officer, court administrator, or judicial staff regarding this case
+   5. Investigate the timing and circumstances of Judge Robert Lunnen's retirement and Judge Graf's appointment to this case
 
 **Hospital Compromise:**
    1. Investigate whether Timpanogos Regional Hospital, its medical personnel, or CEO Andrew Zenger was subject to pre-selection, direction, intelligence service influence, or pre-planned placement of personnel in connection with the Charlie Kirk case
@@ -224,14 +245,16 @@ The Congress finds the following:
    18. All records of the AES factory explosion investigation and its connection to DoD contract N0016425PJ538 (Item #202)
    19. Tyler Robinson's complete travel path before and after the shooting, all prior visits to UVU campus, all evidence regarding Robinson's exact position at the moment of the shot, and all video footage and analysis of whether the rooftop suspect was running or stationary when the shot was fired (Items #202-#206)
 
-(b) **Schedule A** shall be the document titled "Charlie Kirk 208 Critical Disclosure Items" as maintained in the public repository at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, as of the date of enactment, incorporated by reference and attached as an appendix to this Act.
+(b) **Schedule A** shall be the document titled "Charlie Kirk 217 Critical Disclosure Items" as maintained in the public repository at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, as of the date of enactment, incorporated by reference and attached as an appendix to this Act.
+
+(b-1) **Schedule A Count Reconciliation.** In the event of any discrepancy between the Schedule A item count referenced in this Act and the Schedule A item count in any companion Act (the Charlie Kirk Files Forced Disclosure Act, the Charlie Kirk Intelligence Services Disclosure Act, or the Charlie Kirk Trusted Investigators Act), the higher count controls, and the most comprehensive version of each individual item across all four Acts shall be deemed incorporated.
 
 (c) The enumeration of specific investigation leads in this Section and in Schedule A shall not be construed to limit the scope of the broad investigation mandate in Sections 2, 2A, 2B, and 3. Both the broad mandate and the specific enumeration apply concurrently. Each investigation team shall pursue all leads that emerge during the course of its investigation, whether or not those leads are specifically enumerated in Schedule A.
 
 
 ---
 
-## Schedule A: 208 Critical Disclosure Items
+## Schedule A: 217 Critical Disclosure Items
 
 Construction and Application:
 
@@ -815,6 +838,18 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 * #208: Non-Traditional Weapon or "Camera Gun" Theory: The investigation teams shall investigate and produce all FBI and law enforcement investigation into the theory that a non-traditional weapon — including but not limited to a "camera gun" or other weapon disguised as event equipment (camera, microphone, lighting, AV gear) — was used in the assassination. All forensic analysis of any event equipment that could have been modified to conceal or function as a weapon, all records of any unusual or unregistered equipment brought to the UVU event, and all investigation into whether any device other than the Mauser Model 98 rifle was used to fire a projectile on September 10, 2025.
 
+### Hospital Bomb Threat and Diversion (#209)
+
+* #209: Hospital Bomb Threat and Planned Diversion: The investigation teams shall investigate and produce all records related to any bomb threat, bomb scare, or security incident at any hospital within 20 miles of Utah Valley University on September 10, 2025, including but not limited to Intermountain Health Utah Valley Regional Medical Center. The investigation shall include all 911 call records, caller identification data, call timing and duration, law enforcement dispatch records, hospital security logs, and all non-disclosure agreements (NDAs) signed by hospital staff in connection with any such bomb threat. The investigation teams shall specifically investigate whether the bomb threat was coordinated with the assassination to divert Charlie Kirk away from the closer hospital to a controlled facility, and shall pursue all leads regarding the identity of the caller and any coordination with other persons or entities.
+
+### Carbyne 911 System Data (#210)
+
+* #210: Carbyne 911 System Intelligence Access: The investigation teams shall investigate and produce all records related to the Carbyne 911 system — an Israeli intelligence-linked 911 technology platform co-founded by Ehud Barak with Epstein-connected funding — deployed across Utah, including all Carbyne system data for the Provo/Orem area on September 10, 2025. The investigation shall include all 911 calls processed through the Carbyne system, all location pings, audio recordings, metadata, and data transmissions to any domestic or foreign server. The investigation teams shall specifically investigate whether any foreign entity, foreign government, or foreign intelligence service had access to Carbyne 911 data, and whether the Carbyne system provided real-time intelligence access to any foreign service during the events of September 10, 2025.
+
+### Independent Ballistics and Forensic Testing Authority (#211)
+
+* #211: Independent Ballistics and Forensic Testing: The external independent oversight board established under Section 6 is hereby granted explicit authority to commission independent ballistics testing, acoustic analysis, explosive residue testing, metallurgical examination, and any other forensic testing it deems necessary, using experts selected by the oversight board and not by any covered agency. The investigation teams shall produce all existing ballistics analyses, acoustic analyses, explosive residue tests, and metallurgical examinations. The oversight board may conduct independent testing to verify, supplement, or challenge any existing agency analysis, including but not limited to: (1) independent determination of whether a 9mm weapon was fired; (2) independent analysis of whether the microphone or other equipment contained explosive material; (3) acoustic analysis of gunshot origin and trajectory; and (4) metallurgical analysis of all fragments recovered from the scene or from Charlie Kirk's body. No covered agency may obstruct, delay, or interfere with independent testing authorized under this item.
+
 ---
 
 ## Schedule B: List of People
@@ -905,10 +940,10 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
    - Employs all available investigative tools and resources
    - Does not exclude any suspect, theory, or line of inquiry without documented justification reviewed by the external independent oversight board
    - Is conducted with the same rigor as any investigation of the death of a prominent public figure
-   - Specifically investigates all leads and theories identified in Schedule A (208 Critical Disclosure Items), including but not limited to: the exploding microphone theory, foreign intelligence service involvement, evidence of cover-up, alternative shooters, evidence planting, and electronic warfare
+   - Specifically investigates all leads and theories identified in Schedule A (217 Critical Disclosure Items), including but not limited to: the exploding microphone theory, foreign intelligence service involvement, evidence of cover-up, alternative shooters, evidence planting, and electronic warfare
    - Does not treat any government agency, intelligence service, or foreign government as exempt from suspicion
 
-(d) **"Schedule A"** means the document titled "Charlie Kirk 208 Critical Disclosure Items" as maintained at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, incorporated by reference and attached as an appendix to this Act.
+(d) **"Schedule A"** means the document titled "Charlie Kirk 217 Critical Disclosure Items" as maintained at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, incorporated by reference and attached as an appendix to this Act.
 
 (e) **"Death of Charlie Kirk"** means the killing of Charles J. Kirk on September 10, 2025, at Utah Valley University, Orem, Utah, and all events, planning, coordination, and circumstances leading to, surrounding, and following that event.
 
@@ -923,7 +958,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 (j) **"Final output information"** means all intelligence and investigative products, including but not limited to: raw signals intelligence intercepts and transcripts, satellite imagery, cable traffic, source reports, briefing materials, intelligence assessments, analytical products, forensic data, and any information from which conclusions were or could be drawn. The distinction between raw intelligence and finished intelligence, or between raw investigative data and completed analyses, shall not be used to withhold any covered record. Investigation teams shall have access to all raw intelligence and raw investigative data, not merely the analytical conclusions derived therefrom.
 
 (k) **"Covered records"** means any and all files, documents, communications, reports, forensic evidence, witness statements, surveillance records, digital records, photographs, video recordings, audio recordings, cell site location information, geofence warrant data, flight records, financial records, ballistics analyses, autopsy reports, crime scene evidence, and any other information, in any format, that is related to or could reasonably assist in understanding the circumstances of the death of Charlie Kirk, including but not limited to:
-   1. All records specifically enumerated in Schedule A (208 Critical Disclosure Items)
+   1. All records specifically enumerated in Schedule A (217 Critical Disclosure Items)
    2. Any records that could identify or suggest the identity of any person involved in, connected to, or with knowledge of the death
    3. Any records relating to foreign intelligence service activity in the State of Utah during the period January 1, 2025 through December 31, 2025
    4. Any records relating to threats against Charlie Kirk or similarly situated public figures
@@ -976,6 +1011,8 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
    (c)(5) **Powers of Special Commission or Special Master.** The independent special commission or Special Master shall have all the powers of the original investigation team plus the ability to subpoena any government official, access any government facility, compel testimony under oath, and retain independent counsel, forensic experts, and investigators funded by the implicated agency's budget.
 
+   (c)(6) **Automatic Transfer Trigger.** The transfer of investigation authority to an independent congressional commission shall be triggered by the oversight board or any single Designated Trusted Investigator upon a finding of "credible evidence suggesting" agency involvement — not "proof of" involvement. Any Designated Trusted Investigator may petition the oversight board for a transfer determination, with a 14-day response deadline. The evidentiary standard is "credible evidence suggesting," which is satisfied by any specific and articulable facts indicating agency complicity.
+
 ## Section 4A: Records Preservation
 
 (a) Upon introduction of this bill, all covered law enforcement agencies and covered intelligence agencies shall immediately preserve all covered records and information related to the investigation and issue written preservation orders to all personnel. This preservation duty is enforceable upon enactment.
@@ -997,6 +1034,16 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 (d) **Public Reporting of Refusals.** If any foreign government fails to respond to an MLAT request within 60 days, or refuses to produce requested records, the Secretary of State shall publicly report the refusal to Congress and to the external independent oversight board within 7 days. The report shall identify the specific records requested and the foreign government's stated basis for refusal, if any.
 
 (e) **Independent Pursuit.** The failure or refusal of any foreign government to cooperate shall not limit the investigation teams' obligation to pursue all leads within U.S. jurisdiction, including records held by U.S. agencies that originated from or relate to foreign sources.
+
+(f) **Public Reporting of Foreign Refusals.** If any foreign government refuses to cooperate, the investigation teams shall publicly report the refusal within 14 days, investigate using all available U.S. sources (SIGINT, HUMINT, CBP records, visa records), and publicly report findings obtained without foreign cooperation.
+
+(g) Any foreign government refusal shall trigger automatic congressional review of all aid and intelligence-sharing agreements with that country.
+
+(h) **No Diplomatic Immunity for Evidence.** No claim of diplomatic immunity may be used to withhold records or prevent testimony.
+
+(i) **MLAT Hard Deadlines.** Investigation teams shall invoke MLAT requests within 15 days of team formation. If a foreign government refuses cooperation, the investigation teams must use all available U.S. sources and publicly report what was found without foreign cooperation within 30 days.
+
+(j) **Authority to Compel Testimony of Foreign Nationals.** Each investigation team shall have authority to issue subpoenas to any person physically present in the United States, regardless of citizenship or immigration status. For persons claiming diplomatic immunity, the Secretary of State shall request a waiver of immunity from the sending state within 14 days of the investigation team's written request transmitted through the oversight board. If the sending state refuses the waiver, the Secretary of State shall publicly report the refusal to Congress and all investigation teams within 7 days. Refusal by a foreign government to waive diplomatic immunity shall trigger automatic congressional review of all aid, intelligence-sharing, and diplomatic agreements with that government.
 
 ## Section 4C: Prohibited Grounds for Withholding from Investigation Teams
 
@@ -1045,6 +1092,18 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 (d) **Concurrent Penalties.** The penalties under this Section are in addition to, and do not replace, the budget reduction penalties under Section 7D-1 and the penalties for non-compliance under Section 7D.
 
+## Section 4C-2: No Israel Exception
+
+(a) No investigation team shall decline to pursue, narrow, or deprioritize any investigative lead on the basis that it relates to, implicates, or could affect relations with the State of Israel, Israeli intelligence services (including Mossad, Shin Bet, and Aman), or any entity acting on behalf of or in coordination with Israel.
+
+(b) The documented pattern of suppressing Israel-related investigations in the JFK and Epstein cases shall not be repeated.
+
+(c) This prohibition extends to leads implicating the Arab Republic of Egypt and the French Republic where those nations may be acting as proxies for Israeli intelligence.
+
+(d) Failure to investigate Israel-related leads (including but not limited to Schedule A Items #2, #26, #55, #62-#66, #87-#91, #172-#176) is a per se indicator of bad faith that triggers mandatory oversight board intervention under Section 6.
+
+(e) Any person who directs an investigation team to avoid Israel-related leads commits obstruction under Section 7D.
+
 ## Section 4D: Mandatory Investigation Infrastructure
 
 (a) **Dedicated Office Space.** Each investigation team established under Sections 2, 2A, 2B, and 3 shall be provided with dedicated SCIF-rated (Sensitive Compartmented Information Facility) office space that is:
@@ -1072,6 +1131,10 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 (e) **Funding.** Infrastructure costs under this Section shall be borne by the host agency for each investigation team and shall be in addition to the $10 million independent budget allocated to each team. Infrastructure costs shall not reduce or diminish the investigation budget.
 
+(f) **Full Team Independence.** The independent IT infrastructure, physically separate office space, and independent communications required by Section 3B(c)(3) for the Independent Commission Element shall extend to the FULL investigation team, not solely the Independent Commission Element. No investigation team shall operate on the host agency's network.
+
+(g) Criminal penalties of up to 10 years for any host agency employee who monitors, surveils, or reports on investigation team activities.
+
 ## Section 4E: Anti-Coordination Between Investigation Teams
 
 (a) **Prohibition on Sharing Draft Findings.** No investigation team established under Sections 2, 2A, 2B, or 3 shall share draft findings, preliminary conclusions, investigative strategies, witness lists, interview plans, or any other non-final work product with any other investigation team until the relevant findings have been included in a publicly released report under Section 8. This prohibition ensures that each team reaches its conclusions independently without being influenced by another team's preliminary analysis.
@@ -1087,6 +1150,16 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
    4. The external independent oversight board may authorize limited coordination on specific matters where independent investigation would be impractical, provided such authorization is documented in writing and disclosed in the next public report
 
 (e) **Penalties.** Unauthorized sharing of draft findings or work product between investigation teams constitutes a violation of this Act and may result in removal of the offending team member and referral for prosecution under Section 4(b-1).
+
+## Section 4F: Definition of Good-Faith Investigation
+
+(a) An investigation is not in good faith if it fails to pursue any Schedule A item without a documented, reviewed, and publicly disclosed explanation approved by the oversight board.
+
+(b) The oversight board, not the agency, makes the good-faith determination.
+
+(c) Failure to investigate Israel-related leads (Items #2, #26, #55, #62-#66, #87-#91, #172-#176) is a per se bad-faith indicator triggering mandatory oversight board intervention.
+
+(d) The investigation of each Schedule A item shall include documented steps taken, evidence reviewed, witnesses interviewed, and conclusions reached.
 
 ## Section 5: Whistleblower Protections
 
@@ -1159,6 +1232,12 @@ This right applies to any information related to the death of Charlie Kirk and t
 
 (e) **Special Master.** Upon a finding by the oversight board (by majority vote) that any investigation team is not conducting a good-faith investigation, any federal district court may appoint a Special Master with authority to: (1) access agency systems, databases, and physical storage facilities; (2) compel production of specific records; (3) direct investigators to pursue specific leads; (4) report directly to the court, the oversight board, and Congress; and (5) be funded by the non-compliant agency's budget. The oversight board may petition any federal court for appointment of a Special Master without demonstrating individual standing.
 
+(g) The oversight board shall have authority to direct investigators to pursue specific leads they are avoiding, and to require investigation teams to address every Schedule A item individually in their reports with specific findings or explanation of inability to investigate.
+
+(h) The oversight board may replace investigation team leaders who are not conducting good-faith investigations, subject to a finding by majority vote.
+
+(i) Each Designated Trusted Investigator under Law 4 shall review the investigation teams' work and publicly identify gaps.
+
 ## Section 7: Congressional Oversight
 
 (a) The investigation teams shall brief the relevant congressional committees monthly.
@@ -1205,6 +1284,18 @@ This right applies to any information related to the death of Charlie Kirk and t
 
 (d) **Existing Orders.** Any court order in effect as of the date of enactment that conflicts with this Act is hereby superseded to the extent of the conflict. Courts that have issued such orders shall modify them within 14 days of enactment to conform to this Act.
 
+## Section 7B-2: Judicial Protections Against Suppression
+
+(a) Jurisdiction for all challenges to this Act shall lie with a three-judge panel of the D.C. District Court drawn by random lot.
+
+(b) No court may issue a stay of investigation requirements pending litigation.
+
+(c) All judicial proceedings shall be public.
+
+(d) Any person may seek mandamus to compel compliance, with attorney's fees for prevailing plaintiffs.
+
+(e) **60-Day Maximum Judicial Delay.** There is a statutory presumption that no judicial order — including temporary restraining orders, preliminary injunctions, stays pending appeal, or any other form of judicial relief — may delay the commencement or continuation of any investigation mandated by this Act for more than 60 days total from the date of enactment. Any judicial proceeding that has not been fully resolved within 60 days of enactment shall not prevent investigation activities from proceeding. The burden is on the party seeking continued delay to demonstrate, by clear and convincing evidence, that immediate investigation activity would create an imminent threat to the physical safety of an identified individual. Generalized claims of national security, diplomatic embarrassment, or institutional harm do not satisfy this standard.
+
 ## Section 7C: Private Right of Action
 
 (a) Any citizen of the United States may bring an action in the United States District Court for the District of Columbia to compel compliance with the investigation mandates of this Act, provided that: (1) the citizen has provided 60 days' written notice to the non-compliant agency and the Attorney General specifying the alleged non-compliance; (2) the 60-day investigation commencement deadline under Sections 2, 2A, 2B, and 3 has passed; and (3) the alleged non-compliance has not been fully remedied during the notice period. The injury cognizable under this section is the denial of the statutory right to a thorough investigation as mandated by this Act.
@@ -1245,6 +1336,22 @@ This right applies to any information related to the death of Charlie Kirk and t
 
 (e) **Multiple Trigger Conditions.** If an agency triggers multiple conditions simultaneously, the reductions are cumulative — 25% per month for each unresolved trigger condition.
 
+(f) **Escalating Weekly Reductions.** Beginning on the 61st day after enactment (i.e., day 1 after the 60-day team formation deadline), weekly escalating reductions of 5%, 10%, 15%, then 25% per week shall apply in addition to monthly reductions.
+
+(g) **Independent Completeness Audit.** The oversight board shall commission independent auditors to verify investigation thoroughness.
+
+(h) **Real-Time Public Dashboard.** Each investigation team shall maintain a public dashboard showing investigation progress on each Schedule A item.
+
+## Section 7D-2: Self-Executing Enforcement
+
+(a) **Self-Executing Mechanisms.** Every enforcement mechanism in this Act — including budget reductions, criminal referrals, and adverse inferences — is self-executing and requires no additional congressional action, appropriations rider, executive branch approval, or judicial order to take effect.
+
+(b) **Independent Prosecution Authority.** Upon a finding of non-compliance or bad faith by the oversight board, a Special Counsel shall be automatically appointed by the Chief Judge of the United States District Court for the District of Columbia to investigate and prosecute violations of this Act. The Special Counsel shall have full prosecutorial authority independent of the Department of Justice.
+
+(c) **Qui Tam Actions.** Any citizen may bring a qui tam action under this Act against any person or agency that has violated the investigation mandates. Successful qui tam plaintiffs shall be entitled to treble damages and 25% of any fine or budget reduction imposed as a result of the action.
+
+(d) **Structural Funding Defense.** The enforcement provisions of this Act are funded through mandatory appropriations under Section 9 that do not require annual reauthorization. Any legislation that would amend, repeal, or weaken any enforcement provision of this Act shall require a two-thirds supermajority vote in both chambers of Congress. Congress declares its intent that the mandatory funding established by this Act shall continue for a minimum of 10 years from the date of enactment.
+
 ## Section 7E: Public Contact Information for Investigation Teams
 
 (a) **Mandatory Public Contact Channels.** Within 14 days of each investigation team's establishment under Sections 2, 2A, 2B, and 3, each team shall publish and maintain the following public contact channels to allow any member of the public, any witness, any whistleblower, or any person with relevant information to communicate directly with the investigation team:
@@ -1280,6 +1387,12 @@ This right applies to any information related to the death of Charlie Kirk and t
 (d) Each report shall include a section addressing each of the 208 items in Schedule A, documenting what was investigated, what was found, and what remains unresolved.
 
 (e) A final comprehensive report shall be released by each team upon the conclusion of its investigation.
+
+(f-1) **90-Day Interim Reports.** In addition to the 6-month comprehensive reports, each investigation team shall produce 90-day interim reports documenting progress on each Schedule A item.
+
+(f-2) The oversight board may require emergency reports on critical findings at any time.
+
+(f-3) Real-time public dashboards shall show investigation progress on each Schedule A item.
 
 (f) **Report to Congress.** Not later than 15 days after each 6-month disclosure report, the head of each covered agency hosting an investigation team shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report containing:
    1. All categories of records produced to and withheld from the investigation team
@@ -1319,17 +1432,21 @@ This right applies to any information related to the death of Charlie Kirk and t
 
 (c) All documents shall include metadata identifying the producing agency, the date of production, and the Schedule A item(s) to which the document relates.
 
-## Section 9: Authorization of Appropriations
+## Section 9: Mandatory Appropriations and Funding Protection
 
-(a) There are hereby appropriated, out of any money in the Treasury not otherwise appropriated, $10,000,000 for each of the four investigation teams (FBI, CIA, NSA, IC via DNI) as mandated by Sections 2, 2A, 2B, and 3, for a total of $40,000,000. These funds shall be available immediately upon enactment and shall not require further appropriation action by Congress.
+(a) **Mandatory Appropriation — Investigation Teams.** There are hereby appropriated, out of any money in the Treasury not otherwise appropriated, $10,000,000 for each of the four investigation teams (FBI, CIA, NSA, IC via DNI) as mandated by Sections 2, 2A, 2B, and 3, for a total of $40,000,000. These funds shall be available immediately upon enactment and shall not require further appropriation action by Congress. This appropriation is mandatory and self-executing — it does not require inclusion in any annual appropriations bill, continuing resolution, or omnibus spending bill.
 
-(b) There are hereby appropriated, out of any money in the Treasury not otherwise appropriated, $8,000,000 annually for the External Independent Oversight Board established under Section 6, including compensation for all 5 board members, staff, forensic auditors, legal counsel, and administrative costs.
+(b) **Mandatory Appropriation — Oversight Board.** There are hereby appropriated, out of any money in the Treasury not otherwise appropriated, $8,000,000 annually for the External Independent Oversight Board established under Section 6, including compensation for all 5 board members, staff, forensic auditors, legal counsel, and administrative costs. This appropriation is mandatory and self-executing.
 
-(c) There is authorized to be appropriated such sums as may be necessary for covered agencies to comply with the investigation and records production requirements of this Act.
+(c) **Agency Compliance Funding.** There is authorized to be appropriated such sums as may be necessary for covered agencies to comply with the investigation and records production requirements of this Act.
 
-(d) Funds appropriated under this section shall be available immediately upon enactment and shall remain available until expended.
+(d) **Immediate Availability.** Funds appropriated under this section shall be available immediately upon enactment and shall remain available until expended.
 
-(e) Investigation team budgets shall be administered independently of the host agency's budget process. No agency may redirect, withhold, or condition access to funds appropriated for investigation teams under this Act.
+(e) **Independent Budget Administration.** Investigation team budgets shall be administered independently of the host agency's budget process. No agency may redirect, withhold, or condition access to funds appropriated for investigation teams under this Act.
+
+(f) **Appropriations Protection.** No appropriations bill, continuing resolution, or omnibus spending bill may include any provision that reduces, restricts, conditions, or eliminates funding for compliance with or enforcement of this Act. Any such provision included in any legislation shall have no force or effect with respect to the mandatory appropriations established by this section.
+
+(g) **Discharge Petition Mechanism.** If the committee of jurisdiction in the House of Representatives does not report this bill within 60 calendar days of introduction, any 218 Members of the House may file a discharge petition to bring the bill directly to the floor for a vote. If the committee of jurisdiction in the Senate does not report this bill within 60 calendar days of introduction, any 30 Senators may move to discharge the committee, and the motion shall be non-debatable and decided by simple majority vote.
 
 ## Section 9A: State and Local Cooperation
 
@@ -1397,6 +1514,8 @@ If any provision of this Act, or the application thereof to any person or circum
    (d)(5) **Form of Transmission.** Exculpatory findings shall be transmitted directly to defense counsel of record for Tyler Robinson, with simultaneous notice to the external independent oversight board and the court in the state case. Transmission shall include the underlying evidence, not merely summaries or conclusions.
 
    (d)(6) **Penalty for Non-Disclosure.** Failure to transmit exculpatory findings within 5 days constitutes obstruction under Section 7D(a) and is punishable by up to 10 years imprisonment. The external independent oversight board shall audit each investigation team's compliance with this subsection and report any failures in its public reports.
+
+   (d)(7) **Brady Compliance Officer.** Each investigation team established under Sections 2, 2A, 2B, and 3 shall designate a Brady compliance officer who reviews all findings for exculpatory material relevant to the defense of Tyler Robinson in *State of Utah v. Tyler Alexander Robinson* (Case No. 251403576, Fourth Judicial District Court, Utah County). Any exculpatory material shall be produced to Robinson's defense counsel within 5 days of discovery. The Brady compliance officer shall maintain a log of all material reviewed and all productions made, and shall provide quarterly reports to the oversight board. Failure to designate a Brady compliance officer or to produce exculpatory material within 5 days constitutes obstruction under Section 7D.
 
 ## Section 10C-1: Post-Hoc Forensic Examination Authority
 

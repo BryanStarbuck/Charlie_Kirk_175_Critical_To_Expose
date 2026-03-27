@@ -21,6 +21,12 @@ Your instructions are:
 
 * Only file to modify or grow is OUTPUT_FILE.
 
+* Especially focus on if the checked-out files are different than the checked-in files and understand the difference between those two and worry if we're going to have problems. We care. On the one side, there's something very, very strange; it'll cause Congress not to pass a law. We want to know what that is. There are other ones; it's a real problem legally; we want to know.
+
+The other one is if there's a real problem where this incredibly powerful force across all levels of government will cover up the worst crimes Israel and Mossad do if they're able to have strangely high power in our case. We want to know where that is.
+
+I worry about this special judge that can make decision-making. That may be more dangerous than not. They might put somebody in there who will block everything. See if the logs are ideal or when you're doing the output of this prompt. Say what our problems that we face are going to be. 
+
 * Read in this INPUT_GOALS_FILE.  That is the list of goals for the laws. THis is the primary charter and more definitive to the goals than any other file.
 
 Act as an attorney. Analyze if this law has any ways to be improved. You are the smartest person in the United States. You do know all about being an attorney, but most importantly, you don't necessarily just only think like an attorney. You're going to look for any problems in these laws and them accomplishing their final goal.

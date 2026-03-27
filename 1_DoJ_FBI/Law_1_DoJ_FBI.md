@@ -10,7 +10,7 @@ This Act may be cited as the "Charlie Kirk Files Forced Disclosure Act — Law E
 The Charlie Kirk Files Forced Disclosure Act - Law Enforcement
 
 ## Purpose
-To require the Department of Justice, the Federal Bureau of Investigation, and all federal, state, and local law enforcement agencies to fully and immediately disclose all files, records, communications, and information in their possession related to the investigation of the death of Charlie Kirk, including but not limited to the 213 specific disclosure items enumerated in Schedule A of this Act.
+To require the Department of Justice, the Federal Bureau of Investigation, and all federal, state, and local law enforcement agencies to fully and immediately disclose all files, records, communications, and information in their possession related to the investigation of the death of Charlie Kirk, including but not limited to the 217 specific disclosure items enumerated in Schedule A of this Act.
 
 ## Section 0: Congressional Findings
 
@@ -32,11 +32,34 @@ The Congress finds the following:
 
 (c) Each covered agency shall designate a senior official, at the level of Deputy Director or above, responsible for compliance with this Act. Such official shall certify under penalty of perjury that all responsive records have been identified and produced.
 
-(d) Each covered agency shall conduct a comprehensive search of all file systems, databases, email archives, internal communication platforms, and storage media to identify covered records, and shall submit to Congress a declaration describing the scope and methodology of the search.
+(d) Each covered agency shall conduct a comprehensive search of all file systems, databases, email archives, internal communication platforms, and storage media to identify covered records, and shall submit to Congress a declaration describing the scope and methodology of the search. The search shall encompass every database, file system, email archive, communication platform, classified storage system, and backup system across every division, field office, and component of the agency — not solely the primary case file. Each covered agency shall certify that it searched every system, not merely the systems deemed "logically" responsive. The review board shall have authority to direct agencies to search specific additional systems the board identifies. No covered agency may define its own compliance — the review board makes that determination. The FBI shall specifically search and produce records from: (1) the primary case file, (2) all counterintelligence files, (3) all FISA files, (4) all headquarters supervisory files, (5) all internal affairs and Office of Professional Responsibility files, (6) all field offices (not solely Salt Lake City), (7) the Director's office files, (8) all email archives including personal email accounts of agents who worked the case, and (9) all classified and compartmented information systems. The review board shall specify the systems to be searched; FBI discretion over search scope is not permitted.
 
-(e) **Compulsory Process for Private Entity Records.** Within 15 days of enactment, each covered agency shall issue subpoenas, National Security Letters, or other compulsory process for all records described in Schedule A that are held by private entities — including but not limited to TPUSA, Mosaic Pro Events, rental car companies, hotels, Accurate Energetic Systems (AES), banks, telecommunications providers, and any other entity in possession of relevant records — regardless of whether the agency previously sought such records. The review board established under Section 8 shall have independent subpoena power over private entities for any records described in Schedule A. Any private entity that destroys, alters, or conceals records after receiving notice under this subsection shall be subject to the same criminal penalties as government agencies under Section 7. **Private Entity Compliance Deadline.** Any private entity served with a subpoena or compulsory process under this subsection shall comply within 30 days of service. Any private entity that fails to comply within 30 days shall be subject to a civil penalty of $100,000 per day of non-compliance, enforceable by the review board or any federal district court. The review board may seek expedited contempt proceedings against non-compliant private entities, and courts shall hear such motions within 7 days of filing.
+(e) **Compulsory Process for Private Entity Records.** Within 15 days of enactment, each covered agency shall issue subpoenas, National Security Letters, or other compulsory process for all records described in Schedule A that are held by private entities — including but not limited to TPUSA, Mosaic Pro Events, rental car companies, hotels, Accurate Energetic Systems (AES), banks, telecommunications providers, and any other entity in possession of relevant records — regardless of whether the agency previously sought such records. The review board established under Section 8 shall have independent subpoena power over private entities for any records described in Schedule A. Any private entity that destroys, alters, or conceals records after receiving notice under this subsection shall be subject to the same criminal penalties as government agencies under Section 7. **Private Entity Compliance Deadline.** Any private entity served with a subpoena or compulsory process under this subsection shall comply within 30 days of service. Any private entity that fails to comply within 30 days shall be subject to a civil penalty of $100,000 per day of non-compliance, enforceable by the review board or any federal district court. The review board may seek expedited contempt proceedings against non-compliant private entities, and courts shall hear such motions within 7 days of filing. The review board may appoint a Special Master with authority to conduct on-site inspections of private entity records and systems. The Special Master shall have authority to direct forensic imaging of private entity systems within 15 days of enactment for TPUSA and Mosaic Pro Events. **Small Entity Extension.** Private entities with fewer than 50 employees may petition the review board for a single 30-day extension of the compliance deadline upon a showing of good faith compliance efforts, including documentation of steps taken to locate and produce responsive records. The review board shall rule on such petitions within 7 days of filing. This extension is not available to any entity that has destroyed, altered, or concealed records after receiving notice under this subsection.
 
 (f) **Negative Certification for Non-Existent Records.** Each covered agency shall file a sworn declaration, signed by the senior official designated under subsection (c), listing every category in Schedule A and stating, for each category: (1) what records the agency found responsive to that category; (2) the volume and nature of records produced; and (3) for any category where the agency claims no responsive records exist, a detailed explanation of why such records should not be expected to exist given the agency's mission, jurisdiction, and involvement in the investigation. A bare assertion that "no responsive records were found" without explanation shall be treated as non-compliance. The review board may challenge any negative certification and require the agency to demonstrate, under oath, the search methodology used and the basis for claiming non-existence.
+
+## Section 2B: Rolling 72-Hour Law Enforcement Production
+
+(a) **Continuing Disclosure Obligation.** Beginning on the date of enactment and continuing indefinitely, each covered agency shall collect and produce to the review board and make publicly available any newly generated record, report, communication, forensic result, investigative lead, interview report, or any other information that relates to any Schedule A item or to the death of Charlie Kirk within 72 hours of its creation, receipt, or discovery by the agency.
+
+(b) This rolling production obligation applies to:
+   1. Any new record, report, or investigative product created by the agency after enactment that relates to any Schedule A subject
+   2. Any record received from a foreign government, foreign law enforcement partner, or international organization after enactment that relates to any Schedule A subject
+   3. Any previously existing record discovered after the initial 30-day production deadline
+   4. Any record, lead, or evidence identified by investigation teams established under the Charlie Kirk Mandatory Investigation Act (Law 3) or the Charlie Kirk Trusted Investigators Act (Law 4) that relates to records in the possession of a covered agency under this Act
+   5. Any record that a Designated Trusted Investigator, an investigation team under Law 3, or the external independent monitor under Law 3 identifies as responsive and requests from a covered agency — such requests shall be treated as mandatory production orders with the same 72-hour deadline
+   6. Any information generated in response to or as a result of investigations conducted under the Charlie Kirk Mandatory Investigation Act (Law 3) or the Charlie Kirk Trusted Investigators Act (Law 4)
+   7. Any communication between covered agencies regarding Schedule A subjects, including internal memoranda, emails, and verbal communications (which must be memorialized in writing within 24 hours)
+
+(c) Each covered agency shall designate a compliance officer responsible for monitoring all new law enforcement production for Schedule A relevance and ensuring 72-hour disclosure. The identity of the compliance officer shall be reported to the review board within 7 days of enactment.
+
+(c-1) Each compliance officer shall maintain a log of all investigative and records-production activities related to Schedule A subjects and provide it to the review board weekly.
+
+(d) Failure to produce a newly generated or newly discovered record within 72 hours constitutes obstruction under Section 7(a). The 72-hour deadline may not be extended by legal review, privilege review, or any other internal process.
+
+(e) The review board shall maintain a public log of all rolling disclosures, including the originating agency, date of creation, date of disclosure, and Schedule A item(s) addressed.
+
+(f) **Investigation-Triggered Disclosure.** When any investigation team established under the Charlie Kirk Mandatory Investigation Act (Law 3) or the Charlie Kirk Trusted Investigators Act (Law 4) discovers evidence suggesting the existence of additional records held by a covered agency under this Act, the covered agency shall: (1) conduct a targeted search for such records within 48 hours of notification; (2) produce all responsive records within 72 hours of identification; and (3) certify under penalty of perjury the completeness of its response. The investigation teams under Laws 3 and 4 may issue binding production requests directly to any covered agency under this Act, and such requests carry the same legal force as a subpoena.
 
 ## Section 3: Specific Mandatory Disclosures (Schedule A)
 
@@ -149,12 +172,14 @@ The Congress finds the following:
    29. All records of the AES factory explosion investigation and its connection to DoD contract N0016425PJ538 (Item #202)
    30. Tyler Robinson's complete travel path before and after the shooting, all prior visits to UVU campus, all evidence regarding Robinson's exact position at the moment of the shot, and all video footage and analysis of whether the rooftop suspect was running or stationary when the shot was fired (Items #202-#206)
 
-(b) **Schedule A** shall be the document titled "Charlie Kirk 213 Critical Disclosure Items" as maintained in the public repository at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, as of the date of enactment, incorporated by reference and attached as an appendix to this Act.
+(b) **Schedule A** shall be the document titled "Charlie Kirk 217 Critical Disclosure Items" as maintained in the public repository at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, as of the date of enactment, incorporated by reference and attached as an appendix to this Act.
 
 (c) The enumeration of specific items in this Section and in Schedule A shall not be construed to limit the scope of the broad disclosure mandate in Section 2. Both the broad mandate and the specific enumeration apply concurrently.
+
+(d) **Schedule A Count Discrepancy Resolution.** In the event of any discrepancy between the Schedule A item count referenced in this Act and the Schedule A item count in any companion Act (the Charlie Kirk Intelligence Services Disclosure Act, the Charlie Kirk Mandatory Investigation Act, or the Charlie Kirk Trusted Investigators Act), the higher count controls, and the most comprehensive version of each individual item across all four Acts shall be deemed incorporated.
 ---
 
-## Schedule A: 213 Critical Disclosure Items
+## Schedule A: 217 Critical Disclosure Items
 
 Application Notes:
 
@@ -763,6 +788,18 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 * #213: Hospital Pre-Selection and Intelligence Influence: All records relating to whether Timpanogos Regional Hospital, its medical personnel, or CEO Andrew Zenger was subject to pre-selection, direction, intelligence service influence, or pre-planned placement of personnel in connection with the Charlie Kirk case. Each covered agency shall also produce all records of any contact between any intelligence service or government agency and hospital personnel before, during, or after the shooting, all records of any direction given to hospital staff regarding treatment decisions, and all records relating to whether the routing of Charlie Kirk to Timpanogos Regional Hospital rather than another facility was influenced by any government agency or intelligence service.
 
+### Hospital Bomb Threat and Diversion (#214)
+
+* #214: Hospital Bomb Threat and Planned Diversion: All records related to any bomb threat, bomb scare, or security incident at any hospital within 20 miles of Utah Valley University on September 10, 2025, including but not limited to Intermountain Health Utah Valley Regional Medical Center. Each covered agency shall produce all 911 call records, caller identification data, call timing and duration, law enforcement dispatch records, hospital security logs, and all non-disclosure agreements (NDAs) signed by hospital staff in connection with any such bomb threat. Each covered agency shall further produce all records relating to whether the bomb threat was coordinated with the assassination to divert Charlie Kirk away from the closer hospital to a controlled facility, and all communications between any government agency, intelligence service, or private entity regarding hospital security incidents on September 10, 2025.
+
+### Carbyne 911 System Data (#215)
+
+* #215: Carbyne 911 System Intelligence Access: All records related to the Carbyne 911 system — an Israeli intelligence-linked 911 technology platform co-founded by Ehud Barak with Epstein-connected funding — deployed across Utah, including all Carbyne system data for the Provo/Orem area on September 10, 2025. Each covered agency shall produce all 911 calls processed through the Carbyne system, all location pings, audio recordings, metadata, and data transmissions to any domestic or foreign server. Each covered agency shall further produce all records identifying any foreign entity, foreign government, or foreign intelligence service with access to Carbyne 911 data, all contracts between Utah governmental entities and Carbyne Ltd., and all assessments of whether the Carbyne system provided real-time intelligence access to any foreign service during the events of September 10, 2025.
+
+### Independent Ballistics and Forensic Testing Authority (#216)
+
+* #216: Independent Ballistics and Forensic Testing: The review board established under Section 8 is hereby granted explicit authority to commission independent ballistics testing, acoustic analysis, explosive residue testing, metallurgical examination, and any other forensic testing it deems necessary, using experts selected by the review board and not by any covered agency. Each covered agency shall produce all existing ballistics analyses, acoustic analyses, explosive residue tests, and metallurgical examinations. The review board may conduct independent testing to verify, supplement, or challenge any existing agency analysis, including but not limited to: (1) independent determination of whether a 9mm weapon was fired; (2) independent analysis of whether the microphone or other equipment contained explosive material; (3) acoustic analysis of gunshot origin and trajectory; and (4) metallurgical analysis of all fragments recovered from the scene or from Charlie Kirk's body. No covered agency may obstruct, delay, or interfere with independent testing authorized under this item.
+
 ---
 
 ## Schedule B: List of People
@@ -847,7 +884,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 (a) **"Covered agencies"** means the Department of Justice, the Federal Bureau of Investigation, the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), U.S. Customs and Border Protection (CBP), the Transportation Security Administration (TSA), the Department of Homeland Security, the Financial Crimes Enforcement Network (FinCEN), the Department of the Treasury, the Internal Revenue Service (IRS), and any federal, state, or local law enforcement agency that has participated in, contributed to, or possesses information related to the investigation of the death of Charlie Kirk, the prosecution of any person in connection therewith, or any matter peripheral to or connected with the investigation.
 
 (b) **"Covered records"** means any and all files, documents, communications, reports, forensic evidence, witness statements, surveillance records, digital records, photographs, video recordings, audio recordings, cell site location information, geofence warrant data, flight records, financial records, ballistics analyses, autopsy reports, crime scene evidence, and any other information, in any format, that is related to or could reasonably assist in understanding the circumstances of the death of Charlie Kirk, including but not limited to:
-   1. All records specifically enumerated in Schedule A (213 Critical Disclosure Items)
+   1. All records specifically enumerated in Schedule A (216 Critical Disclosure Items)
    2. Any records that could identify or suggest the identity of any person involved in, connected to, or with knowledge of the death
    3. Any records relating to foreign intelligence service activity in the State of Utah during the period January 1, 2025 through December 31, 2025
    4. Any records relating to threats against Charlie Kirk or similarly situated public figures
@@ -880,6 +917,9 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
    5. The inter-agency or intra-agency memorandums or letters exemption (5 U.S.C. § 552(b)(5)) — no covered record shall be withheld on the ground that it constitutes an inter-agency or intra-agency memorandum or letter that would not be available by law to a party other than an agency in litigation with the agency; all such memorandums and letters in the possession of any covered agency that relate to the death of Charlie Kirk or any person involved shall be disclosed in full
    6. Law enforcement privilege
    7. Any claim that records were "lost," "destroyed," or "cannot be located" without forensic verification
+   8. Grand jury secrecy (Federal Rule of Criminal Procedure 6(e)) — Congress hereby exercises its authority to override grand jury secrecy with respect to covered records
+   9. Privacy of government employees acting in their official capacity
+   10. Attorney-client privilege between any covered agency and its counsel regarding the investigation
 
 (b) **Narrow Permitted Redactions.** The only permissible redactions from covered records are:
    1. Names of confidential human sources currently active in unrelated ongoing investigations where disclosure would create an imminent threat to life
@@ -897,6 +937,16 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 (f) **Declassification of Covered Records.** All classification markings on covered records are automatically removed upon enactment of this Act. No covered record may be reclassified after enactment. Covered agencies shall process declassification within the 30-day disclosure window. Classification shall not excuse non-production; if an agency cannot complete declassification review within 30 days, the record shall be produced to the review board in classified form, with a public redacted version produced simultaneously, and the full unclassified version produced within 60 days. Any agency seeking to maintain classification on specific records must petition the review board established under Section 8 within 7 days of enactment, identifying each record with particularity and demonstrating by clear and convincing evidence that disclosure would cause grave and specific harm to a currently active intelligence operation. The burden of proof rests entirely on the petitioning agency. The review board shall rule on each petition within 14 days. Failure to petition within 7 days constitutes waiver of any classification claim. The review board may grant temporary classification for no more than 90 days, subject to renewal only upon a renewed showing of grave and specific harm.
 
+## Section 4A: No Israel Exception
+
+(a) No record shall be withheld on the basis that it relates to, was received from, or could affect relations with the State of Israel, Israeli intelligence services (including Mossad, Shin Bet, and Aman), or any entity acting on behalf of or in coordination with Israel.
+
+(b) The documented pattern of suppressing Israel-related records in the JFK Assassination Records Collection Act (100,000+ documents relating to Israeli involvement remain unreleased after 60+ years) and the Epstein Files Transparency Act (records connecting Epstein to Mossad operations heavily redacted) shall not be repeated under this Act.
+
+(c) This prohibition extends to records relating to the Arab Republic of Egypt, the Egyptian General Intelligence Directorate, and the French Republic and DGSE, where those nations may be acting as proxies for or in coordination with Israeli intelligence.
+
+(d) Any invocation of Israeli relations, Israeli intelligence cooperation, or Israeli diplomatic sensitivities to justify withholding constitutes obstruction under Section 7(a).
+
 ## Section 5: Records Preservation
 
 (a) Upon introduction of this bill, all covered agencies shall immediately preserve all covered records and issue written preservation orders to all personnel. This preservation duty is enforceable upon enactment.
@@ -910,6 +960,10 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 (e) **Anti-Transfer Provision.** Any transfer of covered records to any entity — including any other government agency, private contractor, or foreign government — after September 10, 2025, does not relieve the transferring agency of its disclosure obligations under this Act. The transferring agency remains fully responsible for producing the transferred records or compelling their return. Transfer of covered records to a foreign government or foreign entity after September 10, 2025, shall be treated as destruction of records and shall subject the responsible officials to the 15-year criminal penalty under Section 7(a) of this Act.
 
 (f) **Personal Device Preservation.** The preservation obligations of this section extend to personal cell phones, personal email accounts, personal cloud storage, and encrypted messaging applications (including but not limited to Signal, Telegram, WhatsApp, and iMessage) of any person who is an employee, official, or agent of a covered agency and who worked on, participated in, or possessed knowledge of the investigation. Within 48 hours of enactment, each covered agency shall collect or cause to be forensically imaged all personal devices of persons of interest identified by the review board. Refusal to surrender a personal device for forensic imaging upon lawful demand shall constitute obstruction under Section 7(a).
+
+(g) **Independent Forensic Imaging Within 72 Hours.** Within 72 hours of enactment, each covered agency shall submit to forensic imaging of all servers, databases, email archives, backup systems, and storage media by independent forensic firms selected by the review board. No covered agency may conduct its own forensic imaging for purposes of compliance with this subsection. The imaging shall be performed by firms with no current or recent contractual relationship with any covered agency.
+
+(h) **Complete Deletion Audit Logs.** Each covered agency shall produce to the review board complete audit logs of all file deletions, modifications, access events, and system changes since September 10, 2025, across all systems containing or potentially containing covered records.
 
 ## Section 6: Whistleblower Protections
 
@@ -947,15 +1001,25 @@ This right applies to any information related to the death of Charlie Kirk and t
 
 (b) Any agency that fails to comply within the 30-day timeline shall be subject to the following automatic, self-executing budget reductions: the non-compliant agency's discretionary law enforcement funding shall be reduced by 25% per month of non-compliance, with no cap on cumulative reductions. These reductions are automatic and self-executing upon certification of non-compliance by the review board established under Section 8 — no additional congressional action, appropriations rider, or executive branch approval is required. The Office of Management and Budget shall implement certified reductions within 5 business days of review board certification. Funds specifically appropriated for compliance with this Act are exempt from such reductions. Reductions apply prospectively to new discretionary appropriations, not retroactively to already-obligated funds.
 
+(b-1) **Escalating Weekly Budget Reductions.** In addition to the monthly budget reductions under subsection (b), beginning on the 31st day after enactment, non-compliant agencies shall be subject to weekly escalating budget reductions: 5% in week 1 of non-compliance, 10% in week 2, 15% in week 3, and 25% per week thereafter, calculated on the agency's remaining discretionary budget. These reductions are cumulative with the monthly reductions.
+
+(b-2) **Individual Compliance Officer Liability.** The senior compliance officer designated under Section 2(c) shall be personally and criminally liable for non-compliance. If the agency fails to meet the 30-day deadline, the compliance officer shall be subject to criminal prosecution for obstruction under this Act, independent of any prosecution of other agency officials.
+
+(b-3) **Independent Completeness Audit.** The review board shall commission an independent technical audit team — composed of forensic IT specialists, records management experts, and legal professionals who are not current or former employees of any covered agency — to verify the completeness of each agency's production. The audit team shall assess whether search methodologies were adequate, whether all systems were searched, and whether negative certifications are credible. The review board, not any covered agency, shall determine whether compliance has been achieved.
+
+(b-4) **Real-Time Public Compliance Dashboard.** Each covered agency shall publish and maintain a real-time public dashboard showing compliance status for each of the Schedule A items, including: records identified, records produced, records withheld (with stated basis), and records under review. The dashboard shall be updated no less than daily.
+
 (c) Certification under penalty of perjury that all records have been produced, when records are later found to have been withheld, constitutes perjury and is subject to prosecution under 18 U.S.C. Section 1621.
 
 (d) The Attorney General's failure to comply with this Act shall be grounds for contempt of Congress proceedings. Congress may proceed through civil contempt in federal court, bypassing the requirement of referral to the U.S. Attorney for the District of Columbia. Either chamber may retain independent counsel to prosecute the contempt. The review board may seek judicial enforcement directly.
+
+(f) **DOJ Inspector General Mandatory Investigation.** The DOJ Inspector General shall investigate all findings of non-compliance by the review board and publish reports within 30 days of each finding.
 
 (e) **Attorney General Conflict of Interest — Presumptive Recusal.** Given that allegations of FBI cover-up, evidence destruction, witness intimidation, and obstruction of justice are central to this legislation and among the core reasons for its enactment, a presumptive conflict of interest exists for the Department of Justice in overseeing its own compliance. Accordingly, upon enactment of this Act, a Special Master shall be automatically appointed by the United States District Court for the District of Columbia to oversee all DOJ and FBI compliance with this Act. The Attorney General is presumptively recused from all compliance decisions under this Act. The Special Master shall have authority to: (1) access all DOJ and FBI systems, files, and databases; (2) compel production of records; (3) direct DOJ personnel to perform specific searches and produce specific records; (4) report non-compliance directly to the review board and Congress; and (5) refer any person for criminal prosecution. The Attorney General may petition the review board to lift the presumptive recusal by demonstrating, by clear and convincing evidence, that DOJ personnel are not implicated in any allegation covered by this Act. The review board, not the Attorney General, shall have final authority to certify completeness of DOJ disclosure.
 
 ## Section 8: Independent Oversight
 
-(a) **Establishment and Appointment.** An independent review board of 5 members shall be established within 30 days of enactment to verify completeness of disclosures. Members shall be appointed as follows: 1 member by the Speaker of the House of Representatives, 1 member by the Senate Majority Leader, 1 member by the Senate Minority Leader, 1 member by the Chief Justice of the United States, and 1 member by the Comptroller General of the United States (head of the Government Accountability Office). The appointments by the Chief Justice and the Comptroller General ensure independence from the political branches and the executive agencies subject to this Act. Members shall have demonstrated expertise in law, forensic investigation, intelligence oversight, or government accountability. Members shall serve for terms of 4 years and may be removed only for cause. A quorum of 3 members is required for official action. The board's functions are advisory, investigatory, and reporting in nature. The President shall have no role in appointing, confirming, or removing board members.
+(a) **Establishment and Appointment.** An independent review board of 5 members shall be established within 30 days of enactment to verify completeness of disclosures. Members shall be appointed as follows: 2 members shall be appointed from outside government — specifically, attorneys, journalists, or citizen investigators with demonstrated expertise in government accountability — by the Comptroller General of the United States (head of the Government Accountability Office); 1 member by the Speaker of the House of Representatives; 1 member by the Senate Majority Leader; and 1 member by the Senate Minority Leader. At least 3 of the 5 members shall be from outside government. Members shall have demonstrated expertise in law, forensic investigation, intelligence oversight, or government accountability. Members shall serve for terms of 4 years and may be removed only for cause. A quorum of 3 members is required for official action. The board's functions are advisory, investigatory, and reporting in nature. The President shall have no role in appointing, confirming, or removing board members. Each Designated Trusted Investigator under Law 4 shall have observer status on the review board with the right to attend meetings, review materials, and refer matters for enforcement action.
 
 (b) The review board shall:
    1. Have full access to agency systems and files to verify compliance
@@ -966,6 +1030,8 @@ This right applies to any information related to the death of Charlie Kirk and t
    6. Have authority to direct covered agencies to pursue specific investigative leads or records production that the board determines have been neglected
 
 (c) The review board shall be permanent and shall continue to operate until it certifies that full compliance has been achieved.
+
+(c-1) **Authority to Compel Testimony of Foreign Nationals.** The review board and any investigation team operating under companion legislation (the Charlie Kirk Mandatory Investigation Act or the Charlie Kirk Trusted Investigators Act) shall have authority to issue subpoenas to any person physically present in the United States, regardless of citizenship or immigration status. For persons claiming diplomatic immunity, the Secretary of State shall request a waiver of immunity from the sending state within 14 days of written request. If the sending state refuses the waiver, the Secretary of State shall publicly report the refusal to Congress within 7 days.
 
 (d) Board members may not have been employed by any covered agency within the preceding 10 years.
 
@@ -1010,6 +1076,8 @@ The review board shall acknowledge receipt of all submissions within 7 days. No 
 
 (d) No executive order, presidential memorandum, or other presidential directive may suspend or override the requirements of this Act. Any presidential delay of disclosure under subsection (c) shall not exceed 30 days beyond the statutory deadline without court approval.
 
+(e) **Prohibition on Coordinated Suppression.** No person — including but not limited to White House staff, National Security Council personnel, the White House Counsel, the President's personal attorney, any presidential subordinate or designee, any congressional staff member, or any person acting at the direction of any of the foregoing — may coordinate, direct, suggest, or facilitate the withholding, delay, or suppression of records across agencies. Any person who coordinates or attempts to coordinate cross-agency withholding of records required under this Act commits a federal crime punishable under the obstruction provisions of this Act.
+
 ## Section 12: State and Local Cooperation
 
 (a) Any state or local law enforcement agency that has received federal funding of any kind and possesses covered records shall produce such records within 30 days. Non-compliance shall result in suspension of 25% of ALL federal funding to the non-compliant state or local agency — including but not limited to Edward Byrne Memorial Justice Assistance Grants (Byrne JAG), Community Oriented Policing Services (COPS) grants, Department of Homeland Security grants, Department of Education grants, Department of Transportation grants, and any other federal grants, contracts, or cooperative agreements. Any state or local official who willfully obstructs, delays, or prevents disclosure of covered records under this Act shall be subject to individual criminal liability, including imprisonment of up to 5 years and a fine of up to $250,000 per offense. State sovereign immunity and qualified immunity shall not be defenses to criminal prosecution under this subsection.
@@ -1030,6 +1098,8 @@ The review board shall acknowledge receipt of all submissions within 7 days. No 
 
 (e) **Classification Prohibition for Foreign Government Records.** For the avoidance of doubt, the automatic declassification provision of Section 4(f) applies with full force to all records obtained from or relating to foreign governments under this section. No covered record obtained through MLAT requests, Interpol channels, diplomatic communications, or any other foreign government interaction may be classified, reclassified, or withheld on the basis of classification after enactment of this Act. See Section 4(f) for the complete declassification framework.
 
+(f) **No Diplomatic Immunity for Evidence.** No claim of diplomatic immunity, sovereign immunity, act-of-state doctrine, or any other immunity recognized under international or domestic law may be used to withhold records from the review board, from any investigation team, or from any Designated Trusted Investigator. Any person claiming diplomatic immunity to avoid producing covered records shall be reported to Congress by the Secretary of State within 7 days, and such refusal shall trigger automatic congressional review of all aid and intelligence-sharing agreements with the claiming government.
+
 ## Section 12B: Interim Disclosure Milestones
 
 (a) The 30-day disclosure timeline established in Section 2 shall include the following interim milestones, compliance with which shall be monitored by the review board:
@@ -1043,6 +1113,10 @@ The review board shall acknowledge receipt of all submissions within 7 days. No 
 
 (c) No covered agency may use the interim milestone structure to delay production of records that are readily available before the applicable milestone date.
 
+(d) Failure to meet any interim milestone shall also trigger the escalating weekly budget reductions under Section 7(b-1) for the non-compliant agency.
+
+(e) **Physical Impossibility Claims.** Any agency claiming the 30-day deadline is physically impossible must file a detailed declaration with the review board within 7 days of enactment specifying the exact logistical barriers and must accept independent technical assistance to meet the deadline. The 30-day deadline applies to production, not review — agencies shall produce first, and review may continue after production. No physical impossibility claim may excuse partial compliance; all records in digital format shall be produced within 14 days regardless of any claimed impossibility for physical records.
+
 ## Section 12C: Pending Criminal Prosecution
 
 (a) **Acknowledgment of Pending Case.** Congress acknowledges the pending criminal prosecution in *State of Utah v. Tyler Alexander Robinson* (Case No. 251403576, Fourth Judicial District Court, Utah County).
@@ -1054,6 +1128,8 @@ The review board shall acknowledge receipt of all submissions within 7 days. No 
    2. Does not permit blanket sealing of categories of records
    3. Expires automatically upon conclusion of the criminal case, at which point all sealed records shall be publicly released within 14 days
    4. Does not affect the obligation of covered agencies to produce all records to the review board and defense counsel within the timelines established by this Act
+
+(d) **Brady Rights Override.** The disclosure mandates of this Act serve the defendant's constitutional rights under Brady v. Maryland. Any claim by DOJ that disclosure would harm the prosecution is to be decided by the review board, not by DOJ.
 
 ## Section 12D: Technical Specifications for Public Disclosure Format
 
@@ -1123,17 +1199,45 @@ The review board shall acknowledge receipt of all submissions within 7 days. No 
 
 (c) **Codification of Brady v. Maryland.** This section codifies and extends the constitutional obligation established in *Brady v. Maryland*, 373 U.S. 83 (1963), and its progeny, to all federal agencies acting as custodial parties in the Robinson prosecution. The Brady obligation under this section is not limited to the prosecuting attorney but extends to every covered agency in possession of potentially exculpatory material.
 
-## Section 13: Authorization of Appropriations
+(d) **Brady Compliance Officer.** Each covered agency shall designate a Brady compliance officer who reviews all records produced under this Act for exculpatory material relevant to the defense of Tyler Robinson in *State of Utah v. Tyler Alexander Robinson* (Case No. 251403576, Fourth Judicial District Court, Utah County). Any exculpatory material shall be produced to Robinson's defense counsel within 5 days of identification.
 
-(a) There is authorized to be appropriated $10,000,000 annually for the operations of the independent review board established under Section 8, including staff, forensic auditors, legal counsel, and administrative costs.
+## Section 13: Mandatory Appropriations and Funding Protection
 
-(b) There is authorized to be appropriated such sums as may be necessary for covered agencies to comply with the disclosure requirements of this Act.
+(a) **Mandatory Appropriation.** There is hereby appropriated, out of any money in the Treasury not otherwise appropriated, $10,000,000 annually for the operations of the independent review board established under Section 8, including staff, forensic auditors, legal counsel, and administrative costs. This appropriation is mandatory and self-executing — it does not require inclusion in any annual appropriations bill, continuing resolution, or omnibus spending bill. The account shall be established at the United States Treasury within 14 days of enactment. The host agency's Chief Financial Officer shall have no access to or authority over the account.
 
-(c) Funds appropriated under this section shall be available immediately upon enactment and shall remain available until expended.
+(b) **Agency Compliance Funding.** There is hereby appropriated such sums as may be necessary for covered agencies to comply with the disclosure requirements of this Act.
+
+(c) **Immediate Availability.** Funds appropriated under this section shall be available immediately upon enactment and shall remain available until expended.
+
+(d) **Appropriations Protection.** No appropriations bill, continuing resolution, or omnibus spending bill may include any provision that reduces, restricts, conditions, or eliminates funding for compliance with or enforcement of this Act. Any such provision included in any legislation shall have no force or effect with respect to the mandatory appropriations established by this section.
+
+(e) **Discharge Petition Mechanism.** If the committee of jurisdiction in the House of Representatives does not report this bill within 60 calendar days of introduction, any 218 Members of the House may file a discharge petition to bring the bill directly to the floor for a vote. If the committee of jurisdiction in the Senate does not report this bill within 60 calendar days of introduction, any 30 Senators may move to discharge the committee, and the motion shall be non-debatable and decided by simple majority vote.
 
 ## Section 14: Severability
 
 If any provision of this Act, or the application thereof to any person or circumstance, is held invalid by a court of competent jurisdiction, the remainder of this Act and the application of such provision to other persons or circumstances shall not be affected thereby.
+
+## Section 12L: Judicial Protections Against Suppression
+
+(a) Jurisdiction for all challenges to this Act shall lie with a three-judge panel of the United States District Court for the District of Columbia, drawn by random lot from the pool of active district judges, not by assignment.
+
+(b) No court may issue a stay of the disclosure requirements of this Act pending litigation. If a court finds any provision unconstitutional, the severability clause (Section 14) keeps all other provisions in force, and disclosure of non-challenged records shall proceed without interruption.
+
+(c) All judicial proceedings under this Act shall be conducted in public session. No proceeding may be sealed absent a specific finding, supported by clear and convincing evidence, that sealing is necessary to protect a currently active human intelligence source whose life would be endangered.
+
+(d) Any person may seek a writ of mandamus in federal court to compel compliance with this Act. Prevailing plaintiffs shall be awarded reasonable attorney's fees and costs.
+
+(e) **60-Day Maximum Judicial Delay.** There is a statutory presumption that no judicial order — including temporary restraining orders, preliminary injunctions, stays pending appeal, or any other form of judicial relief — may delay the disclosure of any covered record for more than 60 days total from the date of enactment. Any judicial proceeding that has not been fully resolved within 60 days of enactment shall not prevent disclosure from proceeding. The burden is on the party seeking continued delay to demonstrate, by clear and convincing evidence, that immediate disclosure would create an imminent threat to the physical safety of an identified individual. Generalized claims of national security, diplomatic embarrassment, or institutional harm do not satisfy this standard.
+
+## Section 12M: Self-Executing Enforcement and Entrenchment
+
+(a) **Self-Executing Mechanisms.** Every enforcement mechanism in this Act — including budget reductions, criminal referrals, and adverse inferences — is self-executing and requires no additional congressional action, appropriations rider, executive branch approval, or judicial order to take effect.
+
+(b) **Independent Prosecution Authority.** Upon a finding of non-compliance by the review board, a Special Counsel shall be automatically appointed by the Chief Judge of the United States District Court for the District of Columbia to investigate and prosecute violations of this Act. The Special Counsel shall have full prosecutorial authority independent of the Department of Justice. Any Designated Trusted Investigator under Law 4 may refer matters directly to the Special Counsel.
+
+(c) **Qui Tam Actions.** Any citizen may bring a qui tam action under this Act against any person or agency that has violated the disclosure requirements. Successful qui tam plaintiffs shall be entitled to treble damages and 25% of any fine or budget reduction imposed as a result of the action.
+
+(d) **Structural Funding Defense.** The enforcement provisions of this Act (Sections 7, 8, 9, 12L, and 12M) are funded through mandatory appropriations under Section 13 that do not require annual reauthorization. Any legislation that would amend, repeal, or weaken any enforcement provision of this Act shall require a two-thirds supermajority vote in both chambers of Congress. Congress declares its intent that the mandatory funding established by this Act shall continue for a minimum of 10 years from the date of enactment.
 
 ## Section 14A: Personal Liability of Agency Heads
 
