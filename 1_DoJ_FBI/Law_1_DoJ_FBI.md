@@ -172,14 +172,14 @@ The Congress finds the following:
    29. All records of the AES factory explosion investigation and its connection to DoD contract N0016425PJ538 (Item #202)
    30. Tyler Robinson's complete travel path before and after the shooting, all prior visits to UVU campus, all evidence regarding Robinson's exact position at the moment of the shot, and all video footage and analysis of whether the rooftop suspect was running or stationary when the shot was fired (Items #202-#206)
 
-(b) **Schedule A** shall be the document titled "Charlie Kirk 219 Critical Disclosure Items" as maintained in the public repository at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, as of the date of enactment, incorporated by reference and attached as an appendix to this Act.
+(b) **Schedule A** shall be the document titled "Charlie Kirk 220 Critical Disclosure Items" as maintained in the public repository at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, as of the date of enactment, incorporated by reference and attached as an appendix to this Act.
 
 (c) The enumeration of specific items in this Section and in Schedule A shall not be construed to limit the scope of the broad disclosure mandate in Section 2. Both the broad mandate and the specific enumeration apply concurrently.
 
 (d) **Schedule A Count Discrepancy Resolution.** In the event of any discrepancy between the Schedule A item count referenced in this Act and the Schedule A item count in any companion Act (the Charlie Kirk Intelligence Services Disclosure Act, the Charlie Kirk Mandatory Investigation Act, or the Charlie Kirk Trusted Investigators Act), the higher count controls, and the most comprehensive version of each individual item across all four Acts shall be deemed incorporated.
 ---
 
-## Schedule A: 219 Critical Disclosure Items
+## Schedule A: 220 Critical Disclosure Items
 
 Application Notes:
 

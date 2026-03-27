@@ -7,7 +7,7 @@ AUTHOR: Bryan Starbuck (BryanStarbuck@gmail.com)
 This Act may be cited as the **"Charlie Kirk Trusted Investigators Act."**
 
 ## Purpose
-To establish independent investigation teams led by designated trusted public figures, embedded within federal law enforcement and intelligence agencies, with full authority to investigate the death of Charlie Kirk -- including all leads identified in the 219 Critical Disclosure Items (Schedule A) -- and to publicly release their findings.
+To establish independent investigation teams led by designated trusted public figures, embedded within federal law enforcement and intelligence agencies, with full authority to investigate the death of Charlie Kirk -- including all leads identified in the 220 Critical Disclosure Items (Schedule A) -- and to publicly release their findings.
 
 **Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
 
@@ -53,7 +53,7 @@ The Congress finds the following:
 
 (d) **"Intelligence Investigation Team"** means the team embedded within the relevant Intelligence Community agencies.
 
-(e) **"Schedule A"** means the document titled "Charlie Kirk 219 Critical Disclosure Items" as maintained at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, incorporated by reference and attached as an appendix to this Act. In the event of any discrepancy between the Schedule A item count referenced in this Act and the Schedule A item count in any companion Act, the higher count controls, and the most comprehensive version of each individual item across all four Acts shall be deemed incorporated.
+(e) **"Schedule A"** means the document titled "Charlie Kirk 220 Critical Disclosure Items" as maintained at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, incorporated by reference and attached as an appendix to this Act. In the event of any discrepancy between the Schedule A item count referenced in this Act and the Schedule A item count in any companion Act, the higher count controls, and the most comprehensive version of each individual item across all four Acts shall be deemed incorporated.
 
 (f) **"Death of Charlie Kirk"** means the killing of Charles J. Kirk on September 10, 2025, at Utah Valley University, Orem, Utah, and all events, planning, coordination, and circumstances leading to, surrounding, and following that event.
 
@@ -66,7 +66,7 @@ The Congress finds the following:
 (j) **"Good-faith compliance"** means the genuine and diligent effort to identify, locate, and provide every covered record, cooperate fully with investigation teams, and facilitate the work of Designated Trusted Investigators without evasion, delay, or use of technicalities to withhold material information or obstruct investigative access.
 
 (k) **"Covered records"** or **"Covered information"** means any and all files, documents, communications, reports, forensic evidence, witness statements, surveillance records, digital records, photographs, video recordings, audio recordings, cell site location information, geofence warrant data, flight records, financial records, ballistics analyses, autopsy reports, crime scene evidence, and any other information, in any format, that is related to or could reasonably assist in understanding the circumstances of the death of Charlie Kirk, including but not limited to:
-   1. All records specifically enumerated in Schedule A (219 Critical Disclosure Items)
+   1. All records specifically enumerated in Schedule A (220 Critical Disclosure Items)
    2. Any records that could identify or suggest the identity of any person involved in, connected to, or with knowledge of the death
    3. Any records relating to foreign intelligence service activity in the State of Utah during the period January 1, 2025 through December 31, 2025
    4. Any records relating to threats against Charlie Kirk or similarly situated public figures
@@ -217,7 +217,7 @@ No denial of a security clearance for any single Designated Trusted Investigator
 
 ## Section 6: Mandatory Investigation of Schedule A
 
-(a) Each investigation team shall specifically pursue the leads and information identified in Schedule A (219 Critical Disclosure Items), including but not limited to:
+(a) Each investigation team shall specifically pursue the leads and information identified in Schedule A (220 Critical Disclosure Items), including but not limited to:
 
    1. **Exploding Microphone Theory:** The DoD contract, the AES facility, the August 25 flight, the microphone evidence, explosive residue, wound characteristics, and the AES factory explosion
    2. **Foreign Intelligence Involvement:** Israeli cell phones at UVU, Egyptian aircraft and military contractors (including Egyptian aircraft returning to Provo in 2026), surveillance planes, Counter-UAS testing, foreign nationals in the security zone
@@ -254,7 +254,7 @@ No denial of a security clearance for any single Designated Trusted Investigator
 
 ---
 
-## Schedule A: 219 Critical Disclosure Items
+## Schedule A: 220 Critical Disclosure Items
 
 Application Notes:
 
