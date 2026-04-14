@@ -10,7 +10,7 @@ This Act may be cited as the "Charlie Kirk Files Forced Disclosure Act — Law E
 The Charlie Kirk Files Forced Disclosure Act - Law Enforcement
 
 ## Purpose
-To require the Department of Justice, the Federal Bureau of Investigation, and all federal, state, and local law enforcement agencies to fully and immediately disclose all files, records, communications, and information in their possession related to the investigation of the death of Charlie Kirk, including but not limited to the 220 specific disclosure items enumerated in Schedule A of this Act.
+To require the Department of Justice, the Federal Bureau of Investigation, and all federal, state, and local law enforcement agencies to fully and immediately disclose all files, records, communications, and information in their possession related to the investigation of the death of Charlie Kirk, including but not limited to the 227 specific disclosure items enumerated in Schedule A of this Act.
 
 **Disclaimer:** This document does not assert as fact that any individual, organization, or government entity has committed any criminal, illegal, or immoral act. All references to persons and entities are made solely for proposed legislative and legal discovery purposes — to identify what information should be disclosed and investigated through lawful processes. The items listed here are questions for investigation, not conclusions. No statement in this document should be understood as an accusation, allegation, or assertion of wrongdoing against any party. This document exists solely to support public transparency through lawful legislative and judicial processes.
 
@@ -67,7 +67,7 @@ The Congress finds the following:
 
 (a) In addition to the broad catch-all requirement of Section 2, the following categories of records are specifically and individually mandated for disclosure, as more fully described in Schedule A attached hereto:
 
-**FBI Investigation Files (Items #57-#66):**
+**FBI Investigation Files (Items #58-#67):**
    1. All FBI Form 302 interview reports from the inception of the investigation to the present
    2. All FBI 302s documenting any request by FBI agents to witnesses to delete evidence, including identification of agents involved
    3. All FBI counterintelligence division reports regarding foreign intelligence investigation related to the case
@@ -79,7 +79,7 @@ The Congress finds the following:
    9. All FBI counterintelligence surveillance logs tracking suspected foreign intelligence officers in Utah
    10. All FISA applications and materials related to foreign nationals in Utah connected to the case
 
-**Cell Phone and Digital Data (Items #67-#73):**
+**Cell Phone and Digital Data (Items #68-#74):**
    1. Cell tower dumps for UVU campus (September 10, 2025, 8AM-6PM)
    2. Cell tower dumps for Tyler Robinson's residence (September 1-15, 2025)
    3. Cell tower dumps for Provo Airport (August 25 - September 15, 2025)
@@ -88,29 +88,30 @@ The Congress finds the following:
    6. FBI analytical reports identifying foreign phones
    7. Subscriber information for all unidentified foreign phones
 
-**Customs and Border Protection Records (Items #74-#80):**
+**Customs and Border Protection Records (Items #75-#81):**
    1. CBP entry/exit records for Egyptian, French, and Israeli nationals (July-November 2025)
    2. TSA PreCheck and Known Traveler records for foreign nationals with expedited clearance
    3. CBP special clearance records for military contractors
    4. Passenger manifests for international flights to SLC/Provo (September 3-17, 2025)
    5. CBP biometric data for foreign arrivals during the relevant period
 
-**Aircraft Records (Items #81-#86 and related):**
+**Aircraft Records (Items #82-#87 and related):**
    1. All flight records, passenger manifests, and crew lists for Egyptian aircraft SU-BTT, SU-BND, SU-BTU, SU-BTV, and SU-BGM
    2. All records for surveillance aircraft N1098L (HADES spy plane), N59906 (MARC Inc. Piper), N888KG, N560TW, N40JD, N872RA, N102DZ, N55906, and N582MM (TPUSA-linked aircraft)
-   3. All records for U.S. Air Force VIP transport jet 99-0404 (SAM callsign) and Egyptian military aircraft T7ELL and EJM36
+   3. All records for U.S. Air Force VIP transport jet 99-0404 (SAM callsign) and US Gov flight SAM-000 and foreign military aircraft T7ELL and EJM36
    4. CBP inspection records, cargo manifests, and security clearance records for all listed aircraft
    5. Who contracted, paid for, and received data from any surveillance aircraft
 
-**Financial Records (Items #98-#104):**
+**Financial Records (Items #99-#105):**
    1. International wire transfers to Utah (August-September 2025) from Egyptian, French, or Israeli sources
    2. All Suspicious Activity Reports (SARs) for Utah during the relevant period
    3. All Currency Transaction Reports over $10,000 involving foreign nationals
    4. All payment records (credit card, PayPal, Venmo, Zelle) for rental cars, hotels, and any payments to persons present at UVU
    5. All wire transfers or payments to Tyler Robinson or Lance Twiggs, including any transfers through DSA-linked accounts
    6. FBI financial crimes investigation files related to the case
+   7. All records relating to DOD contracts awarded to Bilt Inc. in June 2025, including approximately $8 million from the U.S. Air Force, all invoices, payment authorization chains, ownership records, and all financial flows into and out of Bilt Inc. from March 2025 through the present (Items #223-#227)
 
-**Chain of Custody and Physical Evidence (Items #105-#112):**
+**Chain of Custody and Physical Evidence (Items #106-#113):**
    1. Complete chain of custody for the Mauser Model 98 rifle, including all custody documentation with timestamps
    2. All body camera footage from initial search, K-9 search, and re-search
    3. K-9 unit deployment records and reports
@@ -119,7 +120,7 @@ The Congress finds the following:
    6. DNA analysis and fingerprint analysis from all rifle surfaces, trigger, scope, towel, and cartridges
    7. FBI internal investigation records regarding gun planting allegations
 
-**Surveillance and Video Evidence (Items #118-#123):**
+**Surveillance and Video Evidence (Items #119-#124):**
    1. All UVU campus security camera footage (September 9-11, 2025)
    2. Traffic camera footage on routes between airports and UVU
    3. Airport surveillance footage (Provo and SLC)
@@ -127,7 +128,7 @@ The Congress finds the following:
    5. License plate reader data for rental vehicles
    6. All video footage of witnesses that FBI agents requested be deleted
 
-**Ballistics and Forensics (Items #141-#148):**
+**Ballistics and Forensics (Items #142-#149):**
    1. Complete ATF trace for the Mauser Model 98
    2. All manufacturing, import, and serial number documentation
    3. Metallurgical analysis of rifle components
@@ -135,53 +136,54 @@ The Congress finds the following:
    5. All ballistics analysis regarding the bullet path, caliber determination, and wound characteristics
    6. Any analysis regarding whether a caliber other than .30-06 was fired
 
-**Autopsy and Medical Evidence (Items #166-#171):**
+**Autopsy and Medical Evidence (Items #167-#172):**
    1. Complete autopsy report with wound measurements, trajectories, and photographs
    2. All evidence from the body regarding the lavalier microphone
    3. Toxicology results and any unusual findings
    4. Wound trajectory analysis
    5. Explosive residue testing on body, clothing, and crime scene materials
 
-**Additional Specific Items (#1-#56 Intelligence-Related):**
-   1. All records relating to planes listed in Schedule A, including location, passengers, cargo, and any connection to the investigation (Items #1, #15, #49)
+**Additional Specific Items (#1-#57 Intelligence-Related):**
+   1. All records relating to planes listed in Schedule A, including location, passengers, cargo, and any connection to the investigation (Items #1, #15, #50)
    2. All records regarding threats, plans, or actions by any foreign intelligence service toward Charlie Kirk (Item #2)
    3. All records relating to distraction persons present at UVU, decisions not to charge them, and blocked FOIA requests related to them (Items #20-#22)
    4. All records relating to electronic jamming of cell/internet signals at UVU (Item #11)
    5. All records relating to drone activity, video feeds, and surveillance operations at UVU (Items #8, #9, #12, #15)
-   6. All records relating to evidence of FBI requesting witness video deletion or videos being remotely deleted from witness devices (Items #47-#48)
+   6. All records relating to evidence of FBI requesting witness video deletion or videos being remotely deleted from witness devices (Items #48-#49)
    7. All records relating to meetings at Fort Huachuca AZ and One Rodney Square, Wilmington DE (September 1-11, 2025) related to Charlie Kirk (Items #28-#31)
    8. All records relating to Charlie Kirk's communications expressing fear for his life (Item #14)
-   9. All records relating to rental cars used by foreign operatives (Items #42, #124-#129)
-   10. All records relating to psychological operations or manipulation of Tyler Robinson or Lance Twiggs (Item #38)
-   11. All records relating to foreigners in TPUSA or TPUSA donor communications with foreign intelligence (Items #3-#4, #160-#166)
-   12. All records relating to the Hampton meeting (August 3-6, 2025) (Item #50)
+   9. All records relating to rental cars used by foreign operatives (Items #43, #125-#130)
+   10. All records relating to psychological operations or manipulation of Tyler Robinson or Lance Twiggs (Item #39)
+   11. All records relating to foreigners in TPUSA or TPUSA donor communications with foreign intelligence (Items #3-#4, #161-#167)
+   12. All records relating to the Hampton meeting (August 3-6, 2025) (Item #51)
    13. All records relating to the DoD contract N0016425PJ538 for miniaturized anti-personnel charges delivered August 25, 2025
    14. All records relating to the AES factory explosion (October 10, 2025) and its connection to the investigation
    15. All records relating to crime scene alteration, including who authorized paving over the crime scene
-   16. All records related to Tyler Robinson's family statements and his claim of knowledge of other perpetrators (Items #176-#179)
-   17. All records of witness intimidation including fake therapy sessions and witness suppression (Items #179-#181)
-   18. All records related to Brian Harpole (member of Kirk's security detail with foreign security service background) (Item #182)
-   19. All records related to hospital routing decisions and FBI blocking a surgeon (Items #182-#185)
-   20. All TPUSA financial records including shell company payments and post-assassination board actions (Items #185-#187)
-   21. All records from Mosaic Pro Events, the Rode Wireless PRO microphone audio, and Mikey McCoy's mic-up video (Items #187-#190)
-   22. All records related to Butch Hibbs at UVU and the Heber City to Nashville flight on AES delivery day (Items #190-#192)
-   23. All records of the FBI RAV4 near Robinson and FBI direction of the re-search that located the weapon (Items #192-#194)
-   24. All records of the Fort Huachuca pre-assassination meeting (Item #195)
-   25. All records of live stream interruptions at UVU (Item #196)
-   26. All of Kirk's pre-death warnings, records on his parents' legal representation decisions, and his girlfriend (Items #196-#199)
-   27. Full forensic analysis of bullet casing engravings and planted evidence indicators (Item #200)
-   28. All records related to UVU crime scene paving (Item #201)
-   29. All records of the AES factory explosion investigation and its connection to DoD contract N0016425PJ538 (Item #202)
-   30. Tyler Robinson's complete travel path before and after the shooting, all prior visits to UVU campus, all evidence regarding Robinson's exact position at the moment of the shot, and all video footage and analysis of whether the rooftop suspect was running or stationary when the shot was fired (Items #202-#206)
+   16. All records related to Tyler Robinson's family statements and his claim of knowledge of other perpetrators (Items #177-#180)
+   17. All records of witness intimidation including fake therapy sessions and witness suppression (Items #180-#182)
+   18. All records related to Brian Harpole (member of Kirk's security detail with foreign security service background) (Item #183)
+   19. All records related to hospital routing decisions and FBI blocking a surgeon (Items #183-#186)
+   20. All TPUSA financial records including shell company payments and post-assassination board actions (Items #186-#188)
+   21. All records from Mosaic Pro Events, the Rode Wireless PRO microphone audio, and Mikey McCoy's mic-up video (Items #188-#191)
+   22. All records related to Butch Hibbs at UVU and the Heber City to Nashville flight on AES delivery day (Items #191-#193)
+   23. All records of the FBI RAV4 near Robinson and FBI direction of the re-search that located the weapon (Items #193-#195)
+   24. All records of the Fort Huachuca pre-assassination meeting (Item #196)
+   25. All records of live stream interruptions at UVU (Item #197)
+   26. All of Kirk's pre-death warnings, records on his parents' legal representation decisions, and his girlfriend (Items #197-#200)
+   27. Full forensic analysis of bullet casing engravings and planted evidence indicators (Item #201)
+   28. All records related to UVU crime scene paving (Item #202)
+   29. All records of the AES factory explosion investigation and its connection to DoD contract N0016425PJ538 (Item #203)
+   30. Tyler Robinson's complete travel path before and after the shooting, all prior visits to UVU campus, all evidence regarding Robinson's exact position at the moment of the shot, and all video footage and analysis of whether the rooftop suspect was running or stationary when the shot was fired (Items #203-#207)
+   31. All records related to the registration of domain vancekirk2028.com two days after Kirk's death, including the true registrant identity behind GoDaddy's Domains By Proxy privacy service, payment records, and all evidence of foreknowledge (Item #222)
 
-(b) **Schedule A** shall be the document titled "Charlie Kirk 220 Critical Disclosure Items" as maintained in the public repository at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, as of the date of enactment, incorporated by reference and attached as an appendix to this Act.
+(b) **Schedule A** shall be the document titled "Charlie Kirk 227 Critical Disclosure Items" as maintained in the public repository at https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose, as of the date of enactment, incorporated by reference and attached as an appendix to this Act.
 
 (c) The enumeration of specific items in this Section and in Schedule A shall not be construed to limit the scope of the broad disclosure mandate in Section 2. Both the broad mandate and the specific enumeration apply concurrently.
 
 (d) **Schedule A Count Discrepancy Resolution.** In the event of any discrepancy between the Schedule A item count referenced in this Act and the Schedule A item count in any companion Act (the Charlie Kirk Intelligence Services Disclosure Act, the Charlie Kirk Mandatory Investigation Act, or the Charlie Kirk Trusted Investigators Act), the higher count controls, and the most comprehensive version of each individual item across all four Acts shall be deemed incorporated.
 ---
 
-## Schedule A: 220 Critical Disclosure Items
+## Schedule A: 227 Critical Disclosure Items
 
 Application Notes:
 
@@ -193,60 +195,62 @@ Application Notes:
 
 ### A Table of Contents
 
-- [Intelligence Service Discovery](#intelligence-service-discovery-1-56) (#1–#56)
-- [FBI 302 Reports](#fbi-302-reports-57-61) (#57–#61)
-- [FBI Counterintelligence](#fbi-counterintelligence-62-66) (#62–#66)
-- [Cell Phone Data](#cell-phone-data-67-73) (#67–#73)
-- [Airport / CBP Records](#airport--cbp-records-74-80) (#74–#80)
-- [Egyptian Planes](#egyptian-planes-81-86) (#81–#86)
-- [Israeli Cell Phones](#israeli-cell-phones-87-91) (#87–#91)
-- [Provo Airport](#provo-airport-92-97) (#92–#97)
-- [Financial Records](#financial-records-98-104) (#98–#104)
-- [Chain of Custody](#chain-of-custody-105-112) (#105–#112)
-- [Threat Assessments](#threat-assessments-113-117) (#113–#117)
-- [Surveillance Footage](#surveillance-footage-118-123) (#118–#123)
-- [Rental Car Records](#rental-car-records-124-129) (#124–#129)
-- [Hotel Records](#hotel-records-131-135) (#131–#135)
-- [Digital Forensics](#digital-forensics-136-141) (#136–#141)
-- [Ballistics](#ballistics-142-148) (#142–#148)
-- [Distraction People](#distraction-people-149-155) (#149–#155)
-- [Drones](#drones-156-160) (#156–#160)
-- [TPUSA Intel](#tpusa-intel-161-166) (#161–#166)
-- [Autopsy / Medical](#autopsy--medical-167-171) (#167–#171)
-- [International Liaison](#international-liaison-172-176) (#172–#176)
-- [Tyler Robinson Defense & Family](#tyler-robinson-defense--family-177-179) (#177–#179)
-- [Witness Intimidation](#witness-intimidation-180-181) (#180–#181)
-- [Security Detail & Foreign Connections](#security-detail--foreign-connections-182) (#182)
-- [Medical & Hospital Records](#medical--hospital-records-183-185) (#183–#185)
-- [TPUSA Financial Fraud](#tpusa-financial-fraud-186-187) (#186–#187)
-- [TPUSA Employee and Contractor Unusual Payments](#tpusa-employee-and-contractor-unusual-payments-188) (#188)
-- [Mosaic Pro Events / AV Equipment](#mosaic-pro-events--av-equipment-189-191) (#189–#191)
-- [Butch Hibbs & Exploding Microphone](#butch-hibbs--exploding-microphone-192-193) (#192–#193)
-- [FBI Conduct at Scene](#fbi-conduct-at-scene-194-195) (#194–#195)
-- [Fort Huachuca Meeting](#fort-huachuca-meeting-196) (#196)
-- [Event Live Streams](#event-live-streams-197) (#197)
-- [Kirk's Personal Statements & Relationships](#kirks-personal-statements--relationships-198-200) (#198–#200)
-- [Bullet Engravings & Planted Evidence](#bullet-engravings--planted-evidence-201) (#201)
-- [Crime Scene Paving](#crime-scene-paving-202) (#202)
-- [AES Factory Explosion](#aes-factory-explosion-203) (#203)
-- [Tyler Robinson Movement & Identity](#tyler-robinson-movement--identity-204-207) (#204–#207)
-- [Venue Access & Non-Traditional Weapons](#venue-access--non-traditional-weapons-208-209) (#208–#209)
-- [Israeli IP Surveillance Targeting](#israeli-ip-surveillance-targeting-210) (#210)
-- [Autopsy Failure](#autopsy-failure-211) (#211)
-- [Corner-Shot Weapon Analysis](#corner-shot-weapon-analysis-212) (#212)
-- [State Official Communications](#state-official-communications-213) (#213)
-- [Hospital Compromise](#hospital-compromise-214) (#214)
-- [Hospital Bomb Threat and Diversion](#hospital-bomb-threat-and-diversion-215) (#215)
-- [Carbyne 911 System Data](#carbyne-911-system-data-216) (#216)
-- [Independent Ballistics and Forensic Testing Authority](#independent-ballistics-and-forensic-testing-authority-217) (#217)
-- [TPUSA Insider Aircraft N582MM](#tpusa-insider-aircraft-n582mm-219) (#219)
-- [Egyptian Aircraft Return to Provo](#egyptian-aircraft-return-to-provo-220) (#220)
+- [Intelligence Service Discovery](#intelligence-service-discovery-1-56) (#1–#57)
+- [FBI 302 Reports](#fbi-302-reports-57-61) (#58–#62)
+- [FBI Counterintelligence](#fbi-counterintelligence-62-66) (#63–#67)
+- [Cell Phone Data](#cell-phone-data-67-73) (#68–#74)
+- [Airport / CBP Records](#airport--cbp-records-74-80) (#75–#81)
+- [Egyptian Planes](#egyptian-planes-81-86) (#82–#87)
+- [Israeli Cell Phones](#israeli-cell-phones-87-91) (#88–#92)
+- [Provo Airport](#provo-airport-92-97) (#93–#98)
+- [Financial Records](#financial-records-98-104) (#99–#105)
+- [Chain of Custody](#chain-of-custody-105-112) (#106–#113)
+- [Threat Assessments](#threat-assessments-113-117) (#114–#118)
+- [Surveillance Footage](#surveillance-footage-118-123) (#119–#124)
+- [Rental Car Records](#rental-car-records-124-129) (#125–#130)
+- [Hotel Records](#hotel-records-131-135) (#132–#136)
+- [Digital Forensics](#digital-forensics-136-141) (#137–#142)
+- [Ballistics](#ballistics-142-148) (#143–#149)
+- [Distraction People](#distraction-people-149-155) (#150–#156)
+- [Drones](#drones-156-160) (#157–#161)
+- [TPUSA Intel](#tpusa-intel-161-166) (#162–#167)
+- [Autopsy / Medical](#autopsy--medical-167-171) (#168–#172)
+- [International Liaison](#international-liaison-172-176) (#173–#177)
+- [Tyler Robinson Defense & Family](#tyler-robinson-defense--family-177-179) (#178–#180)
+- [Witness Intimidation](#witness-intimidation-180-181) (#181–#182)
+- [Security Detail & Foreign Connections](#security-detail--foreign-connections-182) (#183)
+- [Medical & Hospital Records](#medical--hospital-records-183-185) (#184–#186)
+- [TPUSA Financial Fraud](#tpusa-financial-fraud-186-187) (#187–#188)
+- [TPUSA Employee and Contractor Unusual Payments](#tpusa-employee-and-contractor-unusual-payments-188) (#189)
+- [Mosaic Pro Events / AV Equipment](#mosaic-pro-events--av-equipment-189-191) (#190–#192)
+- [Butch Hibbs & Exploding Microphone](#butch-hibbs--exploding-microphone-192-193) (#193–#194)
+- [FBI Conduct at Scene](#fbi-conduct-at-scene-194-195) (#195–#196)
+- [Fort Huachuca Meeting](#fort-huachuca-meeting-196) (#197)
+- [Event Live Streams](#event-live-streams-197) (#198)
+- [Kirk's Personal Statements & Relationships](#kirks-personal-statements--relationships-198-200) (#199–#201)
+- [Bullet Engravings & Planted Evidence](#bullet-engravings--planted-evidence-201) (#202)
+- [Crime Scene Paving](#crime-scene-paving-202) (#203)
+- [AES Factory Explosion](#aes-factory-explosion-203) (#204)
+- [Tyler Robinson Movement & Identity](#tyler-robinson-movement--identity-204-207) (#205–#208)
+- [Venue Access & Non-Traditional Weapons](#venue-access--non-traditional-weapons-208-209) (#209–#210)
+- [Israeli IP Surveillance Targeting](#israeli-ip-surveillance-targeting-210) (#211)
+- [Autopsy Failure](#autopsy-failure-211) (#212)
+- [Corner-Shot Weapon Analysis](#corner-shot-weapon-analysis-212) (#213)
+- [State Official Communications](#state-official-communications-213) (#214)
+- [Hospital Compromise](#hospital-compromise-214) (#215)
+- [Hospital Bomb Threat and Diversion](#hospital-bomb-threat-and-diversion-215) (#216)
+- [Carbyne 911 System Data](#carbyne-911-system-data-216) (#217)
+- [Independent Ballistics and Forensic Testing Authority](#independent-ballistics-and-forensic-testing-authority-217) (#218)
+- [TPUSA Insider Aircraft N582MM](#tpusa-insider-aircraft-n582mm-219) (#220)
+- [Egyptian Aircraft Return to Provo](#egyptian-aircraft-return-to-provo-220) (#221)
+- [VanceKirk2028.com Domain Registration](#vancekirk2028com-domain-registration-221) (#222)
+- [Bilt Inc. DOD Contracts](#bilt-inc-dod-contracts-222-226) (#223–#227)
 
 Each item in Schedule A is individually mandated for complete disclosure. Partial compliance with Schedule A does not constitute compliance with this Act.
 
 ---
 
-### Intelligence Service Discovery (#1–#56)
+### Intelligence Service Discovery (#1–#57)
 
 * #1: Aircraft Records for Listed Planes: Each covered agency shall produce all records relating to the following aircraft: SU-BTT, SU-BND, SU-BTU, SU-BTV, SU-BGM, N1098L, N888KG, N59906, N560TW, N102DZ, N40JD, N872RA, 99-0404, T7ELL, EJM36, N55906, and N582MM—including location, passengers, crew, cargo, and anyone who flew on them within 2 weeks before or on the day of the assassination. Each covered agency shall also produce all records related to investigating the assassination or anything peripheral, or any connection to anyone in the Charlie Kirk investigation involving these aircraft.
 
@@ -308,517 +312,538 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 * #30: Fort Huachuca Attendee Identification: Each covered agency shall produce all records relating to whether PERSON_10_REDACTED or PERSON_7_REDACTED attended any meeting at Fort Huachuca, AZ, from September 1–11, 2025, especially September 9. Each covered agency shall also produce all records relating to any person connected to Charlie Kirk or TPUSA who was present at Fort Huachuca during that period.
 
-* #31: SAM-Designated VIP Aircraft and Fort Huachuca Meetings: Each covered agency shall produce all records relating to any U.S. government aircraft operating under Special Air Mission callsigns SAM 702, SAM 000, or any other SAM-designated callsign during the period September 7 through September 10, 2025, inclusive. For each such flight, the disclosure shall include: (i) the complete passenger manifest identifying all persons aboard by name, title, and agency or organizational affiliation; (ii) the complete itinerary, including point of origin, each intermediate stop, final destination, and the date and time of each departure and arrival; (iii) all transponder data, including any periods during which the aircraft's transponder was deactivated, operated in a reduced mode, or otherwise rendered non-visible to public flight-tracking systems, and the authority under which any such deactivation occurred; and (iv) whether any passenger deplaned at or traveled to Fort Huachuca, Arizona, or any installation in the Sierra Vista, Arizona area, Davis-Monthan Air Force Base, Peterson Space Force Base, Fort Bliss, or Joint Base Andrews. For any passenger who entered Fort Huachuca or any other military installation during the disclosure period, each covered agency shall further produce all records identifying: (a) every meeting attended by such passenger, including the date, time, location, and purpose of each meeting; (b) every person present at each such meeting; (c) every building or facility entered by such passenger, and every person present in each such building or facility during the passenger's presence. The foregoing disclosures shall specifically include, but not be limited to, any records concerning the presence or travel of senior U.S. government officials, Members of Congress, Erika Kirk, and any person who was at any time an employee, contractor, consultant, volunteer, donor, or affiliate of Turning Point USA or any TPUSA-affiliated entity. Each covered agency shall also produce all records relating to any other military VIP flight to or from Arizona, Utah, or Colorado during September 7–10, 2025, connected to any person identified in this Act.
+* #31: SAM-Designated VIP Aircraft and Fort Huachuca Meetings: Each covered agency shall produce all records relating to any U.S. government aircraft operating under Special Air Mission callsigns SAM 702, SAM 000, 99-0404 SAM callsign, and any other SAM-designated callsign during the period September 7 through September 10, 2025, inclusive. For each such flight, the disclosure shall include: (i) the complete passenger manifest identifying all persons aboard by name, title, and agency or organizational affiliation; (ii) the complete itinerary, including point of origin, each intermediate stop, final destination, and the date and time of each departure and arrival; (iii) all transponder data, including any periods during which the aircraft's transponder was deactivated, operated in a reduced mode, or otherwise rendered non-visible to public flight-tracking systems, and the authority under which any such deactivation occurred; and (iv) whether any passenger deplaned at or traveled to Fort Huachuca, Arizona, or any installation in the Sierra Vista, Arizona area, Davis-Monthan Air Force Base, Peterson Space Force Base, Fort Bliss, or Joint Base Andrews. For any passenger who entered Fort Huachuca or any other military installation during the disclosure period, each covered agency shall further produce all records identifying: (a) every meeting attended by such passenger, including the date, time, location, and purpose of each meeting; (b) every person present at each such meeting; (c) every building or facility entered by such passenger, and every person present in each such building or facility during the passenger's presence. The foregoing disclosures shall specifically include, but not be limited to, any records concerning the presence or travel of senior U.S. government officials, Members of Congress, Erika Kirk, and any person who was at any time an employee, contractor, consultant, volunteer, donor, or affiliate of Turning Point USA or any TPUSA-affiliated entity. Each covered agency shall also produce all records relating to any other military VIP flight to or from Arizona, Utah, or Colorado during September 7–10, 2025, connected to any person identified in this Act.
 
-* #32: Alternative Shooter Location Analysis: Each covered agency shall produce all records, files, and investigation data relating to whether a shot was fired from a drone in the air, anywhere behind or to the side of Charlie Kirk, or from any location other than the rooftop. Each covered agency shall produce all records establishing whether a second sniper was positioned on any rooftop at or near UVU, including all rooftop access logs, surveillance footage of rooftops, and law enforcement sweeps of rooftops before, during, and after the shooting. Each covered agency shall produce all records establishing whether the person observed on the roof was running at the moment the shot was fired, and all video footage, witness statements, or analysis addressing the rooftop suspect's movement and posture at the time of the shot. The total number of shots fired from all locations and the direction each shot originated from. Each covered agency shall produce all evidence supporting or refuting a coordinated cell operation with multiple actors — including a shooter, a spotter for logistics, and an exfiltration handler — potentially under quasi-governmental or private military contractor auspices, and the FBI's admission of possible multiple accomplices. Each covered agency shall also produce all records relating to any analysis of alternative shooting positions, trajectories, or multiple shooter scenarios.
+* #32: SAM-Designated VIP Aircraft and AES Tennessee Operations: Each covered agency shall produce all records relating to any U.S. government aircraft operating under Special Air Mission callsign SAM 702, SAM 000, tail number 99-0404, or any other SAM-designated callsign — where a flight matching any one or more of these identifiers satisfies this requirement, and no agency shall withhold records on the basis that an aircraft did not match all listed identifiers — that at any time during the period October 9 through October 11, 2025, inclusive, flew into, flew over, landed in, took off from, or transited the airspace of the State of Tennessee. For each such flight, the disclosure shall include: (i) the complete passenger manifest identifying all persons aboard by name, title, and agency or organizational affiliation, without exception for any person regardless of rank, classification level, intelligence community affiliation, military grade, diplomatic status, or foreign nationality; (ii) the complete itinerary, including point of origin, each intermediate stop, final destination, and the date and time of each departure and arrival; (iii) all transponder data, including any periods during which the aircraft's transponder was deactivated, operated in a reduced mode, or otherwise rendered non-visible to public flight-tracking systems, and the authority under which any such deactivation occurred; (iv) the stated and actual purpose of each flight and each stop, including the reason each passenger was aboard and the purpose of their travel to or through Tennessee; and (v) whether any passenger deplaned at any location in Tennessee, including but not limited to any airport, airfield, military installation, or private landing facility. For any passenger who deplaned or was present in Tennessee during the disclosure period, each covered agency shall further produce all records identifying: (a) every meeting attended by such passenger, including the date, time, location, purpose of each meeting, and every person present; (b) every facility, building, or location visited by such passenger, including the Accurate Energetic Systems (AES) facility in Camden, Tennessee, or any AES-affiliated location, and every person present at each such location during the passenger's presence; (c) all communications by such passenger during the disclosure period relating to AES, the Charlie Kirk investigation, or any subject matter referenced in this Act. No covered agency shall limit its production to records that relate solely to a particular subset of the foregoing categories; the obligation is to produce all records responsive to any element of this item. The classification level, intelligence community affiliation, military rank, diplomatic status, or foreign nationality of any person aboard such aircraft or present at any meeting or facility shall not constitute grounds for withholding, redacting, or delaying disclosure of any record required by this item. Each covered agency shall also produce all records relating to any connection between SAM-designated flights to or through Tennessee during October 2025 and the Accurate Energetic Systems factory explosion on October 10, 2025, which killed 16 AES employees and may have destroyed evidence relevant to this investigation.
 
-* #33: Foreigners in UVU Security Zone: Each covered agency shall produce all records relating to whether anyone with citizenship other than solely U.S. citizenship was in the security zone at UVU between 11 AM and 12:23 PM MT on September 10, 2025, which was controlled by Charlie Kirk's contract security team. Each covered agency shall also produce all records relating to any non-U.S. citizen who had access to restricted areas at the UVU event.
 
-* #34: PERSON_45_REDACTED Intelligence Contact: Each covered agency shall produce all records relating to PERSON_45_REDACTED having any communication, coordination, or interaction with any U.S. or foreign intelligence service during April 1, 2025, through November 1, 2026. Each covered agency shall also produce all records relating to any intelligence service interest in or contact with PERSON_45_REDACTED at any time.
+* #33: Alternative Shooter Location Analysis: Each covered agency shall produce all records, files, and investigation data relating to whether a shot was fired from a drone in the air, anywhere behind or to the side of Charlie Kirk, or from any location other than the rooftop. Each covered agency shall produce all records establishing whether a second sniper was positioned on any rooftop at or near UVU, including all rooftop access logs, surveillance footage of rooftops, and law enforcement sweeps of rooftops before, during, and after the shooting. Each covered agency shall produce all records establishing whether the person observed on the roof was running at the moment the shot was fired, and all video footage, witness statements, or analysis addressing the rooftop suspect's movement and posture at the time of the shot. The total number of shots fired from all locations and the direction each shot originated from. Each covered agency shall produce all evidence supporting or refuting a coordinated cell operation with multiple actors — including a shooter, a spotter for logistics, and an exfiltration handler — potentially under quasi-governmental or private military contractor auspices, and the FBI's admission of possible multiple accomplices. Each covered agency shall also produce all records relating to any analysis of alternative shooting positions, trajectories, or multiple shooter scenarios.
 
-* #35: Investigation-Related Google Searches: Each covered agency shall produce all records relating to Google searches during October 2024 through September 11, 2025, for any terms unique to this investigation—people, planes, addresses, companies, or anything else—where any government entity has information related to the case. Each covered agency shall also produce all records relating to any digital search activity, browser history, or internet research by any person of interest related to the investigation.
+* #34: Foreigners in UVU Security Zone: Each covered agency shall produce all records relating to whether anyone with citizenship other than solely U.S. citizenship was in the security zone at UVU between 11 AM and 12:23 PM MT on September 10, 2025, which was controlled by Charlie Kirk's contract security team. Each covered agency shall also produce all records relating to any non-U.S. citizen who had access to restricted areas at the UVU event.
 
-* #36: Foreign Visitors to Lance Twiggs Home: Each covered agency shall produce all records relating to any foreigners or intelligence service personnel visiting the apartment or townhome of Lance Twiggs during March 1, 2025, through September 11, 2025. Each covered agency shall also produce all records relating to any surveillance, monitoring, or tracking of visitors to Lance Twiggs's residence during that period.
+* #35: PERSON_45_REDACTED Intelligence Contact: Each covered agency shall produce all records relating to PERSON_45_REDACTED having any communication, coordination, or interaction with any U.S. or foreign intelligence service during April 1, 2025, through November 1, 2026. Each covered agency shall also produce all records relating to any intelligence service interest in or contact with PERSON_45_REDACTED at any time.
 
-* #37: Electronic Equipment at Twiggs Residence: Each covered agency shall produce all records relating to any electronic equipment installed or operated by foreigners in, directed at, or near the apartment or townhome of Lance Twiggs during March 1, 2025, through September 10, 2025. Each covered agency shall also produce all records relating to any surveillance devices, monitoring equipment, or electronic operations targeting or near Twiggs's residence.
+* #36: Investigation-Related Google Searches: Each covered agency shall produce all records relating to Google searches during October 2024 through September 11, 2025, for any terms unique to this investigation—people, planes, addresses, companies, or anything else—where any government entity has information related to the case. Each covered agency shall also produce all records relating to any digital search activity, browser history, or internet research by any person of interest related to the investigation.
 
-* #38: Psyops on Robinson or Twiggs: Each covered agency shall produce all records relating to any psychological operations or psychological manipulation carried out on either Tyler Robinson or Lance Twiggs by any government or non-government actor. Each covered agency shall also produce all records relating to any behavioral influence, radicalization efforts, grooming, or manipulation directed at Robinson or Twiggs by any person or entity.
+* #37: Foreign Visitors to Lance Twiggs Home: Each covered agency shall produce all records relating to any foreigners or intelligence service personnel visiting the apartment or townhome of Lance Twiggs during March 1, 2025, through September 11, 2025. Each covered agency shall also produce all records relating to any surveillance, monitoring, or tracking of visitors to Lance Twiggs's residence during that period.
 
-* #39: Lance Twiggs Intelligence Interactions: Each covered agency shall produce all records relating to any interactions (meetings, communication, coordination) between Lance Twiggs and any FBI, U.S., or foreign intelligence during April 1, 2025, through September 10, 2025. Each covered agency shall also produce all records relating to any intelligence service contact with or interest in Lance Twiggs at any time.
+* #38: Electronic Equipment at Twiggs Residence: Each covered agency shall produce all records relating to any electronic equipment installed or operated by foreigners in, directed at, or near the apartment or townhome of Lance Twiggs during March 1, 2025, through September 10, 2025. Each covered agency shall also produce all records relating to any surveillance devices, monitoring equipment, or electronic operations targeting or near Twiggs's residence.
 
-* #40: Robinson/Twiggs Digital Communications: Each covered agency shall produce all records relating to any interactions between Lance Twiggs or Tyler Robinson and any FBI, U.S., or foreign intelligence via Discord, Steam, in-game voice chat, or text message during August 1, 2024, through September 10, 2025. All odd, suspicious, or unusual instant messages, in-game communications, Discord exchanges, or text messages potentially related to assassination planning, threats, or coordination. Each covered agency shall also produce all records relating to any digital or electronic communication between Robinson or Twiggs and any government agent or intelligence operative on any platform.
+* #39: Psyops on Robinson or Twiggs: Each covered agency shall produce all records relating to any psychological operations or psychological manipulation carried out on either Tyler Robinson or Lance Twiggs by any government or non-government actor. Each covered agency shall also produce all records relating to any behavioral influence, radicalization efforts, grooming, or manipulation directed at Robinson or Twiggs by any person or entity.
 
-* #41: PERSON_27 and PERSON_28 Intel Contact: Each covered agency shall produce all records relating to any interactions between PERSON_27_REDACTED or PERSON_28_REDACTED and FBI, U.S., or foreign intelligence during August 1, 2024, through September 10, 2025. Each covered agency shall also produce all records relating to any intelligence service contact with or interest in these individuals at any time.
+* #40: Lance Twiggs Intelligence Interactions: Each covered agency shall produce all records relating to any interactions (meetings, communication, coordination) between Lance Twiggs and any FBI, U.S., or foreign intelligence during April 1, 2025, through September 10, 2025. Each covered agency shall also produce all records relating to any intelligence service contact with or interest in Lance Twiggs at any time.
 
-* #42: Investigation-Linked Rental Cars: Each covered agency shall produce all records relating to the people who rented or traveled in the following cars during August 1, 2025, through September 10, 2025: Silver 2025 Toyota RAV4 (Utah plate T092ZS), White 2025 Toyota Camry (Arizona plate CWN9872), 2023 Toyota RAV4 (Utah plate T912KM), 2025 Toyota 4Runner (Utah plate Z923DA), Grey/Silver 2025 Toyota 4Runner (plate Z349AA), including links to Duncan Aviation, "PERSON_132_REDACTED Consulting," or "Eng. PERSON_133_REDACTED." Each covered agency shall also produce all records relating to any rental vehicle used by any person of interest in the investigation.
+* #41: Robinson/Twiggs Digital Communications: Each covered agency shall produce all records relating to any interactions between Lance Twiggs or Tyler Robinson and any FBI, U.S., or foreign intelligence via Discord, Steam, in-game voice chat, or text message during August 1, 2024, through September 10, 2025. All odd, suspicious, or unusual instant messages, in-game communications, Discord exchanges, or text messages potentially related to assassination planning, threats, or coordination. Each covered agency shall also produce all records relating to any digital or electronic communication between Robinson or Twiggs and any government agent or intelligence operative on any platform.
 
-* #43: MARC Inc. Surveillance Plane Contract: Each covered agency shall produce all records relating to who rented or contracted MARC Inc.'s Piper N59906 for the flight on September 10, 2025—who paid, who interacted with the company, how information was delivered to the customer (real-time or otherwise), and the identity of the customer organization and individuals. Each covered agency shall also produce all records relating to any aerial surveillance contracted by any party for any date near September 10, 2025, in the Utah area.
+* #42: PERSON_27 and PERSON_28 Intel Contact: Each covered agency shall produce all records relating to any interactions between PERSON_27_REDACTED or PERSON_28_REDACTED and FBI, U.S., or foreign intelligence during August 1, 2024, through September 10, 2025. Each covered agency shall also produce all records relating to any intelligence service contact with or interest in these individuals at any time.
 
-* #44: Airport Foreign Military Personnel: Each covered agency shall produce all records relating to persons at Provo Municipal Airport (PVU) or Salt Lake City International Airport (SLC) during August 1, 2025, through September 11, 2025, who: had "U.S. Department of Defense Liaison" badges, had Egyptian passports boarding private planes, tested Counter-UAS gear (especially September 4–10), used "no-scan priority clearance" via federal override, or prompted tower insiders to remark on suspicious activity. Each covered agency shall also produce all records relating to any unusual military, diplomatic, or intelligence activity at either airport during that period.
+* #43: Investigation-Linked Rental Cars: Each covered agency shall produce all records relating to the people who rented or traveled in the following cars during August 1, 2025, through September 10, 2025: Silver 2025 Toyota RAV4 (Utah plate T092ZS), White 2025 Toyota Camry (Arizona plate CWN9872), 2023 Toyota RAV4 (Utah plate T912KM), 2025 Toyota 4Runner (Utah plate Z923DA), Grey/Silver 2025 Toyota 4Runner (plate Z349AA), including links to Duncan Aviation, "PERSON_132_REDACTED Consulting," or "Eng. PERSON_133_REDACTED." Each covered agency shall also produce all records relating to any rental vehicle used by any person of interest in the investigation.
 
-* #45: Non-.30-06 Caliber Gunfire at UVU: Each covered agency shall produce all records relating to whether any caliber of gunfire besides .30-06 was fired on September 10, 2025, between 12:20 and 12:30 PM MT at UVU, including witness testimony describing the shot sound as resembling a 9mm or a "cherry bomb" rather than a deep rifle report (specifically witness Eric's testimony), which may indicate a different weapon type or caliber. Each covered agency shall also produce all records relating to any ballistic evidence, projectile analysis, or weapon discharge data suggesting additional or alternative weapons were fired.
+* #44: MARC Inc. Surveillance Plane Contract: Each covered agency shall produce all records relating to who rented or contracted MARC Inc.'s Piper N59906 for the flight on September 10, 2025—who paid, who interacted with the company, how information was delivered to the customer (real-time or otherwise), and the identity of the customer organization and individuals. Each covered agency shall also produce all records relating to any aerial surveillance contracted by any party for any date near September 10, 2025, in the Utah area.
 
-* #46: Laser Targeting and Electronic Targeting at UVU: Each covered agency shall produce all records relating to laser targeting that occurred on September 10, 2025, at UVU anywhere within 2,000 feet of Charlie Kirk. Each covered agency shall produce all records relating to any electronic device, system, or technology — whether ground-based, drone-mounted, or otherwise — that performed any function related to tracking, targeting, range-finding, shot timing, shot coordination, gunshot detection, or any other function connected to the shooting or the movements of Charlie Kirk, the shooter, or any person of interest. Each covered agency shall also produce all records relating to any targeting, range-finding, or laser-related equipment detected or deployed at or near UVU on that date, and whether any drone was performing active tracking of Charlie Kirk or any other person at the time of the shooting.
+* #45: Airport Foreign Military Personnel: Each covered agency shall produce all records relating to persons at Provo Municipal Airport (PVU) or Salt Lake City International Airport (SLC) during August 1, 2025, through September 11, 2025, who: had "U.S. Department of Defense Liaison" badges, had Egyptian passports boarding private planes, tested Counter-UAS gear (especially September 4–10), used "no-scan priority clearance" via federal override, or prompted tower insiders to remark on suspicious activity. Each covered agency shall also produce all records relating to any unusual military, diplomatic, or intelligence activity at either airport during that period.
 
-* #47: FBI Requests to Delete Witness Videos: Each covered agency shall produce all records relating to FBI employees calling witnesses who had videos and asking them to delete the video, including the list of FBI employees who did this, the witnesses, the dates, and how many calls. Each covered agency shall produce all records establishing whether the FBI ever asked any witnesses or anyone to delete video from September 10, 2025, in Utah, from any device. Each covered agency shall also produce all records relating to any law enforcement requests to any person to delete, destroy, or surrender photographic or video evidence from the UVU event.
+* #46: Non-.30-06 Caliber Gunfire at UVU: Each covered agency shall produce all records relating to whether any caliber of gunfire besides .30-06 was fired on September 10, 2025, between 12:20 and 12:30 PM MT at UVU, including witness testimony describing the shot sound as resembling a 9mm or a "cherry bomb" rather than a deep rifle report (specifically witness Eric's testimony), which may indicate a different weapon type or caliber. Each covered agency shall also produce all records relating to any ballistic evidence, projectile analysis, or weapon discharge data suggesting additional or alternative weapons were fired.
 
-* #48: Remotely Deleted Witness Videos: Each covered agency shall produce all records relating to witnesses who reported that videos they took at UVU on September 10, 2025, were deleted from their phones or devices without their permission, including how the deletions occurred, who performed them, what tools were used, and all details of each occurrence. Each covered agency shall produce all records relating to any videos that were deleted from mobile phones of witnesses or people at UVU on September 10, 2025, that were deleted at any later date, whether by the owner, remotely, or by any other means. Each covered agency shall also produce all records relating to any unauthorized access to, deletion of, or tampering with any person's digital media from the UVU event.
+* #47: Laser Targeting and Electronic Targeting at UVU: Each covered agency shall produce all records relating to laser targeting that occurred on September 10, 2025, at UVU anywhere within 2,000 feet of Charlie Kirk. Each covered agency shall produce all records relating to any electronic device, system, or technology — whether ground-based, drone-mounted, or otherwise — that performed any function related to tracking, targeting, range-finding, shot timing, shot coordination, gunshot detection, or any other function connected to the shooting or the movements of Charlie Kirk, the shooter, or any person of interest. Each covered agency shall also produce all records relating to any targeting, range-finding, or laser-related equipment detected or deployed at or near UVU on that date, and whether any drone was performing active tracking of Charlie Kirk or any other person at the time of the shooting.
 
-* #49: Listed Planes Transponder-Off Flights: Each covered agency shall produce all records relating to whether any of the listed planes flew into Egypt from another country with the transponder off, and which country they flew from. Each covered agency shall produce all records providing clarification from investigators on whether any suspicious plane's transponder was deliberately turned off versus showing gaps due to incomplete ADS-B data coverage in rural areas. Each covered agency shall also produce all records relating to any transponder deactivation, route concealment, or flight path obfuscation by any aircraft connected to the investigation.
+* #48: FBI Requests to Delete Witness Videos: Each covered agency shall produce all records relating to FBI employees calling witnesses who had videos and asking them to delete the video, including the list of FBI employees who did this, the witnesses, the dates, and how many calls. Each covered agency shall produce all records establishing whether the FBI ever asked any witnesses or anyone to delete video from September 10, 2025, in Utah, from any device. Each covered agency shall also produce all records relating to any law enforcement requests to any person to delete, destroy, or surrender photographic or video evidence from the UVU event.
 
-* #50: Hampton Meeting Intel Presence: Each covered agency shall produce all records relating to any military or U.S. or foreign intelligence personnel present at the August 3–6, 2025, meeting at the Hamptons, including names and who they worked for. Each covered agency shall also produce all records relating to any intelligence service involvement with, monitoring of, or interest in any TPUSA donor or leadership meeting during 2025.
+* #49: Remotely Deleted Witness Videos: Each covered agency shall produce all records relating to witnesses who reported that videos they took at UVU on September 10, 2025, were deleted from their phones or devices without their permission, including how the deletions occurred, who performed them, what tools were used, and all details of each occurrence. Each covered agency shall produce all records relating to any videos that were deleted from mobile phones of witnesses or people at UVU on September 10, 2025, that were deleted at any later date, whether by the owner, remotely, or by any other means. Each covered agency shall also produce all records relating to any unauthorized access to, deletion of, or tampering with any person's digital media from the UVU event.
 
-* #51: Business Deal Threat to Kirk: Each covered agency shall produce all records relating to any business opportunity discussed with Charlie Kirk from September 1–10, 2025, including allegations that PERSON_3_REDACTED lost $2M when Charlie turned down a deal, the identity of the deal and who offered it, factors Kirk found problematic, and whether Kirk said "they will kill me tomorrow" in connection with the call. Each covered agency shall also produce all records relating to any financial pressure, inducement, or threat connected to business dealings with Kirk in 2025.
+* #50: Listed Planes Transponder-Off Flights: Each covered agency shall produce all records relating to whether any of the listed planes flew into Egypt from another country with the transponder off, and which country they flew from. Each covered agency shall produce all records providing clarification from investigators on whether any suspicious plane's transponder was deliberately turned off versus showing gaps due to incomplete ADS-B data coverage in rural areas. Each covered agency shall also produce all records relating to any transponder deactivation, route concealment, or flight path obfuscation by any aircraft connected to the investigation.
 
-* #52: TPUSA Financial Audit by Kirk: Each covered agency shall produce all records relating to Charlie Kirk's request for a DOGE-equivalent audit inside TPUSA, as found in FBI investigation files, and what financial irregularities were found. Each covered agency shall also produce all records relating to any financial misconduct, mismanagement, or irregular transactions at TPUSA discovered during any investigation.
+* #51: Hampton Meeting Intel Presence: Each covered agency shall produce all records relating to any military or U.S. or foreign intelligence personnel present at the August 3–6, 2025, meeting at the Hamptons, including names and who they worked for. Each covered agency shall also produce all records relating to any intelligence service involvement with, monitoring of, or interest in any TPUSA donor or leadership meeting during 2025.
 
-* #53: TPUSA Leadership Foreign Intel Contact: Each covered agency shall produce all records relating to any communication or meetings between TPUSA managers, executives, or board members with U.S. or foreign intelligence within 12 months before September 11, 2025. Each covered agency shall also produce all records relating to any intelligence service contact with or interest in any TPUSA leadership figure at any time.
+* #52: Business Deal Threat to Kirk: Each covered agency shall produce all records relating to any business opportunity discussed with Charlie Kirk from September 1–10, 2025, including allegations that PERSON_3_REDACTED lost $2M when Charlie turned down a deal, the identity of the deal and who offered it, factors Kirk found problematic, and whether Kirk said "they will kill me tomorrow" in connection with the call. Each covered agency shall also produce all records relating to any financial pressure, inducement, or threat connected to business dealings with Kirk in 2025.
 
-* #54: All-Black Suspect at UVU Construction: Each covered agency shall produce all records matching or similar to: one or more eyewitnesses describing a man dressed in all black (trench coat, cargo pants, black mask, sunglasses, long greasy black hair, small backpack) who walked through a UVU construction site immediately after the shooting, spoke with an excavator operator, admitted someone had been shot before sirens started, was tracked by K-9 units, and whose photo shown by sheriffs did not match the FBI's publicly released image. Each covered agency shall also produce all records relating to any unidentified suspect or person of interest at or near UVU on September 10, 2025, who does not match Tyler Robinson's description.
+* #53: TPUSA Financial Audit by Kirk: Each covered agency shall produce all records relating to Charlie Kirk's request for a DOGE-equivalent audit inside TPUSA, as found in FBI investigation files, and what financial irregularities were found. Each covered agency shall also produce all records relating to any financial misconduct, mismanagement, or irregular transactions at TPUSA discovered during any investigation.
 
-* #55: Threats Against Charlie Kirk from Any Source: Each covered agency shall produce all records from U.S. intelligence about any individuals, governments, or government organizations that wanted Charlie Kirk's life ended, discussed getting him killed, or threatened him. Each covered agency shall also produce all records relating to any threat assessment, warning, or intelligence report regarding danger to Charlie Kirk from any source.
+* #54: TPUSA Leadership Foreign Intel Contact: Each covered agency shall produce all records relating to any communication or meetings between TPUSA managers, executives, or board members with U.S. or foreign intelligence within 12 months before September 11, 2025. Each covered agency shall also produce all records relating to any intelligence service contact with or interest in any TPUSA leadership figure at any time.
 
-* #56: Threats Against Similar Public Figures: Each covered agency shall produce all records from U.S. intelligence, FBI, or DoJ about threats or communication about harm, plans, or consideration toward: Marjorie Taylor Greene (including threats to murder her son), Matt Gaetz, Andrew Breitbart, Candace Owens, Tucker Carlson, and Thomas Massie. Each covered agency shall also produce all records relating to any threat pattern or coordinated targeting of public figures with similar political profiles.
+* #55: All-Black Suspect at UVU Construction: Each covered agency shall produce all records matching or similar to: one or more eyewitnesses describing a man dressed in all black (trench coat, cargo pants, black mask, sunglasses, long greasy black hair, small backpack) who walked through a UVU construction site immediately after the shooting, spoke with an excavator operator, admitted someone had been shot before sirens started, was tracked by K-9 units, and whose photo shown by sheriffs did not match the FBI's publicly released image. Each covered agency shall also produce all records relating to any unidentified suspect or person of interest at or near UVU on September 10, 2025, who does not match Tyler Robinson's description.
 
----
+* #56: Threats Against Charlie Kirk from Any Source: Each covered agency shall produce all records from U.S. intelligence about any individuals, governments, or government organizations that wanted Charlie Kirk's life ended, discussed getting him killed, or threatened him. Each covered agency shall also produce all records relating to any threat assessment, warning, or intelligence report regarding danger to Charlie Kirk from any source.
 
-### FBI 302 Reports (#57–#61)
-
-* #57: All FBI 302 Interview Reports: Each covered agency shall produce all FBI Form 302 interview reports from September 10, 2025, to the present from the FBI Salt Lake City Field Office, covering all witness interviews, including the FBI's admission of possible multiple accomplices, investigations into Discord chats, text messages, and bullet trajectories, and the questioning of over 20 people. Each covered agency shall also produce all supplemental reports, attachments, and any 302s from other field offices related to the investigation.
-
-* #58: FBI 302s on Evidence Deletion Requests: Each covered agency shall produce all FBI 302s documenting instances where agents asked witnesses to delete photos or videos, identifying the agents involved. Each covered agency shall also produce all records relating to any FBI communication with witnesses regarding evidence preservation or destruction.
-
-* #59: Counterintelligence Division 302s: Each covered agency shall produce all FBI 302s from the Counterintelligence Division regarding foreign intelligence investigation related to the case. Each covered agency shall also produce all records relating to any counterintelligence assessment or report touching on the Charlie Kirk investigation.
-
-* #60: FBI Agent Notes and Memoranda: Each covered agency shall produce all investigative notes, rough notes, and memoranda from FBI Salt Lake City Field Office agents. Each covered agency shall also produce all records relating to any handwritten notes, personal files, or informal records kept by any agent working the case.
-
-* #61: FBI Case Opening Documentation: Each covered agency shall produce all case opening forms, investigative plans, and scope documents from the FBI Records Division. Each covered agency shall also produce all records relating to any modification, expansion, or restriction of the investigation's scope after opening.
+* #57: Threats Against Similar Public Figures: Each covered agency shall produce all records from U.S. intelligence, FBI, or DoJ about threats or communication about harm, plans, or consideration toward: Marjorie Taylor Greene (including threats to murder her son), Matt Gaetz, Andrew Breitbart, Candace Owens, Tucker Carlson, and Thomas Massie. Each covered agency shall also produce all records relating to any threat pattern or coordinated targeting of public figures with similar political profiles.
 
 ---
 
-### FBI Counterintelligence (#62–#66)
+### FBI 302 Reports (#58–#62)
 
-* #62: FBI Foreign Intel Reports on Utah: Each covered agency shall produce all FBI counterintelligence reports on Egyptian GID, French DGSE, Israeli Mossad, and other foreign intelligence operations in Utah from January 2023 to present. Each covered agency shall also produce all records relating to any foreign intelligence service activity in the state of Utah during that period.
+* #58: All FBI 302 Interview Reports: Each covered agency shall produce all FBI Form 302 interview reports from September 10, 2025, to the present from the FBI Salt Lake City Field Office, covering all witness interviews, including the FBI's admission of possible multiple accomplices, investigations into Discord chats, text messages, and bullet trajectories, and the questioning of over 20 people. Each covered agency shall also produce all supplemental reports, attachments, and any 302s from other field offices related to the investigation.
 
-* #63: FBI Threat Assessments for Kirk: Each covered agency shall produce all FBI Protective Intelligence threat assessments regarding foreign intelligence targeting of Charlie Kirk. Each covered agency shall also produce all records relating to any FBI awareness of foreign threats to Kirk before the assassination.
+* #59: FBI 302s on Evidence Deletion Requests: Each covered agency shall produce all FBI 302s documenting instances where agents asked witnesses to delete photos or videos, identifying the agents involved. Each covered agency shall also produce all records relating to any FBI communication with witnesses regarding evidence preservation or destruction.
 
-* #64: FBI Liaison Reports with CIA/NSA/DHS: Each covered agency shall produce all cable traffic and intelligence sharing from the FBI Salt Lake City Field Office with CIA, NSA, and DHS regarding foreign nationals connected to the case. Each covered agency shall also produce all records relating to any inter-agency communication about the investigation.
+* #60: Counterintelligence Division 302s: Each covered agency shall produce all FBI 302s from the Counterintelligence Division regarding foreign intelligence investigation related to the case. Each covered agency shall also produce all records relating to any counterintelligence assessment or report touching on the Charlie Kirk investigation.
 
-* #65: FBI Counterintel Surveillance Logs: Each covered agency shall produce all FBI Counterintelligence Division surveillance logs tracking suspected foreign intelligence officers in Utah. Each covered agency shall also produce all records relating to any FBI monitoring of foreign intelligence personnel in the western United States during 2025.
+* #61: FBI Agent Notes and Memoranda: Each covered agency shall produce all investigative notes, rough notes, and memoranda from FBI Salt Lake City Field Office agents. Each covered agency shall also produce all records relating to any handwritten notes, personal files, or informal records kept by any agent working the case.
 
-* #66: FISA Applications and Materials: Each covered agency shall produce all FISA surveillance applications and materials from the DOJ National Security Division related to foreign nationals in Utah connected to the case. Each covered agency shall also produce all records relating to any electronic surveillance authorized by any court related to the investigation.
-
----
-
-### Cell Phone Data (#67–#73)
-
-* #67: UVU Campus Cell Tower Dumps: Each covered agency shall produce all cell tower dump records for UVU campus on September 10, 2025, from 8 AM to 6 PM, identifying all phones that connected to towers serving UVU. Each covered agency shall also produce all records relating to any device that connected to, attempted to connect to, or was detected by any cell infrastructure serving the UVU area that day.
-
-* #68: Tyler Robinson Residence Tower Dumps: Each covered agency shall produce all cell tower dump records for Tyler Robinson's residence from September 1–15, 2025, identifying all phones connecting to nearby towers. Each covered agency shall also produce all records relating to any device activity near Tyler Robinson's residence during August–September 2025.
-
-* #69: Provo Airport Cell Tower Dumps: Each covered agency shall produce all cell tower dump records for Provo Airport from August 25 through September 15, 2025, identifying all phones at the airport. Each covered agency shall also produce all records relating to any device activity at or near Provo Municipal Airport during that period.
-
-* #70: Geofence Warrant Data for UVU: Each covered agency shall produce all geofence warrant applications and returns for UVU from FBI, Google, and Apple, identifying all devices within 500 meters of the shooting location. Each covered agency shall also produce all records relating to any location-based data request or return related to the UVU campus on September 10, 2025.
-
-* #71: Foreign Roaming Phone Data: Each covered agency shall produce all cell site location information for all phones with international roaming from Egyptian, French, or Israeli carriers in Utah during the relevant period. Each covered agency shall also produce all records relating to any phone with non-U.S. carrier roaming detected at any investigation-related location.
-
-* #72: FBI Foreign Phone Analysis Reports: Each covered agency shall produce all FBI Cellular Analysis Survey Team reports and link analysis connecting foreign phones to people and locations. Each covered agency shall also produce all records relating to any FBI analytical work product identifying foreign devices in connection with the case.
-
-* #73: Foreign Phone Subscriber Information: Each covered agency shall produce all subscriber information for all unidentified foreign phones, including names, passport numbers, and billing addresses. Each covered agency shall also produce all records relating to any effort to identify owners of foreign-registered devices detected at investigation-related locations.
+* #62: FBI Case Opening Documentation: Each covered agency shall produce all case opening forms, investigative plans, and scope documents from the FBI Records Division. Each covered agency shall also produce all records relating to any modification, expansion, or restriction of the investigation's scope after opening.
 
 ---
 
-### Airport / CBP Records (#74–#80)
+### FBI Counterintelligence (#63–#67)
 
-* #74: CBP Israeli National Entry/Exit Records: Each covered agency shall produce all CBP entry/exit records, I-94 records, passport scans, and biometric data for Israeli nationals from July through November 2025. Each covered agency shall also produce all records relating to any Israeli national entering or exiting the United States through any port during that period who traveled to or through Utah.
+* #63: FBI Foreign Intel Reports on Utah: Each covered agency shall produce all FBI counterintelligence reports on Egyptian GID, French DGSE, Israeli Mossad, and other foreign intelligence operations in Utah from January 2023 to present. Each covered agency shall also produce all records relating to any foreign intelligence service activity in the state of Utah during that period.
 
-* #75: CBP Egyptian National Entry/Exit Records: Each covered agency shall produce all CBP entry/exit records, I-94 records, passport scans, and biometric data for Egyptian nationals from July through November 2025. Each covered agency shall also produce all records relating to any Egyptian national entering or exiting the United States through any port during that period who traveled to or through Utah.
+* #64: FBI Threat Assessments for Kirk: Each covered agency shall produce all FBI Protective Intelligence threat assessments regarding foreign intelligence targeting of Charlie Kirk. Each covered agency shall also produce all records relating to any FBI awareness of foreign threats to Kirk before the assassination.
 
-* #76: CBP French National Entry/Exit Records: Each covered agency shall produce all CBP entry/exit records, I-94 records, passport scans, and biometric data for French nationals from July through November 2025. Each covered agency shall also produce all records relating to any French national entering or exiting the United States through any port during that period who traveled to or through Utah.
+* #65: FBI Liaison Reports with CIA/NSA/DHS: Each covered agency shall produce all cable traffic and intelligence sharing from the FBI Salt Lake City Field Office with CIA, NSA, and DHS regarding foreign nationals connected to the case. Each covered agency shall also produce all records relating to any inter-agency communication about the investigation.
 
-* #77: TSA PreCheck Foreign National Records: Each covered agency shall produce all TSA PreCheck and Known Traveler records for foreign nationals with expedited clearance connected to the investigation. Each covered agency shall also produce all records relating to any foreign national who received expedited security screening at any U.S. airport during the relevant period.
+* #66: FBI Counterintel Surveillance Logs: Each covered agency shall produce all FBI Counterintelligence Division surveillance logs tracking suspected foreign intelligence officers in Utah. Each covered agency shall also produce all records relating to any FBI monitoring of foreign intelligence personnel in the western United States during 2025.
 
-* #78: CBP Military Contractor Clearances: Each covered agency shall produce all CBP special clearance records for military contractors, including diplomatic and military personnel bypassing standard security. Each covered agency shall also produce all records relating to any federal override, diplomatic waiver, or special access authorization for foreign personnel at U.S. airports during the relevant period.
-
-* #79: International Flight Passenger Manifests: Each covered agency shall produce complete passenger manifests for all international flights to Salt Lake City or Provo from September 3–17, 2025. Each covered agency shall also produce all records relating to any passenger on any flight arriving in Utah from a foreign origin during August–October 2025 who is connected to the investigation.
-
-* #80: CBP Biometric Data for Foreign Arrivals: Each covered agency shall produce all biometric captures (fingerprints, facial recognition) from the DHS Biometric Identity Management System for foreign arrivals during the relevant period. Each covered agency shall also produce all records relating to any biometric data collected from any foreign national entering Utah during 2025.
+* #67: FISA Applications and Materials: Each covered agency shall produce all FISA surveillance applications and materials from the DOJ National Security Division related to foreign nationals in Utah connected to the case. Each covered agency shall also produce all records relating to any electronic surveillance authorized by any court related to the investigation.
 
 ---
 
-### Egyptian Planes (#81–#86)
+### Cell Phone Data (#68–#74)
 
-* #81: Egyptian Plane SU-BTT Flight Records: Each covered agency shall produce all flight records for Egyptian plane SU-BTT, including flight plans and arrival records for the September 4, 2025, Provo arrival. Each covered agency shall also produce all records relating to any flight by this aircraft to or within the United States during 2025 and 2026. Each covered agency shall specifically produce all records relating to the return of Egyptian-registered aircraft to Provo, Utah in March 2026, including passenger manifests, cargo, purpose of travel, and any connection to the timing of French President Macron's wife Brigitte Macron's concurrent visit to Washington D.C., and all records establishing whether a pattern exists between Egyptian aircraft movements and French diplomatic travel.
+* #68: UVU Campus Cell Tower Dumps: Each covered agency shall produce all cell tower dump records for UVU campus on September 10, 2025, from 8 AM to 6 PM, identifying all phones that connected to towers serving UVU. Each covered agency shall also produce all records relating to any device that connected to, attempted to connect to, or was detected by any cell infrastructure serving the UVU area that day.
 
-* #82: Egyptian Plane SU-BND Flight Records: Each covered agency shall produce all flight records for Egyptian plane SU-BND, including transponder activation records around September 15, 2025. Each covered agency shall also produce all records relating to any flight by this aircraft to or within the United States during 2025.
+* #69: Tyler Robinson Residence Tower Dumps: Each covered agency shall produce all cell tower dump records for Tyler Robinson's residence from September 1–15, 2025, identifying all phones connecting to nearby towers. Each covered agency shall also produce all records relating to any device activity near Tyler Robinson's residence during August–September 2025.
 
-* #83: SU-BTT Passenger and Crew Manifests: Each covered agency shall produce all passenger manifests and crew lists for SU-BTT, including names of all 4–6 military contractors who deplaned. Each covered agency shall also produce all records relating to any person who was aboard this aircraft for any flight to or within the United States during 2025.
+* #70: Provo Airport Cell Tower Dumps: Each covered agency shall produce all cell tower dump records for Provo Airport from August 25 through September 15, 2025, identifying all phones at the airport. Each covered agency shall also produce all records relating to any device activity at or near Provo Municipal Airport during that period.
 
-* #84: CBP Inspection of Egyptian Aircraft: Each covered agency shall produce all CBP inspection reports and cargo manifests for Egyptian aircraft. Each covered agency shall also produce all records relating to any customs inspection, security screening, or cargo declaration for any Egyptian-registered aircraft arriving at any U.S. airport during 2025.
+* #71: Geofence Warrant Data for UVU: Each covered agency shall produce all geofence warrant applications and returns for UVU from FBI, Google, and Apple, identifying all devices within 500 meters of the shooting location. Each covered agency shall also produce all records relating to any location-based data request or return related to the UVU campus on September 10, 2025.
 
-* #85: Egyptian Contractor Security Clearances: Each covered agency shall produce all State Department and DoD records of Defense Attaché badges issued to Egyptian military contractors. Each covered agency shall also produce all records relating to any U.S. government authorization, credential, or clearance provided to Egyptian nationals during 2025.
+* #72: Foreign Roaming Phone Data: Each covered agency shall produce all cell site location information for all phones with international roaming from Egyptian, French, or Israeli carriers in Utah during the relevant period. Each covered agency shall also produce all records relating to any phone with non-U.S. carrier roaming detected at any investigation-related location.
 
-* #86: Egyptian Contractor Ground Transportation: Each covered agency shall produce all rental car and hotel records showing where Egyptian contractors went after arriving. Each covered agency shall also produce all records relating to any ground transportation, lodging, or movement by Egyptian nationals who arrived on the listed aircraft.
+* #73: FBI Foreign Phone Analysis Reports: Each covered agency shall produce all FBI Cellular Analysis Survey Team reports and link analysis connecting foreign phones to people and locations. Each covered agency shall also produce all records relating to any FBI analytical work product identifying foreign devices in connection with the case.
 
----
-
-### Israeli Cell Phones (#87–#91)
-
-* #87: Israeli Phone Location History: Each covered agency shall produce complete cell site location information for all 12 Israeli phones (Cellcom, Partner, Pelephone carriers) from September 1–15, 2025, showing presence at UVU, Tyler Robinson's home, airports, and other locations. Each covered agency shall also produce all records relating to any Israeli-carrier phone detected at any investigation-related location during August–October 2025.
-
-* #88: Israeli Phone Subscriber Identification: Each covered agency shall produce all subscriber information for the 12 Israeli phones obtained via FBI MLAT with Israeli carriers, including names, passport numbers, and addresses. Each covered agency shall also produce all records relating to the identity of any person using an Israeli-registered phone in Utah during the relevant period.
-
-* #89: Israeli Phone Call Detail Records: Each covered agency shall produce all call detail records for the Israeli phones, showing all calls and texts to and from Utah numbers. Each covered agency shall also produce all records relating to any communication between Israeli-registered phones and any U.S. number or device during the relevant period.
-
-* #90: Israeli Phone International Roaming Records: Each covered agency shall produce all international roaming activation and usage patterns from Israeli and U.S. carriers for the identified phones. Each covered agency shall also produce all records confirming the physical presence of Israeli-registered devices in Utah.
-
-* #91: FBI Communications with Israel on Case: Each covered agency shall produce all communications between FBI Legal Attaché Tel Aviv and Israeli authorities regarding the Israeli phones and the investigation. Each covered agency shall also produce all records relating to any FBI request to or response from Israeli government entities about the case.
+* #74: Foreign Phone Subscriber Information: Each covered agency shall produce all subscriber information for all unidentified foreign phones, including names, passport numbers, and billing addresses. Each covered agency shall also produce all records relating to any effort to identify owners of foreign-registered devices detected at investigation-related locations.
 
 ---
 
-### Provo Airport (#92–#97)
+### Airport / CBP Records (#75–#81)
 
-* #92: Airport Badge Access Logs: Each covered agency shall produce all badge access logs from Provo Municipal Airport, including the September 11, 2025, badge system update, and all badge access records and modifications. Each covered agency shall also produce all records relating to any changes to airport access systems or records during September 2025.
+* #75: CBP Israeli National Entry/Exit Records: Each covered agency shall produce all CBP entry/exit records, I-94 records, passport scans, and biometric data for Israeli nationals from July through November 2025. Each covered agency shall also produce all records relating to any Israeli national entering or exiting the United States through any port during that period who traveled to or through Utah.
 
-* #93: Airport Surveillance Camera Footage: Each covered agency shall produce all surveillance camera footage from all Provo Municipal Airport locations from September 3–17, 2025, showing Egyptian plane arrival and contractors deplaning. Each covered agency shall also produce all airport video from any camera at PVU during August–October 2025 showing any person or aircraft connected to the investigation.
+* #76: CBP Egyptian National Entry/Exit Records: Each covered agency shall produce all CBP entry/exit records, I-94 records, passport scans, and biometric data for Egyptian nationals from July through November 2025. Each covered agency shall also produce all records relating to any Egyptian national entering or exiting the United States through any port during that period who traveled to or through Utah.
 
-* #94: Counter-UAS Testing Records: Each covered agency shall produce all drone countermeasure testing documentation from the FAA and airport authority for September 4–10, 2025. Each covered agency shall also produce all records relating to any Counter-UAS activity, drone detection, or unmanned aircraft operations at Provo Airport during 2025.
+* #77: CBP French National Entry/Exit Records: Each covered agency shall produce all CBP entry/exit records, I-94 records, passport scans, and biometric data for French nationals from July through November 2025. Each covered agency shall also produce all records relating to any French national entering or exiting the United States through any port during that period who traveled to or through Utah.
 
-* #95: Airport Flight Arrival/Departure Records: Each covered agency shall produce all FAA and Provo Airport records of private and commercial flight arrivals and departures during the relevant period. Each covered agency shall also produce all records relating to any flight movement at PVU during August–October 2025.
+* #78: TSA PreCheck Foreign National Records: Each covered agency shall produce all TSA PreCheck and Known Traveler records for foreign nationals with expedited clearance connected to the investigation. Each covered agency shall also produce all records relating to any foreign national who received expedited security screening at any U.S. airport during the relevant period.
 
-* #96: Aircraft Fueling Records: Each covered agency shall produce all fuel purchase records from FBO operators at Provo Airport for foreign and private aircraft. Each covered agency shall also produce all records relating to any aircraft servicing, maintenance, or fueling at PVU during the relevant period.
+* #79: CBP Military Contractor Clearances: Each covered agency shall produce all CBP special clearance records for military contractors, including diplomatic and military personnel bypassing standard security. Each covered agency shall also produce all records relating to any federal override, diplomatic waiver, or special access authorization for foreign personnel at U.S. airports during the relevant period.
 
-* #97: Foreign Personnel Security Waivers: Each covered agency shall produce all records from the airport authority and TSA of personnel bypassing security, including waivers for foreign military personnel. Each covered agency shall also produce all records relating to any non-standard security screening or access granted to any person at PVU during 2025.
+* #80: International Flight Passenger Manifests: Each covered agency shall produce complete passenger manifests for all international flights to Salt Lake City or Provo from September 3–17, 2025. Each covered agency shall also produce all records relating to any passenger on any flight arriving in Utah from a foreign origin during August–October 2025 who is connected to the investigation.
 
----
-
-### Financial Records (#98–#104)
-
-* #98: International Wire Transfers to Utah: Each covered agency shall produce all international wire transfers to Utah from August–September 2025 from Egyptian, French, or Israeli sources, as reported by FinCEN and major banks. Each covered agency shall also produce all records relating to any foreign-origin financial transfer to any Utah account or entity during that period.
-
-* #99: Utah Suspicious Activity Reports: Each covered agency shall produce all Suspicious Activity Reports (SARs) filed by Utah banks during the relevant period, as maintained by FinCEN. Each covered agency shall also produce all records relating to any unusual financial activity in Utah flagged by any financial institution during 2025.
-
-* #100: Large Cash Transaction Reports: Each covered agency shall produce all Currency Transaction Reports over $10,000 involving foreign nationals filed with FinCEN. Each covered agency shall also produce all records relating to any large cash transaction in Utah involving any person connected to the investigation.
-
-* #101: Rental Car Foreign Payment Records: Each covered agency shall produce all payment records from Enterprise, Hertz, Avis, Budget, and other rental companies for payments from foreign credit cards or accounts. Each covered agency shall also produce all records relating to any rental car transaction in Utah paid by foreign funds during August–September 2025.
-
-* #102: Hotel Foreign Payment Records: Each covered agency shall produce all payment records from hotels within 20 miles of UVU for foreign national lodging payments. Each covered agency shall also produce all records relating to any hotel transaction in the Provo/Orem area paid by foreign funds during August–October 2025.
-
-* #103: Digital Payments to Distraction People: Each covered agency shall produce all PayPal, Venmo, Zelle, and other digital payment platform records of transfers to individuals present at UVU on September 10, 2025. Each covered agency shall also produce all records relating to any electronic payment to any person of interest from any source during 2025.
-
-* #104: FBI Financial Crimes Investigation Files: Each covered agency shall produce all financial analysis work products from FBI Salt Lake City related to the case. Each covered agency shall also produce all records relating to any FBI financial investigation, FinCEN query, or bank subpoena related to the Charlie Kirk investigation.
+* #81: CBP Biometric Data for Foreign Arrivals: Each covered agency shall produce all biometric captures (fingerprints, facial recognition) from the DHS Biometric Identity Management System for foreign arrivals during the relevant period. Each covered agency shall also produce all records relating to any biometric data collected from any foreign national entering Utah during 2025.
 
 ---
 
-### Chain of Custody (#105–#112)
+### Egyptian Planes (#82–#87)
 
-* #105: Mauser Rifle Chain of Custody: Each covered agency shall produce the complete chain of custody for the Mauser Model 98 rifle with all custody documentation and timestamps from the FBI Evidence Response Team. Each covered agency shall produce all records relating to how the rifle entered the UVU campus — the complete path of the weapon from its last known prior location to the campus, including how it was transported, by whom, through which entry points, and at what times. Each covered agency shall produce all records relating to how the rifle left the campus after the shooting or after its discovery, including which agency took possession, how it was transported, and to which facility. Each covered agency shall also produce all records relating to any person who handled, transported, or had access to the rifle from the time of its alleged discovery through the present.
+* #82: Egyptian Plane SU-BTT Flight Records: Each covered agency shall produce all flight records for Egyptian plane SU-BTT, including flight plans and arrival records for the September 4, 2025, Provo arrival. Each covered agency shall also produce all records relating to any flight by this aircraft to or within the United States during 2025 and 2026. Each covered agency shall specifically produce all records relating to the return of Egyptian-registered aircraft to Provo, Utah in March 2026, including passenger manifests, cargo, purpose of travel, and any connection to the timing of French President Macron's wife Brigitte Macron's concurrent visit to Washington D.C., and all records establishing whether a pattern exists between Egyptian aircraft movements and French diplomatic travel.
 
-* #106: Body Camera Footage of All Searches: Each covered agency shall produce all body camera footage from the Utah County Sheriff and FBI of the initial search, K-9 search, and re-search of the area where the rifle was found. Each covered agency shall also produce all records relating to any video or audio recording of any search conducted at UVU on September 10–11, 2025.
+* #83: Egyptian Plane SU-BND Flight Records: Each covered agency shall produce all flight records for Egyptian plane SU-BND, including transponder activation records around September 15, 2025. Each covered agency shall also produce all records relating to any flight by this aircraft to or within the United States during 2025.
 
-* #107: K-9 Unit Deployment Records: Each covered agency shall produce all K-9 unit deployment records and reports from the Utah County Sheriff showing search results. Each covered agency shall also produce all records relating to any dog search conducted at UVU, including handler reports, search patterns, and findings.
+* #84: SU-BTT Passenger and Crew Manifests: Each covered agency shall produce all passenger manifests and crew lists for SU-BTT, including names of all 4–6 military contractors who deplaned. Each covered agency shall also produce all records relating to any person who was aboard this aircraft for any flight to or within the United States during 2025.
 
-* #108: FBI Agents Who Directed Re-Search: The names and reports of the FBI agents who directed the re-search that located the weapon. Each covered agency shall also produce all records relating to any FBI personnel who participated in, directed, or were present during any search at UVU.
+* #85: CBP Inspection of Egyptian Aircraft: Each covered agency shall produce all CBP inspection reports and cargo manifests for Egyptian aircraft. Each covered agency shall also produce all records relating to any customs inspection, security screening, or cargo declaration for any Egyptian-registered aircraft arriving at any U.S. airport during 2025.
 
-* #109: FBI–Local Law Enforcement Communications: Each covered agency shall produce all communications between FBI and Utah County Sheriff regarding the rifle search. Each covered agency shall also produce all records relating to any coordination between federal and local law enforcement regarding evidence collection at UVU.
+* #86: Egyptian Contractor Security Clearances: Each covered agency shall produce all State Department and DoD records of Defense Attaché badges issued to Egyptian military contractors. Each covered agency shall also produce all records relating to any U.S. government authorization, credential, or clearance provided to Egyptian nationals during 2025.
 
-* #110: Rifle DNA Analysis: Each covered agency shall produce the full DNA profile from all rifle surfaces as analyzed by the FBI Laboratory. Each covered agency shall also produce all records relating to any biological evidence collected from the rifle, towel, cartridges, or scope, and any DNA profiles identified.
-
-* #111: Rifle Fingerprint Analysis: Each covered agency shall produce all latent fingerprint analysis from the rifle, trigger, scope, towel, and cartridges by the FBI Laboratory. Each covered agency shall also produce all records relating to any fingerprint evidence collected from any item of physical evidence in the case.
-
-* #112: FBI Gun Planting Investigation: Each covered agency shall produce all FBI Office of Professional Responsibility investigation files regarding gun planting allegations. Each covered agency shall also produce all records relating to any internal review, complaint, or investigation regarding the handling of physical evidence in this case.
+* #87: Egyptian Contractor Ground Transportation: Each covered agency shall produce all rental car and hotel records showing where Egyptian contractors went after arriving. Each covered agency shall also produce all records relating to any ground transportation, lodging, or movement by Egyptian nationals who arrived on the listed aircraft.
 
 ---
 
-### Threat Assessments (#113–#117)
+### Israeli Cell Phones (#88–#92)
 
-* #113: Tucker Carlson Post-Assassination Threats: Each covered agency shall produce all FBI Protective Intelligence threat assessments for Tucker Carlson made after Charlie Kirk's death. Each covered agency shall also produce all records relating to any threat to Tucker Carlson that references or is connected to the Charlie Kirk assassination.
+* #88: Israeli Phone Location History: Each covered agency shall produce complete cell site location information for all 12 Israeli phones (Cellcom, Partner, Pelephone carriers) from September 1–15, 2025, showing presence at UVU, Tyler Robinson's home, airports, and other locations. Each covered agency shall also produce all records relating to any Israeli-carrier phone detected at any investigation-related location during August–October 2025.
 
-* #114: PERSON_184_REDACTED Post-Assassination Threats: Each covered agency shall produce all FBI Protective Intelligence threat assessments for PERSON_184_REDACTED made after the assassination. Each covered agency shall also produce all records relating to any threat to PERSON_184_REDACTED that references or is connected to the Charlie Kirk assassination.
+* #89: Israeli Phone Subscriber Identification: Each covered agency shall produce all subscriber information for the 12 Israeli phones obtained via FBI MLAT with Israeli carriers, including names, passport numbers, and addresses. Each covered agency shall also produce all records relating to the identity of any person using an Israeli-registered phone in Utah during the relevant period.
 
-* #115: Candace Owens Post-Assassination Threats: Each covered agency shall produce all FBI Protective Intelligence threat assessments for Candace Owens made after the assassination. Each covered agency shall also produce all records relating to any threat to Candace Owens that references or is connected to the Charlie Kirk assassination.
+* #90: Israeli Phone Call Detail Records: Each covered agency shall produce all call detail records for the Israeli phones, showing all calls and texts to and from Utah numbers. Each covered agency shall also produce all records relating to any communication between Israeli-registered phones and any U.S. number or device during the relevant period.
 
-* #116: Pattern Analysis Against Commentators: Each covered agency shall produce all FBI Counterterrorism and Counterintelligence analysis of threat patterns against anti-Israel commentators or similar public figures. Each covered agency shall also produce all records relating to any coordinated threat campaign targeting public figures with similar political profiles.
+* #91: Israeli Phone International Roaming Records: Each covered agency shall produce all international roaming activation and usage patterns from Israeli and U.S. carriers for the identified phones. Each covered agency shall also produce all records confirming the physical presence of Israeli-registered devices in Utah.
 
-* #117: FBI 302s from Carlson/Owens Interviews: Each covered agency shall produce all FBI 302s from interviews with Tucker Carlson, PERSON_184_REDACTED, and Candace Owens about threats they received. Each covered agency shall also produce all records relating to any FBI interview with any public figure about threats connected to the Charlie Kirk case.
-
----
-
-### Surveillance Footage (#118–#123)
-
-* #118: UVU Campus Security Camera Footage: Each covered agency shall produce all UVU campus security camera footage from September 9–11, 2025, from all campus cameras. Each covered agency shall also produce all records relating to any video recording from any camera at UVU during that period, including cameras that were disabled or repositioned.
-
-* #119: Traffic Camera Footage Airport-to-UVU Routes: Each covered agency shall produce all traffic camera footage from UDOT and local municipalities along travel routes between airports and UVU. Each covered agency shall also produce all records relating to any traffic camera footage in Utah County during September 2025 showing vehicles connected to the investigation.
-
-* #120: Airport Surveillance Footage: Each covered agency shall produce all terminal, parking, and rental car area surveillance footage from Provo and Salt Lake City airports. Each covered agency shall also produce all records relating to any airport surveillance video showing persons or vehicles connected to the investigation.
-
-* #121: Hotel Surveillance Footage Near UVU: Each covered agency shall produce all lobby, parking, and elevator camera footage from hotels within 20 miles of UVU. Each covered agency shall also produce all records relating to any hotel surveillance video showing persons connected to the investigation during August–October 2025.
-
-* #122: ATM Camera Footage in Utah County: Each covered agency shall produce all ATM camera footage from banks in Utah County from August 25 through September 15, 2025. Each covered agency shall also produce all records relating to any ATM or bank camera footage showing persons connected to the investigation.
-
-* #123: License Plate Reader Data: Each covered agency shall produce all license plate reader hits from law enforcement agencies for rental vehicles connected to the investigation. Each covered agency shall also produce all records relating to any LPR data in Utah showing vehicles connected to the investigation during August–October 2025.
+* #92: FBI Communications with Israel on Case: Each covered agency shall produce all communications between FBI Legal Attaché Tel Aviv and Israeli authorities regarding the Israeli phones and the investigation. Each covered agency shall also produce all records relating to any FBI request to or response from Israeli government entities about the case.
 
 ---
 
-### Rental Car Records (#124–#129)
+### Provo Airport (#93–#98)
 
-* #124: Foreign License Rental Agreements: Each covered agency shall produce all rental agreements from all Utah rental companies for renters using foreign driver's licenses from August–September 2025. Each covered agency shall also produce all records relating to any rental vehicle agreement involving a foreign national in Utah during that period.
+* #93: Airport Badge Access Logs: Each covered agency shall produce all badge access logs from Provo Municipal Airport, including the September 11, 2025, badge system update, and all badge access records and modifications. Each covered agency shall also produce all records relating to any changes to airport access systems or records during September 2025.
 
-* #125: Rental Vehicle GPS/Telematics Data: Each covered agency shall produce all GPS and telematics vehicle location tracking data from Enterprise, Hertz, Avis, Budget, and other companies for vehicles connected to the investigation. Each covered agency shall also produce all records relating to any rental vehicle tracking data showing travel to UVU, Tyler Robinson's home, airports, or other investigation-related locations.
+* #94: Airport Surveillance Camera Footage: Each covered agency shall produce all surveillance camera footage from all Provo Municipal Airport locations from September 3–17, 2025, showing Egyptian plane arrival and contractors deplaning. Each covered agency shall also produce all airport video from any camera at PVU during August–October 2025 showing any person or aircraft connected to the investigation.
 
-* #126: Rental Vehicle Mileage and Fuel Records: Each covered agency shall produce all mileage records and fuel receipts for rental vehicles connected to the investigation. Each covered agency shall also produce all records relating to any usage documentation for rental vehicles used by persons of interest.
+* #95: Counter-UAS Testing Records: Each covered agency shall produce all drone countermeasure testing documentation from the FAA and airport authority for September 4–10, 2025. Each covered agency shall also produce all records relating to any Counter-UAS activity, drone detection, or unmanned aircraft operations at Provo Airport during 2025.
 
-* #127: Rental Facility Surveillance Footage: Each covered agency shall produce all counter and lot camera footage from rental car facilities. Each covered agency shall also produce all records relating to any surveillance video from any rental car location in Utah showing persons connected to the investigation.
+* #96: Airport Flight Arrival/Departure Records: Each covered agency shall produce all FAA and Provo Airport records of private and commercial flight arrivals and departures during the relevant period. Each covered agency shall also produce all records relating to any flight movement at PVU during August–October 2025.
 
-* #128: Dark Tinted Window Rental Records: Each covered agency shall produce all records of rentals with abnormally dark tinted windows or special vehicle modification requests. Each covered agency shall also produce all records relating to any unusual vehicle requests or modifications by renters connected to the investigation.
+* #97: Aircraft Fueling Records: Each covered agency shall produce all fuel purchase records from FBO operators at Provo Airport for foreign and private aircraft. Each covered agency shall also produce all records relating to any aircraft servicing, maintenance, or fueling at PVU during the relevant period.
 
-* #129: Unusual Vehicle Return Reports: Each covered agency shall produce all damage reports and unusual vehicle return inspection reports from rental companies. Each covered agency shall also produce all records relating to any rental vehicle returned with evidence of operational or surveillance use.
-
-* #130: All Other Rental Vehicles Connected to the Investigation: Each covered agency shall produce all rental car agreements, GPS/telematics data, mileage records, fuel receipts, surveillance footage, and return reports for any rental vehicle used by FBI agents, FBI informants, DOJ personnel, any person identifying themselves as or claiming to be FBI or federal law enforcement, any federal or state law enforcement officer, any intelligence community personnel, or any other person possibly connected to the investigation—whether or not that person has been formally identified as a subject, witness, or person of interest. Each covered agency shall also produce records for any rental vehicle present in or traveling through the Provo, Orem, Salt Lake City, or broader Utah County area between August 1 and October 31, 2025, that was rented by, assigned to, or used by any of the above persons. Each covered agency shall also produce all rental car company internal records, employee notes, and communications referencing any renter who presented a government credential, badge, or claimed law enforcement affiliation.
+* #98: Foreign Personnel Security Waivers: Each covered agency shall produce all records from the airport authority and TSA of personnel bypassing security, including waivers for foreign military personnel. Each covered agency shall also produce all records relating to any non-standard security screening or access granted to any person at PVU during 2025.
 
 ---
 
-### Hotel Records (#131–#135)
+### Financial Records (#99–#105)
 
-* #131: Foreign National Hotel Registration: Each covered agency shall produce all guest registration cards and passport copies for foreign nationals at hotels within 20 miles of UVU. Each covered agency shall also produce all records relating to any foreign national lodging in the Provo/Orem/Salt Lake area during August–October 2025.
+* #99: International Wire Transfers to Utah: Each covered agency shall produce all international wire transfers to Utah from August–September 2025 from Egyptian, French, or Israeli sources, as reported by FinCEN and major banks. Each covered agency shall also produce all records relating to any foreign-origin financial transfer to any Utah account or entity during that period.
 
-* #132: Hotel Key Card Access Logs: Each covered agency shall produce all room entry and exit key card logs from hotels where foreign nationals stayed. Each covered agency shall also produce all records relating to any hotel access records showing movement patterns of persons connected to the investigation.
+* #100: Utah Suspicious Activity Reports: Each covered agency shall produce all Suspicious Activity Reports (SARs) filed by Utah banks during the relevant period, as maintained by FinCEN. Each covered agency shall also produce all records relating to any unusual financial activity in Utah flagged by any financial institution during 2025.
 
-* #133: Hotel Wi-Fi Connection Logs: Each covered agency shall produce all Wi-Fi connection logs showing device MAC addresses from hotels where persons of interest stayed. Each covered agency shall also produce all records relating to any device network activity at hotels in the area during the relevant period.
+* #101: Large Cash Transaction Reports: Each covered agency shall produce all Currency Transaction Reports over $10,000 involving foreign nationals filed with FinCEN. Each covered agency shall also produce all records relating to any large cash transaction in Utah involving any person connected to the investigation.
 
-* #134: Hotel Room Service and Minibar Records: Each covered agency shall produce all in-room charges from hotels where persons of interest stayed to establish duration and nature of stays. Each covered agency shall also produce all records relating to any hotel billing records for persons connected to the investigation.
+* #102: Rental Car Foreign Payment Records: Each covered agency shall produce all payment records from Enterprise, Hertz, Avis, Budget, and other rental companies for payments from foreign credit cards or accounts. Each covered agency shall also produce all records relating to any rental car transaction in Utah paid by foreign funds during August–September 2025.
 
-* #135: Hotel Business Center Usage Logs: Each covered agency shall produce all computer and printer usage logs from hotel business centers. Each covered agency shall also produce all records relating to any hotel facility usage by persons connected to the investigation that could indicate operational planning or communications.
+* #103: Hotel Foreign Payment Records: Each covered agency shall produce all payment records from hotels within 20 miles of UVU for foreign national lodging payments. Each covered agency shall also produce all records relating to any hotel transaction in the Provo/Orem area paid by foreign funds during August–October 2025.
 
----
+* #104: Digital Payments to Distraction People: Each covered agency shall produce all PayPal, Venmo, Zelle, and other digital payment platform records of transfers to individuals present at UVU on September 10, 2025. Each covered agency shall also produce all records relating to any electronic payment to any person of interest from any source during 2025.
 
-### Digital Forensics (#136–#141)
-
-* #136: Foreign Domain Email Communications: Each covered agency shall produce all email traffic to and from foreign domains obtained from ISPs and email providers. Each covered agency shall also produce all records relating to any electronic communication between persons of interest and foreign entities.
-
-* #137: VPN Foreign Connection Logs: Each covered agency shall produce all VPN connection records to foreign countries obtained from ISPs. Each covered agency shall also produce all records relating to any attempt by persons of interest to conceal communications through encrypted tunnels or anonymization services.
-
-* #138: Encrypted Messaging App Records: Each covered agency shall produce all Signal, Telegram, and WhatsApp account data and metadata from app providers for persons of interest. Each covered agency shall also produce all records relating to any encrypted or secure communication by persons connected to the investigation.
-
-* #139: Social Media Direct Messages: Each covered agency shall produce all Facebook, Instagram, and Twitter/X direct message records for persons of interest. Each covered agency shall also produce all records relating to any social media communication related to coordination, recruitment, or planning connected to the investigation.
-
-* #140: Deleted File Recovery Analysis: Each covered agency shall produce all recovered deleted communications and files from the FBI Digital Evidence Laboratory. Each covered agency shall also produce all records relating to any deleted, encrypted, or hidden digital evidence recovered from any device connected to the investigation.
-
-* #141: UVU Network Traffic During Incident: Each covered agency shall produce all network logs from the UVU IT Department for September 10, 2025, showing devices communicating during the assassination. Each covered agency shall also produce all records relating to any network activity, device connections, or data transmissions at UVU during the incident.
+* #105: FBI Financial Crimes Investigation Files: Each covered agency shall produce all financial analysis work products from FBI Salt Lake City related to the case. Each covered agency shall also produce all records relating to any FBI financial investigation, FinCEN query, or bank subpoena related to the Charlie Kirk investigation.
 
 ---
 
-### Ballistics (#142–#148)
+### Chain of Custody (#106–#113)
 
-* #142: ATF Trace for Mauser Model 98: Each covered agency shall produce the complete ATF National Tracing Center trace showing full ownership and transfer history of the Mauser Model 98. Each covered agency shall also produce all records relating to any prior owner, transfer, or possession of the rifle.
+* #106: Mauser Rifle Chain of Custody: Each covered agency shall produce the complete chain of custody for the Mauser Model 98 rifle with all custody documentation and timestamps from the FBI Evidence Response Team. Each covered agency shall produce all records relating to how the rifle entered the UVU campus — the complete path of the weapon from its last known prior location to the campus, including how it was transported, by whom, through which entry points, and at what times. Each covered agency shall produce all records relating to how the rifle left the campus after the shooting or after its discovery, including which agency took possession, how it was transported, and to which facility. Each covered agency shall also produce all records relating to any person who handled, transported, or had access to the rifle from the time of its alleged discovery through the present.
 
-* #143: Rifle Manufacturing and Serial Records: Each covered agency shall produce all manufacturing records, serial number documentation, and production records from ATF and the manufacturer. Each covered agency shall also produce all records relating to the origin, production date, and distribution history of the rifle.
+* #107: Body Camera Footage of All Searches: Each covered agency shall produce all body camera footage from the Utah County Sheriff and FBI of the initial search, K-9 search, and re-search of the area where the rifle was found. Each covered agency shall also produce all records relating to any video or audio recording of any search conducted at UVU on September 10–11, 2025.
 
-* #144: Rifle Import Records: Each covered agency shall produce all ATF and CBP import documentation if the weapon came from abroad. Each covered agency shall also produce all records relating to any foreign origin, international transfer, or importation of the rifle or its components.
+* #108: K-9 Unit Deployment Records: Each covered agency shall produce all K-9 unit deployment records and reports from the Utah County Sheriff showing search results. Each covered agency shall also produce all records relating to any dog search conducted at UVU, including handler reports, search patterns, and findings.
 
-* #145: Rifle Metallurgical Analysis: Each covered agency shall produce all FBI Laboratory metal composition analysis of rifle components. Each covered agency shall also produce all records relating to any material analysis suggesting foreign manufacture, modification, or non-standard components.
+* #109: FBI Agents Who Directed Re-Search: The names and reports of the FBI agents who directed the re-search that located the weapon. Each covered agency shall also produce all records relating to any FBI personnel who participated in, directed, or were present during any search at UVU.
 
-* #146: Cartridge Engraving Analysis: Each covered agency shall produce all FBI Laboratory linguistic and cultural analysis of cartridge engravings including "Bella Ciao" and other inscriptions. Each covered agency shall also produce all records relating to the cultural, operational, or intelligence significance of any markings on ammunition.
+* #110: FBI–Local Law Enforcement Communications: Each covered agency shall produce all communications between FBI and Utah County Sheriff regarding the rifle search. Each covered agency shall also produce all records relating to any coordination between federal and local law enforcement regarding evidence collection at UVU.
 
-* #147: Engraving Tool Mark Analysis: Each covered agency shall produce all FBI Laboratory tool identification and tool mark analysis of engraving equipment used on cartridges. Each covered agency shall also produce all records relating to what equipment was used, where it was obtained, and who had access to it.
+* #111: Rifle DNA Analysis: Each covered agency shall produce the full DNA profile from all rifle surfaces as analyzed by the FBI Laboratory. Each covered agency shall also produce all records relating to any biological evidence collected from the rifle, towel, cartridges, or scope, and any DNA profiles identified.
 
-* #148: Foreign Intel Weapon Signature Comparison: Each covered agency shall produce all FBI and CIA pattern analysis comparing the weapon and methods with known foreign intelligence tradecraft signatures. Each covered agency shall also produce all records relating to any similarity between evidence in this case and methods used by any foreign intelligence service.
+* #112: Rifle Fingerprint Analysis: Each covered agency shall produce all latent fingerprint analysis from the rifle, trigger, scope, towel, and cartridges by the FBI Laboratory. Each covered agency shall also produce all records relating to any fingerprint evidence collected from any item of physical evidence in the case.
 
----
-
-### Distraction People (#149–#155)
-
-* #149: All Individuals at UVU During Shooting: Each covered agency shall produce the complete FBI and UVU Police list of all individuals identified at UVU during the shooting. Each covered agency shall also produce all records relating to any person present at or near UVU on September 10, 2025, between 10 AM and 2 PM.
-
-* #150: Background Checks on Unidentified Individuals: Each covered agency shall produce all FBI criminal and intelligence background checks on unidentified individuals at UVU. Each covered agency shall also produce all records relating to any person at UVU whose identity was not immediately established or who had connections to intelligence services.
-
-* #151: Foreign National Immigration Status: Each covered agency shall produce all CBP and USCIS visa and immigration status records for foreign nationals present at UVU. Each covered agency shall also produce all records relating to the immigration status, visa type, and entry circumstances of any non-U.S. citizen at UVU on September 10, 2025.
-
-* #152: Financial Records for UVU Attendees: Each covered agency shall produce all FinCEN and bank records of payments received by individuals at UVU before the incident, including whether any distraction persons or persons of interest received money, were offered money, or received any financial payments from any source — and full investigation of any financial payments they did receive. Each covered agency shall also produce all records relating to any financial transaction suggesting payment or compensation to any person present at UVU.
-
-* #153: Phone Records for Unidentified Attendees: Each covered agency shall produce all FBI call detail records and cell site location information for unidentified attendees at UVU. Each covered agency shall also produce all records relating to any phone activity by persons of interest at UVU on September 10, 2025.
-
-* #154: UVU Attendee Travel Records: Each covered agency shall produce all airline and CBP records of recent international travel by UVU attendees. Each covered agency shall also produce all records relating to any foreign travel by persons present at UVU that could indicate recruitment or coordination.
-
-* #155: Social Media Analysis of UVU Attendees: Each covered agency shall produce all FBI analysis of social media accounts and connections of UVU attendees. Each covered agency shall also produce all records relating to any social media activity by persons at UVU suggesting foreign intelligence contact or operational coordination.
+* #113: FBI Gun Planting Investigation: Each covered agency shall produce all FBI Office of Professional Responsibility investigation files regarding gun planting allegations. Each covered agency shall also produce all records relating to any internal review, complaint, or investigation regarding the handling of physical evidence in this case.
 
 ---
 
-### Drones (#156–#160)
+### Threat Assessments (#114–#118)
 
-* #156: Military Drones at Provo Airport: Each covered agency shall produce all FAA and DoD drone registration and flight records for military drones at Provo Airport from September 4–10, 2025. Each covered agency shall also produce all records relating to any military unmanned aircraft operations at or near PVU during August–October 2025.
+* #114: Tucker Carlson Post-Assassination Threats: Each covered agency shall produce all FBI Protective Intelligence threat assessments for Tucker Carlson made after Charlie Kirk's death. Each covered agency shall also produce all records relating to any threat to Tucker Carlson that references or is connected to the Charlie Kirk assassination.
 
-* #157: Counter-UAS Testing Documentation: Each covered agency shall produce all FAA and airport authority testing records and authorizations for Counter-UAS operations. Each covered agency shall also produce all records relating to any drone countermeasure testing, deployment, or capability demonstration at Provo Airport during 2025.
+* #115: PERSON_184_REDACTED Post-Assassination Threats: Each covered agency shall produce all FBI Protective Intelligence threat assessments for PERSON_184_REDACTED made after the assassination. Each covered agency shall also produce all records relating to any threat to PERSON_184_REDACTED that references or is connected to the Charlie Kirk assassination.
 
-* #158: Drone Flight Logs During UVU Event: Each covered agency shall produce all FAA drone flight logs for September 10, 2025, from 8 AM to 2 PM in the UVU area. Each covered agency shall also produce all records relating to any unmanned aircraft in the air within 20 miles of UVU during the event.
+* #116: Candace Owens Post-Assassination Threats: Each covered agency shall produce all FBI Protective Intelligence threat assessments for Candace Owens made after the assassination. Each covered agency shall also produce all records relating to any threat to Candace Owens that references or is connected to the Charlie Kirk assassination.
 
-* #159: Surveillance Plane N1098L Records: Each covered agency shall produce all FAA flight plans, crew information, and rental records for plane N1098L (HADES spy plane), which circled 35 minutes before the shooting. Each covered agency shall also produce all records relating to any surveillance aircraft operating in the Provo/Orem area during September 2025.
+* #117: Pattern Analysis Against Commentators: Each covered agency shall produce all FBI Counterterrorism and Counterintelligence analysis of threat patterns against anti-Israel commentators or similar public figures. Each covered agency shall also produce all records relating to any coordinated threat campaign targeting public figures with similar political profiles.
 
-* #160: Surveillance Aircraft Customer Identity: Each covered agency shall produce all charter company and FAA records identifying who requested, rented, and paid for surveillance aircraft over UVU. Each covered agency shall also produce all records relating to any person or entity that contracted aerial surveillance in the Utah County area during September 2025.
-
----
-
-### TPUSA Intel (#161–#166)
-
-* #161: FBI Reports on Foreign Intel in TPUSA: Each covered agency shall produce all FBI Counterintelligence reports on foreign intelligence recruitment within TPUSA from September 2023 through September 2025. Each covered agency shall also produce all records relating to any foreign intelligence service targeting, approaching, or recruiting TPUSA members or affiliates.
-
-* #162: FBI TPUSA Member Foreign Contact Interviews: Each covered agency shall produce all FBI Form 302s from interviews with TPUSA members regarding foreign contact. Each covered agency shall also produce all records relating to any FBI interview with any TPUSA-affiliated person about foreign intelligence approaches or relationships.
-
-* #163: TPUSA Member Foreign Travel Reports: Each covered agency shall produce all FBI reports on TPUSA member travel to Egypt, France, Israel, or other countries of interest. Each covered agency shall also produce all records relating to any foreign travel by TPUSA leadership or staff that involved contact with foreign government officials or intelligence personnel.
-
-* #164: Foreign Payments to TPUSA: Each covered agency shall produce all FBI and FinCEN records of wire transfers and payments from foreign sources to TPUSA. Each covered agency shall also produce all records relating to any foreign funding, donation, or financial support to TPUSA from any foreign entity or individual.
-
-* #165: Kirk Security Chief Foreign Intel Links: Each covered agency shall produce all FBI investigation records of Charlie Kirk's head of security regarding foreign intelligence connections. Each covered agency shall also produce all records relating to any person in Kirk's security detail who had contact with or ties to any foreign intelligence service.
-
-* #166: Hampton Meeting Foreign Intel Activity: Each covered agency shall produce all FBI reports on communications, threats, or money from Egyptian, French, or Israeli sources — including any involvement by Benjamin Netanyahu or Emmanuel Macron or their intermediaries — at the Hampton meeting of August 4–6, 2025. Each covered agency shall also produce all records relating to any foreign intelligence activity, influence, or presence at any TPUSA donor or leadership meeting during 2025.
+* #118: FBI 302s from Carlson/Owens Interviews: Each covered agency shall produce all FBI 302s from interviews with Tucker Carlson, PERSON_184_REDACTED, and Candace Owens about threats they received. Each covered agency shall also produce all records relating to any FBI interview with any public figure about threats connected to the Charlie Kirk case.
 
 ---
 
-### Autopsy / Medical (#167–#171)
+### Surveillance Footage (#119–#124)
 
-* #167: Complete Charlie Kirk Autopsy Report: Each covered agency shall produce the full autopsy documentation from the Utah Office of Medical Examiner, including wound measurements, trajectories, and photographs. Each covered agency shall produce all records explaining whether an autopsy on Charlie Kirk was declined or limited in scope, by whom, on what authority, and all communications related to that decision. Each covered agency shall also produce all records relating to any supplemental autopsy findings, second opinions, or additional medical examiner analysis.
+* #119: UVU Campus Security Camera Footage: Each covered agency shall produce all UVU campus security camera footage from September 9–11, 2025, from all campus cameras. Each covered agency shall also produce all records relating to any video recording from any camera at UVU during that period, including cameras that were disabled or repositioned.
 
-* #168: Lapel Microphone Evidence from Body: Each covered agency shall produce all evidence from the medical examiner and FBI regarding the lapel microphone found on or near the body. Each covered agency shall also produce all records relating to any fragments, residue, or material from the microphone recovered from the body, clothing, or immediate area.
+* #120: Traffic Camera Footage Airport-to-UVU Routes: Each covered agency shall produce all traffic camera footage from UDOT and local municipalities along travel routes between airports and UVU. Each covered agency shall also produce all records relating to any traffic camera footage in Utah County during September 2025 showing vehicles connected to the investigation.
 
-* #169: Unusual Autopsy Findings: Each covered agency shall produce all medical examiner toxicology reports, anomaly reports, and any unusual findings from the Utah Office of Medical Examiner. Each covered agency shall produce all records establishing whether Charlie Kirk's heart stopped before his neck wound occurred. Each covered agency shall produce all records establishing whether Charlie Kirk had brain damage or other damage that could be noticed or detected before the bullet or neck and tree wound occurred. Each covered agency shall produce all records establishing whether there was any cause of death or cause of injury that was different from a bullet — or different from a .386-caliber bullet — that hurt Charlie Kirk or caused his death, including any evidence of explosion, blast effect, or non-ballistic trauma. Each covered agency shall also produce all records relating to any unexpected cause-of-death factors, foreign substances, or unexplained medical findings.
+* #121: Airport Surveillance Footage: Each covered agency shall produce all terminal, parking, and rental car area surveillance footage from Provo and Salt Lake City airports. Each covered agency shall also produce all records relating to any airport surveillance video showing persons or vehicles connected to the investigation.
 
-* #170: Wound Trajectory Analysis: Each covered agency shall produce the complete wound trajectory documentation from the medical examiner, showing direction of the shot, and whether more than one bullet entered Charlie Kirk's body. Each covered agency shall also produce all records relating to any ballistic wound analysis, trajectory reconstruction, or determination of shooting position.
+* #122: Hotel Surveillance Footage Near UVU: Each covered agency shall produce all lobby, parking, and elevator camera footage from hotels within 20 miles of UVU. Each covered agency shall also produce all records relating to any hotel surveillance video showing persons connected to the investigation during August–October 2025.
 
-* #171: Time of Death Determination: Each covered agency shall produce the precise time-of-death analysis from the medical examiner. Each covered agency shall also produce all records relating to any analysis establishing the exact timeline of the fatal event and Kirk's death.
+* #123: ATM Camera Footage in Utah County: Each covered agency shall produce all ATM camera footage from banks in Utah County from August 25 through September 15, 2025. Each covered agency shall also produce all records relating to any ATM or bank camera footage showing persons connected to the investigation.
+
+* #124: License Plate Reader Data: Each covered agency shall produce all license plate reader hits from law enforcement agencies for rental vehicles connected to the investigation. Each covered agency shall also produce all records relating to any LPR data in Utah showing vehicles connected to the investigation during August–October 2025.
 
 ---
 
-### International Liaison (#172–#176)
+### Rental Car Records (#125–#130)
 
-* #172: FBI Legat Israel Communications: Each covered agency shall produce all cable traffic from FBI Legal Attaché Tel Aviv to and from Israeli authorities — including any communications involving Prime Minister Benjamin Netanyahu or his office — regarding the case. Each covered agency shall also produce all records relating to any U.S.–Israel intelligence sharing, liaison activity, or diplomatic communication about the Charlie Kirk investigation.
+* #125: Foreign License Rental Agreements: Each covered agency shall produce all rental agreements from all Utah rental companies for renters using foreign driver's licenses from August–September 2025. Each covered agency shall also produce all records relating to any rental vehicle agreement involving a foreign national in Utah during that period.
 
-* #173: FBI Legat Egypt and France Communications: Each covered agency shall produce all communications from FBI Legal Attaché Cairo regarding Egyptian planes and personnel connected to the case, and all communications from FBI Legal Attaché Paris regarding French intelligence (DGSE), French legionnaires, or any activity directed by or connected to President Emmanuel Macron or his office. Each covered agency shall also produce all records relating to any U.S.–Egypt or U.S.–France intelligence sharing or diplomatic communication about the investigation.
+* #126: Rental Vehicle GPS/Telematics Data: Each covered agency shall produce all GPS and telematics vehicle location tracking data from Enterprise, Hertz, Avis, Budget, and other companies for vehicles connected to the investigation. Each covered agency shall also produce all records relating to any rental vehicle tracking data showing travel to UVU, Tyler Robinson's home, airports, or other investigation-related locations.
 
-* #174: Interpol Communications on Case: Each covered agency shall produce all FBI and Interpol international law enforcement sharing regarding the case. Each covered agency shall also produce all records relating to any international law enforcement cooperation, notice, or request related to the investigation.
+* #127: Rental Vehicle Mileage and Fuel Records: Each covered agency shall produce all mileage records and fuel receipts for rental vehicles connected to the investigation. Each covered agency shall also produce all records relating to any usage documentation for rental vehicles used by persons of interest.
 
-* #175: MLAT Requests and Responses: Each covered agency shall produce all formal Mutual Legal Assistance Treaty requests and responses from the DOJ Office of International Affairs. Each covered agency shall also produce all records relating to any international legal cooperation request made or received in connection with the investigation.
+* #128: Rental Facility Surveillance Footage: Each covered agency shall produce all counter and lot camera footage from rental car facilities. Each covered agency shall also produce all records relating to any surveillance video from any rental car location in Utah showing persons connected to the investigation.
 
-* #176: Diplomatic Communications on Case: Each covered agency shall produce all State Department diplomatic cables about the assassination, including any communications with or involving Egyptian President El-Sisi, French President Emmanuel Macron, Israeli Prime Minister Benjamin Netanyahu, or their offices. Each covered agency shall also produce all records relating to any diplomatic communication, protest, inquiry, or notification by any foreign government regarding the Charlie Kirk investigation.
+* #129: Dark Tinted Window Rental Records: Each covered agency shall produce all records of rentals with abnormally dark tinted windows or special vehicle modification requests. Each covered agency shall also produce all records relating to any unusual vehicle requests or modifications by renters connected to the investigation.
 
-### Tyler Robinson Defense & Family (#177–#179)
+* #130: Unusual Vehicle Return Reports: Each covered agency shall produce all damage reports and unusual vehicle return inspection reports from rental companies. Each covered agency shall also produce all records relating to any rental vehicle returned with evidence of operational or surveillance use.
 
-* #177: Tyler Robinson Family Statements: Each covered agency shall produce all statements by Tyler Robinson's family members — made in person, in court, or to investigators — asserting that Tyler Robinson did not commit the assassination or that he stated he "didn't do it but knows who did but won't say because it would endanger the family." All records regarding the rapid family cooperation in turning Tyler in, whether his roommate was placed under protection, all confessions made by Tyler Robinson, and all records regarding early FBI/ATF bulletins on "trans ideology bullets" that were subsequently and subsequently retracted — including who authored those bulletins, who authorized the retraction, and why. Each covered agency shall also produce all records of family members' claims at the January 16th hearing and any other proceedings, and all evidence regarding whether a Mormon preacher and a retired sheriff turned him in rather than his parents.
+* #131: All Other Rental Vehicles Connected to the Investigation: Each covered agency shall produce all rental car agreements, GPS/telematics data, mileage records, fuel receipts, surveillance footage, and return reports for any rental vehicle used by FBI agents, FBI informants, DOJ personnel, any person identifying themselves as or claiming to be FBI or federal law enforcement, any federal or state law enforcement officer, any intelligence community personnel, or any other person possibly connected to the investigation—whether or not that person has been formally identified as a subject, witness, or person of interest. Each covered agency shall also produce records for any rental vehicle present in or traveling through the Provo, Orem, Salt Lake City, or broader Utah County area between August 1 and October 31, 2025, that was rented by, assigned to, or used by any of the above persons. Each covered agency shall also produce all rental car company internal records, employee notes, and communications referencing any renter who presented a government credential, badge, or claimed law enforcement affiliation.
 
-* #178: Mormon Preacher and Retired Sheriff: Each covered agency shall produce full identification and all records, communications, and interviews related to the Mormon preacher and retired sheriff who reportedly turned Tyler Robinson in. Each covered agency shall also produce all records relating to how they obtained information about Robinson, who directed them to contact law enforcement, and whether any federal agency or intelligence service coordinated or incentivized their actions.
+---
 
-* #179: Tyler Robinson's Claim of Knowledge: Each covered agency shall produce all FBI 302 reports, interview transcripts, jail recordings, and communications in which Tyler Robinson indicated knowledge of who was responsible for the assassination. Each covered agency shall also produce all offers of cooperation, plea discussions, or debriefings in which Robinson provided or attempted to provide information about other participants.
+### Hotel Records (#132–#136)
 
-### Witness Intimidation (#180–#181)
+* #132: Foreign National Hotel Registration: Each covered agency shall produce all guest registration cards and passport copies for foreign nationals at hotels within 20 miles of UVU. Each covered agency shall also produce all records relating to any foreign national lodging in the Provo/Orem/Salt Lake area during August–October 2025.
 
-* #180: Fake Therapy Witness Intimidation: Each covered agency shall produce all records related to "free trauma counseling" sessions offered to UVU witnesses of the assassination, specifically the identity of the therapist who locked a UVU student witness in a room, told him "You're the next target," admitted to carrying a gun, and refused to let him leave until his own supervisor ordered the door opened. Each covered agency shall also produce the identity of the agency or organization that arranged and funded these sessions, whether any federal agency coordinated or directed them, and all communications between the therapy provider and any government agency.
+* #133: Hotel Key Card Access Logs: Each covered agency shall produce all room entry and exit key card logs from hotels where foreign nationals stayed. Each covered agency shall also produce all records relating to any hotel access records showing movement patterns of persons connected to the investigation.
 
-* #181: Witness Suppression After Shooting: Each covered agency shall produce all records of efforts to discourage, intimidate, or silence civilian witnesses at UVU on September 10, 2025 and afterward. Each covered agency shall also produce any directives from FBI or other agencies to local law enforcement to prevent witnesses from speaking publicly, and all records explaining why no verifiable UVU student witnesses have come forward publicly despite hundreds being present.
+* #134: Hotel Wi-Fi Connection Logs: Each covered agency shall produce all Wi-Fi connection logs showing device MAC addresses from hotels where persons of interest stayed. Each covered agency shall also produce all records relating to any device network activity at hotels in the area during the relevant period.
 
-### Security Detail & Foreign Connections (#182)
+* #135: Hotel Room Service and Minibar Records: Each covered agency shall produce all in-room charges from hotels where persons of interest stayed to establish duration and nature of stays. Each covered agency shall also produce all records relating to any hotel billing records for persons connected to the investigation.
 
-* #182: Brian Harpole — Foreign Security Background on Kirk Detail: Each covered agency shall produce all records, contracts, and communications related to Brian Harpole, a former police officer/mercenary embedded in Charlie Kirk's security detail on September 10, 2025, who has photographic evidence (from 2017) placing him on a foreign head-of-state security detail. Each covered agency shall also produce his full employment history with any foreign government or foreign security service, who placed him on Kirk's detail, his communications in the 30 days before and after the assassination, and whether any foreign government entity coordinated his assignment.
+* #136: Hotel Business Center Usage Logs: Each covered agency shall produce all computer and printer usage logs from hotel business centers. Each covered agency shall also produce all records relating to any hotel facility usage by persons connected to the investigation that could indicate operational planning or communications.
 
-### Medical & Hospital Records (#183–#185)
+---
 
-* #183: Hospital Routing Decision: Each covered agency shall produce all records explaining why Charlie Kirk was transported to Timpanogos Regional Hospital instead of Utah Valley Hospital (a Level II trauma center and the designated facility for life-threatening gunshot wounds in Utah County). Each covered agency shall also produce all protocols, communications, and decisions made by paramedics, dispatchers, or any other personnel regarding hospital selection, and any records showing why Kirk had a pre-existing medical file at Utah Medical Center.
+### Digital Forensics (#137–#142)
 
-* #184: Surgeon Blocked by FBI: Each covered agency shall produce all records related to the FBI physically preventing a surgeon from re-entering the room where Charlie Kirk was being treated. Each covered agency shall also produce the identity of the FBI agents involved, the authority cited, and all communications between FBI and hospital medical staff regarding access to Kirk.
+* #137: Foreign Domain Email Communications: Each covered agency shall produce all email traffic to and from foreign domains obtained from ISPs and email providers. Each covered agency shall also produce all records relating to any electronic communication between persons of interest and foreign entities.
 
-* #185: Glass or Plastic Fragments in Transport: Each covered agency shall produce all forensic reports and evidence collection records related to glass or plastic fragments found on the ground near or in the car used to transport Charlie Kirk to the hospital. Each covered agency shall also produce origin analysis of these fragments and whether they are consistent with an exploding device.
+* #138: VPN Foreign Connection Logs: Each covered agency shall produce all VPN connection records to foreign countries obtained from ISPs. Each covered agency shall also produce all records relating to any attempt by persons of interest to conceal communications through encrypted tunnels or anonymization services.
 
-### TPUSA Financial Fraud (#186–#187)
+* #139: Encrypted Messaging App Records: Each covered agency shall produce all Signal, Telegram, and WhatsApp account data and metadata from app providers for persons of interest. Each covered agency shall also produce all records relating to any encrypted or secure communication by persons connected to the investigation.
 
-* #186: TPUSA Shell Company Payments: Each covered agency shall produce all financial records, contracts, and communications related to payments by TPUSA to Resource One (DBA for Moore DM Group, a $700M political direct mail conglomerate) — approximately $9M+ paid while TPUSA reported only $1.35M for printing — and Clocktower LLC (dissolved 2022) — $999K for a "research project" with no public deliverables. Each covered agency shall also produce all records of connections to Jake Hoffman, 1Ten LLC, and fake elector schemes, and all records of Erika Kirk's mother's appointment to and service on the TPUSA board.
+* #140: Social Media Direct Messages: Each covered agency shall produce all Facebook, Instagram, and Twitter/X direct message records for persons of interest. Each covered agency shall also produce all records relating to any social media communication related to coordination, recruitment, or planning connected to the investigation.
 
-* #187: TPUSA Board Actions Post-Assassination: Each covered agency shall produce all records of TPUSA board meetings, votes, communications, and negotiations between September 10, 2025 (Kirk's death) and September 18, 2025 (Erika Kirk's announcement as CEO). Each covered agency shall produce all records and video documenting the demeanor and conduct of Charlie Kirk's close associates, including Erika Kirk, immediately after the event. Each covered agency shall also produce all records relating to the 8-day gap before Erika's TPUSA CEO announcement, all negotiations with donors, board members, and foreign interests during that period, and all records related to Erika Kirk's speech referencing "evil Do-ERs" (plural) approximately 55 hours after Charlie Kirk's death.
+* #141: Deleted File Recovery Analysis: Each covered agency shall produce all recovered deleted communications and files from the FBI Digital Evidence Laboratory. Each covered agency shall also produce all records relating to any deleted, encrypted, or hidden digital evidence recovered from any device connected to the investigation.
 
-### TPUSA Employee and Contractor Unusual Payments (#188)
+* #142: UVU Network Traffic During Incident: Each covered agency shall produce all network logs from the UVU IT Department for September 10, 2025, showing devices communicating during the assassination. Each covered agency shall also produce all records relating to any network activity, device connections, or data transmissions at UVU during the incident.
 
-* #188: TPUSA Employee and Contractor Payment Audit: Each covered agency shall produce all financial records — including bank records, wire transfers, checks, digital payments, trust distributions, insurance payouts, real estate transactions, gifts, and any other transfer of value — received by any employee, contractor, consultant, board member, or officer of TPUSA (including but not limited to Erika Kirk) during the period from May 10, 2025 (four months before the assassination) through January 10, 2026 (four months after the assassination). This production shall specifically identify any single payment or series of related payments exceeding $100,000 from any source. Excluded from this disclosure requirement are: (1) regular W-2 salary payments from TPUSA at the recipient's established pay rate; and (2) distributions from companies in which the recipient holds an ownership interest that are consistent with the company's historical distribution pattern. All other payments exceeding $100,000 — including but not limited to consulting fees, bonuses, life insurance proceeds, severance, trust distributions from trusts in which the recipient is a beneficiary but not the grantor, real estate sale proceeds, gifts, loans, and any payment routed through intermediary entities — shall be disclosed with full documentation of the source, amount, date, stated purpose, and the identity of the payor. Each covered agency shall also produce all FinCEN records, Suspicious Activity Reports, and Currency Transaction Reports related to any TPUSA-connected individual during this period.
+---
 
-### Mosaic Pro Events / AV Equipment (#189–#191)
+### Ballistics (#143–#149)
 
-* #189: Mosaic Pro Events Staff Scheduling Anomaly: Each covered agency shall produce all scheduling records from Mosaic Pro Events for the TPUSA campus tour, specifically explaining why no Mosaic night staff was scheduled for the UVU event (the first tour stop) while all subsequent stops had night events scheduled. Each covered agency shall also produce all contracts, work orders, and communications between Mosaic Pro Events and TPUSA regarding the UVU event.
+* #143: ATF Trace for Mauser Model 98: Each covered agency shall produce the complete ATF National Tracing Center trace showing full ownership and transfer history of the Mauser Model 98. Each covered agency shall also produce all records relating to any prior owner, transfer, or possession of the rifle.
 
-* #190: Rode Wireless PRO Microphone Audio: Each covered agency shall produce all audio captured by the Rode Wireless PRO microphone Charlie Kirk was wearing, which records internally at 32-bit audio and cannot be turned off by the wearer — only remotely — from the moment it was removed from its case through the end of the event. Each covered agency shall also produce the current location and chain of custody of this microphone, all records of its destruction if destroyed, and all audio from any Rode devices present at the event including backup recordings stored on TPUSA or Mosaic servers.
+* #144: Rifle Manufacturing and Serial Records: Each covered agency shall produce all manufacturing records, serial number documentation, and production records from ATF and the manufacturer. Each covered agency shall also produce all records relating to the origin, production date, and distribution history of the rifle.
 
-* #191: Mikey McCoy's Mic-Up Video: The close-up video filmed by Mikey McCoy showing Charlie Kirk being mic'd up before the event. Each covered agency shall also produce the current location of this video, whether it was deleted or requested to be deleted by any agency, and all communications between McCoy and any government agency regarding this footage.
+* #145: Rifle Import Records: Each covered agency shall produce all ATF and CBP import documentation if the weapon came from abroad. Each covered agency shall also produce all records relating to any foreign origin, international transfer, or importation of the rifle or its components.
 
-### Butch Hibbs & Exploding Microphone (#192–#193)
+* #146: Rifle Metallurgical Analysis: Each covered agency shall produce all FBI Laboratory metal composition analysis of rifle components. Each covered agency shall also produce all records relating to any material analysis suggesting foreign manufacture, modification, or non-standard components.
 
-* #192: Butch Hibbs at UVU Event: Each covered agency shall produce all records, photographs, video, and communications related to Butch Hibbs (brother of Calvary Chapel pastor Jack Hibbs) at the UVU event on September 10, 2025, specifically the square object in his front right pocket matching the dimensions of a Rode Wireless GO II receiver (approximately 2x2 inches), his proximity to the sound crew, photographs showing his pocket empty after Kirk was killed, and his movements throughout the event. Each covered agency shall produce all evidence of any kind of explosion that happened within an hour before or an hour and a half after Charlie Kirk died, at or near UVU or any related location. Each covered agency shall also produce all of Butch Hibbs's communications in the 60 days before and 30 days after the assassination.
+* #147: Cartridge Engraving Analysis: Each covered agency shall produce all FBI Laboratory linguistic and cultural analysis of cartridge engravings including "Bella Ciao" and other inscriptions. Each covered agency shall also produce all records relating to the cultural, operational, or intelligence significance of any markings on ammunition.
 
-* #193: Heber City to Nashville Flight (Aug 25, 2025): Each covered agency shall produce all records related to the private aircraft flight from Heber City, Utah to John Tune Airport, Nashville, Tennessee on August 25, 2025 — the same day AES delivered the "MINIATURIZED-XS DEMOLITION CHARGES, ANTI PERSONNEL-XS" under DoD contract N0016425PJ538. Each covered agency shall also produce the passenger manifest, aircraft registration, who chartered or owned the aircraft, and any connection to Butch Hibbs or any person associated with TPUSA, Calvary Chapel, or the Charlie Kirk investigation.
+* #148: Engraving Tool Mark Analysis: Each covered agency shall produce all FBI Laboratory tool identification and tool mark analysis of engraving equipment used on cartridges. Each covered agency shall also produce all records relating to what equipment was used, where it was obtained, and who had access to it.
 
-### FBI Conduct at Scene (#194–#195)
+* #149: Foreign Intel Weapon Signature Comparison: Each covered agency shall produce all FBI and CIA pattern analysis comparing the weapon and methods with known foreign intelligence tradecraft signatures. Each covered agency shall also produce all records relating to any similarity between evidence in this case and methods used by any foreign intelligence service.
 
-* #194: FBI RAV4 Near Robinson Post-Shooting: Each covered agency shall produce all records related to the FBI agent(s) in an unmarked RAV4 who drove past Tyler Robinson immediately after the shooting and subsequently flashed an FBI badge when pulled over by local law enforcement. Each covered agency shall also produce the identity of these agents, their assignment, why they were in the area, and all communications and GPS/vehicle tracking data for this vehicle on September 10, 2025.
+---
 
-* #195: FBI Direction of Re-Search Finding Weapon: Each covered agency shall produce detailed records of the sequence of searches for the weapon: (1) the initial arm-to-arm local law enforcement search that found nothing, (2) the K-9 search that found nothing, (3) the arrival of three federal agents who directed three junior local law enforcement officers to re-search the area, after which the weapon was "found." Each covered agency shall also produce the identity of the three federal agents, their chain of command, how they knew to direct a re-search of that specific area, and whether the weapon was planted.
+### Distraction People (#150–#156)
 
-### Fort Huachuca Meeting (#196)
+* #150: All Individuals at UVU During Shooting: Each covered agency shall produce the complete FBI and UVU Police list of all individuals identified at UVU during the shooting. Each covered agency shall also produce all records relating to any person present at or near UVU on September 10, 2025, between 10 AM and 2 PM.
 
-* #196: Fort Huachuca Pre-Assassination Meeting: Each covered agency shall produce all records related to a meeting at Fort Huachuca (U.S. Army intelligence installation) referenced as involving "JTF" (Joint Task Force), including the identity of all participants — the woman with striking blue eyes who "dressed down" (reportedly the top administration visitor, possibly Karoline Leavitt), a Hispanic female Secret Service agent, a GSA representative, and Congressman Mark E. Amodei (R-NV). Each covered agency shall also produce all records of what was discussed, why they "cared very much about the next 24 hours," and the timeline of this meeting relative to the assassination.
+* #151: Background Checks on Unidentified Individuals: Each covered agency shall produce all FBI criminal and intelligence background checks on unidentified individuals at UVU. Each covered agency shall also produce all records relating to any person at UVU whose identity was not immediately established or who had connections to intelligence services.
 
-### Event Live Streams (#197)
+* #152: Foreign National Immigration Status: Each covered agency shall produce all CBP and USCIS visa and immigration status records for foreign nationals present at UVU. Each covered agency shall also produce all records relating to the immigration status, visa type, and entry circumstances of any non-U.S. citizen at UVU on September 10, 2025.
 
-* #197: Live Stream Interruptions at UVU: Each covered agency shall produce all records explaining whether live streams of the UVU event were cut or interrupted during or immediately after the shooting, which streams continued and which were stopped, who had the authority and ability to cut streams. Each covered agency shall also produce all communications between TPUSA, Mosaic Pro Events, streaming platforms, and any government agency regarding live stream management on September 10, 2025.
+* #153: Financial Records for UVU Attendees: Each covered agency shall produce all FinCEN and bank records of payments received by individuals at UVU before the incident, including whether any distraction persons or persons of interest received money, were offered money, or received any financial payments from any source — and full investigation of any financial payments they did receive. Each covered agency shall also produce all records relating to any financial transaction suggesting payment or compensation to any person present at UVU.
 
-### Kirk's Personal Statements & Relationships (#198–#200)
+* #154: Phone Records for Unidentified Attendees: Each covered agency shall produce all FBI call detail records and cell site location information for unidentified attendees at UVU. Each covered agency shall also produce all records relating to any phone activity by persons of interest at UVU on September 10, 2025.
 
-* #198: Kirk's Pre-Death Warnings — Full Record: Each covered agency shall produce all communications by Charlie Kirk in the 90 days before his death expressing fear for his life, identifying specific threats or threateners, or describing confrontations — beyond the known texts saying "THEY ARE GOING TO KILL ME." Each covered agency shall also produce all records from the Hamptons meeting where he was confronted by pro-Israel figures, including the donor who asked "What would happen to TPUSA if you DIED?" approximately 40 days before the assassination (confirmed by Erika Kirk in an interview with Megyn Kelly).
+* #155: UVU Attendee Travel Records: Each covered agency shall produce all airline and CBP records of recent international travel by UVU attendees. Each covered agency shall also produce all records relating to any foreign travel by persons present at UVU that could indicate recruitment or coordination.
 
-* #199: Kirk's Parents and Legal Representation: Each covered agency shall produce all communications and records explaining why Charlie Kirk's parents reportedly did not want high-end attorneys involved in the case. Each covered agency shall also produce records establishing whether any person, agency, or organization pressured or advised Kirk's family regarding legal representation, and all communications between Kirk's family and any government agency or TPUSA regarding the investigation.
+* #156: Social Media Analysis of UVU Attendees: Each covered agency shall produce all FBI analysis of social media accounts and connections of UVU attendees. Each covered agency shall also produce all records relating to any social media activity by persons at UVU suggesting foreign intelligence contact or operational coordination.
 
-* #200: Kirk's Girlfriend: Each covered agency shall produce all records, communications, and interview transcripts related to Charlie Kirk's girlfriend, her presence or absence at the UVU event, her communications with Kirk in the days before the assassination, and any contact between her and federal investigators.
+---
 
-### Bullet Engravings & Planted Evidence (#201)
+### Drones (#157–#161)
 
-* #201: Bullet Casing Engravings Analysis: Each covered agency shall produce full forensic analysis of the engraved cartridge casings, including tools used for engraving, timeline of when engravings were made (before or after firing), whether the engravings are consistent with Tyler Robinson's handwriting and known tools, and whether the engravings appear staged or planted. Each covered agency shall produce all analysis of whether the apparent motive indicators — including the cartridge inscriptions ("Notices Bulge OWO what's this?", "hey fascist! CATCH!", "O Bella ciao, Bella ciao, Bella ciao, Ciao, ciao!", "If you read This, you are GAY Lmao") — are consistent with genuine radicalization or suggest an externally constructed narrative, and all FBI investigation into the authenticity and origin of the motive evidence. Each covered agency shall also produce all chain-of-custody records for these casings from discovery through current storage.
+* #157: Military Drones at Provo Airport: Each covered agency shall produce all FAA and DoD drone registration and flight records for military drones at Provo Airport from September 4–10, 2025. Each covered agency shall also produce all records relating to any military unmanned aircraft operations at or near PVU during August–October 2025.
 
-### Crime Scene Paving (#202)
+* #158: Counter-UAS Testing Documentation: Each covered agency shall produce all FAA and airport authority testing records and authorizations for Counter-UAS operations. Each covered agency shall also produce all records relating to any drone countermeasure testing, deployment, or capability demonstration at Provo Airport during 2025.
 
-* #202: UVU Crime Scene Paving & Alteration: Each covered agency shall produce all records, communications, contracts, and authorizations related to the paving over of the crime scene at Utah Valley University, including who authorized the paving, when it occurred relative to the completion of forensic examination, whether all evidence had been collected before destruction, and whether any federal or state agency objected to or approved the destruction. Each covered agency shall produce all records of the crime scene being rapidly scrubbed, altered, or cleaned up post-incident — including who ordered and performed the cleanup, what was removed, and whether any evidence was lost as a result. Each covered agency shall also produce all communications between UVU administration and any government agency regarding the crime scene.
+* #159: Drone Flight Logs During UVU Event: Each covered agency shall produce all FAA drone flight logs for September 10, 2025, from 8 AM to 2 PM in the UVU area. Each covered agency shall also produce all records relating to any unmanned aircraft in the air within 20 miles of UVU during the event.
 
-### AES Factory Explosion (#203)
+* #160: Surveillance Plane N1098L Records: Each covered agency shall produce all FAA flight plans, crew information, and rental records for plane N1098L (HADES spy plane), which circled 35 minutes before the shooting. Each covered agency shall also produce all records relating to any surveillance aircraft operating in the Provo/Orem area during September 2025.
 
-* #203: AES Factory Explosion Investigation: Each covered agency shall produce all federal investigation records (ATF, OSHA, FBI, DOD) related to the explosion at the Accurate Energetic Systems facility in McEwen, Tennessee on October 10, 2025, which killed 16 employees — the deadliest above-ground industrial accident in the US in 34 years. Each covered agency shall also produce records establishing whether any investigation examined the connection between this explosion and the DoD contract N0016425PJ538 for miniaturized anti-personnel charges, all records of which employees had knowledge of or involvement in the N0016425PJ538 contract and whether any of those specific employees were among the 16 killed, and all records of whether the explosion destroyed evidence, blueprints, production records, or test data related to the miniaturized devices.
+* #161: Surveillance Aircraft Customer Identity: Each covered agency shall produce all charter company and FAA records identifying who requested, rented, and paid for surveillance aircraft over UVU. Each covered agency shall also produce all records relating to any person or entity that contracted aerial surveillance in the Utah County area during September 2025.
 
-### Tyler Robinson Movement & Identity (#204–#207)
+---
 
-* #204: Tyler Robinson Complete Travel Path: Each covered agency shall produce all FBI, law enforcement, and intelligence information on Tyler Robinson's complete travel path and movements in the 72 hours before and 24 hours after the shooting on September 10, 2025 — including every location visited, mode of transportation used, timestamps, surveillance footage, cell phone location data, GPS data, witness sightings, and any stops along the way. Each covered agency shall also produce records of his route to UVU, how he entered the campus, what path he took through the campus, what buildings he entered, how he accessed the rooftop, what path he took after the shooting, and how he departed the campus. Each covered agency shall produce all records of visitors to Tyler Robinson's home in the lead-up to the event, including dates, identities, surveillance footage, and any connection between those visitors and any intelligence service or other organization. Each covered agency shall also produce all records relating to Tyler Robinson's movements for the 30 days prior to the shooting.
+### TPUSA Intel (#162–#167)
 
-* #205: Tyler Robinson Prior Visits to UVU: Each covered agency shall produce all FBI, law enforcement, and intelligence information on whether Tyler Robinson had ever visited the Utah Valley University campus prior to September 10, 2025. Each covered agency shall also produce any surveillance footage, cell phone location data, campus access records, witness statements, or any other evidence showing Robinson at or near UVU on any date before the shooting. Each covered agency shall also produce records of any investigation into whether Robinson conducted reconnaissance or scouting visits to the campus, and whether any other person accompanied him on any prior visit.
+* #162: FBI Reports on Foreign Intel in TPUSA: Each covered agency shall produce all FBI Counterintelligence reports on foreign intelligence recruitment within TPUSA from September 2023 through September 2025. Each covered agency shall also produce all records relating to any foreign intelligence service targeting, approaching, or recruiting TPUSA members or affiliates.
 
-* #206: Tyler Robinson Position at Time of Shooting: Each covered agency shall produce all FBI and law enforcement analysis, video footage, witness statements, cell phone data, and any other evidence addressing whether Tyler Robinson was on the rooftop, in the stairways, or at any other location at the exact moment the fatal shot was fired. Each covered agency shall produce all timeline reconstruction showing Robinson's second-by-second position, and whether the investigation found or considered the possibility that Robinson was already descending or off the roof when the shot occurred. Each covered agency shall also produce all records relating to whether any person other than Robinson was on the rooftop at the time of the shot.
+* #163: FBI TPUSA Member Foreign Contact Interviews: Each covered agency shall produce all FBI Form 302s from interviews with TPUSA members regarding foreign contact. Each covered agency shall also produce all records relating to any FBI interview with any TPUSA-affiliated person about foreign intelligence approaches or relationships.
 
-* #207: Rooftop Suspect Movement at Moment of Shot: Each covered agency shall produce all video footage, witness statements, and FBI analysis showing whether the person on the rooftop was stationary (in a firing position) or running/moving at the exact moment the shot was fired. Each covered agency shall produce all surveillance camera angles, drone footage, aerial footage, and any other visual evidence capturing the rooftop at the time of the shooting. Each covered agency shall produce all records establishing whether the movement pattern observed is consistent with a person who just fired a rifle versus a person who was not the shooter. Each covered agency shall also produce all records relating to whether any shots were fired from drones, from any other elevated position, or from any location other than the Losee Center rooftop, and the total number of shots fired from each identified origin point.
+* #164: TPUSA Member Foreign Travel Reports: Each covered agency shall produce all FBI reports on TPUSA member travel to Egypt, France, Israel, or other countries of interest. Each covered agency shall also produce all records relating to any foreign travel by TPUSA leadership or staff that involved contact with foreign government officials or intelligence personnel.
 
-### Venue Access & Non-Traditional Weapons (#208–#209)
+* #165: Foreign Payments to TPUSA: Each covered agency shall produce all FBI and FinCEN records of wire transfers and payments from foreign sources to TPUSA. Each covered agency shall also produce all records relating to any foreign funding, donation, or financial support to TPUSA from any foreign entity or individual.
 
-* #208: Hatch Beneath Charlie Kirk's Seat: Each covered agency shall produce all records, blueprints, building plans, photographs, and video related to the presence of a hatch, access panel, or below-stage access point beneath or near Charlie Kirk's seat at the UVU event venue on September 10, 2025. Each covered agency shall produce all records relating to who had knowledge of this access point, whether it was used before, during, or after the event, who had access to it, and whether any person, equipment, or weapon was staged, concealed, or moved through it.
+* #166: Kirk Security Chief Foreign Intel Links: Each covered agency shall produce all FBI investigation records of Charlie Kirk's head of security regarding foreign intelligence connections. Each covered agency shall also produce all records relating to any person in Kirk's security detail who had contact with or ties to any foreign intelligence service.
 
-* #209: Non-Traditional Weapon or "Camera Gun" Theory: Each covered agency shall produce all FBI and law enforcement investigation into the theory that a non-traditional weapon — including but not limited to a "camera gun" or other weapon disguised as event equipment (camera, microphone, lighting, AV gear) — was used in the assassination. Each covered agency shall produce all forensic analysis of any event equipment that could have been modified to conceal or function as a weapon, all records of any unusual or unregistered equipment brought to the UVU event, and all investigation into whether any device other than the Mauser Model 98 rifle was used to fire a projectile on September 10, 2025.
+* #167: Hampton Meeting Foreign Intel Activity: Each covered agency shall produce all FBI reports on communications, threats, or money from Egyptian, French, or Israeli sources — including any involvement by Benjamin Netanyahu or Emmanuel Macron or their intermediaries — at the Hampton meeting of August 4–6, 2025. Each covered agency shall also produce all records relating to any foreign intelligence activity, influence, or presence at any TPUSA donor or leadership meeting during 2025.
 
-### Israeli IP Surveillance Targeting (#210)
+---
 
-* #210: Israeli IP Surveillance of Key Persons: All records from NSA, FBI, or any agency documenting foreign government digital surveillance, IP tracking, or electronic monitoring directed at any Schedule B person at any time, including but not limited to Israeli IP addresses targeting Timpanogos Hospital surgeons, medical examiner, defense counsel, crime scene contractors, and hospital CEO. Each covered agency shall also produce all records relating to any foreign government electronic surveillance, network intrusion, or digital monitoring of any person connected to the investigation, medical treatment, prosecution, or defense in the Charlie Kirk case.
+### Autopsy / Medical (#168–#172)
 
-### Autopsy Failure (#211)
+* #168: Complete Charlie Kirk Autopsy Report: Each covered agency shall produce the full autopsy documentation from the Utah Office of Medical Examiner, including wound measurements, trajectories, and photographs. Each covered agency shall produce all records explaining whether an autopsy on Charlie Kirk was declined or limited in scope, by whom, on what authority, and all communications related to that decision. Each covered agency shall also produce all records relating to any supplemental autopsy findings, second opinions, or additional medical examiner analysis.
 
-* #211: Failure to Perform Required Autopsy: All records explaining why no autopsy was performed on Charlie Kirk despite Utah Code 26B-8-205 requiring it, including who made the decision not to perform an autopsy, who authorized the body's removal from the jurisdiction, and whether any government agency, intelligence service, or other entity influenced the decision. Each covered agency shall also produce all communications between any medical examiner, coroner, law enforcement agency, or government official regarding the autopsy decision, and all records of any pressure, direction, or interference with the medical examiner's independent judgment.
+* #169: Lapel Microphone Evidence from Body: Each covered agency shall produce all evidence from the medical examiner and FBI regarding the lapel microphone found on or near the body. Each covered agency shall also produce all records relating to any fragments, residue, or material from the microphone recovered from the body, clothing, or immediate area.
 
-### Corner-Shot Weapon Analysis (#212)
+* #170: Unusual Autopsy Findings: Each covered agency shall produce all medical examiner toxicology reports, anomaly reports, and any unusual findings from the Utah Office of Medical Examiner. Each covered agency shall produce all records establishing whether Charlie Kirk's heart stopped before his neck wound occurred. Each covered agency shall produce all records establishing whether Charlie Kirk had brain damage or other damage that could be noticed or detected before the bullet or neck and tree wound occurred. Each covered agency shall produce all records establishing whether there was any cause of death or cause of injury that was different from a bullet — or different from a .386-caliber bullet — that hurt Charlie Kirk or caused his death, including any evidence of explosion, blast effect, or non-ballistic trauma. Each covered agency shall also produce all records relating to any unexpected cause-of-death factors, foreign substances, or unexplained medical findings.
 
-* #212: Corner-Shot and Non-Standard Weapon Analysis: All ballistic analyses, comparisons, or assessments involving non-standard weapons including Israeli Corner-Shot weapons, 9mm Israeli-manufactured ammunition, and concealed-position weapons, and any intelligence reports on such weapons in the possession of persons present at or near UVU on September 10, 2025. Each covered agency shall also produce all records relating to the importation, sale, or transfer of Corner-Shot weapons or similar concealed-firing-position weapons to any person or entity in the United States, and all assessments of whether such a weapon could have been used in the shooting.
+* #171: Wound Trajectory Analysis: Each covered agency shall produce the complete wound trajectory documentation from the medical examiner, showing direction of the shot, and whether more than one bullet entered Charlie Kirk's body. Each covered agency shall also produce all records relating to any ballistic wound analysis, trajectory reconstruction, or determination of shooting position.
 
-### State Official Communications (#213)
+* #172: Time of Death Determination: Each covered agency shall produce the precise time-of-death analysis from the medical examiner. Each covered agency shall also produce all records relating to any analysis establishing the exact timeline of the fatal event and Kirk's death.
 
-* #213: Utah State Official Federal Communications: All communications between Utah state officials — including Governor Spencer Cox, the Utah Attorney General, the Utah judiciary, and any state agency head — and any federal agency regarding the Charlie Kirk investigation, prosecution strategy, evidence handling, judicial orders (including gag orders), or any other matter related to the case. Each covered agency shall also produce all records of federal agencies directing, advising, or influencing Utah state officials in the handling of the investigation or prosecution, and all records of coordination between federal and state officials regarding public statements, media strategy, or information control related to the case.
+---
 
-### Hospital Compromise (#214)
+### International Liaison (#173–#177)
 
-* #214: Hospital Pre-Selection and Intelligence Influence: All records relating to whether Timpanogos Regional Hospital, its medical personnel, or CEO Andrew Zenger was subject to pre-selection, direction, intelligence service influence, or pre-planned placement of personnel in connection with the Charlie Kirk case. Each covered agency shall also produce all records of any contact between any intelligence service or government agency and hospital personnel before, during, or after the shooting, all records of any direction given to hospital staff regarding treatment decisions, and all records relating to whether the routing of Charlie Kirk to Timpanogos Regional Hospital rather than another facility was influenced by any government agency or intelligence service.
+* #173: FBI Legat Israel Communications: Each covered agency shall produce all cable traffic from FBI Legal Attaché Tel Aviv to and from Israeli authorities — including any communications involving Prime Minister Benjamin Netanyahu or his office — regarding the case. Each covered agency shall also produce all records relating to any U.S.–Israel intelligence sharing, liaison activity, or diplomatic communication about the Charlie Kirk investigation.
 
-### Hospital Bomb Threat and Diversion (#215)
+* #174: FBI Legat Egypt and France Communications: Each covered agency shall produce all communications from FBI Legal Attaché Cairo regarding Egyptian planes and personnel connected to the case, and all communications from FBI Legal Attaché Paris regarding French intelligence (DGSE), French legionnaires, or any activity directed by or connected to President Emmanuel Macron or his office. Each covered agency shall also produce all records relating to any U.S.–Egypt or U.S.–France intelligence sharing or diplomatic communication about the investigation.
 
-* #215: Hospital Bomb Threat and Planned Diversion: All records related to any bomb threat, bomb scare, or security incident at any hospital within 20 miles of Utah Valley University on September 10, 2025, including but not limited to Intermountain Health Utah Valley Regional Medical Center. Each covered agency shall produce all 911 call records, caller identification data, call timing and duration, law enforcement dispatch records, hospital security logs, and all non-disclosure agreements (NDAs) signed by hospital staff in connection with any such bomb threat. Each covered agency shall further produce all records relating to whether the bomb threat was coordinated with the assassination to divert Charlie Kirk away from the closer hospital to a controlled facility, and all communications between any government agency, intelligence service, or private entity regarding hospital security incidents on September 10, 2025.
+* #175: Interpol Communications on Case: Each covered agency shall produce all FBI and Interpol international law enforcement sharing regarding the case. Each covered agency shall also produce all records relating to any international law enforcement cooperation, notice, or request related to the investigation.
 
-### Carbyne 911 System Data (#216)
+* #176: MLAT Requests and Responses: Each covered agency shall produce all formal Mutual Legal Assistance Treaty requests and responses from the DOJ Office of International Affairs. Each covered agency shall also produce all records relating to any international legal cooperation request made or received in connection with the investigation.
 
-* #216: Carbyne 911 System Intelligence Access: All records related to the Carbyne 911 system — an Israeli intelligence-linked 911 technology platform co-founded by Ehud Barak with Epstein-connected funding — deployed across Utah, including all Carbyne system data for the Provo/Orem area on September 10, 2025. Each covered agency shall produce all 911 calls processed through the Carbyne system, all location pings, audio recordings, metadata, and data transmissions to any domestic or foreign server. Each covered agency shall further produce all records identifying any foreign entity, foreign government, or foreign intelligence service with access to Carbyne 911 data, all contracts between Utah governmental entities and Carbyne Ltd., and all assessments of whether the Carbyne system provided real-time intelligence access to any foreign service during the events of September 10, 2025.
+* #177: Diplomatic Communications on Case: Each covered agency shall produce all State Department diplomatic cables about the assassination, including any communications with or involving Egyptian President El-Sisi, French President Emmanuel Macron, Israeli Prime Minister Benjamin Netanyahu, or their offices. Each covered agency shall also produce all records relating to any diplomatic communication, protest, inquiry, or notification by any foreign government regarding the Charlie Kirk investigation.
 
-### Independent Ballistics and Forensic Testing Authority (#217)
+### Tyler Robinson Defense & Family (#178–#180)
 
-* #217: Independent Ballistics and Forensic Testing: The review board established under Section 8 is hereby granted explicit authority to commission independent ballistics testing, acoustic analysis, explosive residue testing, metallurgical examination, and any other forensic testing it deems necessary, using experts selected by the review board and not by any covered agency. Each covered agency shall produce all existing ballistics analyses, acoustic analyses, explosive residue tests, and metallurgical examinations. The review board may conduct independent testing to verify, supplement, or challenge any existing agency analysis, including but not limited to: (1) independent determination of whether a 9mm weapon was fired; (2) independent analysis of whether the microphone or other equipment contained explosive material; (3) acoustic analysis of gunshot origin and trajectory; and (4) metallurgical analysis of all fragments recovered from the scene or from Charlie Kirk's body. No covered agency may obstruct, delay, or interfere with independent testing authorized under this item.
+* #178: Tyler Robinson Family Statements: Each covered agency shall produce all statements by Tyler Robinson's family members — made in person, in court, or to investigators — asserting that Tyler Robinson did not commit the assassination or that he stated he "didn't do it but knows who did but won't say because it would endanger the family." All records regarding the rapid family cooperation in turning Tyler in, whether his roommate was placed under protection, all confessions made by Tyler Robinson, and all records regarding early FBI/ATF bulletins on "trans ideology bullets" that were subsequently and subsequently retracted — including who authored those bulletins, who authorized the retraction, and why. Each covered agency shall also produce all records of family members' claims at the January 16th hearing and any other proceedings, and all evidence regarding whether a Mormon preacher and a retired sheriff turned him in rather than his parents.
 
-### TPUSA Insider Aircraft N582MM (#219)
+* #179: Mormon Preacher and Retired Sheriff: Each covered agency shall produce full identification and all records, communications, and interviews related to the Mormon preacher and retired sheriff who reportedly turned Tyler Robinson in. Each covered agency shall also produce all records relating to how they obtained information about Robinson, who directed them to contact law enforcement, and whether any federal agency or intelligence service coordinated or incentivized their actions.
 
-* #219: TPUSA Insider Aircraft N582MM Flight Records: Each covered agency shall produce all flight records, passenger manifests, crew lists, fuel purchase records, and FBO service records for aircraft N582MM from January 1, 2025, through the present, including but not limited to: (1) the September 10, 2025 flight from Chicago to Provo on the day of Charlie Kirk's assassination — who was aboard, who arranged the flight, and the purpose of travel; (2) the October 4–5, 2025 flights to and from Fort Huachuca, AZ, including who was aboard, the purpose of the visit, and the immediate subsequent flight to Kalispell, Montana; (3) any connection between the Kalispell flight and the TPUSA security team gathering in the same area; (4) all flights to or from any location referenced in Schedule A; (5) the complete flight history showing all destinations and passengers; and (6) the identity of all persons who chartered, paid for, or arranged flights on this aircraft. Each covered agency shall also produce all records relating to any TPUSA-affiliated person who traveled on any private aircraft to Provo, Utah on September 10, 2025, and the purpose of their travel.
+* #180: Tyler Robinson's Claim of Knowledge: Each covered agency shall produce all FBI 302 reports, interview transcripts, jail recordings, and communications in which Tyler Robinson indicated knowledge of who was responsible for the assassination. Each covered agency shall also produce all offers of cooperation, plea discussions, or debriefings in which Robinson provided or attempted to provide information about other participants.
 
-### Egyptian Aircraft Return to Provo (#220)
+### Witness Intimidation (#181–#182)
 
-* #220: Egyptian Aircraft Return to Provo in 2026: Each covered agency shall produce all records relating to the return of Egyptian-registered aircraft (SU-BTT, SU-BND, SU-BTU, SU-BTV, SU-BGM, and any other Egyptian-registered aircraft) to Provo, Utah, or any Utah airport in 2026, including but not limited to: (1) all flight records, passenger manifests, crew lists, and cargo manifests; (2) the purpose of travel and all ground activities of passengers after arrival; (3) any correlation between the timing of Egyptian aircraft arrivals in Utah and French diplomatic visits to the United States, including Brigitte Macron's March 2026 visit to Washington D.C.; (4) all records establishing a pattern of coordinated movement between Egyptian aircraft and French diplomatic travel; and (5) all intelligence assessments of the operational significance of repeated Egyptian military aircraft visits to Provo. Each covered agency shall also produce all records relating to any Egyptian-registered aircraft visiting any U.S. airport within 48 hours before or after any diplomatic visit by any French official during 2025–2026.
+* #181: Fake Therapy Witness Intimidation: Each covered agency shall produce all records related to "free trauma counseling" sessions offered to UVU witnesses of the assassination, specifically the identity of the therapist who locked a UVU student witness in a room, told him "You're the next target," admitted to carrying a gun, and refused to let him leave until his own supervisor ordered the door opened. Each covered agency shall also produce the identity of the agency or organization that arranged and funded these sessions, whether any federal agency coordinated or directed them, and all communications between the therapy provider and any government agency.
+
+* #182: Witness Suppression After Shooting: Each covered agency shall produce all records of efforts to discourage, intimidate, or silence civilian witnesses at UVU on September 10, 2025 and afterward. Each covered agency shall also produce any directives from FBI or other agencies to local law enforcement to prevent witnesses from speaking publicly, and all records explaining why no verifiable UVU student witnesses have come forward publicly despite hundreds being present.
+
+### Security Detail & Foreign Connections (#183)
+
+* #183: Brian Harpole — Foreign Security Background on Kirk Detail: Each covered agency shall produce all records, contracts, and communications related to Brian Harpole, a former police officer/mercenary embedded in Charlie Kirk's security detail on September 10, 2025, who has photographic evidence (from 2017) placing him on a foreign head-of-state security detail. Each covered agency shall also produce his full employment history with any foreign government or foreign security service, who placed him on Kirk's detail, his communications in the 30 days before and after the assassination, and whether any foreign government entity coordinated his assignment.
+
+### Medical & Hospital Records (#184–#186)
+
+* #184: Hospital Routing Decision: Each covered agency shall produce all records explaining why Charlie Kirk was transported to Timpanogos Regional Hospital instead of Utah Valley Hospital (a Level II trauma center and the designated facility for life-threatening gunshot wounds in Utah County). Each covered agency shall also produce all protocols, communications, and decisions made by paramedics, dispatchers, or any other personnel regarding hospital selection, and any records showing why Kirk had a pre-existing medical file at Utah Medical Center.
+
+* #185: Surgeon Blocked by FBI: Each covered agency shall produce all records related to the FBI physically preventing a surgeon from re-entering the room where Charlie Kirk was being treated. Each covered agency shall also produce the identity of the FBI agents involved, the authority cited, and all communications between FBI and hospital medical staff regarding access to Kirk.
+
+* #186: Glass or Plastic Fragments in Transport: Each covered agency shall produce all forensic reports and evidence collection records related to glass or plastic fragments found on the ground near or in the car used to transport Charlie Kirk to the hospital. Each covered agency shall also produce origin analysis of these fragments and whether they are consistent with an exploding device.
+
+### TPUSA Financial Fraud (#187–#188)
+
+* #187: TPUSA Shell Company Payments: Each covered agency shall produce all financial records, contracts, and communications related to payments by TPUSA to Resource One (DBA for Moore DM Group, a $700M political direct mail conglomerate) — approximately $9M+ paid while TPUSA reported only $1.35M for printing — and Clocktower LLC (dissolved 2022) — $999K for a "research project" with no public deliverables. Each covered agency shall also produce all records of connections to Jake Hoffman, 1Ten LLC, and fake elector schemes, and all records of Erika Kirk's mother's appointment to and service on the TPUSA board.
+
+* #188: TPUSA Board Actions Post-Assassination: Each covered agency shall produce all records of TPUSA board meetings, votes, communications, and negotiations between September 10, 2025 (Kirk's death) and September 18, 2025 (Erika Kirk's announcement as CEO). Each covered agency shall produce all records and video documenting the demeanor and conduct of Charlie Kirk's close associates, including Erika Kirk, immediately after the event. Each covered agency shall also produce all records relating to the 8-day gap before Erika's TPUSA CEO announcement, all negotiations with donors, board members, and foreign interests during that period, and all records related to Erika Kirk's speech referencing "evil Do-ERs" (plural) approximately 55 hours after Charlie Kirk's death.
+
+### TPUSA Employee and Contractor Unusual Payments (#189)
+
+* #189: TPUSA Employee and Contractor Payment Audit: Each covered agency shall produce all financial records — including bank records, wire transfers, checks, digital payments, trust distributions, insurance payouts, real estate transactions, gifts, and any other transfer of value — received by any employee, contractor, consultant, board member, or officer of TPUSA (including but not limited to Erika Kirk) during the period from May 10, 2025 (four months before the assassination) through January 10, 2026 (four months after the assassination). This production shall specifically identify any single payment or series of related payments exceeding $100,000 from any source. Excluded from this disclosure requirement are: (1) regular W-2 salary payments from TPUSA at the recipient's established pay rate; and (2) distributions from companies in which the recipient holds an ownership interest that are consistent with the company's historical distribution pattern. All other payments exceeding $100,000 — including but not limited to consulting fees, bonuses, life insurance proceeds, severance, trust distributions from trusts in which the recipient is a beneficiary but not the grantor, real estate sale proceeds, gifts, loans, and any payment routed through intermediary entities — shall be disclosed with full documentation of the source, amount, date, stated purpose, and the identity of the payor. Each covered agency shall also produce all FinCEN records, Suspicious Activity Reports, and Currency Transaction Reports related to any TPUSA-connected individual during this period.
+
+### Mosaic Pro Events / AV Equipment (#190–#192)
+
+* #190: Mosaic Pro Events Staff Scheduling Anomaly: Each covered agency shall produce all scheduling records from Mosaic Pro Events for the TPUSA campus tour, specifically explaining why no Mosaic night staff was scheduled for the UVU event (the first tour stop) while all subsequent stops had night events scheduled. Each covered agency shall also produce all contracts, work orders, and communications between Mosaic Pro Events and TPUSA regarding the UVU event.
+
+* #191: Rode Wireless PRO Microphone Audio: Each covered agency shall produce all audio captured by the Rode Wireless PRO microphone Charlie Kirk was wearing, which records internally at 32-bit audio and cannot be turned off by the wearer — only remotely — from the moment it was removed from its case through the end of the event. Each covered agency shall also produce the current location and chain of custody of this microphone, all records of its destruction if destroyed, and all audio from any Rode devices present at the event including backup recordings stored on TPUSA or Mosaic servers.
+
+* #192: Mikey McCoy's Mic-Up Video: The close-up video filmed by Mikey McCoy showing Charlie Kirk being mic'd up before the event. Each covered agency shall also produce the current location of this video, whether it was deleted or requested to be deleted by any agency, and all communications between McCoy and any government agency regarding this footage.
+
+### Butch Hibbs & Exploding Microphone (#193–#194)
+
+* #193: Butch Hibbs at UVU Event: Each covered agency shall produce all records, photographs, video, and communications related to Butch Hibbs (brother of Calvary Chapel pastor Jack Hibbs) at the UVU event on September 10, 2025, specifically the square object in his front right pocket matching the dimensions of a Rode Wireless GO II receiver (approximately 2x2 inches), his proximity to the sound crew, photographs showing his pocket empty after Kirk was killed, and his movements throughout the event. Each covered agency shall produce all evidence of any kind of explosion that happened within an hour before or an hour and a half after Charlie Kirk died, at or near UVU or any related location. Each covered agency shall also produce all of Butch Hibbs's communications in the 60 days before and 30 days after the assassination.
+
+* #194: Heber City to Nashville Flight (Aug 25, 2025): Each covered agency shall produce all records related to the private aircraft flight from Heber City, Utah to John Tune Airport, Nashville, Tennessee on August 25, 2025 — the same day AES delivered the "MINIATURIZED-XS DEMOLITION CHARGES, ANTI PERSONNEL-XS" under DoD contract N0016425PJ538. Each covered agency shall also produce the passenger manifest, aircraft registration, who chartered or owned the aircraft, and any connection to Butch Hibbs or any person associated with TPUSA, Calvary Chapel, or the Charlie Kirk investigation.
+
+### FBI Conduct at Scene (#195–#196)
+
+* #195: FBI RAV4 Near Robinson Post-Shooting: Each covered agency shall produce all records related to the FBI agent(s) in an unmarked RAV4 who drove past Tyler Robinson immediately after the shooting and subsequently flashed an FBI badge when pulled over by local law enforcement. Each covered agency shall also produce the identity of these agents, their assignment, why they were in the area, and all communications and GPS/vehicle tracking data for this vehicle on September 10, 2025.
+
+* #196: FBI Direction of Re-Search Finding Weapon: Each covered agency shall produce detailed records of the sequence of searches for the weapon: (1) the initial arm-to-arm local law enforcement search that found nothing, (2) the K-9 search that found nothing, (3) the arrival of three federal agents who directed three junior local law enforcement officers to re-search the area, after which the weapon was "found." Each covered agency shall also produce the identity of the three federal agents, their chain of command, how they knew to direct a re-search of that specific area, and whether the weapon was planted.
+
+### Fort Huachuca Meeting (#197)
+
+* #197: Fort Huachuca Pre-Assassination Meeting: Each covered agency shall produce all records related to a meeting at Fort Huachuca (U.S. Army intelligence installation) referenced as involving "JTF" (Joint Task Force), including the identity of all participants — the woman with striking blue eyes who "dressed down" (reportedly the top administration visitor, possibly Karoline Leavitt), a Hispanic female Secret Service agent, a GSA representative, and Congressman Mark E. Amodei (R-NV). Each covered agency shall also produce all records of what was discussed, why they "cared very much about the next 24 hours," and the timeline of this meeting relative to the assassination.
+
+### Event Live Streams (#198)
+
+* #198: Live Stream Interruptions at UVU: Each covered agency shall produce all records explaining whether live streams of the UVU event were cut or interrupted during or immediately after the shooting, which streams continued and which were stopped, who had the authority and ability to cut streams. Each covered agency shall also produce all communications between TPUSA, Mosaic Pro Events, streaming platforms, and any government agency regarding live stream management on September 10, 2025.
+
+### Kirk's Personal Statements & Relationships (#199–#201)
+
+* #199: Kirk's Pre-Death Warnings — Full Record: Each covered agency shall produce all communications by Charlie Kirk in the 90 days before his death expressing fear for his life, identifying specific threats or threateners, or describing confrontations — beyond the known texts saying "THEY ARE GOING TO KILL ME." Each covered agency shall also produce all records from the Hamptons meeting where he was confronted by pro-Israel figures, including the donor who asked "What would happen to TPUSA if you DIED?" approximately 40 days before the assassination (confirmed by Erika Kirk in an interview with Megyn Kelly).
+
+* #200: Kirk's Parents and Legal Representation: Each covered agency shall produce all communications and records explaining why Charlie Kirk's parents reportedly did not want high-end attorneys involved in the case. Each covered agency shall also produce records establishing whether any person, agency, or organization pressured or advised Kirk's family regarding legal representation, and all communications between Kirk's family and any government agency or TPUSA regarding the investigation.
+
+* #201: Kirk's Girlfriend: Each covered agency shall produce all records, communications, and interview transcripts related to Charlie Kirk's girlfriend, her presence or absence at the UVU event, her communications with Kirk in the days before the assassination, and any contact between her and federal investigators.
+
+### Bullet Engravings & Planted Evidence (#202)
+
+* #202: Bullet Casing Engravings Analysis: Each covered agency shall produce full forensic analysis of the engraved cartridge casings, including tools used for engraving, timeline of when engravings were made (before or after firing), whether the engravings are consistent with Tyler Robinson's handwriting and known tools, and whether the engravings appear staged or planted. Each covered agency shall produce all analysis of whether the apparent motive indicators — including the cartridge inscriptions ("Notices Bulge OWO what's this?", "hey fascist! CATCH!", "O Bella ciao, Bella ciao, Bella ciao, Ciao, ciao!", "If you read This, you are GAY Lmao") — are consistent with genuine radicalization or suggest an externally constructed narrative, and all FBI investigation into the authenticity and origin of the motive evidence. Each covered agency shall also produce all chain-of-custody records for these casings from discovery through current storage.
+
+### Crime Scene Paving (#203)
+
+* #203: UVU Crime Scene Paving & Alteration: Each covered agency shall produce all records, communications, contracts, and authorizations related to the paving over of the crime scene at Utah Valley University, including who authorized the paving, when it occurred relative to the completion of forensic examination, whether all evidence had been collected before destruction, and whether any federal or state agency objected to or approved the destruction. Each covered agency shall produce all records of the crime scene being rapidly scrubbed, altered, or cleaned up post-incident — including who ordered and performed the cleanup, what was removed, and whether any evidence was lost as a result. Each covered agency shall also produce all communications between UVU administration and any government agency regarding the crime scene.
+
+### AES Factory Explosion (#204)
+
+* #204: AES Factory Explosion Investigation: Each covered agency shall produce all federal investigation records (ATF, OSHA, FBI, DOD) related to the explosion at the Accurate Energetic Systems facility in McEwen, Tennessee on October 10, 2025, which killed 16 employees — the deadliest above-ground industrial accident in the US in 34 years. Each covered agency shall also produce records establishing whether any investigation examined the connection between this explosion and the DoD contract N0016425PJ538 for miniaturized anti-personnel charges, all records of which employees had knowledge of or involvement in the N0016425PJ538 contract and whether any of those specific employees were among the 16 killed, and all records of whether the explosion destroyed evidence, blueprints, production records, or test data related to the miniaturized devices.
+
+### Tyler Robinson Movement & Identity (#205–#208)
+
+* #205: Tyler Robinson Complete Travel Path: Each covered agency shall produce all FBI, law enforcement, and intelligence information on Tyler Robinson's complete travel path and movements in the 72 hours before and 24 hours after the shooting on September 10, 2025 — including every location visited, mode of transportation used, timestamps, surveillance footage, cell phone location data, GPS data, witness sightings, and any stops along the way. Each covered agency shall also produce records of his route to UVU, how he entered the campus, what path he took through the campus, what buildings he entered, how he accessed the rooftop, what path he took after the shooting, and how he departed the campus. Each covered agency shall produce all records of visitors to Tyler Robinson's home in the lead-up to the event, including dates, identities, surveillance footage, and any connection between those visitors and any intelligence service or other organization. Each covered agency shall also produce all records relating to Tyler Robinson's movements for the 30 days prior to the shooting.
+
+* #206: Tyler Robinson Prior Visits to UVU: Each covered agency shall produce all FBI, law enforcement, and intelligence information on whether Tyler Robinson had ever visited the Utah Valley University campus prior to September 10, 2025. Each covered agency shall also produce any surveillance footage, cell phone location data, campus access records, witness statements, or any other evidence showing Robinson at or near UVU on any date before the shooting. Each covered agency shall also produce records of any investigation into whether Robinson conducted reconnaissance or scouting visits to the campus, and whether any other person accompanied him on any prior visit.
+
+* #207: Tyler Robinson Position at Time of Shooting: Each covered agency shall produce all FBI and law enforcement analysis, video footage, witness statements, cell phone data, and any other evidence addressing whether Tyler Robinson was on the rooftop, in the stairways, or at any other location at the exact moment the fatal shot was fired. Each covered agency shall produce all timeline reconstruction showing Robinson's second-by-second position, and whether the investigation found or considered the possibility that Robinson was already descending or off the roof when the shot occurred. Each covered agency shall also produce all records relating to whether any person other than Robinson was on the rooftop at the time of the shot.
+
+* #208: Rooftop Suspect Movement at Moment of Shot: Each covered agency shall produce all video footage, witness statements, and FBI analysis showing whether the person on the rooftop was stationary (in a firing position) or running/moving at the exact moment the shot was fired. Each covered agency shall produce all surveillance camera angles, drone footage, aerial footage, and any other visual evidence capturing the rooftop at the time of the shooting. Each covered agency shall produce all records establishing whether the movement pattern observed is consistent with a person who just fired a rifle versus a person who was not the shooter. Each covered agency shall also produce all records relating to whether any shots were fired from drones, from any other elevated position, or from any location other than the Losee Center rooftop, and the total number of shots fired from each identified origin point.
+
+### Venue Access & Non-Traditional Weapons (#209–#210)
+
+* #209: Hatch Beneath Charlie Kirk's Seat: Each covered agency shall produce all records, blueprints, building plans, photographs, and video related to the presence of a hatch, access panel, or below-stage access point beneath or near Charlie Kirk's seat at the UVU event venue on September 10, 2025. Each covered agency shall produce all records relating to who had knowledge of this access point, whether it was used before, during, or after the event, who had access to it, and whether any person, equipment, or weapon was staged, concealed, or moved through it.
+
+* #210: Non-Traditional Weapon or "Camera Gun" Theory: Each covered agency shall produce all FBI and law enforcement investigation into the theory that a non-traditional weapon — including but not limited to a "camera gun" or other weapon disguised as event equipment (camera, microphone, lighting, AV gear) — was used in the assassination. Each covered agency shall produce all forensic analysis of any event equipment that could have been modified to conceal or function as a weapon, all records of any unusual or unregistered equipment brought to the UVU event, and all investigation into whether any device other than the Mauser Model 98 rifle was used to fire a projectile on September 10, 2025.
+
+### Israeli IP Surveillance Targeting (#211)
+
+* #211: Israeli IP Surveillance of Key Persons: All records from NSA, FBI, or any agency documenting foreign government digital surveillance, IP tracking, or electronic monitoring directed at any Schedule B person at any time, including but not limited to Israeli IP addresses targeting Timpanogos Hospital surgeons, medical examiner, defense counsel, crime scene contractors, and hospital CEO. Each covered agency shall also produce all records relating to any foreign government electronic surveillance, network intrusion, or digital monitoring of any person connected to the investigation, medical treatment, prosecution, or defense in the Charlie Kirk case.
+
+### Autopsy Failure (#212)
+
+* #212: Failure to Perform Required Autopsy: All records explaining why no autopsy was performed on Charlie Kirk despite Utah Code 26B-8-205 requiring it, including who made the decision not to perform an autopsy, who authorized the body's removal from the jurisdiction, and whether any government agency, intelligence service, or other entity influenced the decision. Each covered agency shall also produce all communications between any medical examiner, coroner, law enforcement agency, or government official regarding the autopsy decision, and all records of any pressure, direction, or interference with the medical examiner's independent judgment.
+
+### Corner-Shot Weapon Analysis (#213)
+
+* #213: Corner-Shot and Non-Standard Weapon Analysis: All ballistic analyses, comparisons, or assessments involving non-standard weapons including Israeli Corner-Shot weapons, 9mm Israeli-manufactured ammunition, and concealed-position weapons, and any intelligence reports on such weapons in the possession of persons present at or near UVU on September 10, 2025. Each covered agency shall also produce all records relating to the importation, sale, or transfer of Corner-Shot weapons or similar concealed-firing-position weapons to any person or entity in the United States, and all assessments of whether such a weapon could have been used in the shooting.
+
+### State Official Communications (#214)
+
+* #214: Utah State Official Federal Communications: All communications between Utah state officials — including Governor Spencer Cox, the Utah Attorney General, the Utah judiciary, and any state agency head — and any federal agency regarding the Charlie Kirk investigation, prosecution strategy, evidence handling, judicial orders (including gag orders), or any other matter related to the case. Each covered agency shall also produce all records of federal agencies directing, advising, or influencing Utah state officials in the handling of the investigation or prosecution, and all records of coordination between federal and state officials regarding public statements, media strategy, or information control related to the case.
+
+### Hospital Compromise (#215)
+
+* #215: Hospital Pre-Selection and Intelligence Influence: All records relating to whether Timpanogos Regional Hospital, its medical personnel, or CEO Andrew Zenger was subject to pre-selection, direction, intelligence service influence, or pre-planned placement of personnel in connection with the Charlie Kirk case. Each covered agency shall also produce all records of any contact between any intelligence service or government agency and hospital personnel before, during, or after the shooting, all records of any direction given to hospital staff regarding treatment decisions, and all records relating to whether the routing of Charlie Kirk to Timpanogos Regional Hospital rather than another facility was influenced by any government agency or intelligence service.
+
+### Hospital Bomb Threat and Diversion (#216)
+
+* #216: Hospital Bomb Threat and Planned Diversion: All records related to any bomb threat, bomb scare, or security incident at any hospital within 20 miles of Utah Valley University on September 10, 2025, including but not limited to Intermountain Health Utah Valley Regional Medical Center. Each covered agency shall produce all 911 call records, caller identification data, call timing and duration, law enforcement dispatch records, hospital security logs, and all non-disclosure agreements (NDAs) signed by hospital staff in connection with any such bomb threat. Each covered agency shall further produce all records relating to whether the bomb threat was coordinated with the assassination to divert Charlie Kirk away from the closer hospital to a controlled facility, and all communications between any government agency, intelligence service, or private entity regarding hospital security incidents on September 10, 2025.
+
+### Carbyne 911 System Data (#217)
+
+* #217: Carbyne 911 System Intelligence Access: All records related to the Carbyne 911 system — an Israeli intelligence-linked 911 technology platform co-founded by Ehud Barak with Epstein-connected funding — deployed across Utah, including all Carbyne system data for the Provo/Orem area on September 10, 2025. Each covered agency shall produce all 911 calls processed through the Carbyne system, all location pings, audio recordings, metadata, and data transmissions to any domestic or foreign server. Each covered agency shall further produce all records identifying any foreign entity, foreign government, or foreign intelligence service with access to Carbyne 911 data, all contracts between Utah governmental entities and Carbyne Ltd., and all assessments of whether the Carbyne system provided real-time intelligence access to any foreign service during the events of September 10, 2025.
+
+### Independent Ballistics and Forensic Testing Authority (#218)
+
+* #218: Independent Ballistics and Forensic Testing: The review board established under Section 8 is hereby granted explicit authority to commission independent ballistics testing, acoustic analysis, explosive residue testing, metallurgical examination, and any other forensic testing it deems necessary, using experts selected by the review board and not by any covered agency. Each covered agency shall produce all existing ballistics analyses, acoustic analyses, explosive residue tests, and metallurgical examinations. The review board may conduct independent testing to verify, supplement, or challenge any existing agency analysis, including but not limited to: (1) independent determination of whether a 9mm weapon was fired; (2) independent analysis of whether the microphone or other equipment contained explosive material; (3) acoustic analysis of gunshot origin and trajectory; and (4) metallurgical analysis of all fragments recovered from the scene or from Charlie Kirk's body. No covered agency may obstruct, delay, or interfere with independent testing authorized under this item.
+
+### TPUSA Insider Aircraft N582MM (#220)
+
+* #220: TPUSA Insider Aircraft N582MM Flight Records: Each covered agency shall produce all flight records, passenger manifests, crew lists, fuel purchase records, and FBO service records for aircraft N582MM from January 1, 2025, through the present, including but not limited to: (1) the September 10, 2025 flight from Chicago to Provo on the day of Charlie Kirk's assassination — who was aboard, who arranged the flight, and the purpose of travel; (2) the October 4–5, 2025 flights to and from Fort Huachuca, AZ, including who was aboard, the purpose of the visit, and the immediate subsequent flight to Kalispell, Montana; (3) any connection between the Kalispell flight and the TPUSA security team gathering in the same area; (4) all flights to or from any location referenced in Schedule A; (5) the complete flight history showing all destinations and passengers; and (6) the identity of all persons who chartered, paid for, or arranged flights on this aircraft. Each covered agency shall also produce all records relating to any TPUSA-affiliated person who traveled on any private aircraft to Provo, Utah on September 10, 2025, and the purpose of their travel.
+
+### Egyptian Aircraft Return to Provo (#221)
+
+* #221: Egyptian Aircraft Return to Provo in 2026: Each covered agency shall produce all records relating to the return of Egyptian-registered aircraft (SU-BTT, SU-BND, SU-BTU, SU-BTV, SU-BGM, and any other Egyptian-registered aircraft) to Provo, Utah, or any Utah airport in 2026, including but not limited to: (1) all flight records, passenger manifests, crew lists, and cargo manifests; (2) the purpose of travel and all ground activities of passengers after arrival; (3) any correlation between the timing of Egyptian aircraft arrivals in Utah and French diplomatic visits to the United States, including Brigitte Macron's March 2026 visit to Washington D.C.; (4) all records establishing a pattern of coordinated movement between Egyptian aircraft and French diplomatic travel; and (5) all intelligence assessments of the operational significance of repeated Egyptian military aircraft visits to Provo. Each covered agency shall also produce all records relating to any Egyptian-registered aircraft visiting any U.S. airport within 48 hours before or after any diplomatic visit by any French official during 2025–2026.
+
+### VanceKirk2028.com Domain Registration (#222)
+
+* #222: VanceKirk2028.com Domain Registration and Foreknowledge: Each covered agency shall produce all records relating to the internet domain vancekirk2028.com, which was registered on September 12, 2025 — two days after Charlie Kirk's assassination — through GoDaddy.com (Registrar IANA ID 146) with the registrant identity concealed behind Domains By Proxy, LLC (100 S. Mill Ave, Suite 1600, Tempe, AZ 85281). Each covered agency shall subpoena and produce: (1) the true identity, address, phone number, email address, and payment information of the person or entity that registered the domain, including all records held by GoDaddy.com and Domains By Proxy, LLC; (2) the payment method used to purchase the domain, including credit card number, bank account, PayPal account, cryptocurrency wallet, or any other payment instrument, and the identity of the account holder; (3) the IP address from which the domain was registered and all subsequent login sessions to the registrar account; (4) all DNS records, hosting records, and the identity of any person or entity that configured hosting on AWS Global Accelerator (IP addresses 13.248.243.5 and 76.223.105.230) or any other hosting provider; (5) all website content ever published at vancekirk2028.com, including archived versions, and the identity of whoever uploaded or authored that content; (6) all communications between the registrant and any domain registrar, hosting provider, or web developer regarding this domain; and (7) all records establishing whether the registration of a domain anticipating a "Vance/Kirk 2028" presidential ticket within 48 hours of Kirk's death reflects foreknowledge of the assassination or coordination with any person, organization, intelligence service, or political operation. Each covered agency shall also produce all records relating to any other internet domain registered between September 10-17, 2025 that references Charlie Kirk, TPUSA leadership succession, or any political ticket involving JD Vance paired with a replacement for Charlie Kirk.
+
+---
+
+### Bilt Inc. DOD Contracts (#223–#227)
+
+* #223: Bilt Inc. DOD Contract Details and Authorization: Each covered agency shall produce all records relating to Department of Defense contracts awarded to Bilt Inc. in June 2025, totaling approximately $8 million from the U.S. Air Force, including but not limited to: (1) the full text of each contract, task order, modification, and amendment; (2) the contracting officer and all government officials who authorized, approved, or reviewed the award; (3) the stated purpose, scope of work, and deliverables for each contract; (4) all invoices submitted by Bilt Inc. and all payments made, with dates, amounts, and approving officials; (5) the justification for the unprecedented increase in contract value compared to Bilt Inc.'s historical contract amounts; and (6) all communications between DOD personnel and Bilt Inc. regarding these contracts. Each covered agency shall also produce all records relating to any DOD contract, grant, or payment to Bilt Inc. from January 2020 through the date of enactment.
+
+* #224: Bilt Inc. Ownership and Personnel: Each covered agency shall produce all records identifying every person behind Bilt Inc., including but not limited to: (1) all current and former owners, shareholders, members, partners, officers, directors, and registered agents; (2) all employees, contractors, subcontractors, and consultants; (3) all beneficial owners as reported to FinCEN under the Corporate Transparency Act; (4) all corporate formation documents, amendments, and annual filings; (5) all affiliated entities, subsidiaries, parent companies, and related parties; and (6) all security clearances held by any person associated with Bilt Inc. Each covered agency shall also produce all records relating to any connection between Bilt Inc. personnel and any person listed in Schedule B or any foreign intelligence service.
+
+* #225: Bilt Inc. Financial Flow Investigation: Each covered agency shall produce all records of money flows into and out of Bilt Inc. from March 2025 (six months before September 2025) through the date of enactment, including but not limited to: (1) all bank account statements, wire transfers, ACH transactions, checks, and digital payments; (2) all payments to subcontractors, vendors, employees, or any other recipients of Bilt Inc. funds; (3) all sources of revenue beyond DOD contracts; (4) all Suspicious Activity Reports (SARs) and Currency Transaction Reports (CTRs) filed by any financial institution involving Bilt Inc.; (5) all tax filings, including 1099s issued and received; and (6) any transfers to or from foreign accounts, shell companies, or intermediary entities. Each covered agency shall also produce all FinCEN records and bank subpoena responses relating to Bilt Inc. and its principals.
+
+* #226: Bilt Inc. Invoice and Deliverable Audit: Each covered agency shall produce all records establishing the legitimate basis — if any — for the approximately $8 million in DOD payments to Bilt Inc. in June 2025, including but not limited to: (1) all invoices with line-item detail of goods or services provided; (2) all delivery receipts, acceptance documentation, and quality assurance records; (3) all progress reports and status updates; (4) all physical or digital deliverables produced under the contracts; (5) whether any goods or services were actually delivered or whether the contracts were used as a financial pass-through; and (6) all inspector general, audit, or oversight records relating to Bilt Inc. contracts. Each covered agency shall also produce all records of any DOD Inspector General inquiry, GAO review, or congressional inquiry into Bilt Inc. contracts.
+
+* #227: Bilt Inc. Connection to Charlie Kirk Investigation: Each covered agency shall investigate and produce all records establishing any connection between Bilt Inc., its personnel, its subcontractors, or the recipients of its DOD funds and: (1) any person listed in Schedule B; (2) any event, location, or entity referenced in Schedule A; (3) any foreign intelligence service or foreign government; (4) the Charlie Kirk assassination or any aspect of the investigation; (5) TPUSA, Accurate Energetic Systems (AES), or any other entity referenced in this Act; and (6) any other DOD contractor that received unusually large or unprecedented contract awards in the period March–September 2025. Each covered agency shall also produce all intelligence assessments regarding Bilt Inc. and its potential role as a funding conduit or operational cover.
 
 ---
 
@@ -904,7 +929,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 (a) **"Covered agencies"** means the Department of Justice, the Federal Bureau of Investigation, the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), U.S. Customs and Border Protection (CBP), the Transportation Security Administration (TSA), the Department of Homeland Security, the Financial Crimes Enforcement Network (FinCEN), the Department of the Treasury, the Internal Revenue Service (IRS), and any federal, state, or local law enforcement agency that has participated in, contributed to, or possesses information related to the investigation of the death of Charlie Kirk, the prosecution of any person in connection therewith, or any matter peripheral to or connected with the investigation.
 
 (b) **"Covered records"** means any and all files, documents, communications, reports, forensic evidence, witness statements, surveillance records, digital records, photographs, video recordings, audio recordings, cell site location information, geofence warrant data, flight records, financial records, ballistics analyses, autopsy reports, crime scene evidence, and any other information, in any format, that is related to or could reasonably assist in understanding the circumstances of the death of Charlie Kirk, including but not limited to:
-   1. All records specifically enumerated in Schedule A (220 Critical Disclosure Items)
+   1. All records specifically enumerated in Schedule A (227 Critical Disclosure Items)
    2. Any records that could identify or suggest the identity of any person involved in, connected to, or with knowledge of the death
    3. Any records relating to foreign intelligence service activity in the State of Utah during the period January 1, 2025 through December 31, 2025
    4. Any records relating to threats against Charlie Kirk or similarly situated public figures
@@ -1084,7 +1109,7 @@ The review board shall acknowledge receipt of all submissions within 7 days. No 
    1. All categories of records released and withheld
    2. A summary of redactions made, including the legal basis for each
    3. A list of all government officials and politically exposed persons named or referenced in the released materials, with no redactions permitted
-   4. Certification that all items enumerated in Schedule A have been fully addressed, with specific response to each of the 220 items
+   4. Certification that all items enumerated in Schedule A have been fully addressed, with specific response to each of the 227 items
 
 ## Section 11: No Presidential Override
 
@@ -1172,7 +1197,7 @@ The review board shall acknowledge receipt of all submissions within 7 days. No 
 (a) **Companion Statutes.** This Act is part of a series of four companion statutes addressing the death of Charlie Kirk:
    1. This Act (Law 1): the Charlie Kirk Files Forced Disclosure Act — Law Enforcement, requiring law enforcement agencies to disclose all records.
    2. Law 2: the Charlie Kirk Intelligence Services Disclosure Act, requiring U.S. Intelligence Community agencies to disclose all records.
-   3. Law 3: the Charlie Kirk Mandatory Investigation Act, requiring the FBI and intelligence community to conduct a thorough investigation of all 220 Schedule A items.
+   3. Law 3: the Charlie Kirk Mandatory Investigation Act, requiring the FBI and intelligence community to conduct a thorough investigation of all 227 Schedule A items.
    4. Law 4: the Charlie Kirk Trusted Investigators Act, establishing independent investigation teams led by Designated Trusted Investigators with full access to agency records and systems.
 
 (b) **Independent and Standalone Operation.** This Act shall be fully operative and enforceable regardless of whether any companion legislation — including the Charlie Kirk Files Forced Disclosure Act — Intelligence Services (Law 2), the Charlie Kirk Mandatory Investigation Act (Law 3), or the Charlie Kirk Trusted Investigators Act (Law 4) — is enacted. All obligations, penalties, and enforcement mechanisms in this Act are fully operative as standalone provisions. No court, agency, or official may delay, suspend, or refuse compliance with this Act on the ground that companion legislation has not been enacted or is pending.

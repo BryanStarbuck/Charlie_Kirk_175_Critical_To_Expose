@@ -1,5 +1,5 @@
  
-ROOT_DIR dir is ~/BGit/Bryan/Charlie_Kirk_175_Critical_To_Expose
+ROOT_DIR dir is ~/BGit/Bryan_git/Charlie_Kirk_175_Critical_To_Expose
 
 Under {ROOT_DIR} dir are 4 directories, which map to the 4 laws we want to pass:
         1_DoJ_FBI

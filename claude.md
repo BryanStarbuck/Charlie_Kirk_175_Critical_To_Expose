@@ -1,5 +1,5 @@
 
-ROOT_URL dir is ~/BGit/Bryan/Charlie_Kirk_175_Critical_To_Expose
+ROOT_URL dir is ~/BGit/Bryan_git/Charlie_Kirk_175_Critical_To_Expose
 
 Read this into the context window ./other/Bkup_Charlie_Kirk.txt
 
